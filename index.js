@@ -221,16 +221,9 @@ async function salvaMarkdown(nicchia, spunto, contenuto) {
   const metaDesc = metaMatch ? metaMatch[1].trim() : spunto.titolo.substring(0, 155);
   const testo = contenuto.replace(//s, '').trim();
 
-  const googleScript = `
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FZX0833E2E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-FZX0833E2E');
-</script>`;
+  
 
-  const frontmatter = `---\ntitle: "${spunto.titolo.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nicchia.nome}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${nicchia.keyword_base.slice(0, 3).map(k => `"${k}"`).join(', ')}]\nauto_generated: true\n---\n\n${googleScript}\n\n`;
+  const frontmatter = `---\ntitle: "${spunto.titolo.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nicchia.nome}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${nicchia.keyword_base.slice(0, 3).map(k => `"${k}"`).join(', ')}]\nauto_generated: true\n---\n\n\n\n`;
   
   const dir = path.join(CONFIG.output_dir, nicchia.id);
   await fs.mkdir(dir, { recursive: true });

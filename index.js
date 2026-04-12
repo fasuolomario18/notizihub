@@ -222,15 +222,13 @@ async function salvaMarkdown(nicchia, spunto, contenuto) {
   const testo = contenuto.replace(//s, '').trim();
 
   const googleScript = `
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FZX0833E2E"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-FZX0833E2E');
-</script>
+</script>`;
 
   const frontmatter = `---\ntitle: "${spunto.titolo.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nicchia.nome}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${nicchia.keyword_base.slice(0, 3).map(k => `"${k}"`).join(', ')}]\nauto_generated: true\n---\n\n${googleScript}\n\n`;
   

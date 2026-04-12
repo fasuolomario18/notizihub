@@ -229,13 +229,14 @@ async function salvaMarkdown(nicchia, spunto, contenuto) {
 }
 
 async function inviaReportEmail(risultati, errori) {
-  const EMAIL = process.env.REPORT_EMAIL || 'progettofuturo8@gmail.com';
-  const GMAIL_PASS = process.env.GMAIL_APP_PASSWORD;
-  if (!GMAIL_PASS) { console.log('  [!] GMAIL_APP_PASSWORD non configurata, email saltata'); return; }
-
+  const EMAIL = process.env.GMAIL_USER || 'progetto2030@outlook.com';
+  const PASS = process.env.GMAIL_PASSWORD;
+  if (!PASS) { console.log('  [!] GMAIL_PASSWORD non configurata, email saltata'); return; }
   const transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: { user: EMAIL, pass: GMAIL_PASS }
+    host: 'smtp.office365.com',
+    port: 587,
+    secure: false,
+    auth: { user: EMAIL, pass: PASS }
   });
 
   // Raggruppa per nicchia

@@ -238,109 +238,59 @@ async function inviaReportEmail(risultati, errori) {
     auth: { user: EMAIL, pass: GMAIL_PASS }
   });
 
-  // Raggruppa per nicchia
   const perNicchia = {};
   risultati.forEach(r => {
     if (!perNicchia[r.nicchia]) perNicchia[r.nicchia] = [];
     perNicchia[r.nicchia].push(r.titolo);
   });
 
-  // Costruisci tabella HTML
   let righe = '';
   let i = 0;
   for (const [nicchia, articoli] of Object.entries(perNicchia)) {
     const bg = i % 2 === 0 ? '#f8f9fa' : '#ffffff';
-    righe += `<tr style="background:${bg}">
-      <td style="padding:8px 12px;border:1px solid #dee2e6;font-weight:500">${nicchia}</td>
-      <td style="padding:8px 12px;border:1px solid #dee2e6;text-align:center;color:#065f46;font-weight:bold">${articoli.length}</td>
-      <td style="padding:8px 12px;border:1px solid #dee2e6;font-size:12px;color:#555">${articoli[0].substring(0, 60)}${articoli.length > 1 ? ` (+${articoli.length-1} altri)` : ''}</td>
-    </tr>`;
+    righe += `<tr style="background:${bg}"><td style="padding:8px;border:1px solid #dee2e6">${nicchia}</td><td style="padding:8px;border:1px solid #dee2e6;text-align:center">${articoli.length}</td></tr>`;
     i++;
   }
 
-  const costo = (risultati.length * 0.001).toFixed(4);
-  const html = `
-  <div style="font-family:Arial,sans-serif;max-width:700px;margin:0 auto">
-    <div style="background:#111;padding:20px;text-align:center;border-bottom:3px solid #e63946">
-      <h1 style="color:#fff;margin:0;font-size:24px">NotiziHub</h1>
-      <p style="color:#888;margin:5px 0 0">Report giornaliero — ${oggi()}</p>
-    </div>
-    <div style="padding:20px;background:#fff">
-      <div style="display:flex;gap:16px;margin-bottom:20px">
-        <div style="flex:1;background:#EAF3DE;border-radius:8px;padding:16px;text-align:center">
-          <div style="font-size:32px;font-weight:bold;color:#065f46">${risultati.length}</div>
-          <div style="color:#3B6D11;font-size:13px">Articoli generati</div>
-        </div>
-        <div style="flex:1;background:#FEF2F2;border-radius:8px;padding:16px;text-align:center">
-          <div style="font-size:32px;font-weight:bold;color:#991b1b">${errori}</div>
-          <div style="color:#991b1b;font-size:13px">Errori</div>
-        </div>
-        <div style="flex:1;background:#EBF5FF;border-radius:8px;padding:16px;text-align:center">
-          <div style="font-size:32px;font-weight:bold;color:#1a56db">€${costo}</div>
-          <div style="color:#1a56db;font-size:13px">Costo API</div>
-        </div>
-      </div>
-      <table style="width:100%;border-collapse:collapse;font-size:14px">
-        <thead>
-          <tr style="background:#111">
-            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:left">Nicchia</th>
-            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:center">Articoli</th>
-            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:left">Ultimo articolo</th>
-          </tr>
-        </thead>
-        <tbody>${righe}</tbody>
-      </table>
-    </div>
-    <div style="background:#f8f9fa;padding:12px;text-align:center;font-size:12px;color:#888">
-      NotiziHub Auto Publisher · Report automatico giornaliero
-    </div>
-  </div>`;
+  const html = `<h1>Report NotiziHub</h1><table>${righe}</table>`;
 
   await transporter.sendMail({
     from: `"NotiziHub Bot" <${EMAIL}>`,
     to: EMAIL,
-    subject: `NotiziHub — ${risultati.length} articoli generati oggi (${oggi()})`,
+    subject: `Report Articoli ${oggi()}`,
     html
   });
-  console.log(`  [email] Report inviato a ${EMAIL}`);
 }
 
 async function main() {
-  console.log(`\n=== NotiziHub Auto Publisher — ${oggi()} ===\n`);
+  console.log(`\n=== Start — ${oggi()} ===\n`);
   await fs.mkdir(CONFIG.output_dir, { recursive: true });
   const giàGenerati = await leggiArticoliGiaGenerati();
   const risultati = [];
   let errori = 0;
 
   for (const nicchia of NICCHIE) {
-    console.log(`\n[${nicchia.nome}] Leggo feed RSS...`);
     const spunti = await leggiFeed(nicchia);
-    if (!spunti.length) { console.log(`  [!] Nessun spunto`); continue; }
     let generatiNicchia = 0;
     for (const spunto of spunti) {
       if (generatiNicchia >= CONFIG.articoli_per_nicchia) break;
       const spuntoId = hash(spunto.titolo);
-      if (giàGenerati.has(spuntoId)) { console.log(`  [skip] ${spunto.titolo.substring(0, 50)}...`); continue; }
-      console.log(`  [gen] ${spunto.titolo.substring(0, 60)}...`);
+      if (giàGenerati.has(spuntoId)) continue;
       try {
         const contenuto = await generaArticolo(nicchia, spunto);
-        const { filePath, slug, id, titolo } = await salvaMarkdown(nicchia, spunto, contenuto);
+        const res = await salvaMarkdown(nicchia, spunto, contenuto);
         await salvaArticoloGenerato(spuntoId, giàGenerati);
-        risultati.push({ nicchia: nicchia.id, slug, titolo, file: filePath });
+        risultati.push({ nicchia: nicchia.id, titolo: spunto.titolo });
         generatiNicchia++;
-        console.log(`  [ok]  ${path.basename(filePath)}`);
-        await new Promise(r => setTimeout(r, 2000));
-      } catch (err) { console.error(`  [err] ${err.message}`); errori++; }
+      } catch (err) { console.error(err); errori++; }
     }
   }
-
-  console.log(`\n=== Completato ===`);
-  console.log(`Articoli generati: ${risultati.length}`);
-  console.log(`Errori: ${errori}`);
-  console.log(`Costo stimato: €${(risultati.length * 0.001).toFixed(4)}`);
-
-  console.log('\n--- Invio report email...');
   await inviaReportEmail(risultati, errori);
 }
+
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
 
 main().catch(err => { console.error('Errore fatale:', err); process.exit(1); });

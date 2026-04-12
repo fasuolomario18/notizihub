@@ -221,7 +221,6 @@ async function salvaMarkdown(nicchia, spunto, contenuto) {
   const metaDesc = metaMatch ? metaMatch[1].trim() : spunto.titolo.substring(0, 155);
   const testo = contenuto.replace(//s, '').trim();
 
-  // INCOLLA QUI LO SCRIPT DI GOOGLE
   const googleScript = `
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FZX0833E2E"></script>
 <script>

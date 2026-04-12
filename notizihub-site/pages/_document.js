@@ -11,6 +11,7 @@ export default function Document() {
           gtag('js', new Date());
           gtag('config', 'G-FZX0833E2E');
         `}} />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6279755178771025" crossOrigin="anonymous"></script>
       </Head>
       <body>
         <Main />

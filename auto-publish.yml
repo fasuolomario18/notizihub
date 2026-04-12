@@ -34,9 +34,11 @@ jobs:
       - name: Genera articoli con Claude AI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SITE_URL: ${{ secrets.SITE_URL || 'https://notizihub.it' }}
+          SITE_URL: 'https://www.notizihub.com'
           OUTPUT_DIR: './output'
-          ARTICLES_PER_NICHE: ${{ github.event.inputs.articles_per_niche || '3' }}
+          ARTICLES_PER_NICHE: '1'
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
         run: node index.js
 
       - name: Commit e push articoli generati

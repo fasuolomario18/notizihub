@@ -1,29 +1,4 @@
-name: Auto Publisher — NotiziHub
-
-on:
-  schedule:
-    - cron: '0 6 * * *'
-  workflow_dispatch:
-
-jobs:
-  genera-articoli:
-    runs-on: ubuntu-latest
-    timeout-minutes: 60
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js 20
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Installa dipendenze
-        run: npm ci
-
- name: Auto Publisher — NotiziHub
+name: Auto Publisher NotiziHub
 
 on:
   schedule:
@@ -51,8 +26,8 @@ jobs:
       - name: Genera articoli con Claude AI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SITE_URL: 'https://www.notizihub.com'
-          OUTPUT_DIR: './output'
+          SITE_URL: https://www.notizihub.com
+          OUTPUT_DIR: ./output
           ARTICLES_PER_NICHE: '1'
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
@@ -75,7 +50,7 @@ jobs:
           git config --local user.email "bot@notizihub.com"
           git config --local user.name "NotiziHub Bot"
           git add output/ || true
-          git diff --staged --quiet || git commit -m "Auto: $(date '+%Y-%m-%d') — nuovi articoli"
+          git diff --staged --quiet || git commit -m "Auto $(date '+%Y-%m-%d') nuovi articoli"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

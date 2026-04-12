@@ -31,6 +31,11 @@ jobs:
       - name: Installa dipendenze
         run: npm ci
 
+     - name: Test variabili
+        run: |
+          echo "GMAIL_USER presente: ${{ secrets.GMAIL_USER != '' }}"
+          echo "GMAIL_PASSWORD presente: ${{ secrets.GMAIL_PASSWORD != '' }}"
+
       - name: Genera articoli con Claude AI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

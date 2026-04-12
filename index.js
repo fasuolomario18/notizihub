@@ -231,7 +231,8 @@ async function salvaMarkdown(nicchia, spunto, contenuto) {
 async function inviaReportEmail(risultati, errori) {
   const EMAIL = process.env.GMAIL_USER || 'progetto2030@outlook.com';
   const PASS = process.env.GMAIL_PASSWORD;
-  if (!PASS) { console.log('  [!] GMAIL_PASSWORD non configurata, email saltata'); return; }
+console.log('  [debug] GMAIL_PASSWORD presente:', !!PASS, '| GMAIL_USER:', process.env.GMAIL_USER);
+if (!PASS) { console.log('  [!] GMAIL_PASSWORD non configurata, email saltata'); return; }
   const transporter = nodemailer.createTransport({
     host: 'smtp.office365.com',
     port: 587,

@@ -1,238 +1,346 @@
-import fs from 'fs';
+/**
+ * NotiziHub - Auto Publisher
+ * Legge RSS feed per 10 nicchie, genera articoli con Claude (Anthropic),
+ * li salva come file Markdown pronti per Next.js
+ */
+
+import Parser from 'rss-parser';
+import nodemailer from 'nodemailer';
+import Anthropic from '@anthropic-ai/sdk';
+import fs from 'fs/promises';
 import path from 'path';
-import matter from 'gray-matter';
-import Link from 'next/link';
-import Head from 'next/head';
-import { useState } from 'react';
+import crypto from 'crypto';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const parser = new Parser();
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 const NICCHIE = [
-  { id: 'finanza', nome: 'Finanza', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'crypto', nome: 'Crypto', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'tech', nome: 'Tech & AI', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'salute', nome: 'Salute', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'viaggi', nome: 'Viaggi', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'motori', nome: 'Motori', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'gaming', nome: 'Gaming', colore: '#86198f', bg: '#FDF4FF' },
-  { id: 'casa', nome: 'Casa', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'lavoro', nome: 'Lavoro', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'sport', nome: 'Sport', colore: '#0f766e', bg: '#F0FDFA' },
-  { id: 'assicurazioni', nome: 'Assicurazioni', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'fisco', nome: 'Fisco & Tasse', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'pensioni', nome: 'Pensioni', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'prestiti', nome: 'Prestiti', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'trading', nome: 'Trading', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'cucina', nome: 'Cucina', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'moda', nome: 'Moda', colore: '#86198f', bg: '#FDF4FF' },
-  { id: 'bellezza', nome: 'Bellezza', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'genitori', nome: 'Genitori', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'animali', nome: 'Animali', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'politica', nome: 'Politica', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'esteri', nome: 'Esteri', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'ambiente', nome: 'Ambiente', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'startup', nome: 'Startup', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'energia', nome: 'Energia', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'cinema', nome: 'Cinema & TV', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'musica', nome: 'Musica', colore: '#86198f', bg: '#FDF4FF' },
-  { id: 'libri', nome: 'Libri', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'fumetti', nome: 'Fumetti', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'calcio-mercato', nome: 'Calciomercato', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'psicologia', nome: 'Psicologia', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'università', nome: 'Università', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'bricolage', nome: 'Bricolage', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'giardinaggio', nome: 'Giardinaggio', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'medicina', nome: 'Medicina', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'smartphone', nome: 'Smartphone', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'turismo-food', nome: 'Turismo Food', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'meteo', nome: 'Meteo', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'cronaca', nome: 'Cronaca', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'scienza', nome: 'Scienza', colore: '#0f766e', bg: '#F0FDFA' },
+  { id: 'finanza', nome: 'Finanza Personale',
+    feed: ['https://www.ansa.it/sito/notizie/economia/economia_rss.xml','https://news.google.com/rss/search?q=finanza+personale+investimenti&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['investire', 'risparmio', 'ETF', 'borsa', 'mutuo'] },
+  { id: 'crypto', nome: 'Crypto & Web3',
+    feed: ['https://news.google.com/rss/search?q=bitcoin+ethereum+crypto&hl=it&gl=IT&ceid=IT:it','https://coinjournal.net/it/feed/'],
+    keyword_base: ['bitcoin', 'ethereum', 'altcoin', 'DeFi', 'staking'] },
+  { id: 'tech', nome: 'Tecnologia & AI',
+    feed: ['https://news.google.com/rss/search?q=intelligenza+artificiale+tecnologia&hl=it&gl=IT&ceid=IT:it','https://www.hwupgrade.it/rss/news.xml'],
+    keyword_base: ['intelligenza artificiale', 'smartphone', 'laptop', 'software'] },
+  { id: 'salute', nome: 'Salute & Wellness',
+    feed: ['https://www.ansa.it/canale_saluteebenessere/notizie/salute_feed.xml','https://news.google.com/rss/search?q=salute+benessere+medicina&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['dieta', 'alimentazione', 'benessere', 'prevenzione'] },
+  { id: 'viaggi', nome: 'Viaggi',
+    feed: ['https://news.google.com/rss/search?q=viaggi+vacanze+turismo+italia&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/cultura_e_spettacoli/cultura_e_spettacoli_rss.xml'],
+    keyword_base: ['voli low cost', 'hotel', 'vacanze', 'itinerari'] },
+  { id: 'motori', nome: 'Motori & Auto',
+    feed: ['https://news.google.com/rss/search?q=auto+motori+elettrico&hl=it&gl=IT&ceid=IT:it','https://www.quattroruote.it/rss/news.xml'],
+    keyword_base: ['auto elettrica', 'SUV', 'incentivi auto', 'assicurazione'] },
+  { id: 'gaming', nome: 'Gaming & Esport',
+    feed: ['https://news.google.com/rss/search?q=videogiochi+gaming+ps5+xbox&hl=it&gl=IT&ceid=IT:it','https://www.everyeye.it/rss/news.rss'],
+    keyword_base: ['PS5', 'Xbox', 'PC gaming', 'uscite videogiochi'] },
+  { id: 'casa', nome: 'Casa & Immobiliare',
+    feed: ['https://news.google.com/rss/search?q=immobiliare+casa+affitto+mutuo&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/economia/economia_rss.xml'],
+    keyword_base: ['mutuo', 'affitto', 'bonus ristrutturazione', 'arredamento'] },
+  { id: 'lavoro', nome: 'Lavoro & Carriera',
+    feed: ['https://news.google.com/rss/search?q=lavoro+occupazione+stipendio+italia&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/economia/economia_rss.xml'],
+    keyword_base: ['smart working', 'stipendio', 'curriculum', 'partita IVA'] },
+  { id: 'sport', nome: 'Sport',
+    feed: ['https://www.ansa.it/sito/notizie/sport/sport_rss.xml','https://news.google.com/rss/search?q=serie+a+calcio+sport+italia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['Serie A', 'calcio', 'Formula 1', 'tennis'] },
+  { id: 'assicurazioni', nome: 'Assicurazioni',
+    feed: ['https://news.google.com/rss/search?q=assicurazione+auto+rc+polizza&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/economia/economia_rss.xml'],
+    keyword_base: ['assicurazione auto', 'RC auto', 'assicurazione vita', 'polizza'] },
+  { id: 'fisco', nome: 'Fisco & Tasse',
+    feed: ['https://news.google.com/rss/search?q=fisco+tasse+730+dichiarazione+redditi&hl=it&gl=IT&ceid=IT:it','https://www.fiscooggi.it/rss.xml'],
+    keyword_base: ['dichiarazione dei redditi', '730', 'partita IVA', 'tasse'] },
+  { id: 'pensioni', nome: 'Pensioni',
+    feed: ['https://news.google.com/rss/search?q=pensioni+INPS+quota+pensione&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/economia/economia_rss.xml'],
+    keyword_base: ['pensione', 'INPS', 'quota 103', 'pensione anticipata'] },
+  { id: 'prestiti', nome: 'Prestiti & Credito',
+    feed: ['https://news.google.com/rss/search?q=prestito+finanziamento+credito+banca&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['prestito personale', 'finanziamento', 'tasso interesse', 'credito'] },
+  { id: 'trading', nome: 'Trading Online',
+    feed: ['https://news.google.com/rss/search?q=trading+borsa+azioni+investimenti&hl=it&gl=IT&ceid=IT:it','https://www.ilsole24ore.com/rss/finanza-e-mercati.xml'],
+    keyword_base: ['trading', 'azioni', 'borsa', 'investimenti online'] },
+  { id: 'cucina', nome: 'Cucina & Ricette',
+    feed: ['https://news.google.com/rss/search?q=ricette+cucina+italiana+gastronomia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['ricette', 'cucina italiana', 'dolci', 'antipasti'] },
+  { id: 'moda', nome: 'Moda & Stile',
+    feed: ['https://news.google.com/rss/search?q=moda+tendenze+fashion+italia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['moda', 'tendenze', 'outfit', 'stilisti'] },
+  { id: 'bellezza', nome: 'Bellezza & Cura',
+    feed: ['https://news.google.com/rss/search?q=bellezza+skincare+trucco+beauty&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['skincare', 'trucco', 'capelli', 'beauty'] },
+  { id: 'genitori', nome: 'Genitori & Figli',
+    feed: ['https://news.google.com/rss/search?q=genitori+figli+educazione+famiglia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['educazione figli', 'gravidanza', 'neonato', 'scuola'] },
+  { id: 'animali', nome: 'Animali Domestici',
+    feed: ['https://news.google.com/rss/search?q=animali+cane+gatto+veterinario&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['cane', 'gatto', 'animali', 'veterinario'] },
+  { id: 'politica', nome: 'Politica',
+    feed: ['https://www.ansa.it/sito/notizie/politica/politica_rss.xml','https://news.google.com/rss/search?q=politica+governo+italia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['governo', 'parlamento', 'elezioni', 'politica italiana'] },
+  { id: 'esteri', nome: 'Notizie dal Mondo',
+    feed: ['https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml','https://news.google.com/rss/search?q=notizie+mondo+esteri&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['guerra', 'USA', 'Europa', 'notizie internazionali'] },
+  { id: 'ambiente', nome: 'Ambiente & Green',
+    feed: ['https://news.google.com/rss/search?q=ambiente+clima+sostenibilita+green&hl=it&gl=IT&ceid=IT:it','https://www.greenme.it/feed/'],
+    keyword_base: ['sostenibilità', 'clima', 'energia rinnovabile', 'riciclo'] },
+  { id: 'startup', nome: 'Startup & Business',
+    feed: ['https://news.google.com/rss/search?q=startup+imprenditoria+business+innovazione&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['startup', 'imprenditoria', 'business', 'innovazione'] },
+  { id: 'energia', nome: 'Energia & Bollette',
+    feed: ['https://news.google.com/rss/search?q=bolletta+energia+gas+luce+fotovoltaico&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['bolletta luce', 'gas', 'fotovoltaico', 'risparmio energia'] },
+  { id: 'cinema', nome: 'Cinema & Serie TV',
+    feed: ['https://news.google.com/rss/search?q=film+serie+tv+netflix+cinema&hl=it&gl=IT&ceid=IT:it','https://www.ansa.it/sito/notizie/cultura_e_spettacoli/cultura_e_spettacoli_rss.xml'],
+    keyword_base: ['film', 'serie TV', 'Netflix', 'cinema'] },
+  { id: 'musica', nome: 'Musica',
+    feed: ['https://news.google.com/rss/search?q=musica+concerti+album+artisti+italia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['musica', 'concerti', 'album', 'artisti'] },
+  { id: 'libri', nome: 'Libri & Cultura',
+    feed: ['https://news.google.com/rss/search?q=libri+romanzi+cultura+letteratura&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['libri', 'romanzi', 'narrativa', 'saggistica'] },
+  { id: 'fumetti', nome: 'Fumetti & Manga',
+    feed: ['https://news.google.com/rss/search?q=manga+fumetti+anime+marvel+dc&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['manga', 'fumetti', 'anime', 'Marvel'] },
+  { id: 'calcio-mercato', nome: 'Calciomercato',
+    feed: ['https://news.google.com/rss/search?q=calciomercato+trasferimenti+serie+a&hl=it&gl=IT&ceid=IT:it','https://www.gazzetta.it/rss/home.xml'],
+    keyword_base: ['calciomercato', 'trasferimenti', 'Serie A', 'Champions League'] },
+  { id: 'psicologia', nome: 'Psicologia & Mente',
+    feed: ['https://news.google.com/rss/search?q=psicologia+ansia+benessere+mentale&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['ansia', 'depressione', 'psicologia', 'benessere mentale'] },
+  { id: 'università', nome: 'Università & Studio',
+    feed: ['https://news.google.com/rss/search?q=università+borse+studio+laurea+studenti&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['università', 'borse di studio', 'esami', 'laurea'] },
+  { id: 'bricolage', nome: 'Bricolage & Fai da te',
+    feed: ['https://news.google.com/rss/search?q=fai+da+te+ristrutturazione+casa+bonus&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['fai da te', 'ristrutturazione', 'idraulica', 'elettricità casa'] },
+  { id: 'giardinaggio', nome: 'Giardinaggio',
+    feed: ['https://news.google.com/rss/search?q=giardinaggio+piante+orto+fiori&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['piante', 'orto', 'giardino', 'fiori'] },
+  { id: 'medicina', nome: 'Medicina & Farmaci',
+    feed: ['https://www.ansa.it/canale_saluteebenessere/notizie/salute_feed.xml','https://news.google.com/rss/search?q=medicina+farmaci+malattie+cure&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['farmaci', 'malattie', 'sintomi', 'cure'] },
+  { id: 'smartphone', nome: 'Smartphone & App',
+    feed: ['https://news.google.com/rss/search?q=smartphone+iphone+android+app&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['iPhone', 'Android', 'app', 'smartphone'] },
+  { id: 'turismo-food', nome: 'Turismo Enogastronomico',
+    feed: ['https://news.google.com/rss/search?q=vino+gastronomia+ristoranti+turismo+food&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['ristoranti', 'vino', 'gastronomia', 'turismo culinario'] },
+  { id: 'meteo', nome: 'Meteo',
+    feed: ['https://news.google.com/rss/search?q=meteo+previsioni+allerta+temperatura+italia&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['meteo', 'previsioni', 'temperature', 'allerta meteo'] },
+  { id: 'cronaca', nome: 'Cronaca',
+    feed: ['https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml','https://news.google.com/rss/search?q=cronaca+notizie+italia+oggi&hl=it&gl=IT&ceid=IT:it'],
+    keyword_base: ['notizie', 'cronaca', 'Italia', 'attualità'] },
+  { id: 'scienza', nome: 'Scienza & Spazio',
+    feed: ['https://news.google.com/rss/search?q=scienza+spazio+ricerca+scoperta&hl=it&gl=IT&ceid=IT:it','https://www.media.inaf.it/feed/'],
+    keyword_base: ['scienza', 'spazio', 'NASA', 'ricerca scientifica'] },
 ];
 
-function getNicchia(id) {
-  return NICCHIE.find(n => n.id === id) || NICCHIE[0];
+const CONFIG = {
+  articoli_per_nicchia: parseInt(process.env.ARTICLES_PER_NICHE || '1'),
+  output_dir: process.env.OUTPUT_DIR || path.join(__dirname, 'output'),
+  lunghezza_articolo: 1000,
+};
+
+function slugify(text) {
+  return text.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-').substring(0, 80);
+}
+function oggi() { return new Date().toISOString().split('T')[0]; }
+function hash(str) { return crypto.createHash('md5').update(str).digest('hex').substring(0, 8); }
+
+async function leggiArticoliGiaGenerati() {
+  try { return new Set(JSON.parse(await fs.readFile(path.join(CONFIG.output_dir, '.generated.json'), 'utf-8'))); }
+  catch { return new Set(); }
+}
+async function salvaArticoloGenerato(id, generati) {
+  generati.add(id);
+  await fs.writeFile(path.join(CONFIG.output_dir, '.generated.json'), JSON.stringify([...generati]));
 }
 
-export async function getStaticProps() {
-  const outputDir = path.join(process.cwd(), '..', 'output');
-  const articoli = [];
+async function leggiFeed(nicchia) {
+  const items = [];
+  const trenta_giorni_fa = new Date();
+  trenta_giorni_fa.setDate(trenta_giorni_fa.getDate() - 30);
+
+  for (const feedUrl of nicchia.feed) {
+    try {
+      const feed = await parser.parseURL(feedUrl);
+      for (const item of feed.items.slice(0, 10)) {
+        if (!item.title) continue;
+        // Filtra articoli più vecchi di 30 giorni
+        if (item.pubDate) {
+          const dataArticolo = new Date(item.pubDate);
+          if (dataArticolo < trenta_giorni_fa) {
+            console.log(`  [skip-vecchio] ${item.title.substring(0, 40)}... (${item.pubDate})`);
+            continue;
+          }
+        }
+        items.push({ titolo: item.title, sommario: item.contentSnippet || '', link: item.link || '', data: item.pubDate || '' });
+      }
+    } catch (err) { console.warn(`  [!] Feed non raggiungibile: ${feedUrl}`); }
+  }
+  return items.sort(() => Math.random() - 0.5).slice(0, CONFIG.articoli_per_nicchia * 2);
+}
+
+async function generaArticolo(nicchia, spunto) {
+  const dataOggi = new Date().toLocaleDateString('it-IT', { year: 'numeric', month: 'long', day: 'numeric' });
+  const annoCorrente = new Date().getFullYear();
+
+  const response = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 2000,
+    system: `Sei un giornalista esperto di ${nicchia.nome} che scrive per un pubblico italiano. Scrivi SOLO l'articolo in formato Markdown, senza commenti aggiuntivi. Oggi è ${dataOggi}. Scrivi sempre al presente, riferendoti ad eventi e dati attuali del ${annoCorrente}. Non usare mai date passate o anni precedenti al ${annoCorrente}.`,
+    messages: [{
+      role: 'user',
+      content: `Scrivi un articolo SEO di circa ${CONFIG.lunghezza_articolo} parole su:
+
+SPUNTO NOTIZIA RECENTE: "${spunto.titolo}"
+SOMMARIO: "${spunto.sommario.substring(0, 200)}"
+KEYWORD: ${nicchia.keyword_base.slice(0, 3).join(', ')}
+DATA OGGI: ${dataOggi}
+
+Regole importanti:
+- Scrivi come se la notizia fosse di oggi
+- Usa sempre l'anno ${annoCorrente} nei riferimenti temporali
+- Non citare mai anni passati come attuali
+- Struttura: H1 con keyword, introduzione, 3-5 sezioni H2, lista puntata, conclusione
+- Alla fine aggiungi: <!-- META: [meta description 155 caratteri] -->
+- Italiano professionale e aggiornato`
+    }]
+  });
+  return response.content[0].type === 'text' ? response.content[0].text : '';
+}
+
+async function salvaMarkdown(nicchia, spunto, contenuto) {
+  const slug = slugify(spunto.titolo);
+  const data = oggi();
+  const metaMatch = contenuto.match(/<!--\s*META:\s*(.+?)\s*-->/s);
+  const metaDesc = metaMatch ? metaMatch[1].trim() : spunto.titolo.substring(0, 155);
+  const testo = contenuto.replace(/<!--\s*META:.*?-->/s, '').trim();
+  const frontmatter = `---\ntitle: "${spunto.titolo.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nicchia.nome}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${nicchia.keyword_base.slice(0, 3).map(k => `"${k}"`).join(', ')}]\nauto_generated: true\n---\n\n`;
+  const dir = path.join(CONFIG.output_dir, nicchia.id);
+  await fs.mkdir(dir, { recursive: true });
+  const filePath = path.join(dir, `${data}-${slug}.md`);
+  await fs.writeFile(filePath, frontmatter + testo, 'utf-8');
+  return { filePath, slug, id: hash(spunto.titolo + data), titolo: spunto.titolo };
+}
+
+async function inviaReportEmail(risultati, errori) {
+  const EMAIL = process.env.GMAIL_USER;
+  const PASS = process.env.GMAIL_PASSWORD;
+  console.log('  [debug] GMAIL_PASSWORD presente:', !!PASS, '| GMAIL_USER:', EMAIL);
+  if (!PASS || !EMAIL) { console.log('  [!] Credenziali email non configurate, email saltata'); return; }
+  const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: { user: EMAIL, pass: PASS }
+  });
+
+  // Raggruppa per nicchia
+  const perNicchia = {};
+  risultati.forEach(r => {
+    if (!perNicchia[r.nicchia]) perNicchia[r.nicchia] = [];
+    perNicchia[r.nicchia].push(r.titolo);
+  });
+
+  // Costruisci tabella HTML
+  let righe = '';
+  let i = 0;
+  for (const [nicchia, articoli] of Object.entries(perNicchia)) {
+    const bg = i % 2 === 0 ? '#f8f9fa' : '#ffffff';
+    righe += `<tr style="background:${bg}">
+      <td style="padding:8px 12px;border:1px solid #dee2e6;font-weight:500">${nicchia}</td>
+      <td style="padding:8px 12px;border:1px solid #dee2e6;text-align:center;color:#065f46;font-weight:bold">${articoli.length}</td>
+      <td style="padding:8px 12px;border:1px solid #dee2e6;font-size:12px;color:#555">${articoli[0].substring(0, 60)}${articoli.length > 1 ? ` (+${articoli.length-1} altri)` : ''}</td>
+    </tr>`;
+    i++;
+  }
+
+  const costo = (risultati.length * 0.001).toFixed(4);
+  const html = `
+  <div style="font-family:Arial,sans-serif;max-width:700px;margin:0 auto">
+    <div style="background:#111;padding:20px;text-align:center;border-bottom:3px solid #e63946">
+      <h1 style="color:#fff;margin:0;font-size:24px">NotiziHub</h1>
+      <p style="color:#888;margin:5px 0 0">Report giornaliero — ${oggi()}</p>
+    </div>
+    <div style="padding:20px;background:#fff">
+      <div style="display:flex;gap:16px;margin-bottom:20px">
+        <div style="flex:1;background:#EAF3DE;border-radius:8px;padding:16px;text-align:center">
+          <div style="font-size:32px;font-weight:bold;color:#065f46">${risultati.length}</div>
+          <div style="color:#3B6D11;font-size:13px">Articoli generati</div>
+        </div>
+        <div style="flex:1;background:#FEF2F2;border-radius:8px;padding:16px;text-align:center">
+          <div style="font-size:32px;font-weight:bold;color:#991b1b">${errori}</div>
+          <div style="color:#991b1b;font-size:13px">Errori</div>
+        </div>
+        <div style="flex:1;background:#EBF5FF;border-radius:8px;padding:16px;text-align:center">
+          <div style="font-size:32px;font-weight:bold;color:#1a56db">€${costo}</div>
+          <div style="color:#1a56db;font-size:13px">Costo API</div>
+        </div>
+      </div>
+      <table style="width:100%;border-collapse:collapse;font-size:14px">
+        <thead>
+          <tr style="background:#111">
+            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:left">Nicchia</th>
+            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:center">Articoli</th>
+            <th style="padding:10px 12px;border:1px solid #dee2e6;color:#fff;text-align:left">Ultimo articolo</th>
+          </tr>
+        </thead>
+        <tbody>${righe}</tbody>
+      </table>
+    </div>
+    <div style="background:#f8f9fa;padding:12px;text-align:center;font-size:12px;color:#888">
+      NotiziHub Auto Publisher · Report automatico giornaliero
+    </div>
+  </div>`;
+
+  await transporter.sendMail({
+    from: `"NotiziHub Bot" <${EMAIL}>`,
+    to: EMAIL,
+    subject: `NotiziHub — ${risultati.length} articoli generati oggi (${oggi()})`,
+    html
+  });
+  console.log(`  [email] Report inviato a ${EMAIL}`);
+}
+
+async function main() {
+  console.log(`\n=== NotiziHub Auto Publisher — ${oggi()} ===\n`);
+  await fs.mkdir(CONFIG.output_dir, { recursive: true });
+  const giàGenerati = await leggiArticoliGiaGenerati();
+  const risultati = [];
+  let errori = 0;
+
   for (const nicchia of NICCHIE) {
-    const dir = path.join(outputDir, nicchia.id);
-    if (!fs.existsSync(dir)) continue;
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).slice(-5);
-    for (const file of files) {
-      const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
-      const { data } = matter(raw);
-      articoli.push({ titolo: data.title || '', slug: data.slug || '', nicchia: nicchia.id, nicchia_nome: nicchia.nome, data: data.date || '', meta: data.meta_description || '' });
+    console.log(`\n[${nicchia.nome}] Leggo feed RSS...`);
+    const spunti = await leggiFeed(nicchia);
+    if (!spunti.length) { console.log(`  [!] Nessun spunto`); continue; }
+    let generatiNicchia = 0;
+    for (const spunto of spunti) {
+      if (generatiNicchia >= CONFIG.articoli_per_nicchia) break;
+      const spuntoId = hash(spunto.titolo);
+      if (giàGenerati.has(spuntoId)) { console.log(`  [skip] ${spunto.titolo.substring(0, 50)}...`); continue; }
+      console.log(`  [gen] ${spunto.titolo.substring(0, 60)}...`);
+      try {
+        const contenuto = await generaArticolo(nicchia, spunto);
+        const { filePath, slug, id, titolo } = await salvaMarkdown(nicchia, spunto, contenuto);
+        await salvaArticoloGenerato(spuntoId, giàGenerati);
+        risultati.push({ nicchia: nicchia.id, slug, titolo, file: filePath });
+        generatiNicchia++;
+        console.log(`  [ok]  ${path.basename(filePath)}`);
+        await new Promise(r => setTimeout(r, 2000));
+      } catch (err) { console.error(`  [err] ${err.message}`); errori++; }
     }
   }
-  articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
-  return { props: { articoli: articoli.slice(0, 30) }, revalidate: 3600 };
+
+  console.log(`\n=== Completato ===`);
+  console.log(`Articoli generati: ${risultati.length}`);
+  console.log(`Errori: ${errori}`);
+  console.log(`Costo stimato: €${(risultati.length * 0.001).toFixed(4)}`);
+
+  console.log('\n--- Invio report email...');
+  await inviaReportEmail(risultati, errori);
 }
 
-export default function Home({ articoli }) {
-  const [menuAperto, setMenuAperto] = useState(false);
-  const [cercaAperto, setCercaAperto] = useState(false);
-  const [query, setQuery] = useState('');
-
-  const principale = articoli[0];
-  const secondari = articoli.slice(1, 4);
-  const resto = articoli.slice(4);
-
-  const risultatiCerca = query.length >= 2
-    ? articoli.filter(a => a.titolo.toLowerCase().includes(query.toLowerCase()) || a.nicchia_nome.toLowerCase().includes(query.toLowerCase()))
-    : [];
-
-  return (
-    <>
-      <Head>
-        <title>NotiziHub — Notizie italiane aggiornate ogni giorno</title>
-        <meta name="description" content="Finanza, crypto, tech, salute, viaggi e molto altro. Aggiornato ogni giorno." />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <style>{`
-          * { box-sizing: border-box; margin: 0; padding: 0; }
-          body { font-family: Georgia, serif; background: #f9f9f7; color: #111; }
-          a { text-decoration: none; color: inherit; }
-          .badge { display: inline-block; padding: 2px 8px; border-radius: 3px; font-family: system-ui; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
-          .art-title:hover { color: #e63946 !important; }
-          @media (max-width: 768px) {
-            .desktop-nav { display: none !important; }
-            .hero-grid { grid-template-columns: 1fr !important; }
-            .articles-grid { grid-template-columns: 1fr !important; }
-          }
-          @media (min-width: 769px) {
-            .mobile-menu-btn { display: none !important; }
-            .mobile-menu { display: none !important; }
-          }
-        `}</style>
-      </Head>
-
-      <header style={{ background: '#111', color: '#fff', borderBottom: '3px solid #e63946' }}>
-        <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 16px' }}>
-
-          {/* Top bar */}
-          <div style={{ padding: '10px 0 8px', borderBottom: '1px solid #333', display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
-            <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#888', whiteSpace: 'nowrap' }}>
-              {new Date().toLocaleDateString('it-IT', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
-            </div>
-            <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
-              <button onClick={() => { setCercaAperto(!cercaAperto); setMenuAperto(false); }} style={{ background: '#222', border: '1px solid #444', borderRadius: 99, padding: '5px 12px', color: '#ccc', fontSize: 13, cursor: 'pointer', fontFamily: 'system-ui', display: 'flex', alignItems: 'center', gap: 4 }}>
-                🔍 <span>Cerca</span>
-              </button>
-            </div>
-          </div>
-
-          {/* Barra ricerca */}
-          {cercaAperto && (
-            <div style={{ padding: '12px 0', borderBottom: '1px solid #333' }}>
-              <input
-                type="text" autoFocus
-                placeholder="Cerca articoli..."
-                value={query}
-                onChange={e => setQuery(e.target.value)}
-                style={{ width: '100%', padding: '10px 16px', borderRadius: 8, border: 'none', fontSize: 16, fontFamily: 'system-ui', outline: 'none', background: '#222', color: '#fff' }}
-              />
-              {query.length >= 2 && (
-                <div style={{ marginTop: 8, maxHeight: 300, overflowY: 'auto' }}>
-                  {risultatiCerca.length === 0 && <div style={{ padding: '12px', color: '#888', fontFamily: 'system-ui', fontSize: 14 }}>Nessun risultato</div>}
-                  {risultatiCerca.slice(0, 8).map((art, i) => {
-                    const ni = getNicchia(art.nicchia);
-                    return (
-                      <Link key={i} href={`/${art.nicchia}/${art.slug}`} onClick={() => { setCercaAperto(false); setQuery(''); }} style={{ display: 'block', padding: '10px 12px', borderBottom: '1px solid #333', background: '#1a1a1a' }}>
-                        <span style={{ fontSize: 10, fontWeight: 700, textTransform: 'uppercase', color: '#888', fontFamily: 'system-ui' }}>{art.nicchia_nome}</span>
-                        <div style={{ fontSize: 14, color: '#fff', fontFamily: 'system-ui', marginTop: 2 }}>{art.titolo}</div>
-                      </Link>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-          )}
-
-          {/* Logo */}
-          <div style={{ padding: '12px 0 10px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-            <Link href="/" style={{ fontFamily: 'Georgia, serif', fontSize: 36, fontWeight: 700, letterSpacing: '-1px', color: '#fff' }}>NotiziHub</Link>
-            <button className="mobile-menu-btn" onClick={() => setMenuAperto(!menuAperto)} style={{ background: 'none', border: '1px solid #444', borderRadius: 6, padding: '6px 12px', color: '#ccc', fontSize: 14, cursor: 'pointer', fontFamily: 'system-ui' }}>
-              {menuAperto ? '✕ Chiudi' : '☰ Categorie'}
-            </button>
-          </div>
-
-          {/* Nav desktop — scroll orizzontale */}
-          <nav className="desktop-nav" style={{ display: 'flex', borderTop: '1px solid #333', overflowX: 'auto', scrollbarWidth: 'none' }}>
-            {NICCHIE.map(n => (
-              <Link key={n.id} href={`/nicchia/${n.id}`} style={{ padding: '8px 12px', fontFamily: 'system-ui', fontSize: 12, fontWeight: 500, color: '#aaa', whiteSpace: 'nowrap', borderBottom: '2px solid transparent' }}>{n.nome}</Link>
-            ))}
-          </nav>
-
-          {/* Menu mobile a tendina */}
-          {menuAperto && (
-            <div className="mobile-menu" style={{ padding: '12px 0', borderTop: '1px solid #333' }}>
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
-                {NICCHIE.map(n => (
-                  <Link key={n.id} href={`/nicchia/${n.id}`} onClick={() => setMenuAperto(false)} style={{ padding: '6px 12px', background: '#222', borderRadius: 99, fontFamily: 'system-ui', fontSize: 13, color: '#ccc' }}>{n.nome}</Link>
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
-      </header>
-
-      <main style={{ maxWidth: 1200, margin: '0 auto', padding: '20px 16px' }}>
-
-        {/* Hero */}
-        {principale && (
-          <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 28, paddingBottom: 28, borderBottom: '2px solid #111' }}>
-            <div>
-              <span className="badge" style={{ background: getNicchia(principale.nicchia).bg, color: getNicchia(principale.nicchia).colore, marginBottom: 12, display: 'inline-block' }}>{principale.nicchia_nome}</span>
-              <Link href={`/${principale.nicchia}/${principale.slug}`}>
-                <h1 className="art-title" style={{ fontSize: 28, fontWeight: 700, lineHeight: 1.25, marginBottom: 12, color: '#111', transition: 'color 0.15s' }}>{principale.titolo}</h1>
-              </Link>
-              <p style={{ fontSize: 15, color: '#444', lineHeight: 1.6, marginBottom: 10, fontFamily: 'system-ui' }}>{principale.meta}</p>
-              <div style={{ fontFamily: 'system-ui', fontSize: 12, color: '#999' }}>{principale.data}</div>
-            </div>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
-              {secondari.map((art, i) => {
-                const ni = getNicchia(art.nicchia);
-                return (
-                  <div key={i} style={{ paddingBottom: 14, marginBottom: 14, borderBottom: i < secondari.length - 1 ? '1px solid #e5e5e5' : 'none' }}>
-                    <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 6, display: 'inline-block' }}>{art.nicchia_nome}</span>
-                    <Link href={`/${art.nicchia}/${art.slug}`}>
-                      <h3 className="art-title" style={{ fontSize: 15, fontWeight: 700, lineHeight: 1.3, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h3>
-                    </Link>
-                    <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999', marginTop: 4 }}>{art.data}</div>
-                  </div>
-                );
-              })}
-            </div>
-          </div>
-        )}
-
-        {/* Griglia */}
-        <div className="articles-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 20 }}>
-          {resto.map((art, i) => {
-            const ni = getNicchia(art.nicchia);
-            return (
-              <div key={i} style={{ borderTop: `3px solid ${ni.colore}`, paddingTop: 12 }}>
-                <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 8, display: 'inline-block' }}>{art.nicchia_nome}</span>
-                <Link href={`/${art.nicchia}/${art.slug}`}>
-                  <h2 className="art-title" style={{ fontSize: 16, fontWeight: 700, lineHeight: 1.3, marginBottom: 8, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h2>
-                </Link>
-                <p style={{ fontSize: 13, color: '#555', lineHeight: 1.5, fontFamily: 'system-ui', marginBottom: 8 }}>{(art.meta || '').substring(0, 100)}...</p>
-                <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999' }}>{art.data}</div>
-              </div>
-            );
-          })}
-        </div>
-      </main>
-
-      <footer style={{ background: '#111', color: '#888', marginTop: 48, padding: '24px 16px', textAlign: 'center', fontFamily: 'system-ui', fontSize: 13 }}>
-        <div style={{ maxWidth: 1200, margin: '0 auto' }}>
-          <div style={{ fontFamily: 'Georgia, serif', fontSize: 20, fontWeight: 700, color: '#fff', marginBottom: 8 }}>NotiziHub</div>
-          <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 8 }}>
-            {NICCHIE.slice(0, 10).map(n => <Link key={n.id} href={`/nicchia/${n.id}`} style={{ color: '#666' }}>{n.nome}</Link>)}
-          </div>
-          <div>© {new Date().getFullYear()} NotiziHub · <Link href="/chi-siamo" style={{ color: '#666' }}>Chi siamo</Link> · <Link href="/contattaci" style={{ color: '#666' }}>Contattaci</Link></div>
-        </div>
-      </footer>
-    </>
-  );
-}
+main().catch(err => { console.error('Errore fatale:', err); process.exit(1); });

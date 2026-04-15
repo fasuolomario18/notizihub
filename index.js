@@ -340,4 +340,6 @@ async function main() {
   await inviaReportEmail(risultati, errori);
 }
 
-main().catch(err => { console.error('Errore fatale:', err); process.exit(1); });
+main()
+  .then(() => process.exit(0))
+  .catch(err => { console.error('Errore fatale:', err); process.exit(1); });

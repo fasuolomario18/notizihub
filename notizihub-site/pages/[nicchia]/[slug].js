@@ -6,7 +6,7 @@ import html from 'remark-html';
 import Head from 'next/head';
 import Link from 'next/link';
 
-const OUTPUT_DIR = path.join(process.cwd(), '..', 'output');
+const OUTPUT_DIR = path.join(process.cwd(), 'output')
 export async function getStaticPaths() {
   const paths = [];
   if (!fs.existsSync(OUTPUT_DIR)) return { paths: [], fallback: 'blocking' };

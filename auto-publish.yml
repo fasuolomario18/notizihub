@@ -50,7 +50,7 @@ jobs:
         run: |
           git config --local user.email "bot@notizihub.it"
           git config --local user.name "NotiziHub Bot"
-          git add output/
+          git add notizihub-site/output/
           git diff --staged --quiet || git commit -m "Auto: $(date '+%Y-%m-%d') — nuovi articoli generati"
           git push
         env:

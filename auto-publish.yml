@@ -40,7 +40,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SITE_URL: 'https://www.notizihub.com'
-          OUTPUT_DIR: './output'
+          OUTPUT_DIR: './notizihub-site/output'
           ARTICLES_PER_NICHE: '1'
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}

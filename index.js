@@ -1,6 +1,6 @@
 /**
  * NotiziHub - Auto Publisher
- * Legge RSS feed per 10 nicchie, genera articoli con Claude (Anthropic),
+ * Legge RSS feed per 40 nicchie, genera articoli con Claude (Anthropic),
  * li salva come file Markdown pronti per Next.js
  */
 
@@ -141,7 +141,7 @@ const NICCHIE = [
 
 const CONFIG = {
   articoli_per_nicchia: parseInt(process.env.ARTICLES_PER_NICHE || '1'),
-  output_dir: process.env.OUTPUT_DIR || path.join(__dirname, 'output'),
+  output_dir: process.env.OUTPUT_DIR || path.join(__dirname, 'notizihub-site', 'output'),
   lunghezza_articolo: 1000,
 };
 
@@ -162,19 +162,18 @@ async function salvaArticoloGenerato(id, generati) {
 
 async function leggiFeed(nicchia) {
   const items = [];
-  const trenta_giorni_fa = new Date();
-  trenta_giorni_fa.setDate(trenta_giorni_fa.getDate() - 30);
+  const dieci_giorni_fa = new Date();
+  dieci_giorni_fa.setDate(dieci_giorni_fa.getDate() - 10);
 
   for (const feedUrl of nicchia.feed) {
     try {
       const feed = await parser.parseURL(feedUrl);
-      for (const item of feed.items.slice(0, 10)) {
+      for (const item of feed.items.slice(0, 3)) {
         if (!item.title) continue;
-        // Filtra articoli più vecchi di 30 giorni
         if (item.pubDate) {
           const dataArticolo = new Date(item.pubDate);
-          if (dataArticolo < trenta_giorni_fa) {
-            console.log(`  [skip-vecchio] ${item.title.substring(0, 40)}... (${item.pubDate})`);
+          if (dataArticolo < dieci_giorni_fa) {
+            console.log(`  [skip-vecchio] ${item.title.substring(0, 40)}...`);
             continue;
           }
         }
@@ -238,14 +237,12 @@ async function inviaReportEmail(risultati, errori) {
     auth: { user: EMAIL, pass: PASS }
   });
 
-  // Raggruppa per nicchia
   const perNicchia = {};
   risultati.forEach(r => {
     if (!perNicchia[r.nicchia]) perNicchia[r.nicchia] = [];
     perNicchia[r.nicchia].push(r.titolo);
   });
 
-  // Costruisci tabella HTML
   let righe = '';
   let i = 0;
   for (const [nicchia, articoli] of Object.entries(perNicchia)) {
@@ -329,7 +326,7 @@ async function main() {
         risultati.push({ nicchia: nicchia.id, slug, titolo, file: filePath });
         generatiNicchia++;
         console.log(`  [ok]  ${path.basename(filePath)}`);
-        await new Promise(r => setTimeout(r, 2000));
+        await new Promise(r => setTimeout(r, 500));
       } catch (err) { console.error(`  [err] ${err.message}`); errori++; }
     }
   }

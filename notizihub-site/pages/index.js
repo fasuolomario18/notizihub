@@ -53,7 +53,7 @@ function getNicchia(id) {
 }
 
 export async function getStaticProps() {
-  const outputDir = path.join(process.cwd(), '..', 'output');
+  const outputDir = path.join(process.cwd(), 'output')
   const articoli = [];
   for (const nicchia of NICCHIE) {
     const dir = path.join(outputDir, nicchia.id);

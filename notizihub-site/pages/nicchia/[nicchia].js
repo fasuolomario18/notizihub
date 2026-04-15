@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import Link from 'next/link';
 import Head from 'next/head';
 
-const OUTPUT_DIR = path.join(process.cwd(), 'output')
+const outputDir = path.join(process.cwd(), '..', 'output');
 
 const NICCHIE_INFO = {
   finanza: { nome: 'Finanza Personale', colore: '#1a56db', bg: '#EBF5FF' },

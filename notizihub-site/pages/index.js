@@ -54,22 +54,44 @@ function getNicchia(id) {
 
 export async function getStaticProps() {
   const outputDir = path.join(process.cwd(), '..', 'output');
-  const articoli = [];
+  const tutti = [];
+
   for (const nicchia of NICCHIE) {
     const dir = path.join(outputDir, nicchia.id);
     if (!fs.existsSync(dir)) continue;
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).slice(-5);
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
     for (const file of files) {
       const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
       const { data } = matter(raw);
-      articoli.push({ titolo: data.title || '', slug: data.slug || '', nicchia: nicchia.id, nicchia_nome: nicchia.nome, data: data.date || '', meta: data.meta_description || '' });
+      tutti.push({
+        titolo: data.title || '',
+        slug: data.slug || '',
+        nicchia: nicchia.id,
+        nicchia_nome: nicchia.nome,
+        data: data.date || '',
+        meta: data.meta_description || '',
+      });
     }
   }
-  articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
-  return { props: { articoli: articoli.slice(0, 30) }, revalidate: 3600 };
+
+  tutti.sort((a, b) => new Date(b.data) - new Date(a.data));
+
+  // articoli per la homepage (ultimi 30)
+  const articoli = tutti.slice(0, 30);
+
+  // lista leggera per la ricerca (solo i campi necessari, tutti gli articoli)
+  const articoliSearch = tutti.map(a => ({
+    titolo: a.titolo,
+    slug: a.slug,
+    nicchia: a.nicchia,
+    nicchia_nome: a.nicchia_nome,
+    meta: a.meta,
+  }));
+
+  return { props: { articoli, articoliSearch }, revalidate: 3600 };
 }
 
-export default function Home({ articoli }) {
+export default function Home({ articoli, articoliSearch }) {
   const [menuAperto, setMenuAperto] = useState(false);
   const [cercaAperto, setCercaAperto] = useState(false);
   const [query, setQuery] = useState('');
@@ -79,7 +101,14 @@ export default function Home({ articoli }) {
   const resto = articoli.slice(4);
 
   const risultatiCerca = query.length >= 2
-    ? articoli.filter(a => a.titolo.toLowerCase().includes(query.toLowerCase()) || a.nicchia_nome.toLowerCase().includes(query.toLowerCase()))
+    ? articoliSearch.filter(a => {
+        const q = query.toLowerCase();
+        return (
+          a.titolo.toLowerCase().includes(q) ||
+          a.nicchia_nome.toLowerCase().includes(q) ||
+          (a.meta && a.meta.toLowerCase().includes(q))
+        );
+      })
     : [];
 
   return (
@@ -138,7 +167,9 @@ export default function Home({ articoli }) {
               />
               {query.length >= 2 && (
                 <div style={{ marginTop: 8, maxHeight: 300, overflowY: 'auto' }}>
-                  {risultatiCerca.length === 0 && <div style={{ padding: '12px', color: '#888', fontFamily: 'system-ui', fontSize: 14 }}>Nessun risultato</div>}
+                  {risultatiCerca.length === 0 && (
+                    <div style={{ padding: '12px', color: '#888', fontFamily: 'system-ui', fontSize: 14 }}>Nessun risultato</div>
+                  )}
                   {risultatiCerca.slice(0, 8).map((art, i) => {
                     const ni = getNicchia(art.nicchia);
                     return (
@@ -187,7 +218,6 @@ export default function Home({ articoli }) {
         {principale && (
           <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 28, paddingBottom: 28, borderBottom: '2px solid #111' }}>
             <div>
-              {/* Immagine nicchia principale */}
               <div style={{ width: '100%', overflow: 'hidden', borderRadius: 6, marginBottom: 14 }}>
                 <img
                   src={`/nicchie/${principale.nicchia}.png`}

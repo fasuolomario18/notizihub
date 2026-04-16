@@ -74,7 +74,7 @@ export async function getStaticProps({ params }) {
   }
 
   articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
-  const info = NICCHIE_INFO[params.nicchia] || { nome: params.nicchia, colore: '#eee', testo: '#333' };
+  const info = NICCHIE_INFO[params.nicchia] || { nome: params.nicchia, colore: '#333', bg: '#eee' };
   return { props: { articoli, nicchia: params.nicchia, info }, revalidate: 3600 };
 }
 
@@ -84,59 +84,77 @@ export default function PaginaNicchia({ articoli, nicchia, info }) {
       <Head>
         <title>{info.nome} — NotiziHub</title>
         <meta name="description" content={`Tutte le notizie su ${info.nome}: aggiornamenti quotidiani, guide e approfondimenti.`} />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style>{`
+          * { box-sizing: border-box; margin: 0; padding: 0; }
+          body { font-family: system-ui, sans-serif; background: #f9f9f7; color: #111; }
+          a { text-decoration: none; color: inherit; }
+          .card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+          .card { transition: transform 0.2s, box-shadow 0.2s; }
+          .card-img { width: 100%; height: 180px; object-fit: cover; display: block; }
+          @media (max-width: 600px) {
+            .nicchia-banner { height: 160px !important; }
+            .cards-grid { grid-template-columns: 1fr !important; }
+            .card-img { height: 200px; }
+          }
+        `}</style>
       </Head>
 
-      <div style={{ fontFamily: 'system-ui, sans-serif', maxWidth: 1100, margin: '0 auto', padding: '0 16px' }}>
-
-        <header style={{ background: '#111', color: '#fff', borderBottom: '3px solid #e63946', marginBottom: 0 }}>
-          <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 20px' }}>
-            <div style={{ padding: '16px 0 12px', textAlign: 'center' }}>
-              <Link href="/" style={{ fontFamily: 'Georgia, serif', fontSize: 36, fontWeight: 700, color: '#fff', textDecoration: 'none' }}>
-                NotiziHub
-              </Link>
-            </div>
-            <nav style={{ display: 'flex', flexWrap: 'wrap', borderTop: '1px solid #333', paddingBottom: 4 }}>
-              {['finanza','crypto','tech','salute','viaggi','motori','gaming','casa','lavoro','sport','assicurazioni','fisco','pensioni','trading','cucina','moda','bellezza','politica','sport','cronaca','scienza'].map(n => (
-                <Link key={n} href={`/nicchia/${n}`} style={{ padding: '8px 12px', fontFamily: 'system-ui', fontSize: 12, color: '#aaa', textDecoration: 'none' }}>{n.charAt(0).toUpperCase()+n.slice(1)}</Link>
-              ))}
-            </nav>
+      <header style={{ background: '#111', color: '#fff', borderBottom: '3px solid #e63946', marginBottom: 0 }}>
+        <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 20px' }}>
+          <div style={{ padding: '16px 0 12px', textAlign: 'center' }}>
+            <Link href="/" style={{ fontFamily: 'Georgia, serif', fontSize: 36, fontWeight: 700, color: '#fff', textDecoration: 'none' }}>
+              NotiziHub
+            </Link>
           </div>
-        </header>
-
-        <div style={{ marginBottom: 24 }}>
-          <span style={{
-            display: 'inline-block', padding: '4px 14px', borderRadius: 99,
-            fontSize: 14, fontWeight: 700, background: info.colore, color: info.testo
-          }}>{info.nome}</span>
-          <p style={{ color: '#666', fontSize: 14, marginTop: 8 }}>
-            {articoli.length} articoli pubblicati
-          </p>
+          <nav style={{ display: 'flex', flexWrap: 'wrap', borderTop: '1px solid #333', paddingBottom: 4 }}>
+            {['finanza','crypto','tech','salute','viaggi','motori','gaming','casa','lavoro','sport','assicurazioni','fisco','pensioni','trading','cucina','moda','bellezza','politica','cronaca','scienza'].map(n => (
+              <Link key={n} href={`/nicchia/${n}`} style={{ padding: '8px 12px', fontFamily: 'system-ui', fontSize: 12, color: '#aaa', textDecoration: 'none' }}>{n.charAt(0).toUpperCase()+n.slice(1)}</Link>
+            ))}
+          </nav>
         </div>
+      </header>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: 20, marginBottom: 40 }}>
-          {articoli.map((art, i) => {
-            const imgUrl = `/nicchie/${nicchia}.png`;
-            return (
-              <div key={i} style={{ border: '1px solid #eee', borderRadius: 10, overflow: 'hidden', background: '#fff', transition: 'transform 0.2s, box-shadow 0.2s' }}
-                onMouseOver={e => { e.currentTarget.style.transform='translateY(-2px)'; e.currentTarget.style.boxShadow='0 4px 20px rgba(0,0,0,0.08)'; }}
-                onMouseOut={e => { e.currentTarget.style.transform='none'; e.currentTarget.style.boxShadow='none'; }}>
-                <div style={{ height: 160, overflow: 'hidden' }}>
-                  <img src={imgUrl} alt={art.titolo} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-                </div>
-                <div style={{ padding: '14px 16px 16px', borderTop: `3px solid ${info.colore || '#333'}` }}>
-                  <h2 style={{ fontSize: 15, fontWeight: 700, lineHeight: 1.4, marginBottom: 8, color: '#111' }}>
-                    <Link href={`/${nicchia}/${art.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                      {art.titolo}
-                    </Link>
-                  </h2>
-                  {art.meta && art.meta !== art.titolo && (
-                    <p style={{ fontSize: 13, color: '#666', lineHeight: 1.5, marginBottom: 8 }}>{art.meta?.substring(0, 100)}...</p>
-                  )}
-                  <div style={{ fontSize: 11, color: '#aaa', marginTop: 8 }}>{art.data}</div>
-                </div>
+      {/* Banner immagine nicchia */}
+      <div style={{ position: 'relative', width: '100%', overflow: 'hidden' }}>
+        <img
+          src={`/nicchie/${nicchia}.png`}
+          alt={info.nome}
+          className="nicchia-banner"
+          style={{ width: '100%', height: 260, objectFit: 'cover', display: 'block' }}
+        />
+        <div style={{
+          position: 'absolute', bottom: 0, left: 0, right: 0,
+          background: 'linear-gradient(transparent, rgba(0,0,0,0.65))',
+          padding: '40px 24px 20px',
+        }}>
+          <h1 style={{ fontFamily: 'Georgia, serif', fontSize: 32, fontWeight: 700, color: '#fff', margin: 0 }}>{info.nome}</h1>
+          <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: 14, marginTop: 4 }}>{articoli.length} articoli pubblicati</p>
+        </div>
+      </div>
+
+      <div style={{ maxWidth: 1100, margin: '0 auto', padding: '24px 16px' }}>
+        <div className="cards-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: 20, marginBottom: 40 }}>
+          {articoli.map((art, i) => (
+            <div key={i} className="card" style={{ border: '1px solid #eee', borderRadius: 10, overflow: 'hidden', background: '#fff' }}>
+              <img
+                src={`/nicchie/${nicchia}.png`}
+                alt={art.titolo}
+                className="card-img"
+              />
+              <div style={{ padding: '14px 16px 16px', borderTop: `3px solid ${info.colore}` }}>
+                <h2 style={{ fontSize: 15, fontWeight: 700, lineHeight: 1.4, marginBottom: 8, color: '#111' }}>
+                  <Link href={`/${nicchia}/${art.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                    {art.titolo}
+                  </Link>
+                </h2>
+                {art.meta && art.meta !== art.titolo && (
+                  <p style={{ fontSize: 13, color: '#666', lineHeight: 1.5, marginBottom: 8 }}>{art.meta?.substring(0, 100)}...</p>
+                )}
+                <div style={{ fontSize: 11, color: '#aaa', marginTop: 8 }}>{art.data}</div>
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
 
         {articoli.length === 0 && (

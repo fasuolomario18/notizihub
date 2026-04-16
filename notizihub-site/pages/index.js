@@ -94,14 +94,19 @@ export default function Home({ articoli }) {
           a { text-decoration: none; color: inherit; }
           .badge { display: inline-block; padding: 2px 8px; border-radius: 3px; font-family: system-ui; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
           .art-title:hover { color: #e63946 !important; }
+          .card-img { width: 100%; height: 180px; object-fit: cover; display: block; }
+          .secondary-img { width: 90px; height: 70px; object-fit: cover; flex-shrink: 0; border-radius: 4px; }
           @media (max-width: 768px) {
             .desktop-nav { display: none !important; }
             .hero-grid { grid-template-columns: 1fr !important; }
             .articles-grid { grid-template-columns: 1fr !important; }
+            .card-img { height: 200px; }
+            .secondary-img { width: 80px; height: 60px; }
           }
           @media (min-width: 769px) {
             .mobile-menu-btn { display: none !important; }
             .mobile-menu { display: none !important; }
+            .card-img { height: 160px; }
           }
         `}</style>
       </Head>
@@ -182,6 +187,14 @@ export default function Home({ articoli }) {
         {principale && (
           <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 24, marginBottom: 28, paddingBottom: 28, borderBottom: '2px solid #111' }}>
             <div>
+              {/* Immagine nicchia principale */}
+              <div style={{ width: '100%', overflow: 'hidden', borderRadius: 6, marginBottom: 14 }}>
+                <img
+                  src={`/nicchie/${principale.nicchia}.png`}
+                  alt={principale.nicchia_nome}
+                  style={{ width: '100%', height: 260, objectFit: 'cover', display: 'block' }}
+                />
+              </div>
               <span className="badge" style={{ background: getNicchia(principale.nicchia).bg, color: getNicchia(principale.nicchia).colore, marginBottom: 12, display: 'inline-block' }}>{principale.nicchia_nome}</span>
               <Link href={`/${principale.nicchia}/${principale.slug}`}>
                 <h1 className="art-title" style={{ fontSize: 28, fontWeight: 700, lineHeight: 1.25, marginBottom: 12, color: '#111', transition: 'color 0.15s' }}>{principale.titolo}</h1>
@@ -193,12 +206,19 @@ export default function Home({ articoli }) {
               {secondari.map((art, i) => {
                 const ni = getNicchia(art.nicchia);
                 return (
-                  <div key={i} style={{ paddingBottom: 14, marginBottom: 14, borderBottom: i < secondari.length - 1 ? '1px solid #e5e5e5' : 'none' }}>
-                    <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 6, display: 'inline-block' }}>{art.nicchia_nome}</span>
-                    <Link href={`/${art.nicchia}/${art.slug}`}>
-                      <h3 className="art-title" style={{ fontSize: 15, fontWeight: 700, lineHeight: 1.3, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h3>
-                    </Link>
-                    <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999', marginTop: 4 }}>{art.data}</div>
+                  <div key={i} style={{ paddingBottom: 14, marginBottom: 14, borderBottom: i < secondari.length - 1 ? '1px solid #e5e5e5' : 'none', display: 'flex', gap: 10, alignItems: 'flex-start' }}>
+                    <img
+                      src={`/nicchie/${art.nicchia}.png`}
+                      alt={art.nicchia_nome}
+                      className="secondary-img"
+                    />
+                    <div style={{ flex: 1 }}>
+                      <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 6, display: 'inline-block' }}>{art.nicchia_nome}</span>
+                      <Link href={`/${art.nicchia}/${art.slug}`}>
+                        <h3 className="art-title" style={{ fontSize: 15, fontWeight: 700, lineHeight: 1.3, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h3>
+                      </Link>
+                      <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999', marginTop: 4 }}>{art.data}</div>
+                    </div>
                   </div>
                 );
               })}
@@ -211,13 +231,22 @@ export default function Home({ articoli }) {
           {resto.map((art, i) => {
             const ni = getNicchia(art.nicchia);
             return (
-              <div key={i} style={{ borderTop: `3px solid ${ni.colore}`, paddingTop: 12 }}>
-                <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 8, display: 'inline-block' }}>{art.nicchia_nome}</span>
-                <Link href={`/${art.nicchia}/${art.slug}`}>
-                  <h2 className="art-title" style={{ fontSize: 16, fontWeight: 700, lineHeight: 1.3, marginBottom: 8, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h2>
-                </Link>
-                <p style={{ fontSize: 13, color: '#555', lineHeight: 1.5, fontFamily: 'system-ui', marginBottom: 8 }}>{(art.meta || '').substring(0, 100)}...</p>
-                <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999' }}>{art.data}</div>
+              <div key={i} style={{ borderRadius: 8, overflow: 'hidden', border: '1px solid #e5e5e5', background: '#fff' }}>
+                <div style={{ overflow: 'hidden' }}>
+                  <img
+                    src={`/nicchie/${art.nicchia}.png`}
+                    alt={art.nicchia_nome}
+                    className="card-img"
+                  />
+                </div>
+                <div style={{ borderTop: `3px solid ${ni.colore}`, padding: '12px 14px 14px' }}>
+                  <span className="badge" style={{ background: ni.bg, color: ni.colore, marginBottom: 8, display: 'inline-block' }}>{art.nicchia_nome}</span>
+                  <Link href={`/${art.nicchia}/${art.slug}`}>
+                    <h2 className="art-title" style={{ fontSize: 16, fontWeight: 700, lineHeight: 1.3, marginBottom: 8, color: '#111', transition: 'color 0.15s' }}>{art.titolo}</h2>
+                  </Link>
+                  <p style={{ fontSize: 13, color: '#555', lineHeight: 1.5, fontFamily: 'system-ui', marginBottom: 8 }}>{(art.meta || '').substring(0, 100)}...</p>
+                  <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#999' }}>{art.data}</div>
+                </div>
               </div>
             );
           })}

@@ -156,8 +156,8 @@ export default function Home({ articoli }) {
             </button>
           </div>
 
-          {/* Nav desktop — scroll orizzontale */}
-          <nav className="desktop-nav" style={{ display: 'flex', borderTop: '1px solid #333', overflowX: 'auto', scrollbarWidth: 'none' }}>
+          {/* Nav desktop — flex wrap per mostrare tutte le nicchie */}
+          <nav className="desktop-nav" style={{ display: 'flex', flexWrap: 'wrap', borderTop: '1px solid #333' }}>
             {NICCHIE.map(n => (
               <Link key={n.id} href={`/nicchia/${n.id}`} style={{ padding: '8px 12px', fontFamily: 'system-ui', fontSize: 12, fontWeight: 500, color: '#aaa', whiteSpace: 'nowrap', borderBottom: '2px solid transparent' }}>{n.nome}</Link>
             ))}

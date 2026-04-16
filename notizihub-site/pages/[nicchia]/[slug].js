@@ -58,15 +58,35 @@ export default function Articolo({ articolo }) {
         <meta name="description" content={articolo.meta_description || ''} />
         <meta property="og:title" content={articolo.title} />
         <meta property="og:description" content={articolo.meta_description || ''} />
+        <meta property="og:image" content={`/nicchie/${articolo.nicchia}.png`} />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <style>{`
+          * { box-sizing: border-box; margin: 0; padding: 0; }
+          body { font-family: system-ui, sans-serif; background: #f9f9f7; color: #111; }
+          a { text-decoration: none; color: inherit; }
+          .article-hero { width: 100%; height: 320px; object-fit: cover; display: block; border-radius: 8px; }
+          @media (max-width: 600px) {
+            .article-hero { height: 200px; border-radius: 0; }
+          }
+        `}</style>
       </Head>
 
       <div style={{ fontFamily: 'system-ui, sans-serif', maxWidth: 780, margin: '0 auto', padding: '0 16px' }}>
 
-        <header style={{ borderBottom: '1px solid #eee', padding: '16px 0', marginBottom: 32 }}>
+        <header style={{ borderBottom: '1px solid #eee', padding: '16px 0', marginBottom: 24 }}>
           <Link href="/" style={{ fontSize: 20, fontWeight: 700, color: '#111', textDecoration: 'none' }}>
             Notizie<span style={{ color: '#185FA5' }}>Hub</span>
           </Link>
         </header>
+
+        {/* Hero immagine nicchia */}
+        <div style={{ marginBottom: 24, borderRadius: 8, overflow: 'hidden' }}>
+          <img
+            src={`/nicchie/${articolo.nicchia}.png`}
+            alt={articolo.nicchia_nome || articolo.nicchia}
+            className="article-hero"
+          />
+        </div>
 
         <div style={{ marginBottom: 12 }}>
           <Link href={`/nicchia/${articolo.nicchia}`} style={{

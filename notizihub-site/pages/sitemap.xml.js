@@ -3,7 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.notizihub.com';
 const LINGUE_IDS = ['en', 'es', 'de', 'fr', 'pt'];
 
 function generateSitemap(articoliIT, articoliLang) {

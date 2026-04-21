@@ -109,6 +109,37 @@ const CONFIG = {
   articoli_per_nicchia: parseInt(process.env.ARTICLES_PER_NICHE || '1'),
   output_dir: process.env.OUTPUT_DIR || path.join(__dirname, 'notizihub-site', 'output'),
   lunghezza_articolo: 1500,
+  evergreen_ratio: 0.6, // 60% articoli evergreen, 40% da RSS
+};
+
+// Argomenti evergreen ad alto volume di ricerca per ogni nicchia
+const EVERGREEN_TOPICS = {
+  finanza: ['Come investire 10.000 euro nel {{anno}}', 'Migliori ETF da comprare nel {{anno}}', 'Come aprire un conto titoli: guida completa', 'Dollar cost averaging: cos\'è e come funziona', 'Fondo di emergenza: quanto tenere da parte', 'Come smettere di sprecare soldi ogni mese', 'Differenza tra azioni e obbligazioni spiegata semplice'],
+  crypto: ['Come comprare Bitcoin per la prima volta nel {{anno}}', 'Cos\'è Ethereum e come funziona', 'DeFi spiegato semplice: guida per principianti', 'Come conservare crypto in modo sicuro', 'Migliori exchange crypto in Italia nel {{anno}}', 'Tasse sulle criptovalute in Italia: come funziona'],
+  tech: ['Migliori smartphone sotto 300 euro nel {{anno}}', 'ChatGPT vs Gemini: quale AI è meglio', 'Come proteggere la tua privacy online', 'VPN: cos\'è e perché usarla nel {{anno}}', 'Come velocizzare il PC senza spendere soldi', 'Migliori app gratis per Android e iPhone'],
+  salute: ['Come dormire meglio: guida completa', 'Dieta mediterranea: benefici e menu settimanale', 'Come ridurre lo stress in 10 minuti al giorno', 'Quanto acqua bere al giorno davvero', 'Camminare 30 minuti al giorno: cosa succede al corpo'],
+  viaggi: ['Come trovare voli low cost: trucchi che funzionano', 'Mete economiche per le vacanze estive {{anno}}', 'Come prenotare hotel al miglior prezzo', 'Assicurazione viaggio: quando serve davvero', 'Migliori destinazioni per viaggiare da soli'],
+  motori: ['Auto elettrica vs benzina: conviene davvero nel {{anno}}', 'Come risparmiare sul carburante', 'Incentivi auto {{anno}}: a chi spettano', 'Migliori auto usate sotto 10.000 euro', 'RC auto: come risparmiare sul rinnovo'],
+  gaming: ['Migliori giochi PS5 del {{anno}}', 'PC gaming budget: la build migliore sotto 800 euro', 'Come guadagnare giocando ai videogiochi', 'Xbox vs PlayStation: quale scegliere nel {{anno}}'],
+  casa: ['Come ottenere il mutuo nel {{anno}}: guida completa', 'Bonus ristrutturazione {{anno}}: come funziona', 'Affittare casa: diritti e doveri dell\'inquilino', 'Come risparmiare sulle bollette di casa'],
+  lavoro: ['Come scrivere un curriculum che funziona nel {{anno}}', 'Smart working: diritti e come richiederlo', 'Come chiedere un aumento di stipendio', 'Partita IVA vs dipendente: cosa conviene', 'Come trovare lavoro online nel {{anno}}'],
+  sport: ['Come iniziare a correre da zero: programma 8 settimane', 'Calcio in streaming gratis: dove vedere le partite', 'Come perdere peso con l\'attività fisica'],
+  assicurazioni: ['RC auto più economica nel {{anno}}: come trovarla', 'Assicurazione vita: quando serve e quale scegliere', 'Polizza salute integrativa: conviene?'],
+  fisco: ['Dichiarazione dei redditi {{anno}}: guida passo passo', '730 precompilato: come si compila', 'Detrazioni fiscali {{anno}}: tutto quello che puoi scaricare', 'Partita IVA forfettaria: conviene aprirla?'],
+  pensioni: ['A che età vado in pensione nel {{anno}}', 'Pensione integrativa: conviene aprirla giovani', 'Come calcolare la mia pensione futura'],
+  prestiti: ['Prestito personale: come scegliere quello giusto', 'Cessione del quinto: cos\'è e quando conviene', 'Come uscire dai debiti: piano pratico'],
+  trading: ['Trading online per principianti: da dove partire', 'Migliori broker italiani nel {{anno}}', 'Come analizzare un\'azione prima di comprarla'],
+  cucina: ['Ricette veloci per la settimana: 5 pranzi in 30 minuti', 'Come fare la pasta fresca in casa', 'Meal prep: come preparare i pasti per tutta la settimana'],
+  moda: ['Come vestirsi bene spendendo poco', 'Capsule wardrobe: i capi base per ogni guardaroba', 'Come trovare capi di qualità nei mercatini'],
+  bellezza: ['Routine skincare minimalista che funziona davvero', 'Come prendersi cura dei capelli secchi', 'Trucco naturale: prodotti essenziali per iniziare'],
+  animali: ['Come adottare un cane: guida completa', 'Costo mensile di un gatto: cosa sapere prima', 'Alimentazione corretta per il tuo cane'],
+  ambiente: ['Come ridurre i rifiuti in casa: guida pratica', 'Pannelli solari per casa: convengono nel {{anno}}', 'Come risparmiare energia in casa'],
+  startup: ['Come aprire una startup in Italia nel {{anno}}', 'Business plan: come scriverlo passo passo', 'Come trovare finanziamenti per la tua idea'],
+  smartphone: ['Migliori iPhone nel {{anno}}: guida all\'acquisto', 'Android vs iPhone: quale scegliere', 'Come proteggere il tuo smartphone dagli hacker'],
+  scienza: ['Le scoperte scientifiche più importanti del {{anno}}', 'Come funziona l\'intelligenza artificiale spiegato semplice', 'Missioni spaziali {{anno}}: cosa aspettarsi'],
+  psicologia: ['Come combattere l\'ansia senza farmaci', 'Tecniche di mindfulness per principianti', 'Come migliorare l\'autostima: consigli pratici'],
+  cinema: ['Migliori film Netflix da vedere nel {{anno}}', 'Serie TV da non perdere questa stagione', 'Come scegliere una smart TV nel {{anno}}'],
+  energia: ['Come ridurre la bolletta della luce nel {{anno}}', 'Fotovoltaico domestico: quanto si risparmia davvero', 'Tariffe energia: come trovare quella più conveniente'],
 };
 
 function slugify(text) {
@@ -154,6 +185,16 @@ async function leggiFeed(nicchia, lingua) {
       }
     } catch { /* feed non raggiungibile */ }
   }
+  // Mix with evergreen topics (60% evergreen, 40% RSS)
+  const annoCorrente = new Date().getFullYear();
+  const evergreenTopics = (EVERGREEN_TOPICS[nicchia.id] || [])
+    .map(t => t.replace('{{anno}}', annoCorrente));
+
+  if (evergreenTopics.length > 0 && Math.random() < CONFIG.evergreen_ratio) {
+    const topic = evergreenTopics[Math.floor(Math.random() * evergreenTopics.length)];
+    return [{ titolo: topic, sommario: '', link: '', data: '', evergreen: true }];
+  }
+
   return items.sort(() => Math.random() - 0.5).slice(0, CONFIG.articoli_per_nicchia * 2);
 }
 

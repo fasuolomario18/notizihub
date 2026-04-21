@@ -117,13 +117,13 @@ export default function Home({ articoli, articoliSearch }) {
         <title>NotiziHub — Notizie italiane aggiornate ogni giorno</title>
         <meta name="description" content="Finanza, crypto, tech, salute, viaggi e molto altro. Aggiornato ogni giorno." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="alternate" hrefLang="it" href="https://notizihub.it/" />
-        <link rel="alternate" hrefLang="en" href="https://notizihub.it/en" />
-        <link rel="alternate" hrefLang="es" href="https://notizihub.it/es" />
-        <link rel="alternate" hrefLang="de" href="https://notizihub.it/de" />
-        <link rel="alternate" hrefLang="fr" href="https://notizihub.it/fr" />
-        <link rel="alternate" hrefLang="pt" href="https://notizihub.it/pt" />
-        <link rel="alternate" hrefLang="x-default" href="https://notizihub.it/" />
+        <link rel="alternate" hrefLang="it" href="https://www.notizihub.com/" />
+        <link rel="alternate" hrefLang="en" href="https://www.notizihub.com/en" />
+        <link rel="alternate" hrefLang="es" href="https://www.notizihub.com/es" />
+        <link rel="alternate" hrefLang="de" href="https://www.notizihub.com/de" />
+        <link rel="alternate" hrefLang="fr" href="https://www.notizihub.com/fr" />
+        <link rel="alternate" hrefLang="pt" href="https://www.notizihub.com/pt" />
+        <link rel="alternate" hrefLang="x-default" href="https://www.notizihub.com/" />
         <style>{`
           * { box-sizing: border-box; margin: 0; padding: 0; }
           body { font-family: Georgia, serif; background: #f9f9f7; color: #111; }

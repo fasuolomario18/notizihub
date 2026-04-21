@@ -1,4 +1,4 @@
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.notizihub.com';
 
 export const LINGUE = [
   { id: 'it', nome: 'Italiano', flag: '🇮🇹', locale: 'it-IT' },

@@ -7,7 +7,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 
 const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.notizihub.com';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -99,6 +99,7 @@ export default function Articolo({ articolo }) {
     description: articolo.meta_description || '',
     datePublished: articolo.date,
     dateModified: articolo.date,
+    author: { '@type': 'Organization', name: 'Redazione NotiziHub', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'NotiziHub', url: SITE_URL },
     url: canonicalUrl,
     image: `${SITE_URL}/nicchie/${articolo.nicchia}.png`,
@@ -176,7 +177,7 @@ export default function Articolo({ articolo }) {
         </h1>
 
         <div style={{ fontSize: 13, color: '#999', marginBottom: 24 }}>
-          Pubblicato il {articolo.date} · Aggiornato il {articolo.date} · Lettura: 5 min
+          <span style={{ fontWeight: 600, color: '#555' }}>Redazione NotiziHub</span> · Pubblicato il {articolo.date} · Lettura: 5 min
         </div>
 
         {/* TL;DR box */}

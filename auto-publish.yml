@@ -1,20 +1,19 @@
-name: Auto Publisher — NotiziHub
+name: Auto Publisher — NotiziHub Multilingua
 
 on:
   schedule:
-    # Ogni giorno alle 07:00 ora italiana (06:00 UTC)
     - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       articles_per_niche:
-        description: 'Articoli per nicchia (default: 3)'
+        description: 'Articoli per nicchia per lingua (default: 1)'
         required: false
-        default: '3'
+        default: '1'
 
 jobs:
   genera-articoli:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
 
     steps:
       - name: Checkout repository
@@ -31,17 +30,11 @@ jobs:
       - name: Installa dipendenze
         run: npm ci
 
-     - name: Test variabili
-        run: |
-          echo "GMAIL_USER presente: ${{ secrets.GMAIL_USER != '' }}"
-          echo "GMAIL_PASSWORD presente: ${{ secrets.GMAIL_PASSWORD != '' }}"
-
-      - name: Genera articoli con Claude AI
+      - name: Genera articoli in 6 lingue con Claude AI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SITE_URL: 'https://www.notizihub.com'
           OUTPUT_DIR: './notizihub-site/output'
-          ARTICLES_PER_NICHE: '1'
+          ARTICLES_PER_NICHE: ${{ github.event.inputs.articles_per_niche || '1' }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
         run: node index.js
@@ -51,52 +44,7 @@ jobs:
           git config --local user.email "bot@notizihub.it"
           git config --local user.name "NotiziHub Bot"
           git add notizihub-site/output/
-          git diff --staged --quiet || git commit -m "Auto: $(date '+%Y-%m-%d') — nuovi articoli generati"
+          git diff --staged --quiet || git commit -m "Auto: $(date '+%Y-%m-%d') — articoli multilingua (IT/EN/ES/DE/FR/PT)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Mostra report del giorno
-        run: |
-          REPORT="output/report-$(date '+%Y-%m-%d').json"
-          if [ -f "$REPORT" ]; then
-            echo "=== Report generazione ==="
-            cat "$REPORT"
-          fi
-          - name: Invia email report
-        continue-on-error: true
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.office365.com
-          server_port: 587
-          username: ${{ secrets.GMAIL_USER }}
-          password: ${{ secrets.GMAIL_PASSWORD }}
-          subject: "NotiziHub — ${{ env.TOTALE }} articoli generati il ${{ env.TODAY }}"
-          to: ${{ secrets.GMAIL_USER }}
-          from: NotiziHub Bot <${{ secrets.GMAIL_USER }}>
-          html_body: |
-            <html>
-            <body style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto">
-              <div style="background:#111;padding:20px;text-align:center">
-                <h1 style="color:white;margin:0">NotiziHub</h1>
-              </div>
-              <div style="padding:20px;background:#f9f9f9">
-                <table style="width:100%;border-collapse:collapse">
-                  <tr>
-                    <td style="padding:15px;background:white;border-left:4px solid #e63946;border-radius:4px">
-                      <div style="font-size:12px;color:#999">Data</div>
-                      <div style="font-size:24px;font-weight:bold">${{ env.TODAY }}</div>
-                    </td>
-                    <td style="width:15px"></td>
-                    <td style="padding:15px;background:white;border-left:4px solid #2a9d8f;border-radius:4px">
-                      <div style="font-size:12px;color:#999">Articoli generati</div>
-                      <div style="font-size:24px;font-weight:bold">${{ env.TOTALE }}</div>
-                    </td>
-                  </tr>
-                </table>
-                <div style="margin-top:20px;text-align:center">
-                  <a href="https://www.notizihub.com" style="background:#e63946;color:white;padding:12px 28px;border-radius:4px;text-decoration:none;font-weight:bold">Visita NotiziHub</a>
-                </div>
-              </div>
-            </body>
-            </html>

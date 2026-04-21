@@ -117,6 +117,13 @@ export default function Home({ articoli, articoliSearch }) {
         <title>NotiziHub — Notizie italiane aggiornate ogni giorno</title>
         <meta name="description" content="Finanza, crypto, tech, salute, viaggi e molto altro. Aggiornato ogni giorno." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="alternate" hrefLang="it" href="https://notizihub.it/" />
+        <link rel="alternate" hrefLang="en" href="https://notizihub.it/en" />
+        <link rel="alternate" hrefLang="es" href="https://notizihub.it/es" />
+        <link rel="alternate" hrefLang="de" href="https://notizihub.it/de" />
+        <link rel="alternate" hrefLang="fr" href="https://notizihub.it/fr" />
+        <link rel="alternate" hrefLang="pt" href="https://notizihub.it/pt" />
+        <link rel="alternate" hrefLang="x-default" href="https://notizihub.it/" />
         <style>{`
           * { box-sizing: border-box; margin: 0; padding: 0; }
           body { font-family: Georgia, serif; background: #f9f9f7; color: #111; }
@@ -148,7 +155,10 @@ export default function Home({ articoli, articoliSearch }) {
             <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#888', whiteSpace: 'nowrap' }}>
               {new Date().toLocaleDateString('it-IT', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
             </div>
-            <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+            <div style={{ display: 'flex', gap: 6, alignItems: 'center', flexWrap: 'wrap' }}>
+              {[{id:'en',flag:'🇺🇸'},{id:'es',flag:'🇪🇸'},{id:'de',flag:'🇩🇪'},{id:'fr',flag:'🇫🇷'},{id:'pt',flag:'🇧🇷'}].map(l => (
+                <Link key={l.id} href={`/${l.id}`} style={{ padding: '3px 7px', background: '#222', borderRadius: 4, fontSize: 11, color: '#ccc', fontFamily: 'system-ui' }}>{l.flag} {l.id.toUpperCase()}</Link>
+              ))}
               <button onClick={() => { setCercaAperto(!cercaAperto); setMenuAperto(false); }} style={{ background: '#222', border: '1px solid #444', borderRadius: 99, padding: '5px 12px', color: '#ccc', fontSize: 13, cursor: 'pointer', fontFamily: 'system-ui', display: 'flex', alignItems: 'center', gap: 4 }}>
                 🔍 <span>Cerca</span>
               </button>

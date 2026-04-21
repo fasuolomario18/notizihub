@@ -1,104 +1,16 @@
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
 import Link from 'next/link';
 import Head from 'next/head';
 import { useState } from 'react';
+import { LINGUE, SITE_URL, getNicchiaMeta } from '../lib/langPageHelpers';
 
-const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
-
-const LINGUE = [
-  { id: 'it', nome: 'Italiano', flag: '🇮🇹' },
-  { id: 'en', nome: 'English',  flag: '🇺🇸' },
-  { id: 'es', nome: 'Español',  flag: '🇪🇸' },
-  { id: 'de', nome: 'Deutsch',  flag: '🇩🇪' },
-  { id: 'fr', nome: 'Français', flag: '🇫🇷' },
-  { id: 'pt', nome: 'Português',flag: '🇧🇷' },
-];
-
-const NICCHIE_META = [
-  { id: 'finanza', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'crypto', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'tech', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'salute', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'viaggi', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'motori', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'gaming', colore: '#86198f', bg: '#FDF4FF' },
-  { id: 'casa', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'lavoro', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'sport', colore: '#0f766e', bg: '#F0FDFA' },
-  { id: 'assicurazioni', colore: '#1a56db', bg: '#EBF5FF' },
-  { id: 'fisco', colore: '#991b1b', bg: '#FEF2F2' },
-  { id: 'pensioni', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'prestiti', colore: '#b45309', bg: '#FFFBEB' },
-  { id: 'trading', colore: '#065f46', bg: '#ECFDF5' },
-  { id: 'cucina', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'moda', colore: '#86198f', bg: '#FDF4FF' },
-  { id: 'bellezza', colore: '#9d174d', bg: '#FFF1F2' },
-  { id: 'animali', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'ambiente', colore: '#166534', bg: '#F0FDF4' },
-  { id: 'startup', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'smartphone', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'scienza', colore: '#0f766e', bg: '#F0FDFA' },
-  { id: 'psicologia', colore: '#6d28d9', bg: '#F5F3FF' },
-  { id: 'cinema', colore: '#44403c', bg: '#FAFAF9' },
-  { id: 'energia', colore: '#b45309', bg: '#FFFBEB' },
-];
-
-function getNicchiaMeta(id) {
-  return NICCHIE_META.find(n => n.id === id) || { colore: '#111', bg: '#f5f5f5' };
-}
-
-export async function getStaticPaths() {
-  return {
-    paths: LINGUE.filter(l => l.id !== 'it').map(l => ({ params: { lang: l.id } })),
-    fallback: false,
-  };
-}
-
-export async function getStaticProps({ params }) {
-  const lang = params.lang;
-  if (!LINGUE.find(l => l.id === lang)) return { notFound: true };
-
-  const langDir = path.join(OUTPUT_DIR, lang);
-  const tutti = [];
-
-  if (fs.existsSync(langDir)) {
-    const nicchie = fs.readdirSync(langDir).filter(f =>
-      fs.statSync(path.join(langDir, f)).isDirectory() && !f.startsWith('.')
-    );
-    for (const nicchia of nicchie) {
-      const dir = path.join(langDir, nicchia);
-      const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-      for (const file of files) {
-        const { data } = matter(fs.readFileSync(path.join(dir, file), 'utf-8'));
-        tutti.push({
-          titolo: data.title || '',
-          slug: data.slug || '',
-          nicchia,
-          nicchia_nome: data.nicchia_nome || nicchia,
-          data: data.date || '',
-          meta: data.meta_description || '',
-        });
-      }
-    }
-  }
-
-  tutti.sort((a, b) => new Date(b.data) - new Date(a.data));
-  const lingua = LINGUE.find(l => l.id === lang);
-
-  return { props: { articoli: tutti.slice(0, 30), lang, lingua }, revalidate: 3600 };
-}
+const titles = { en: 'NotiziHub — Daily News', es: 'NotiziHub — Noticias del Día', de: 'NotiziHub — Aktuelle Nachrichten', fr: 'NotiziHub — Actualités', pt: 'NotiziHub — Notícias do Dia' };
+const descriptions = { en: 'Daily news updated every day.', es: 'Noticias actualizadas cada día.', de: 'Täglich aktualisierte Nachrichten.', fr: 'Actualités mises à jour chaque jour.', pt: 'Notícias atualizadas todos os dias.' };
 
 export default function LangHome({ articoli, lang, lingua }) {
   const [menuAperto, setMenuAperto] = useState(false);
   const principale = articoli[0];
   const secondari = articoli.slice(1, 4);
   const resto = articoli.slice(4);
-
-  const titles = { it: 'NotiziHub — Notizie aggiornate', en: 'NotiziHub — Daily News', es: 'NotiziHub — Noticias del Día', de: 'NotiziHub — Aktuelle Nachrichten', fr: 'NotiziHub — Actualités', pt: 'NotiziHub — Notícias do Dia' };
-  const descriptions = { it: 'Notizie italiane aggiornate ogni giorno.', en: 'Daily news updated every day.', es: 'Noticias actualizadas cada día.', de: 'Täglich aktualisierte Nachrichten.', fr: 'Actualités mises à jour chaque jour.', pt: 'Notícias atualizadas todos os dias.' };
 
   return (
     <>
@@ -122,15 +34,14 @@ export default function LangHome({ articoli, lang, lingua }) {
 
       <header style={{ background: '#111', color: '#fff', borderBottom: '3px solid #e63946' }}>
         <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 16px' }}>
-          <div style={{ padding: '10px 0 8px', borderBottom: '1px solid #333', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <div style={{ padding: '10px 0 8px', borderBottom: '1px solid #333', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 8 }}>
             <div style={{ fontFamily: 'system-ui', fontSize: 11, color: '#888' }}>
               {new Date().toLocaleDateString(lingua?.locale || 'en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
             </div>
-            {/* Selettore lingua */}
             <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-              <Link href="/" style={{ padding: '3px 8px', background: lang === 'it' ? '#e63946' : '#222', borderRadius: 4, fontSize: 12, color: '#fff', fontFamily: 'system-ui' }}>🇮🇹 IT</Link>
+              <Link href="/" style={{ padding: '3px 7px', background: '#222', borderRadius: 4, fontSize: 11, color: '#ccc', fontFamily: 'system-ui' }}>🇮🇹 IT</Link>
               {LINGUE.filter(l => l.id !== 'it').map(l => (
-                <Link key={l.id} href={`/${l.id}`} style={{ padding: '3px 8px', background: lang === l.id ? '#e63946' : '#222', borderRadius: 4, fontSize: 12, color: '#fff', fontFamily: 'system-ui' }}>{l.flag} {l.id.toUpperCase()}</Link>
+                <Link key={l.id} href={`/${l.id}`} style={{ padding: '3px 7px', background: lang === l.id ? '#e63946' : '#222', borderRadius: 4, fontSize: 11, color: '#fff', fontFamily: 'system-ui' }}>{l.flag} {l.id.toUpperCase()}</Link>
               ))}
             </div>
           </div>

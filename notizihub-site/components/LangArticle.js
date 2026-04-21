@@ -1,102 +1,12 @@
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
-import { remark } from 'remark';
-import html from 'remark-html';
 import Head from 'next/head';
 import Link from 'next/link';
+import { LINGUE, SITE_URL } from '../lib/langPageHelpers';
 
-const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
+const faqLabels = { en: 'Frequently Asked Questions', es: 'Preguntas Frecuentes', de: 'Häufig gestellte Fragen', fr: 'Questions Fréquentes', pt: 'Perguntas Frequentes' };
+const correlatiLabels = { en: 'Related articles', es: 'Artículos relacionados', de: 'Ähnliche Artikel', fr: 'Articles similaires', pt: 'Artigos relacionados' };
+const sintesiLabels = { en: 'Summary', es: 'En resumen', de: 'Zusammenfassung', fr: 'En résumé', pt: 'Em resumo' };
 
-const LINGUE = [
-  { id: 'it', nome: 'Italiano', flag: '🇮🇹', locale: 'it-IT' },
-  { id: 'en', nome: 'English',  flag: '🇺🇸', locale: 'en-US' },
-  { id: 'es', nome: 'Español',  flag: '🇪🇸', locale: 'es-ES' },
-  { id: 'de', nome: 'Deutsch',  flag: '🇩🇪', locale: 'de-DE' },
-  { id: 'fr', nome: 'Français', flag: '🇫🇷', locale: 'fr-FR' },
-  { id: 'pt', nome: 'Português',flag: '🇧🇷', locale: 'pt-BR' },
-];
-
-export async function getStaticPaths() {
-  const paths = [];
-  const validLangs = LINGUE.filter(l => l.id !== 'it').map(l => l.id);
-
-  for (const lang of validLangs) {
-    const langDir = path.join(OUTPUT_DIR, lang);
-    if (!fs.existsSync(langDir)) continue;
-    const nicchie = fs.readdirSync(langDir).filter(f => fs.statSync(path.join(langDir, f)).isDirectory() && !f.startsWith('.'));
-    for (const nicchia of nicchie) {
-      const dir = path.join(langDir, nicchia);
-      const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-      for (const file of files) {
-        const { data } = matter(fs.readFileSync(path.join(dir, file), 'utf-8'));
-        if (data.slug) paths.push({ params: { lang, nicchia, slug: data.slug } });
-      }
-    }
-  }
-  return { paths, fallback: 'blocking' };
-}
-
-function parseFaq(content) {
-  const sectionPattern = /## (Domande Frequenti|Frequently Asked Questions|Preguntas Frecuentes|Häufig gestellte Fragen|Questions Fréquentes|Perguntas Frequentes)([\s\S]*?)(?=\n## |\n<!-- META|$)/;
-  const faqMatch = content.match(sectionPattern);
-  if (!faqMatch) return [];
-  const faqs = [];
-  const re = /\*\*(Q|D|P|F):\s*(.*?)\*\*\s*\n(A|R):\s*(.*?)(?=\n\*\*|\n<!-- META|$)/gs;
-  let m;
-  while ((m = re.exec(faqMatch[2])) !== null) {
-    faqs.push({ q: m[2].trim().replace(/\?$/, ''), a: m[4].trim() });
-  }
-  return faqs;
-}
-
-function parseTldr(content) {
-  const m = content.match(/<!--\s*TLDR\s*-->([\s\S]*?)<!--\s*\/TLDR\s*-->/);
-  return m ? m[1].trim() : null;
-}
-
-export async function getStaticProps({ params }) {
-  const { lang, nicchia, slug } = params;
-  if (!LINGUE.find(l => l.id === lang && l.id !== 'it')) return { notFound: true };
-
-  const dir = path.join(OUTPUT_DIR, lang, nicchia);
-  if (!fs.existsSync(dir)) return { notFound: true };
-
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-  let articolo = null;
-
-  for (const file of files) {
-    const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
-    const { data, content } = matter(raw);
-    if (data.slug === slug) {
-      const tldr = parseTldr(content);
-      const faqs = parseFaq(content);
-      const cleanContent = content.replace(/<!--\s*TLDR\s*-->[\s\S]*?<!--\s*\/TLDR\s*-->\n?/g, '');
-      const processed = await remark().use(html).process(cleanContent);
-      articolo = { ...data, contenuto: processed.toString(), tldr, faqs };
-      break;
-    }
-  }
-
-  if (!articolo) return { notFound: true };
-
-  const correlati = [];
-  for (const file of files) {
-    const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
-    const { data } = matter(raw);
-    if (data.slug && data.slug !== slug) {
-      correlati.push({ titolo: data.title || '', slug: data.slug, meta: data.meta_description || '', data: data.date || '' });
-    }
-  }
-  correlati.sort((a, b) => new Date(b.data) - new Date(a.data));
-  articolo.correlati = correlati.slice(0, 3);
-
-  const lingua = LINGUE.find(l => l.id === lang) || LINGUE[1];
-  return { props: { articolo, lang, nicchia, lingua }, revalidate: 86400 };
-}
-
-export default function Articolo({ articolo, lang, nicchia, lingua }) {
+export default function LangArticle({ articolo, lang, nicchia, lingua }) {
   const canonicalUrl = `${SITE_URL}/${lang}/${nicchia}/${articolo.slug}`;
 
   const articleSchema = {
@@ -122,10 +32,6 @@ export default function Articolo({ articolo, lang, nicchia, lingua }) {
     })),
   } : null;
 
-  const faqLabels = { it: 'Domande Frequenti', en: 'Frequently Asked Questions', es: 'Preguntas Frecuentes', de: 'Häufig gestellte Fragen', fr: 'Questions Fréquentes', pt: 'Perguntas Frequentes' };
-  const correlatiLabels = { it: 'Articoli correlati', en: 'Related articles', es: 'Artículos relacionados', de: 'Ähnliche Artikel', fr: 'Articles similaires', pt: 'Artigos relacionados' };
-  const sintesiLabels = { it: 'In sintesi', en: 'Summary', es: 'En resumen', de: 'Zusammenfassung', fr: 'En résumé', pt: 'Em resumo' };
-
   return (
     <>
       <Head>
@@ -138,8 +44,8 @@ export default function Articolo({ articolo, lang, nicchia, lingua }) {
         <meta property="og:url" content={canonicalUrl} />
         <link rel="canonical" href={canonicalUrl} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+        {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />}
         <style>{`
           * { box-sizing: border-box; margin: 0; padding: 0; }
           body { font-family: system-ui, sans-serif; background: #f9f9f7; color: #111; }
@@ -164,8 +70,8 @@ export default function Articolo({ articolo, lang, nicchia, lingua }) {
           </Link>
           <div style={{ display: 'flex', gap: 6 }}>
             <Link href="/" style={{ padding: '3px 7px', background: '#f0f0f0', borderRadius: 4, fontSize: 11, color: '#555' }}>🇮🇹</Link>
-            {['en','es','de','fr','pt'].map(l => (
-              <Link key={l} href={`/${l}`} style={{ padding: '3px 7px', background: lang === l ? '#e63946' : '#f0f0f0', borderRadius: 4, fontSize: 11, color: lang === l ? '#fff' : '#555' }}>{l.toUpperCase()}</Link>
+            {LINGUE.filter(l => l.id !== 'it').map(l => (
+              <Link key={l.id} href={`/${l.id}`} style={{ padding: '3px 7px', background: lang === l.id ? '#e63946' : '#f0f0f0', borderRadius: 4, fontSize: 11, color: lang === l.id ? '#fff' : '#555' }}>{l.id.toUpperCase()}</Link>
             ))}
           </div>
         </header>
@@ -174,11 +80,9 @@ export default function Articolo({ articolo, lang, nicchia, lingua }) {
           <img src={`/nicchie/${nicchia}.png`} alt={articolo.nicchia_nome || nicchia} className="article-hero" />
         </div>
 
-        <div style={{ marginBottom: 12 }}>
-          <Link href={`/${lang}`} style={{ display: 'inline-block', padding: '3px 10px', borderRadius: 99, fontSize: 12, fontWeight: 600, background: '#E6F1FB', color: '#0C447C', marginBottom: 16 }}>
-            {articolo.nicchia_nome}
-          </Link>
-        </div>
+        <Link href={`/${lang}`} style={{ display: 'inline-block', padding: '3px 10px', borderRadius: 99, fontSize: 12, fontWeight: 600, background: '#E6F1FB', color: '#0C447C', marginBottom: 16 }}>
+          {articolo.nicchia_nome}
+        </Link>
 
         <h1 style={{ fontSize: 30, fontWeight: 700, lineHeight: 1.3, color: '#111', marginBottom: 12 }}>{articolo.title}</h1>
         <div style={{ fontSize: 13, color: '#999', marginBottom: 24 }}>{articolo.date} · 5 min</div>

@@ -7,6 +7,34 @@ import { LINGUE } from './langConfig';
 
 const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
 
+export async function getLangNicchiaPaths(lang) {
+  const langDir = path.join(OUTPUT_DIR, lang);
+  if (!fs.existsSync(langDir)) return { paths: [], fallback: 'blocking' };
+  const nicchie = fs.readdirSync(langDir).filter(f =>
+    fs.statSync(path.join(langDir, f)).isDirectory() && !f.startsWith('.')
+  );
+  return { paths: nicchie.map(n => ({ params: { nicchia: n } })), fallback: 'blocking' };
+}
+
+export async function getLangNicchiaProps(lang, params) {
+  const { nicchia } = params;
+  const dir = path.join(OUTPUT_DIR, lang, nicchia);
+  const articoli = [];
+
+  if (fs.existsSync(dir)) {
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+    for (const file of files) {
+      const { data } = matter(fs.readFileSync(path.join(dir, file), 'utf-8'));
+      articoli.push({ titolo: data.title || '', slug: data.slug || '', data: data.date || '', meta: data.meta_description || '', nicchia_nome: data.nicchia_nome || nicchia });
+    }
+  }
+
+  articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
+  const nicchiaNome = articoli[0]?.nicchia_nome || nicchia;
+  const lingua = LINGUE.find(l => l.id === lang) || LINGUE[1];
+  return { props: { articoli, nicchia, nicchiaNome, lang, lingua }, revalidate: 3600 };
+}
+
 export function getLangDir(lang) {
   return path.join(OUTPUT_DIR, lang);
 }

@@ -66,7 +66,8 @@ export async function getLangHomeProps(lang) {
 
   tutti.sort((a, b) => new Date(b.data) - new Date(a.data));
   const lingua = LINGUE.find(l => l.id === lang);
-  return { props: { articoli: tutti.slice(0, 30), lang, lingua }, revalidate: 3600 };
+  const articoliSearch = tutti.map(a => ({ titolo: a.titolo, slug: a.slug, nicchia: a.nicchia, nicchia_nome: a.nicchia_nome, meta: a.meta }));
+  return { props: { articoli: tutti.slice(0, 30), articoliSearch, lang, lingua }, revalidate: 3600 };
 }
 
 export async function getLangArticlePaths(lang) {

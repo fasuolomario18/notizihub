@@ -1,6 +1,6 @@
 ---
-title: "Le auto 'super ibride' diventeranno 'iper ibride': come e perché - Motor1.com Italia"
-slug: "le-auto-super-ibride-diventeranno-iper-ibride-come-e-perche---motor1com-italia"
+title: "Auto Elettrica: Le Super Ibride Diventano Iper Ibride nel 2026"
+slug: "auto-elettrica-le-super-ibride-diventano-iper-ibride-nel-2026"
 date: "2026-04-12"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

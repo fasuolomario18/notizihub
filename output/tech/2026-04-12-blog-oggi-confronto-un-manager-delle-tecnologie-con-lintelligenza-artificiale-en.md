@@ -1,6 +1,6 @@
 ---
-title: "Blog | Oggi confronto un manager delle tecnologie con l’intelligenza artificiale: entrambi sono convincenti - Il Fatto Quotidiano"
-slug: "blog-oggi-confronto-un-manager-delle-tecnologie-con-lintelligenza-artificiale-en"
+title: "Intelligenza Artificiale contro Manager Tecnologico: Chi Convince di Più nel 2026?"
+slug: "intelligenza-artificiale-contro-manager-tecnologico-chi-convince-di-piu-nel-2026"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

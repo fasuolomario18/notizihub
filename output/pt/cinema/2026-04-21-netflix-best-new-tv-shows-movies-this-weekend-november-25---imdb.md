@@ -1,6 +1,6 @@
 ---
-title: "Netflix: Best New TV Shows & Movies This Weekend (November 25) - IMDb"
-slug: "netflix-best-new-tv-shows-movies-this-weekend-november-25---imdb"
+title: "Netflix: Melhores Filmes e Séries Novas Este Fim de Semana"
+slug: "netflix-melhores-filmes-e-series-novas-este-fim-de-semana"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Séries"

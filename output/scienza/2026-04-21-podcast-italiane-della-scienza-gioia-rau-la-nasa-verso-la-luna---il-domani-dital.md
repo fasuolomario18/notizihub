@@ -1,6 +1,6 @@
 ---
-title: "Podcast 'Italiane della scienza': Gioia Rau, la Nasa verso la Luna - Il Domani d'Italia"
-slug: "podcast-italiane-della-scienza-gioia-rau-la-nasa-verso-la-luna---il-domani-dital"
+title: "Scienza e Spazio: Gioia Rau, la ricercatrice italiana che guida la NASA verso la Luna"
+slug: "scienza-e-spazio-gioia-rau-la-ricercatrice-italiana-che-guida-la-nasa-verso-la-l"
 date: "2026-04-21"
 nicchia: "scienza"
 nicchia_nome: "Scienza & Spazio"

@@ -1,6 +1,6 @@
 ---
-title: "Torna il range extender e si accende il dibattito: utile o passo indietro? - Vaielettrico"
-slug: "torna-il-range-extender-e-si-accende-il-dibattito-utile-o-passo-indietro---vaiel"
+title: "Range Extender per Auto Elettrica: Ritorno al Futuro o Passo Indietro?"
+slug: "range-extender-per-auto-elettrica-ritorno-al-futuro-o-passo-indietro"
 date: "2026-04-14"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

@@ -1,10 +1,10 @@
 ---
-title: "Ebat Ciala Catania al Vinitaly: borse di studio per gli studenti del Corso di Laurea in Viticoltura - Sikelian"
-slug: "ebat-ciala-catania-al-vinitaly-borse-di-studio-per-gli-studenti-del-corso-di-lau"
+title: "Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura"
+slug: "ebat-ciala-catania-al-vinitaly-borse-di-studio-per-studenti-universitari-di-viti"
 date: "2026-04-16"
 nicchia: "università"
 nicchia_nome: "Università & Studio"
-meta_description: "Ebat Ciala Catania al Vinitaly: borse di studio per gli studenti del Corso di Laurea in Viticoltura - Sikelian"
+meta_description: "Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
 ---

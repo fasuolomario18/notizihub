@@ -1,6 +1,6 @@
 ---
-title: "Le esportazioni di vino dell'UE diminuiscono di 1 miliardo di euro nel 2025 nonostante il record del commercio agroalimentare - Vinetur"
-slug: "le-esportazioni-di-vino-dellue-diminuiscono-di-1-miliardo-di-euro-nel-2025-nonos"
+title: "Vino e Gastronomia in Crisi: Come i Ristoranti Italiani Affrontano il Calo delle Esportazioni UE nel 2026"
+slug: "vino-e-gastronomia-in-crisi-come-i-ristoranti-italiani-affrontano-il-calo-delle-"
 date: "2026-04-08"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"

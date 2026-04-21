@@ -1,6 +1,6 @@
 ---
-title: "Modello 730/2026, come portare portare in detrazione gli interessi passivi del mutuo - QuiFinanza"
-slug: "modello-7302026-come-portare-portare-in-detrazione-gli-interessi-passivi-del-mut"
+title: "Dichiarazione dei redditi 2026: Come portare in detrazione gli interessi passivi del mutuo nel Modello 730"
+slug: "dichiarazione-dei-redditi-2026-come-portare-in-detrazione-gli-interessi-passivi-"
 date: "2026-04-19"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"

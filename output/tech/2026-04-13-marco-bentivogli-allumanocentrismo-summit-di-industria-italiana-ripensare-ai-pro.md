@@ -1,10 +1,10 @@
 ---
-title: "Marco Bentivogli all’Umanocentrismo Summit di Industria Italiana: ripensare ai processi lavorativi nell'era dell'AI (22 aprile, 13:40) - Industria Italiana"
-slug: "marco-bentivogli-allumanocentrismo-summit-di-industria-italiana-ripensare-ai-pro"
+title: "Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale"
+slug: "intelligenza-artificiale-e-umanocentrismo-come-ripensare-i-processi-lavorativi-n"
 date: "2026-04-13"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Marco Bentivogli all’Umanocentrismo Summit di Industria Italiana: ripensare ai processi lavorativi nell'era dell'AI (22 aprile, 13:40) - Industria Italiana"
+meta_description: "Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

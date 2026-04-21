@@ -1,10 +1,10 @@
 ---
-title: "I chatbot con intelligenza artificiale hanno effetti sugli adolescenti simili alle droghe - Corriere della Sera"
-slug: "i-chatbot-con-intelligenza-artificiale-hanno-effetti-sugli-adolescenti-simili-al"
+title: "Intelligenza Artificiale e Chatbot: Gli Effetti Sugli Adolescenti Nel 2026"
+slug: "intelligenza-artificiale-e-chatbot-gli-effetti-sugli-adolescenti-nel-2026"
 date: "2026-04-18"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "I chatbot con intelligenza artificiale hanno effetti sugli adolescenti simili alle droghe - Corriere della Sera"
+meta_description: "Intelligenza Artificiale e Chatbot: Gli Effetti Sugli Adolescenti Nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

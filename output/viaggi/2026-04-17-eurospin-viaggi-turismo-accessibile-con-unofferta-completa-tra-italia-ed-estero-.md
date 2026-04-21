@@ -1,10 +1,10 @@
 ---
-title: "Eurospin Viaggi: turismo accessibile con un’offerta completa tra Italia ed estero - L'Arena"
-slug: "eurospin-viaggi-turismo-accessibile-con-unofferta-completa-tra-italia-ed-estero-"
+title: "Eurospin Viaggi: Voli Low Cost e Hotel a Portata di Tutti nel 2026"
+slug: "eurospin-viaggi-voli-low-cost-e-hotel-a-portata-di-tutti-nel-2026"
 date: "2026-04-17"
 nicchia: "viaggi"
 nicchia_nome: "Viaggi"
-meta_description: "Eurospin Viaggi: turismo accessibile con un’offerta completa tra Italia ed estero - L'Arena"
+meta_description: "Eurospin Viaggi: Voli Low Cost e Hotel a Portata di Tutti nel 2026"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Ebat Ciala Catania al Vinitaly: finanziate borse di studio per gli studenti del Corso di Laurea in Viticoltura - Zarabazà"
-slug: "ebat-ciala-catania-al-vinitaly-finanziate-borse-di-studio-per-gli-studenti-del-c"
+title: "Università e Borse di Studio: Ebat Ciala Catania Finanzia gli Studenti di Viticoltura al Vinitaly 2026"
+slug: "universita-e-borse-di-studio-ebat-ciala-catania-finanzia-gli-studenti-di-viticol"
 date: "2026-04-17"
 nicchia: "università"
 nicchia_nome: "Università & Studio"
-meta_description: "Ebat Ciala Catania al Vinitaly: finanziate borse di studio per gli studenti del Corso di Laurea in Viticoltura - Zarabazà"
+meta_description: "Università e Borse di Studio: Ebat Ciala Catania Finanzia gli Studenti di Viticoltura al Vinitaly 2026"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Queste sono le 10 tendenze moda autunno inverno 2026 2027: eleganza concreta, layering, e rivistazioni del passato - Vogue Italia"
-slug: "queste-sono-le-10-tendenze-moda-autunno-inverno-2026-2027-eleganza-concreta-laye"
+title: "Le 10 Tendenze Moda Autunno Inverno 2026-2027: Eleganza Concreta e Layering Protagonisti"
+slug: "le-10-tendenze-moda-autunno-inverno-2026-2027-eleganza-concreta-e-layering-prota"
 date: "2026-04-07"
 nicchia: "moda"
 nicchia_nome: "Moda & Stile"
-meta_description: "Queste sono le 10 tendenze moda autunno inverno 2026 2027: eleganza concreta, layering, e rivistazioni del passato - Vogue Italia"
+meta_description: "Le 10 Tendenze Moda Autunno Inverno 2026-2027: Eleganza Concreta e Layering Protagonisti"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
 ---

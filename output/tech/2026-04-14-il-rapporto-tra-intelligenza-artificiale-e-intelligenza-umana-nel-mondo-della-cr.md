@@ -1,6 +1,6 @@
 ---
-title: "Il rapporto tra intelligenza artificiale e intelligenza umana nel mondo della creatività: MIR sceglie di rimettere al centro la persona - Il Riformista"
-slug: "il-rapporto-tra-intelligenza-artificiale-e-intelligenza-umana-nel-mondo-della-cr"
+title: "Intelligenza Artificiale e Creatività Umana: Come MIR Rimette la Persona al Centro nel 2026"
+slug: "intelligenza-artificiale-e-creativita-umana-come-mir-rimette-la-persona-al-centr"
 date: "2026-04-14"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

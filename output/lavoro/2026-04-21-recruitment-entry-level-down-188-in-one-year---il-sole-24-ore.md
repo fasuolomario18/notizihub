@@ -1,6 +1,6 @@
 ---
-title: "Recruitment, entry level down 18.8% in one year - Il Sole 24 ORE"
-slug: "recruitment-entry-level-down-188-in-one-year---il-sole-24-ore"
+title: "Smart Working, Stipendio e Curriculum: Come Affrontare il Calo del 18,8% nel Recruitment Entry Level"
+slug: "smart-working-stipendio-e-curriculum-come-affrontare-il-calo-del-188-nel-recruit"
 date: "2026-04-21"
 nicchia: "lavoro"
 nicchia_nome: "Lavoro & Carriera"

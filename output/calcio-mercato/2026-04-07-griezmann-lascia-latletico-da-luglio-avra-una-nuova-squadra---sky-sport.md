@@ -1,6 +1,6 @@
 ---
-title: "Griezmann lascia l'Atletico: da luglio avrà una nuova squadra - Sky Sport"
-slug: "griezmann-lascia-latletico-da-luglio-avra-una-nuova-squadra---sky-sport"
+title: "Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026"
+slug: "griezmann-lascia-latletico-madrid-le-possibili-destinazioni-nel-calciomercato-20"
 date: "2026-04-07"
 nicchia: "calcio-mercato"
 nicchia_nome: "Calciomercato"

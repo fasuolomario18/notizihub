@@ -1,10 +1,10 @@
 ---
-title: "Lark Davis dice che il 99% delle crypto andrà a zero — Solo 3 coin sopravvivranno - Yellow.com"
-slug: "lark-davis-dice-che-il-99-delle-crypto-andra-a-zero-solo-3-coin-sopravvivranno--"
+title: "Bitcoin, Ethereum e le Altcoin: Lark Davis Prevede il Crollo del 99% delle Criptovalute nel 2026"
+slug: "bitcoin-ethereum-e-le-altcoin-lark-davis-prevede-il-crollo-del-99-delle-criptova"
 date: "2026-04-11"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"
-meta_description: "Lark Davis dice che il 99% delle crypto andrà a zero — Solo 3 coin sopravvivranno - Yellow.com"
+meta_description: "Bitcoin, Ethereum e le Altcoin: Lark Davis Prevede il Crollo del 99% delle Criptovalute nel 2026"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
 ---

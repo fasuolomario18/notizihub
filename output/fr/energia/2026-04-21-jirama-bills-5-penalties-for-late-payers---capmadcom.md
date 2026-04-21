@@ -1,6 +1,6 @@
 ---
-title: "Jirama bills : 5 % penalties for late payers - Capmad.com"
-slug: "jirama-bills-5-penalties-for-late-payers---capmadcom"
+title: "Facture d'électricité Jirama : comprendre les pénalités de 5% pour les retards de paiement"
+slug: "facture-delectricite-jirama-comprendre-les-penalites-de-5-pour-les-retards-de-pa"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Énergie & Factures"

@@ -1,6 +1,6 @@
 ---
-title: "As AI Accelerates Software Complexity, Thoughtworks Technology Radar Urges a Return to Engineering Fundamentals - Bolsamania"
-slug: "as-ai-accelerates-software-complexity-thoughtworks-technology-radar-urges-a-retu"
+title: "Inteligencia Artificial y Complejidad del Software: Por Qué los Fundamentos de Ingeniería Son Más Importantes Que Nunca"
+slug: "inteligencia-artificial-y-complejidad-del-software-por-que-los-fundamentos-de-in"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Tecnología & IA"

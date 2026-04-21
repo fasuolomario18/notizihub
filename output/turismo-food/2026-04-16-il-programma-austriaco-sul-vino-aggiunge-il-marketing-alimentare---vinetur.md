@@ -1,10 +1,10 @@
 ---
-title: "Il programma austriaco sul vino aggiunge il marketing alimentare - Vinetur"
-slug: "il-programma-austriaco-sul-vino-aggiunge-il-marketing-alimentare---vinetur"
+title: "Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026"
+slug: "vino-e-gastronomia-laustria-potenzia-il-marketing-alimentare-nel-2026"
 date: "2026-04-16"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"
-meta_description: "Il programma austriaco sul vino aggiunge il marketing alimentare - Vinetur"
+meta_description: "Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Supervisione dell’Esma, tutte le riserve dei fondi di investimento - Il Sole 24 ORE"
-slug: "supervisione-dellesma-tutte-le-riserve-dei-fondi-di-investimento---il-sole-24-or"
+title: "Supervisione Esma sui Fondi di Investimento: Cosa Cambierà per i Tuoi Risparmi nel 2026"
+slug: "supervisione-esma-sui-fondi-di-investimento-cosa-cambiera-per-i-tuoi-risparmi-ne"
 date: "2026-04-09"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"

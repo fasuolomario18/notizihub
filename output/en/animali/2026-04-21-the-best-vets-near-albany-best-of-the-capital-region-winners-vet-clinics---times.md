@@ -1,6 +1,6 @@
 ---
-title: "The Best Vets Near Albany | Best of the Capital Region Winners Vet Clinics - Times Union"
-slug: "the-best-vets-near-albany-best-of-the-capital-region-winners-vet-clinics---times"
+title: "The Best Vets Near Albany | Best of the Capital Region Winners Vet Clinics"
+slug: "the-best-vets-near-albany-best-of-the-capital-region-winners-vet-clinics"
 date: "2026-04-21"
 nicchia: "animali"
 nicchia_nome: "Pets"

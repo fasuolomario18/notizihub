@@ -1,6 +1,6 @@
 ---
-title: "Notizie sui prezzi di BTC, ETH, SOL: le azioni crypto balzano del 10%-20% mentre il Bitcoin raggiunge 78.000$ per le trattative con l'Iran - CoinDesk"
-slug: "notizie-sui-prezzi-di-btc-eth-sol-le-azioni-crypto-balzano-del-10-20-mentre-il-b"
+title: "Bitcoin, Ethereum e Solana in forte rialzo: le quotazioni crypto superano i massimi storici"
+slug: "bitcoin-ethereum-e-solana-in-forte-rialzo-le-quotazioni-crypto-superano-i-massim"
 date: "2026-04-21"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

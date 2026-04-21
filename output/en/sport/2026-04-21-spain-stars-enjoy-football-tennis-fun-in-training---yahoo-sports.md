@@ -1,6 +1,6 @@
 ---
-title: "Spain stars enjoy football tennis fun in training - Yahoo Sports"
-slug: "spain-stars-enjoy-football-tennis-fun-in-training---yahoo-sports"
+title: "Spain Stars Enjoy Football Tennis Fun in Training: A Refreshing Break from the Beautiful Game"
+slug: "spain-stars-enjoy-football-tennis-fun-in-training-a-refreshing-break-from-the-be"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sports"

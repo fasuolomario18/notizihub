@@ -1,11 +1,11 @@
 ---
-title: "THE BALANCE warnt: Verlieren wir durch Wellness-Tech unser Körpergefühl? - PressNetwork"
-slug: "the-balance-warnt-verlieren-wir-durch-wellness-tech-unser-korpergefuhl---pressne"
+title: "Wellness-Tech und Diät: Verlieren wir unser natürliches Körpergefühl?"
+slug: "wellness-tech-und-diat-verlieren-wir-unser-naturliches-korpergefuhl"
 date: "2026-04-21"
 nicchia: "salute"
 nicchia_nome: "Gesundheit & Wellness"
 lang: "de"
-meta_description: "THE BALANCE warnt: Verlieren wir durch Wellness-Tech unser Körpergefühl? - PressNetwork"
+meta_description: "Wellness-Tech und Diät: Verlieren wir unser natürliches Körpergefühl?"
 tags: ["Diät", "Wohlbefinden", "Prävention"]
 auto_generated: true
 ---

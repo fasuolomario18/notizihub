@@ -1,6 +1,6 @@
 ---
-title: "Controlli fiscali indeboliti dopo i tagli di Trump, rivelano i dati dell'IRS - MarketScreener Italia"
-slug: "controlli-fiscali-indeboliti-dopo-i-tagli-di-trump-rivelano-i-dati-dellirs---mar"
+title: "Dichiarazione dei redditi: come i tagli fiscali americani indeboliscono i controlli tributari"
+slug: "dichiarazione-dei-redditi-come-i-tagli-fiscali-americani-indeboliscono-i-control"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"

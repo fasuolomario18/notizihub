@@ -1,6 +1,6 @@
 ---
-title: "EPAM and Sinclair Stocks Trade Up, What You Need To Know - TradingView"
-slug: "epam-and-sinclair-stocks-trade-up-what-you-need-to-know---tradingview"
+title: "Trading de Ações: EPAM e Sinclair em Alta - O Que Você Precisa Saber"
+slug: "trading-de-acoes-epam-e-sinclair-em-alta---o-que-voce-precisa-saber"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Trading Online"

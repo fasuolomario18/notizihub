@@ -1,6 +1,6 @@
 ---
-title: "Egyptians Housing Development Aktie (EGS65341C017): Ist das Immobilienmodell stark genug für ägypt - AD HOC NEWS"
-slug: "egyptians-housing-development-aktie-egs65341c017-ist-das-immobilienmodell-stark-"
+title: "Egyptians Housing Development Aktie: Ist das Immobilienmodell mit Hypothek und Miete stark genug?"
+slug: "egyptians-housing-development-aktie-ist-das-immobilienmodell-mit-hypothek-und-mi"
 date: "2026-04-21"
 nicchia: "casa"
 nicchia_nome: "Haus & Immobilien"

@@ -1,6 +1,6 @@
 ---
-title: "Italia coinvolta nel passaggio di due nuove perturbazioni, tornano piogge e temporali - RaiNews"
-slug: "italia-coinvolta-nel-passaggio-di-due-nuove-perturbazioni-tornano-piogge-e-tempo"
+title: "Meteo Italia: Due Perturbazioni in Arrivo, Ritornano Piogge e Temporali ad Aprile 2026"
+slug: "meteo-italia-due-perturbazioni-in-arrivo-ritornano-piogge-e-temporali-ad-aprile-"
 date: "2026-04-07"
 nicchia: "meteo"
 nicchia_nome: "Meteo"

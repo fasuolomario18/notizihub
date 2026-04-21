@@ -1,6 +1,6 @@
 ---
-title: "Average Personal Loan Interest Rates in April 2026 - Bankrate"
-slug: "average-personal-loan-interest-rates-in-april-2026---bankrate"
+title: "Average Personal Loan Interest Rates in April 2026: What Bankrate Data Shows"
+slug: "average-personal-loan-interest-rates-in-april-2026-what-bankrate-data-shows"
 date: "2026-04-21"
 nicchia: "prestiti"
 nicchia_nome: "Loans & Credit"

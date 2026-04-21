@@ -1,6 +1,6 @@
 ---
-title: "Novità streaming di aprile 2026: i film e le serie da non perdere - Sortir à Paris"
-slug: "novita-streaming-di-aprile-2026-i-film-e-le-serie-da-non-perdere---sortir-a-pari"
+title: "Film e Serie TV da non perdere su Netflix ad Aprile 2026"
+slug: "film-e-serie-tv-da-non-perdere-su-netflix-ad-aprile-2026"
 date: "2026-04-13"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

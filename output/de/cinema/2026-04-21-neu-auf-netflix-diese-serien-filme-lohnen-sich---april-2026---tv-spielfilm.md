@@ -1,6 +1,6 @@
 ---
-title: "Neu auf Netflix: Diese Serien & Filme lohnen sich - April 2026 - TV Spielfilm"
-slug: "neu-auf-netflix-diese-serien-filme-lohnen-sich---april-2026---tv-spielfilm"
+title: "Neu auf Netflix April 2026: Diese Serien und Filme lohnen sich"
+slug: "neu-auf-netflix-april-2026-diese-serien-und-filme-lohnen-sich"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Kino & Serien"

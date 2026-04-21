@@ -1,6 +1,6 @@
 ---
-title: "Setback for renewables: new installations down - Il Sole 24 ORE"
-slug: "setback-for-renewables-new-installations-down---il-sole-24-ore"
+title: "Fotovoltaico in calo: come il rallentamento delle rinnovabili impatta la tua bolletta luce"
+slug: "fotovoltaico-in-calo-come-il-rallentamento-delle-rinnovabili-impatta-la-tua-boll"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Energia & Bollette"

@@ -1,6 +1,6 @@
 ---
-title: "Quella notte, trama e cast della serie Netflix tratta da un bestseller inedito in Italia - Sky TG24"
-slug: "quella-notte-trama-e-cast-della-serie-netflix-tratta-da-un-bestseller-inedito-in"
+title: "'Quella Notte': La Nuova Serie Netflix che Conquista gli Spettatori nel 2026"
+slug: "quella-notte-la-nuova-serie-netflix-che-conquista-gli-spettatori-nel-2026"
 date: "2026-04-12"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

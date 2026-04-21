@@ -1,6 +1,6 @@
 ---
-title: "Die schönsten Modetrends im Sommer 2026 - Freundin"
-slug: "die-schonsten-modetrends-im-sommer-2026---freundin"
+title: "Die schönsten Modetrends im Sommer 2026 – Freundin"
+slug: "die-schonsten-modetrends-im-sommer-2026-freundin"
 date: "2026-04-21"
 nicchia: "moda"
 nicchia_nome: "Mode & Stil"

@@ -1,6 +1,6 @@
 ---
-title: "Volvo Q1 2026: vendite in calo, ma l’elettrico resta il motore - Affaritaliani"
-slug: "volvo-q1-2026-vendite-in-calo-ma-lelettrico-resta-il-motore---affaritaliani"
+title: "Auto Elettrica e SUV: Analisi del Calo Vendite Volvo nel Q1 2026 e il Ruolo degli Incentivi"
+slug: "auto-elettrica-e-suv-analisi-del-calo-vendite-volvo-nel-q1-2026-e-il-ruolo-degli"
 date: "2026-04-09"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

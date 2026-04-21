@@ -1,10 +1,10 @@
 ---
-title: "Be Comics! Be Games! Torino 2026: guida all’evento - Torino Magazine"
-slug: "be-comics-be-games-torino-2026-guida-allevento---torino-magazine"
+title: "Be Comics! Be Games! Torino 2026: la guida completa all'evento più atteso dai fan di manga e fumetti"
+slug: "be-comics-be-games-torino-2026-la-guida-completa-allevento-piu-atteso-dai-fan-di"
 date: "2026-04-14"
 nicchia: "fumetti"
 nicchia_nome: "Fumetti & Manga"
-meta_description: "Be Comics! Be Games! Torino 2026: guida all’evento - Torino Magazine"
+meta_description: "Be Comics! Be Games! Torino 2026: la guida completa all'evento più atteso dai fan di manga e fumetti"
 tags: ["manga", "fumetti", "anime"]
 auto_generated: true
 ---

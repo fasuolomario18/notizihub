@@ -1,6 +1,6 @@
 ---
-title: "HYROX nei Social Wellness Club di Virgin Active: perché il fitness racing entra nelle palestre - Men's Health"
-slug: "hyrox-nei-social-wellness-club-di-virgin-active-perche-il-fitness-racing-entra-n"
+title: "Dieta e Benessere: Come HYROX nei Social Wellness Club di Virgin Active Rivoluziona la Prevenzione del Fitness"
+slug: "dieta-e-benessere-come-hyrox-nei-social-wellness-club-di-virgin-active-rivoluzio"
 date: "2026-04-21"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

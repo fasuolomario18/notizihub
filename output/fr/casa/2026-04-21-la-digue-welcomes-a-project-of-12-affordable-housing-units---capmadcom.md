@@ -1,6 +1,6 @@
 ---
-title: "La Digue welcomes a project of 12 affordable housing units - Capmad.com"
-slug: "la-digue-welcomes-a-project-of-12-affordable-housing-units---capmadcom"
+title: "La Digue accueille un projet de 12 logements abordables : une solution d'hypothèque et de loyer accessible"
+slug: "la-digue-accueille-un-projet-de-12-logements-abordables-une-solution-dhypotheque"
 date: "2026-04-21"
 nicchia: "casa"
 nicchia_nome: "Maison & Immobilier"

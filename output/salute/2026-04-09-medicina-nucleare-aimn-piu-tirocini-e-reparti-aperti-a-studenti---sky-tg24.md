@@ -1,10 +1,10 @@
 ---
-title: "Medicina nucleare, Aimn: “Più tirocini e reparti aperti a studenti” - Sky TG24"
-slug: "medicina-nucleare-aimn-piu-tirocini-e-reparti-aperti-a-studenti---sky-tg24"
+title: "Medicina Nucleare e Benessere: Come la Formazione Medica Influenza la Tua Alimentazione e la Tua Salute"
+slug: "medicina-nucleare-e-benessere-come-la-formazione-medica-influenza-la-tua-aliment"
 date: "2026-04-09"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"
-meta_description: "Medicina nucleare, Aimn: “Più tirocini e reparti aperti a studenti” - Sky TG24"
+meta_description: "Medicina Nucleare e Benessere: Come la Formazione Medica Influenza la Tua Alimentazione e la Tua Salute"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
 ---

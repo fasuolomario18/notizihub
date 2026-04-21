@@ -1,6 +1,6 @@
 ---
-title: "Petco Health & Wellness acción (US7167441077): ¿Depende ahora todo de su transformación digital? - AD HOC NEWS"
-slug: "petco-health-wellness-accion-us7167441077-depende-ahora-todo-de-su-transformacio"
+title: "Petco Health & Wellness (WOOF): ¿Depende ahora todo de su transformación digital para el bienestar animal?"
+slug: "petco-health-wellness-woof-depende-ahora-todo-de-su-transformacion-digital-para-"
 date: "2026-04-21"
 nicchia: "salute"
 nicchia_nome: "Salud & Bienestar"

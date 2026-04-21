@@ -1,6 +1,6 @@
 ---
-title: "Laureus World Sports Awards 2026 - Toni Kroos und Tennisstars in Madrid ausgezeichnet - LEADERSNET.de"
-slug: "laureus-world-sports-awards-2026---toni-kroos-und-tennisstars-in-madrid-ausgezei"
+title: "Laureus World Sports Awards 2026: Fußball-Legende Toni Kroos und Tennisstars in Madrid geehrt"
+slug: "laureus-world-sports-awards-2026-fuball-legende-toni-kroos-und-tennisstars-in-ma"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sport"

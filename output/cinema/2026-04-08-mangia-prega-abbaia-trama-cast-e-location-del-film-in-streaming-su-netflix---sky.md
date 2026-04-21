@@ -1,6 +1,6 @@
 ---
-title: "Mangia prega abbaia, trama cast e location del film in streaming su Netflix - Sky TG24"
-slug: "mangia-prega-abbaia-trama-cast-e-location-del-film-in-streaming-su-netflix---sky"
+title: "Mangia Prega Abbaia: il Film Netflix che Conquista lo Streaming nel 2026"
+slug: "mangia-prega-abbaia-il-film-netflix-che-conquista-lo-streaming-nel-2026"
 date: "2026-04-08"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

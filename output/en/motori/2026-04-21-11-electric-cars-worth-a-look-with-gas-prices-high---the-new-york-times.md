@@ -1,6 +1,6 @@
 ---
-title: "11 Electric Cars Worth a Look With Gas Prices High - The New York Times"
-slug: "11-electric-cars-worth-a-look-with-gas-prices-high---the-new-york-times"
+title: "11 Electric Cars Worth a Look With Gas Prices High"
+slug: "11-electric-cars-worth-a-look-with-gas-prices-high"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Cars & Motors"

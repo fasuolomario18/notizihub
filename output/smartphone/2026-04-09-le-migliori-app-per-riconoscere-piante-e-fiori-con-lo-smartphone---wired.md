@@ -1,6 +1,6 @@
 ---
-title: "Le migliori app per riconoscere piante e fiori con lo smartphone - Wired"
-slug: "le-migliori-app-per-riconoscere-piante-e-fiori-con-lo-smartphone---wired"
+title: "Le migliori app per riconoscere piante e fiori con iPhone e Android nel 2026"
+slug: "le-migliori-app-per-riconoscere-piante-e-fiori-con-iphone-e-android-nel-2026"
 date: "2026-04-09"
 nicchia: "smartphone"
 nicchia_nome: "Smartphone & App"

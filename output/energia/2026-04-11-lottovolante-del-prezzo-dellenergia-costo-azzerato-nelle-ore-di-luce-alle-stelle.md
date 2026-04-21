@@ -1,10 +1,10 @@
 ---
-title: "L'ottovolante del prezzo dell'energia: costo azzerato nelle ore di luce, alle stelle dopo il tramonto - Corriere della Sera"
-slug: "lottovolante-del-prezzo-dellenergia-costo-azzerato-nelle-ore-di-luce-alle-stelle"
+title: "Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna"
+slug: "bolletta-luce-2026-lottovolante-dei-prezzi-dellenergia-tra-ore-di-luce-e-tariffa"
 date: "2026-04-11"
 nicchia: "energia"
 nicchia_nome: "Energia & Bollette"
-meta_description: "L'ottovolante del prezzo dell'energia: costo azzerato nelle ore di luce, alle stelle dopo il tramonto - Corriere della Sera"
+meta_description: "Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna"
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
 ---

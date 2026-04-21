@@ -1,6 +1,6 @@
 ---
-title: "Fascicolo sanitario elettronico, novità dal 31 marzo: cosa sapere - Sky TG24"
-slug: "fascicolo-sanitario-elettronico-novita-dal-31-marzo-cosa-sapere---sky-tg24"
+title: "Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione nel Nuovo Sistema"
+slug: "fascicolo-sanitario-elettronico-2026-come-gestire-dieta-e-alimentazione-nel-nuov"
 date: "2026-04-10"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

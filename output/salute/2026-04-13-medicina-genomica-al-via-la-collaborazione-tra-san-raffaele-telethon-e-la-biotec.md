@@ -1,10 +1,10 @@
 ---
-title: "Medicina genomica, al via la collaborazione tra San Raffaele-Telethon e la biotech Cytiva - Alto Adige"
-slug: "medicina-genomica-al-via-la-collaborazione-tra-san-raffaele-telethon-e-la-biotec"
+title: "Genomica e Nutrizione: Come la Medicina del Futuro Trasforma la Tua Dieta"
+slug: "genomica-e-nutrizione-come-la-medicina-del-futuro-trasforma-la-tua-dieta"
 date: "2026-04-13"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"
-meta_description: "Medicina genomica, al via la collaborazione tra San Raffaele-Telethon e la biotech Cytiva - Alto Adige"
+meta_description: "Genomica e Nutrizione: Come la Medicina del Futuro Trasforma la Tua Dieta"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
 ---

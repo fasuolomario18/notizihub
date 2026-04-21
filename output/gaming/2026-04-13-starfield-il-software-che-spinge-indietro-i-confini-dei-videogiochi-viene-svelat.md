@@ -1,6 +1,6 @@
 ---
-title: "Starfield, il software che spinge indietro i confini dei videogiochi, viene svelato in un nuovo trailer alla Gamescom! - Sortir à Paris"
-slug: "starfield-il-software-che-spinge-indietro-i-confini-dei-videogiochi-viene-svelat"
+title: "Starfield alla Gamescom 2026: Il Nuovo Trailer Rivoluziona PS5, Xbox e PC Gaming"
+slug: "starfield-alla-gamescom-2026-il-nuovo-trailer-rivoluziona-ps5-xbox-e-pc-gaming"
 date: "2026-04-13"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

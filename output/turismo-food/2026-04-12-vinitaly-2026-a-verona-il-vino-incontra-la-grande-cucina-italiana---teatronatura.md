@@ -1,6 +1,6 @@
 ---
-title: "Vinitaly 2026: a Verona il vino incontra la grande cucina italiana - TeatroNaturale.it"
-slug: "vinitaly-2026-a-verona-il-vino-incontra-la-grande-cucina-italiana---teatronatura"
+title: "Vinitaly 2026: quando il vino incontra la grande cucina italiana a Verona"
+slug: "vinitaly-2026-quando-il-vino-incontra-la-grande-cucina-italiana-a-verona"
 date: "2026-04-12"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"

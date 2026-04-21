@@ -1,6 +1,6 @@
 ---
-title: "Partnership fra Technogym e Google Cloud per la nuova generazione di soluzioni “AI” per health & wellness. - Sporteconomy"
-slug: "partnership-fra-technogym-e-google-cloud-per-la-nuova-generazione-di-soluzioni-a"
+title: "Dieta e Benessere: Come l'AI di Technogym e Google Cloud Rivoluziona la Prevenzione"
+slug: "dieta-e-benessere-come-lai-di-technogym-e-google-cloud-rivoluziona-la-prevenzion"
 date: "2026-04-21"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

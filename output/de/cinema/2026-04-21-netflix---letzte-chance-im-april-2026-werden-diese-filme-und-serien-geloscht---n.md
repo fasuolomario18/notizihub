@@ -1,6 +1,6 @@
 ---
-title: "Netflix - Letzte Chance: Im April 2026 werden diese Filme und Serien gelöscht - Netzwelt"
-slug: "netflix---letzte-chance-im-april-2026-werden-diese-filme-und-serien-geloscht---n"
+title: "Netflix – Letzte Chance: Im April 2026 werden diese Filme und Serien gelöscht"
+slug: "netflix-letzte-chance-im-april-2026-werden-diese-filme-und-serien-geloscht"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Kino & Serien"

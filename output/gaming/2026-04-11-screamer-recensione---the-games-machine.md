@@ -1,10 +1,10 @@
 ---
-title: "Screamer – Recensione - The Games Machine"
-slug: "screamer-recensione---the-games-machine"
+title: "Screamer: La Recensione Completa su The Games Machine – PS5, Xbox e PC Gaming nel 2026"
+slug: "screamer-la-recensione-completa-su-the-games-machine-ps5-xbox-e-pc-gaming-nel-20"
 date: "2026-04-11"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"
-meta_description: "Screamer – Recensione - The Games Machine"
+meta_description: "Screamer: La Recensione Completa su The Games Machine – PS5, Xbox e PC Gaming nel 2026"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The best beaches for tourism in Seychelles - Capmad.com"
-slug: "the-best-beaches-for-tourism-in-seychelles---capmadcom"
+title: "The best beaches for tourism in Seychelles - Guia Completo para Férias de Sonho"
+slug: "the-best-beaches-for-tourism-in-seychelles---guia-completo-para-ferias-de-sonho"
 date: "2026-04-21"
 nicchia: "viaggi"
 nicchia_nome: "Viagens"

@@ -1,6 +1,6 @@
 ---
-title: "Crimson Desert, l'emergente gioco di modalità Elden Ring, ha una data di uscita! - Sortir à Paris"
-slug: "crimson-desert-lemergente-gioco-di-modalita-elden-ring-ha-una-data-di-uscita---s"
+title: "Crimson Desert: Finalmente Svelata la Data di Uscita del Prossimo Capolavoro su PS5, Xbox e PC Gaming"
+slug: "crimson-desert-finalmente-svelata-la-data-di-uscita-del-prossimo-capolavoro-su-p"
 date: "2026-04-12"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

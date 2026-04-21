@@ -1,10 +1,10 @@
 ---
-title: "Porto Antico Verde 2026: la mostra mercato di piante, fiori, orto e giardino - Mentelocale"
-slug: "porto-antico-verde-2026-la-mostra-mercato-di-piante-fiori-orto-e-giardino---ment"
+title: "Porto Antico Verde 2026: la Mostra Mercato per Piante, Fiori, Orto e Giardino"
+slug: "porto-antico-verde-2026-la-mostra-mercato-per-piante-fiori-orto-e-giardino"
 date: "2026-04-09"
 nicchia: "giardinaggio"
 nicchia_nome: "Giardinaggio"
-meta_description: "Porto Antico Verde 2026: la mostra mercato di piante, fiori, orto e giardino - Mentelocale"
+meta_description: "Porto Antico Verde 2026: la Mostra Mercato per Piante, Fiori, Orto e Giardino"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
 ---

@@ -1,11 +1,11 @@
 ---
-title: "TotalEnergies Startup Challenge: 4th edition launched - Capmad.com"
-slug: "totalenergies-startup-challenge-4th-edition-launched---capmadcom"
+title: "TotalEnergies Startup Challenge: A 4ª Edição Impulsiona o Empreendedorismo Inovador"
+slug: "totalenergies-startup-challenge-a-4-edicao-impulsiona-o-empreendedorismo-inovado"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startups & Negócios"
 lang: "pt"
-meta_description: "TotalEnergies Startup Challenge: 4th edition launched - Capmad.com"
+meta_description: "TotalEnergies Startup Challenge: A 4ª Edição Impulsiona o Empreendedorismo Inovador"
 tags: ["startup", "empreendedorismo"]
 auto_generated: true
 ---

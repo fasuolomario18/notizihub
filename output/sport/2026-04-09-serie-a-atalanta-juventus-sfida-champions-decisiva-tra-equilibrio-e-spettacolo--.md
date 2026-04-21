@@ -1,6 +1,6 @@
 ---
-title: "Serie A: Atalanta-Juventus, sfida Champions decisiva tra equilibrio e spettacolo - Sportitalia"
-slug: "serie-a-atalanta-juventus-sfida-champions-decisiva-tra-equilibrio-e-spettacolo--"
+title: "Atalanta-Juventus: La Sfida Champions che Decide il Futuro della Serie A 2026"
+slug: "atalanta-juventus-la-sfida-champions-che-decide-il-futuro-della-serie-a-2026"
 date: "2026-04-09"
 nicchia: "sport"
 nicchia_nome: "Sport"

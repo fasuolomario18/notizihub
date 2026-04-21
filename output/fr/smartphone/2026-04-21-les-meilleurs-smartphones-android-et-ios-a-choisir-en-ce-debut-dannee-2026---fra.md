@@ -1,6 +1,6 @@
 ---
-title: "Les meilleurs smartphones Android et iOS à choisir en ce début d'année 2026 - Frandroid"
-slug: "les-meilleurs-smartphones-android-et-ios-a-choisir-en-ce-debut-dannee-2026---fra"
+title: "Les meilleurs smartphones Android et iPhone à choisir en ce début d'année 2026"
+slug: "les-meilleurs-smartphones-android-et-iphone-a-choisir-en-ce-debut-dannee-2026"
 date: "2026-04-21"
 nicchia: "smartphone"
 nicchia_nome: "Smartphones & Apps"

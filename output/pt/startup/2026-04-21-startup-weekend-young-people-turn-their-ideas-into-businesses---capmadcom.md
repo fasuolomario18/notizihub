@@ -1,6 +1,6 @@
 ---
-title: "Startup Weekend: Young people turn their ideas into businesses - Capmad.com"
-slug: "startup-weekend-young-people-turn-their-ideas-into-businesses---capmadcom"
+title: "Startup Weekend: Como Jovens Empreendedores Transformam Ideias em Negócios Reais"
+slug: "startup-weekend-como-jovens-empreendedores-transformam-ideias-em-negocios-reais"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startups & Negócios"

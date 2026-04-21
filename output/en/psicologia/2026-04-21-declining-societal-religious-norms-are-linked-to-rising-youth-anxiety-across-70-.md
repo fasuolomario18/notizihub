@@ -1,6 +1,6 @@
 ---
-title: "Declining societal religious norms are linked to rising youth anxiety across 70 countries - PsyPost"
-slug: "declining-societal-religious-norms-are-linked-to-rising-youth-anxiety-across-70-"
+title: "Declining Religious Norms and Rising Youth Anxiety: What Psychology Reveals About Mental Health in Modern Society"
+slug: "declining-religious-norms-and-rising-youth-anxiety-what-psychology-reveals-about"
 date: "2026-04-21"
 nicchia: "psicologia"
 nicchia_nome: "Psychology & Mind"

@@ -1,6 +1,6 @@
 ---
-title: "'We Make Future': l'evento sull'innovazione digitale, l'intelligenza artificiale e la tecnologia - BolognaToday"
-slug: "we-make-future-levento-sullinnovazione-digitale-lintelligenza-artificiale-e-la-t"
+title: "'We Make Future': l'evento bolognese che celebra intelligenza artificiale, smartphone e laptop nel 2026"
+slug: "we-make-future-levento-bolognese-che-celebra-intelligenza-artificiale-smartphone"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

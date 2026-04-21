@@ -1,6 +1,6 @@
 ---
-title: "Gatto obeso in fuga dal veterinario resta incastrato in una poltrona, liberarlo diventa un’impresa - La Stampa"
-slug: "gatto-obeso-in-fuga-dal-veterinario-resta-incastrato-in-una-poltrona-liberarlo-d"
+title: "Gatti Obesi e Pericoli Domestici: Come Proteggere il Tuo Animale nel 2026"
+slug: "gatti-obesi-e-pericoli-domestici-come-proteggere-il-tuo-animale-nel-2026"
 date: "2026-04-08"
 nicchia: "animali"
 nicchia_nome: "Animali Domestici"

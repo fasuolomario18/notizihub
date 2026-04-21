@@ -1,6 +1,6 @@
 ---
-title: "Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space - NASA Science (.gov)"
-slug: "webinar-429-nasa-csda-program-vendor-focus--mda-space---nasa-science-gov"
+title: "NASA CSDA Program Webinar 2026: MDA Space Vendor Focus and Commercial Space Innovation"
+slug: "nasa-csda-program-webinar-2026-mda-space-vendor-focus-and-commercial-space-innov"
 date: "2026-04-21"
 nicchia: "scienza"
 nicchia_nome: "Science & Space"

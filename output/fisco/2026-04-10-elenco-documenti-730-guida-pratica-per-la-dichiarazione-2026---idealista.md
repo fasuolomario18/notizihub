@@ -1,10 +1,10 @@
 ---
-title: "Elenco documenti 730: guida pratica per la dichiarazione 2026 - Idealista"
-slug: "elenco-documenti-730-guida-pratica-per-la-dichiarazione-2026---idealista"
+title: "Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari"
+slug: "dichiarazione-dei-redditi-730-2026-guida-completa-ai-documenti-necessari"
 date: "2026-04-10"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "Elenco documenti 730: guida pratica per la dichiarazione 2026 - Idealista"
+meta_description: "Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

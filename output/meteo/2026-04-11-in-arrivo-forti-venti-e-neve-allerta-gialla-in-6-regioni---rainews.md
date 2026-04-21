@@ -1,6 +1,6 @@
 ---
-title: "In arrivo forti venti e neve. Allerta gialla in 6 regioni - RaiNews"
-slug: "in-arrivo-forti-venti-e-neve-allerta-gialla-in-6-regioni---rainews"
+title: "Meteo: Forti Venti e Neve in Arrivo, Allerta Gialla in 6 Regioni"
+slug: "meteo-forti-venti-e-neve-in-arrivo-allerta-gialla-in-6-regioni"
 date: "2026-04-11"
 nicchia: "meteo"
 nicchia_nome: "Meteo"

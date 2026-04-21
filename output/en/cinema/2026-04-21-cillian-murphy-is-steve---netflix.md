@@ -1,6 +1,6 @@
 ---
-title: "Cillian Murphy Is Steve - Netflix"
-slug: "cillian-murphy-is-steve---netflix"
+title: "Cillian Murphy Is Steve - Netflix's Latest Original Series Casting Announcement"
+slug: "cillian-murphy-is-steve---netflixs-latest-original-series-casting-announcement"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Movies & TV Shows"

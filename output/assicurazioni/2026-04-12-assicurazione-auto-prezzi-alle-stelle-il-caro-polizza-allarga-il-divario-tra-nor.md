@@ -1,10 +1,10 @@
 ---
-title: "Assicurazione auto, prezzi alle stelle: il caro polizza allarga il divario tra Nord e Sud - Corriere della Sera"
-slug: "assicurazione-auto-prezzi-alle-stelle-il-caro-polizza-allarga-il-divario-tra-nor"
+title: "Assicurazione Auto: Prezzi Alle Stelle e il Divario Nord-Sud che si Allarga nel 2026"
+slug: "assicurazione-auto-prezzi-alle-stelle-e-il-divario-nord-sud-che-si-allarga-nel-2"
 date: "2026-04-12"
 nicchia: "assicurazioni"
 nicchia_nome: "Assicurazioni"
-meta_description: "Assicurazione auto, prezzi alle stelle: il caro polizza allarga il divario tra Nord e Sud - Corriere della Sera"
+meta_description: "Assicurazione Auto: Prezzi Alle Stelle e il Divario Nord-Sud che si Allarga nel 2026"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
 ---

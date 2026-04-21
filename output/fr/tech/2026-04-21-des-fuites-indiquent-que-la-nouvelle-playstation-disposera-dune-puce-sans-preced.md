@@ -1,6 +1,6 @@
 ---
-title: "Des fuites indiquent que la nouvelle PlayStation disposera d’une puce sans précédent d’AMD axée sur l’intelligence artificielle - Mix Vale"
-slug: "des-fuites-indiquent-que-la-nouvelle-playstation-disposera-dune-puce-sans-preced"
+title: "L'intelligence artificielle au cœur de la nouvelle PlayStation : une révolution AMD annoncée"
+slug: "lintelligence-artificielle-au-cur-de-la-nouvelle-playstation-une-revolution-amd-"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Technologie & IA"

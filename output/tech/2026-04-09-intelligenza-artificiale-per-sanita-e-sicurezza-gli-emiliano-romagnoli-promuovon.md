@@ -1,10 +1,10 @@
 ---
-title: "Intelligenza Artificiale per sanità e sicurezza: gli emiliano-romagnoli promuovono la tecnologia (se governata dagli enti) - ModenaToday"
-slug: "intelligenza-artificiale-per-sanita-e-sicurezza-gli-emiliano-romagnoli-promuovon"
+title: "Intelligenza Artificiale per sanità e sicurezza: l'Emilia-Romagna accelera con il controllo pubblico"
+slug: "intelligenza-artificiale-per-sanita-e-sicurezza-lemilia-romagna-accelera-con-il-"
 date: "2026-04-09"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Intelligenza Artificiale per sanità e sicurezza: gli emiliano-romagnoli promuovono la tecnologia (se governata dagli enti) - ModenaToday"
+meta_description: "Intelligenza Artificiale per sanità e sicurezza: l'Emilia-Romagna accelera con il controllo pubblico"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

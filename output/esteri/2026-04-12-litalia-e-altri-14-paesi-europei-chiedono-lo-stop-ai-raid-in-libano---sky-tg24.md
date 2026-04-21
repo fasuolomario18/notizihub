@@ -1,6 +1,6 @@
 ---
-title: "L'Italia e altri 14 Paesi europei chiedono lo stop ai raid in Libano - Sky TG24"
-slug: "litalia-e-altri-14-paesi-europei-chiedono-lo-stop-ai-raid-in-libano---sky-tg24"
+title: "Crisi in Libano: l'Italia e 14 Paesi europei chiedono lo stop ai raid mentre la guerra si intensifica"
+slug: "crisi-in-libano-litalia-e-14-paesi-europei-chiedono-lo-stop-ai-raid-mentre-la-gu"
 date: "2026-04-12"
 nicchia: "esteri"
 nicchia_nome: "Notizie dal Mondo"

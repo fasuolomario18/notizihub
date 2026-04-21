@@ -1,6 +1,6 @@
 ---
-title: "Serie A Calciomercato 2025/2026: acquisti, cessioni и rumors - pagina - 191 - Tribuna.com"
-slug: "serie-a-calciomercato-20252026-acquisti-cessioni-rumors---pagina---191---tribuna"
+title: "Calciomercato Serie A: Trasferimenti e Rumors della Stagione 2025/2026"
+slug: "calciomercato-serie-a-trasferimenti-e-rumors-della-stagione-20252026"
 date: "2026-04-10"
 nicchia: "calcio-mercato"
 nicchia_nome: "Calciomercato"

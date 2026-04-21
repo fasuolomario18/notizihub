@@ -1,6 +1,6 @@
 ---
-title: "Pulp Science Fiction | L’Intelligenza artificiale mostra i rischi dell’idiozia sovranista - Linkiesta.it"
-slug: "pulp-science-fiction-lintelligenza-artificiale-mostra-i-rischi-dellidiozia-sovra"
+title: "Intelligenza artificiale e sovranismo digitale: quando l'idiozia tecnologica compromette il futuro"
+slug: "intelligenza-artificiale-e-sovranismo-digitale-quando-lidiozia-tecnologica-compr"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

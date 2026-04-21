@@ -1,6 +1,6 @@
 ---
-title: "Bisceglie, finalmente una buona notizia: la squadra di calcio in finale di Coppa Italia di Eccellenza (e 'vede' la serie D) - Noi Notizie."
-slug: "bisceglie-finalmente-una-buona-notizia-la-squadra-di-calcio-in-finale-di-coppa-i"
+title: "Serie A, Calcio e le Grandi Ambizioni del Bisceglie nel 2026"
+slug: "serie-a-calcio-e-le-grandi-ambizioni-del-bisceglie-nel-2026"
 date: "2026-04-16"
 nicchia: "sport"
 nicchia_nome: "Sport"

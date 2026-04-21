@@ -1,10 +1,10 @@
 ---
-title: "News - RadioItalia-Radio Italia Music Week: tutte le novità musicali della settimana - Radio Italia"
-slug: "news---radioitalia-radio-italia-music-week-tutte-le-novita-musicali-della-settim"
+title: "Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026"
+slug: "radio-italia-music-week-le-novita-musicali-che-dominano-laprile-2026"
 date: "2026-04-12"
 nicchia: "musica"
 nicchia_nome: "Musica"
-meta_description: "News - RadioItalia-Radio Italia Music Week: tutte le novità musicali della settimana - Radio Italia"
+meta_description: "Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026"
 tags: ["musica", "concerti", "album"]
 auto_generated: true
 ---

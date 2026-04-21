@@ -1,6 +1,6 @@
 ---
-title: "43 Small-Business Grants for Women: Free Funding in 2026 - NerdWallet"
-slug: "43-small-business-grants-for-women-free-funding-in-2026---nerdwallet"
+title: "43 Small-Business Grants for Women: Free Funding in 2026"
+slug: "43-small-business-grants-for-women-free-funding-in-2026"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startup & Business"

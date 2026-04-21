@@ -1,10 +1,10 @@
 ---
-title: "Industria auto italiana: crisi, elettrico e sfida dei marchi cinesi - Esquire"
-slug: "industria-auto-italiana-crisi-elettrico-e-sfida-dei-marchi-cinesi---esquire"
+title: "Auto Elettrica e SUV: Come l'Italia Affronta la Crisi tra Incentivi e Marchi Cinesi nel 2026"
+slug: "auto-elettrica-e-suv-come-litalia-affronta-la-crisi-tra-incentivi-e-marchi-cines"
 date: "2026-04-15"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Industria auto italiana: crisi, elettrico e sfida dei marchi cinesi - Esquire"
+meta_description: "Auto Elettrica e SUV: Come l'Italia Affronta la Crisi tra Incentivi e Marchi Cinesi nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

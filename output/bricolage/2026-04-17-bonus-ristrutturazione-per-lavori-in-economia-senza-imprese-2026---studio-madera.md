@@ -1,10 +1,10 @@
 ---
-title: "Bonus ristrutturazione per lavori in economia senza imprese 2026 - Studio Madera"
-slug: "bonus-ristrutturazione-per-lavori-in-economia-senza-imprese-2026---studio-madera"
+title: "Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese"
+slug: "bonus-ristrutturazione-2026-fai-da-te-e-lavori-in-economia-senza-imprese"
 date: "2026-04-17"
 nicchia: "bricolage"
 nicchia_nome: "Bricolage & Fai da te"
-meta_description: "Bonus ristrutturazione per lavori in economia senza imprese 2026 - Studio Madera"
+meta_description: "Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
 ---

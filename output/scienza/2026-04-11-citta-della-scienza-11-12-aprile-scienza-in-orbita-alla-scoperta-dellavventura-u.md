@@ -1,10 +1,10 @@
 ---
-title: "Città della Scienza, 11-12 aprile: Scienza in orbita! Alla scoperta dell’avventura umana oltre l’atmosfera - Senza Linea"
-slug: "citta-della-scienza-11-12-aprile-scienza-in-orbita-alla-scoperta-dellavventura-u"
+title: "Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza"
+slug: "scienza-in-orbita-lavventura-umana-oltre-latmosfera-a-citta-della-scienza"
 date: "2026-04-11"
 nicchia: "scienza"
 nicchia_nome: "Scienza & Spazio"
-meta_description: "Città della Scienza, 11-12 aprile: Scienza in orbita! Alla scoperta dell’avventura umana oltre l’atmosfera - Senza Linea"
+meta_description: "Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
 ---

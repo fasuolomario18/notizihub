@@ -1,6 +1,6 @@
 ---
-title: "Il fact-checking del discorso di Meloni in Parlamento dopo il referendum - Pagella Politica"
-slug: "il-fact-checking-del-discorso-di-meloni-in-parlamento-dopo-il-referendum---pagel"
+title: "Governo e Parlamento: Il Fact-Checking del Discorso di Meloni dopo il Referendum"
+slug: "governo-e-parlamento-il-fact-checking-del-discorso-di-meloni-dopo-il-referendum"
 date: "2026-04-10"
 nicchia: "politica"
 nicchia_nome: "Politica"

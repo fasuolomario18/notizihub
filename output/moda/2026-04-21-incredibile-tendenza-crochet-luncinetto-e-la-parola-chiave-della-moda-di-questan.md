@@ -1,11 +1,11 @@
 ---
-title: "Incredibile tendenza crochet, l'uncinetto è la parola chiave della moda di quest’anno - Harper's BAZAAR"
-slug: "incredibile-tendenza-crochet-luncinetto-e-la-parola-chiave-della-moda-di-questan"
+title: "Crochet in Moda: L'Uncinetto Conquista gli Outfit Più Desiderati del 2026"
+slug: "crochet-in-moda-luncinetto-conquista-gli-outfit-piu-desiderati-del-2026"
 date: "2026-04-21"
 nicchia: "moda"
 nicchia_nome: "Moda & Stile"
 lang: "it"
-meta_description: "Incredibile tendenza crochet, l'uncinetto è la parola chiave della moda di quest’anno - Harper's BAZAAR"
+meta_description: "Crochet in Moda: L'Uncinetto Conquista gli Outfit Più Desiderati del 2026"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
 ---

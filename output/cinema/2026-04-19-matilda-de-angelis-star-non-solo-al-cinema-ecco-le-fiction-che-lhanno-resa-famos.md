@@ -1,6 +1,6 @@
 ---
-title: "Matilda De Angelis star non solo al cinema: ecco le fiction che l'hanno resa famosa (e dove vederle) - Libero"
-slug: "matilda-de-angelis-star-non-solo-al-cinema-ecco-le-fiction-che-lhanno-resa-famos"
+title: "Matilda De Angelis: da cinema a serie TV, la star che conquista Netflix e le piattaforme streaming"
+slug: "matilda-de-angelis-da-cinema-a-serie-tv-la-star-che-conquista-netflix-e-le-piatt"
 date: "2026-04-19"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

@@ -1,6 +1,6 @@
 ---
-title: "Call of the Elder Gods in uscita a maggio su PC e console - The Games Machine"
-slug: "call-of-the-elder-gods-in-uscita-a-maggio-su-pc-e-console---the-games-machine"
+title: "Call of the Elder Gods in uscita a maggio su PC e console: la guida completa"
+slug: "call-of-the-elder-gods-in-uscita-a-maggio-su-pc-e-console-la-guida-completa"
 date: "2026-04-09"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

@@ -1,10 +1,10 @@
 ---
-title: "Modello 730 precompilato 2026, da quando è disponibile e scadenze: il calendario - QuiFinanza"
-slug: "modello-730-precompilato-2026-da-quando-e-disponibile-e-scadenze-il-calendario--"
+title: "Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale"
+slug: "modello-730-precompilato-2026-disponibilita-scadenze-e-calendario-fiscale"
 date: "2026-04-13"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "Modello 730 precompilato 2026, da quando è disponibile e scadenze: il calendario - QuiFinanza"
+meta_description: "Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Sarah Toscano: “Mi sono innamorata del cinema e vorrei continuare”. Il debutto nel film ‘Non abbiam bisogno di parole’ su Netflix - Quotidiano Nazionale"
-slug: "sarah-toscano-mi-sono-innamorata-del-cinema-e-vorrei-continuare-il-debutto-nel-f"
+title: "Sarah Toscano debutta nel cinema con 'Non abbiam bisogno di parole' su Netflix: l'intervista esclusiva"
+slug: "sarah-toscano-debutta-nel-cinema-con-non-abbiam-bisogno-di-parole-su-netflix-lin"
 date: "2026-04-09"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

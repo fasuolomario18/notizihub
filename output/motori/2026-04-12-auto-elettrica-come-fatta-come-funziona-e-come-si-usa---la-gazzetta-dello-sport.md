@@ -1,10 +1,10 @@
 ---
-title: "Auto elettrica: com’è fatta, come funziona e come si usa - La Gazzetta dello Sport"
-slug: "auto-elettrica-come-fatta-come-funziona-e-come-si-usa---la-gazzetta-dello-sport"
+title: "Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026"
+slug: "auto-elettrica-come-funziona-come-fatta-e-come-si-usa-nel-2026"
 date: "2026-04-12"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Auto elettrica: com’è fatta, come funziona e come si usa - La Gazzetta dello Sport"
+meta_description: "Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

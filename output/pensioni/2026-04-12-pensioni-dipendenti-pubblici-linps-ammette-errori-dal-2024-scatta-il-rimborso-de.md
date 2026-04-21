@@ -1,10 +1,10 @@
 ---
-title: "Pensioni dipendenti pubblici, l’Inps ammette errori dal 2024: scatta il rimborso degli arretrati - Fanpage"
-slug: "pensioni-dipendenti-pubblici-linps-ammette-errori-dal-2024-scatta-il-rimborso-de"
+title: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati"
+slug: "pensioni-dipendenti-pubblici-inps-ammette-errori-e-avvia-il-rimborso-degli-arret"
 date: "2026-04-12"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"
-meta_description: "Pensioni dipendenti pubblici, l’Inps ammette errori dal 2024: scatta il rimborso degli arretrati - Fanpage"
+meta_description: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
 ---

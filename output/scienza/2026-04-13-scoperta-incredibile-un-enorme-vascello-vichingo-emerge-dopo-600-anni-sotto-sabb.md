@@ -1,6 +1,6 @@
 ---
-title: "Scoperta incredibile: un enorme vascello vichingo emerge dopo 600 anni sotto sabbia - Futura, le média qui explore le monde"
-slug: "scoperta-incredibile-un-enorme-vascello-vichingo-emerge-dopo-600-anni-sotto-sabb"
+title: "Scoperta Straordinaria: Emerge un Antico Vascello Vichingo dopo 600 Anni di Sepoltura Sabbiosa"
+slug: "scoperta-straordinaria-emerge-un-antico-vascello-vichingo-dopo-600-anni-di-sepol"
 date: "2026-04-13"
 nicchia: "scienza"
 nicchia_nome: "Scienza & Spazio"

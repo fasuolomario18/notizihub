@@ -1,10 +1,10 @@
 ---
-title: "Prezzo energia in aumento: quanto pagheremo le bollette di luce e gas nei prossimi mesi - PGCasa"
-slug: "prezzo-energia-in-aumento-quanto-pagheremo-le-bollette-di-luce-e-gas-nei-prossim"
+title: "Bolletta Luce e Gas in Aumento: Quanto Pagheremo nei Prossimi Mesi del 2026"
+slug: "bolletta-luce-e-gas-in-aumento-quanto-pagheremo-nei-prossimi-mesi-del-2026"
 date: "2026-04-08"
 nicchia: "energia"
 nicchia_nome: "Energia & Bollette"
-meta_description: "Prezzo energia in aumento: quanto pagheremo le bollette di luce e gas nei prossimi mesi - PGCasa"
+meta_description: "Bolletta Luce e Gas in Aumento: Quanto Pagheremo nei Prossimi Mesi del 2026"
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Intelligenza artificiale sotto attacco. Per fare i chip serve l’elio che passa da Hormuz - Quotidiano Nazionale"
-slug: "intelligenza-artificiale-sotto-attacco-per-fare-i-chip-serve-lelio-che-passa-da-"
+title: "Intelligenza Artificiale Sotto Attacco: La Vulnerabilità Dei Chip AI Nel 2026"
+slug: "intelligenza-artificiale-sotto-attacco-la-vulnerabilita-dei-chip-ai-nel-2026"
 date: "2026-04-09"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

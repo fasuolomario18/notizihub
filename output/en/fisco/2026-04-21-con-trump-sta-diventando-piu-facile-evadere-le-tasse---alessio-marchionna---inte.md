@@ -1,6 +1,6 @@
 ---
-title: "Con Trump sta diventando più facile evadere le tasse - Alessio Marchionna - Internazionale"
-slug: "con-trump-sta-diventando-piu-facile-evadere-le-tasse---alessio-marchionna---inte"
+title: "How Trump Administration Policies Are Making Tax Evasion Easier in 2026"
+slug: "how-trump-administration-policies-are-making-tax-evasion-easier-in-2026"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Taxes & Fiscal"

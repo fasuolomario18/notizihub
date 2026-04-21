@@ -1,10 +1,10 @@
 ---
-title: "Inps, errore sulle pensioni di vecchiaia: ecco chi riceverà il rimborso degli arretrati - Sky TG24"
-slug: "inps-errore-sulle-pensioni-di-vecchiaia-ecco-chi-ricevera-il-rimborso-degli-arre"
+title: "INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo"
+slug: "inps-errore-sulle-pensioni-di-vecchiaia-rimborso-degli-arretrati-in-arrivo"
 date: "2026-04-08"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"
-meta_description: "Inps, errore sulle pensioni di vecchiaia: ecco chi riceverà il rimborso degli arretrati - Sky TG24"
+meta_description: "INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
 ---

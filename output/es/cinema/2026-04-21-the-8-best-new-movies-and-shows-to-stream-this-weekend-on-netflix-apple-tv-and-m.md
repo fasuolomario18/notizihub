@@ -1,6 +1,6 @@
 ---
-title: "The 8 Best New Movies and Shows to Stream This Weekend on Netflix, Apple TV and More - IMDb"
-slug: "the-8-best-new-movies-and-shows-to-stream-this-weekend-on-netflix-apple-tv-and-m"
+title: "Las 8 Mejores Películas y Series para Ver Este Fin de Semana en Netflix, Apple TV y Más"
+slug: "las-8-mejores-peliculas-y-series-para-ver-este-fin-de-semana-en-netflix-apple-tv"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Cine & Series"

@@ -1,6 +1,6 @@
 ---
-title: "Cani e gatti, dall’11 aprile tre incontri con in veterinari per la convivenza consapevole - BsNews.it"
-slug: "cani-e-gatti-dall11-aprile-tre-incontri-con-in-veterinari-per-la-convivenza-cons"
+title: "Cani e Gatti: Gli Incontri con Veterinari per una Convivenza Consapevole nel 2026"
+slug: "cani-e-gatti-gli-incontri-con-veterinari-per-una-convivenza-consapevole-nel-2026"
 date: "2026-04-12"
 nicchia: "animali"
 nicchia_nome: "Animali Domestici"

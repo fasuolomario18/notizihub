@@ -1,6 +1,6 @@
 ---
-title: "Claude Mythos, il modello di Anthropic che spaventa: «Per ora non lo diamo al pubblico, anteprima per le Big Tech» - Corriere della Sera"
-slug: "claude-mythos-il-modello-di-anthropic-che-spaventa-per-ora-non-lo-diamo-al-pubbl"
+title: "Claude Mythos: il nuovo modello di Anthropic che rivoluziona l'intelligenza artificiale su smartphone e laptop"
+slug: "claude-mythos-il-nuovo-modello-di-anthropic-che-rivoluziona-lintelligenza-artifi"
 date: "2026-04-08"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

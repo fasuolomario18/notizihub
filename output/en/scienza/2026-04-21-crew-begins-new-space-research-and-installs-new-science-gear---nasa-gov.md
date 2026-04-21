@@ -1,6 +1,6 @@
 ---
-title: "Crew Begins New Space Research and Installs New Science Gear - NASA (.gov)"
-slug: "crew-begins-new-space-research-and-installs-new-science-gear---nasa-gov"
+title: "NASA Crew Begins New Space Research and Installs New Science Gear"
+slug: "nasa-crew-begins-new-space-research-and-installs-new-science-gear"
 date: "2026-04-21"
 nicchia: "scienza"
 nicchia_nome: "Science & Space"

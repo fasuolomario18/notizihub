@@ -1,10 +1,10 @@
 ---
-title: "Modello 730 precompilato, via dal 30 aprile: scadenze, novità e guida completa - QuiFinanza"
-slug: "modello-730-precompilato-via-dal-30-aprile-scadenze-novita-e-guida-completa---qu"
+title: "Dichiarazione dei Redditi 2026: il Modello 730 Precompilato e le Scadenze da Non Perdere"
+slug: "dichiarazione-dei-redditi-2026-il-modello-730-precompilato-e-le-scadenze-da-non-"
 date: "2026-04-08"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "Modello 730 precompilato, via dal 30 aprile: scadenze, novità e guida completa - QuiFinanza"
+meta_description: "Dichiarazione dei Redditi 2026: il Modello 730 Precompilato e le Scadenze da Non Perdere"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

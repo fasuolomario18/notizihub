@@ -1,6 +1,6 @@
 ---
-title: "In meno di vent’anni si sono dimessi più di 60 membri del governo - Pagella Politica"
-slug: "in-meno-di-ventanni-si-sono-dimessi-piu-di-60-membri-del-governo---pagella-polit"
+title: "Governo Italiano: Oltre 60 Dimissioni in Due Decenni, Una Crisi Strutturale di Fiducia"
+slug: "governo-italiano-oltre-60-dimissioni-in-due-decenni-una-crisi-strutturale-di-fid"
 date: "2026-04-12"
 nicchia: "politica"
 nicchia_nome: "Politica"

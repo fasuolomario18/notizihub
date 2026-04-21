@@ -1,10 +1,10 @@
 ---
-title: "Voltolini: «Perché la medicina di genere fa bene anche gli uomini» - Giornale di Brescia"
-slug: "voltolini-perche-la-medicina-di-genere-fa-bene-anche-gli-uomini---giornale-di-br"
+title: "Medicina di Genere: Come la Dieta e l'Alimentazione Personalizzate Migliorano il Benessere di Uomini e Donne"
+slug: "medicina-di-genere-come-la-dieta-e-lalimentazione-personalizzate-migliorano-il-b"
 date: "2026-04-07"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"
-meta_description: "Voltolini: «Perché la medicina di genere fa bene anche gli uomini» - Giornale di Brescia"
+meta_description: "Medicina di Genere: Come la Dieta e l'Alimentazione Personalizzate Migliorano il Benessere di Uomini e Donne"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
 ---

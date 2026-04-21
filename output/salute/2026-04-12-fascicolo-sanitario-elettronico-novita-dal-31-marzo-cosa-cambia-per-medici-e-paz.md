@@ -1,10 +1,10 @@
 ---
-title: "Fascicolo sanitario elettronico, novità dal 31 marzo: cosa cambia per medici e pazienti - Sky TG24"
-slug: "fascicolo-sanitario-elettronico-novita-dal-31-marzo-cosa-cambia-per-medici-e-paz"
+title: "Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione Personalizzata con le Nuove Funzioni"
+slug: "fascicolo-sanitario-elettronico-2026-come-gestire-dieta-e-alimentazione-personal"
 date: "2026-04-12"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"
-meta_description: "Fascicolo sanitario elettronico, novità dal 31 marzo: cosa cambia per medici e pazienti - Sky TG24"
+meta_description: "Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione Personalizzata con le Nuove Funzioni"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
 ---

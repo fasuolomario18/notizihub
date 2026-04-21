@@ -1,6 +1,6 @@
 ---
-title: "Self-reliance, stability and lower bills: How homeowners in Spain are dealing with rising electricity prices - Murcia Today - News"
-slug: "self-reliance-stability-and-lower-bills-how-homeowners-in-spain-are-dealing-with"
+title: "Factura de luz: Cómo los paneles solares están revolucionando los hogares españoles"
+slug: "factura-de-luz-como-los-paneles-solares-estan-revolucionando-los-hogares-espanol"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Energía & Facturas"

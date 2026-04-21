@@ -1,6 +1,6 @@
 ---
-title: "Ristorante Tosca: il lirismo italiano si ritrova nel piatto - Ticino Welcome"
-slug: "ristorante-tosca-il-lirismo-italiano-si-ritrova-nel-piatto---ticino-welcome"
+title: "Ristorante Tosca: il lirismo italiano si ritrova nel piatto e nella cucina contemporanea"
+slug: "ristorante-tosca-il-lirismo-italiano-si-ritrova-nel-piatto-e-nella-cucina-contem"
 date: "2026-04-09"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"

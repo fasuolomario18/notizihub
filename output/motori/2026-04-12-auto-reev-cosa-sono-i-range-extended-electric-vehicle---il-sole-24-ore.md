@@ -1,6 +1,6 @@
 ---
-title: "Auto Reev, cosa sono i Range Extended Electric Vehicle - Il Sole 24 ORE"
-slug: "auto-reev-cosa-sono-i-range-extended-electric-vehicle---il-sole-24-ore"
+title: "Auto Reev: cosa sono i Range Extended Electric Vehicle e come sfruttare gli incentivi auto nel 2026"
+slug: "auto-reev-cosa-sono-i-range-extended-electric-vehicle-e-come-sfruttare-gli-incen"
 date: "2026-04-12"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

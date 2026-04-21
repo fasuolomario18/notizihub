@@ -1,10 +1,10 @@
 ---
-title: "InnoEX e Electronics Fair, a Hong Kong le vetrine internazionali dell'innovazione cinese - Sky TG24"
-slug: "innoex-e-electronics-fair-a-hong-kong-le-vetrine-internazionali-dellinnovazione-"
+title: "InnoEX e Electronics Fair 2026: L'Intelligenza Artificiale Protagonista nelle Vetrine di Hong Kong"
+slug: "innoex-e-electronics-fair-2026-lintelligenza-artificiale-protagonista-nelle-vetr"
 date: "2026-04-16"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "InnoEX e Electronics Fair, a Hong Kong le vetrine internazionali dell'innovazione cinese - Sky TG24"
+meta_description: "InnoEX e Electronics Fair 2026: L'Intelligenza Artificiale Protagonista nelle Vetrine di Hong Kong"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

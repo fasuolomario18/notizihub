@@ -1,6 +1,6 @@
 ---
-title: "Bellezza sostenibile e biodiversità: perché anche la cosmetica può raccontare il rapporto tra uomo e natura - Dailygreen.it"
-slug: "bellezza-sostenibile-e-biodiversita-perche-anche-la-cosmetica-puo-raccontare-il-"
+title: "Skincare, Trucco e Capelli Sostenibili: Come la Cosmetica Racconta il Rapporto tra Uomo e Natura"
+slug: "skincare-trucco-e-capelli-sostenibili-come-la-cosmetica-racconta-il-rapporto-tra"
 date: "2026-04-21"
 nicchia: "bellezza"
 nicchia_nome: "Bellezza & Cura"

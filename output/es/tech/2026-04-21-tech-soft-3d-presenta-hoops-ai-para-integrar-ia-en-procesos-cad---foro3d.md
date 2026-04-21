@@ -1,6 +1,6 @@
 ---
-title: "Tech Soft 3D presenta HOOPS AI para integrar IA en procesos CAD - Foro3D"
-slug: "tech-soft-3d-presenta-hoops-ai-para-integrar-ia-en-procesos-cad---foro3d"
+title: "Inteligencia Artificial en CAD: Tech Soft 3D lanza HOOPS AI para transformar el software de diseño"
+slug: "inteligencia-artificial-en-cad-tech-soft-3d-lanza-hoops-ai-para-transformar-el-s"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Tecnología & IA"

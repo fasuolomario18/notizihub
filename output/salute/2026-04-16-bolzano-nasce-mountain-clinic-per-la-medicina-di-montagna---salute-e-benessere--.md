@@ -1,6 +1,6 @@
 ---
-title: "Bolzano, nasce Mountain Clinic per la medicina di montagna - Salute e Benessere - Alto Adige"
-slug: "bolzano-nasce-mountain-clinic-per-la-medicina-di-montagna---salute-e-benessere--"
+title: "Mountain Clinic a Bolzano: La Nuova Frontiera della Medicina di Montagna e Benessere Nutrizionale"
+slug: "mountain-clinic-a-bolzano-la-nuova-frontiera-della-medicina-di-montagna-e-beness"
 date: "2026-04-16"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

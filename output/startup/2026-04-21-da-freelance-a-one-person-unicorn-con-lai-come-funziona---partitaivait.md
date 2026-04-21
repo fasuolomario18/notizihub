@@ -1,6 +1,6 @@
 ---
-title: "Da freelance a one-person unicorn con l'AI: come funziona - Partitaiva.it"
-slug: "da-freelance-a-one-person-unicorn-con-lai-come-funziona---partitaivait"
+title: "Startup e AI: Come un Freelance Diventa un One-Person Unicorn"
+slug: "startup-e-ai-come-un-freelance-diventa-un-one-person-unicorn"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startup & Business"

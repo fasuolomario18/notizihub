@@ -1,10 +1,10 @@
 ---
-title: "Torna València Cuina Oberta 2026 con menù esclusivi nei migliori ristoranti - Visit Valencia"
-slug: "torna-valencia-cuina-oberta-2026-con-menu-esclusivi-nei-migliori-ristoranti---vi"
+title: "València Cuina Oberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti"
+slug: "valencia-cuina-oberta-2026-la-gastronomia-valenciana-apre-le-porte-ai-migliori-r"
 date: "2026-04-13"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"
-meta_description: "Torna València Cuina Oberta 2026 con menù esclusivi nei migliori ristoranti - Visit Valencia"
+meta_description: "València Cuina Oberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
 ---

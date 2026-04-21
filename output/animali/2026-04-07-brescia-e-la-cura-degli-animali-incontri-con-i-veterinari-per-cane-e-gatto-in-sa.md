@@ -1,10 +1,10 @@
 ---
-title: "Brescia e la cura degli animali: incontri con i veterinari per «cane e gatto in salute» - Bresciaoggi"
-slug: "brescia-e-la-cura-degli-animali-incontri-con-i-veterinari-per-cane-e-gatto-in-sa"
+title: "Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia"
+slug: "cane-e-gatto-in-salute-gli-incontri-con-i-veterinari-a-brescia"
 date: "2026-04-07"
 nicchia: "animali"
 nicchia_nome: "Animali Domestici"
-meta_description: "Brescia e la cura degli animali: incontri con i veterinari per «cane e gatto in salute» - Bresciaoggi"
+meta_description: "Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
 ---

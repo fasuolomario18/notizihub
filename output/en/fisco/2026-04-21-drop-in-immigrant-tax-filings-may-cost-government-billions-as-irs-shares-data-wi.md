@@ -1,5 +1,5 @@
 ---
-title: "Drop in immigrant tax filings may cost government billions as IRS shares data with ICE - The Washington Post"
+title: "Drop in Immigrant Tax Filings May Cost Government Billions as IRS Shares Data with ICE"
 slug: "drop-in-immigrant-tax-filings-may-cost-government-billions-as-irs-shares-data-wi"
 date: "2026-04-21"
 nicchia: "fisco"

@@ -1,10 +1,10 @@
 ---
-title: "Il Comune premia studenti e laureati meritevoli: consegnate 80 borse di studio - BariToday"
-slug: "il-comune-premia-studenti-e-laureati-meritevoli-consegnate-80-borse-di-studio---"
+title: "Università e Borse di Studio: il Comune premia gli studenti meritevoli nel 2026"
+slug: "universita-e-borse-di-studio-il-comune-premia-gli-studenti-meritevoli-nel-2026"
 date: "2026-04-07"
 nicchia: "università"
 nicchia_nome: "Università & Studio"
-meta_description: "Il Comune premia studenti e laureati meritevoli: consegnate 80 borse di studio - BariToday"
+meta_description: "Università e Borse di Studio: il Comune premia gli studenti meritevoli nel 2026"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
 ---

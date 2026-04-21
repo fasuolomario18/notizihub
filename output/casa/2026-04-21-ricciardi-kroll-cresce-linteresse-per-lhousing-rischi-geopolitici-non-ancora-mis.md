@@ -1,6 +1,6 @@
 ---
-title: "Ricciardi (Kroll): “Cresce l’interesse per l’housing, rischi geopolitici non ancora misurabili” - Idealista"
-slug: "ricciardi-kroll-cresce-linteresse-per-lhousing-rischi-geopolitici-non-ancora-mis"
+title: "Mutuo, Affitto e Ristrutturazione: Le Opportunità dell'Housing in Italia tra Crescita e Incertezze Geopolitiche"
+slug: "mutuo-affitto-e-ristrutturazione-le-opportunita-dellhousing-in-italia-tra-cresci"
 date: "2026-04-21"
 nicchia: "casa"
 nicchia_nome: "Casa & Immobiliare"

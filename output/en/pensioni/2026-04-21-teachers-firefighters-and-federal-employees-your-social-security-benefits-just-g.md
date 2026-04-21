@@ -1,5 +1,5 @@
 ---
-title: "Teachers, Firefighters, and Federal Employees: Your Social Security Benefits Just Got Bigger - AOL.com"
+title: "Teachers, Firefighters, and Federal Employees: Your Social Security Benefits Just Got Bigger"
 slug: "teachers-firefighters-and-federal-employees-your-social-security-benefits-just-g"
 date: "2026-04-21"
 nicchia: "pensioni"

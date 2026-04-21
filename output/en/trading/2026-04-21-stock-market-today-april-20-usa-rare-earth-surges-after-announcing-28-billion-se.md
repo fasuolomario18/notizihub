@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Today, April 20: USA Rare Earth Surges After Announcing $2.8 Billion Serra Verde Acquisition - The Motley Fool"
+title: "Stock Market Today, April 20: USA Rare Earth Surges After Announcing $2.8 Billion Serra Verde Acquisition"
 slug: "stock-market-today-april-20-usa-rare-earth-surges-after-announcing-28-billion-se"
 date: "2026-04-21"
 nicchia: "trading"

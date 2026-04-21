@@ -1,6 +1,6 @@
 ---
-title: "3 celulares Android que batem de frente com iPhones - Oficina da Net"
-slug: "3-celulares-android-que-batem-de-frente-com-iphones---oficina-da-net"
+title: "3 Celulares Android que Batem de Frente com iPhones"
+slug: "3-celulares-android-que-batem-de-frente-com-iphones"
 date: "2026-04-21"
 nicchia: "smartphone"
 nicchia_nome: "Smartphones & Apps"

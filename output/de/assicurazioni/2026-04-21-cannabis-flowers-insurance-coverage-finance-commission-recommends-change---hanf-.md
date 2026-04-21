@@ -1,6 +1,6 @@
 ---
-title: "Cannabis Flowers Insurance Coverage: Finance Commission Recommends Change - Hanf Magazin"
-slug: "cannabis-flowers-insurance-coverage-finance-commission-recommends-change---hanf-"
+title: "Kfz-Versicherung und Lebensversicherung: Finanzkommission empfiehlt Änderungen bei Cannabisblüten-Versicherungsdeckung"
+slug: "kfz-versicherung-und-lebensversicherung-finanzkommission-empfiehlt-anderungen-be"
 date: "2026-04-21"
 nicchia: "assicurazioni"
 nicchia_nome: "Versicherungen"

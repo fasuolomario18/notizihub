@@ -1,6 +1,6 @@
 ---
-title: "Textron, Moog, and Curtiss-Wright Stocks Trade Up, What You Need To Know - TradingView"
-slug: "textron-moog-and-curtiss-wright-stocks-trade-up-what-you-need-to-know---tradingv"
+title: "Ações de Textron, Moog e Curtiss-Wright Sobem na Bolsa: O Que Você Precisa Saber"
+slug: "acoes-de-textron-moog-e-curtiss-wright-sobem-na-bolsa-o-que-voce-precisa-saber"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Trading Online"

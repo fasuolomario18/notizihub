@@ -1,6 +1,6 @@
 ---
-title: "IRS. Fisco corta benefícios após reavaliações médicas em baixa - ECO"
-slug: "irs-fisco-corta-beneficios-apos-reavaliacoes-medicas-em-baixa---eco"
+title: "IRS e Declaração de Imposto: Fisco Corta Benefícios Após Reavaliações Médicas em Baixa"
+slug: "irs-e-declaracao-de-imposto-fisco-corta-beneficios-apos-reavaliacoes-medicas-em-"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Impostos & Fiscal"

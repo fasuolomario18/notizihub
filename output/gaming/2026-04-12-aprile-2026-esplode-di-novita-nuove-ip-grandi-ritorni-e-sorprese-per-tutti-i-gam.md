@@ -1,10 +1,10 @@
 ---
-title: "Aprile 2026 esplode di novità: nuove IP, grandi ritorni e sorprese per tutti i gamer! - Everyeye.it"
-slug: "aprile-2026-esplode-di-novita-nuove-ip-grandi-ritorni-e-sorprese-per-tutti-i-gam"
+title: "PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese"
+slug: "ps5-xbox-e-pc-gaming-aprile-2026-esplode-di-novita-e-sorprese"
 date: "2026-04-12"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"
-meta_description: "Aprile 2026 esplode di novità: nuove IP, grandi ritorni e sorprese per tutti i gamer! - Everyeye.it"
+meta_description: "PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
 ---

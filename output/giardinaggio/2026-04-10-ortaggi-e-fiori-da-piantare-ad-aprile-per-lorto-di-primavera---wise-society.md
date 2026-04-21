@@ -1,10 +1,10 @@
 ---
-title: "Ortaggi e fiori da piantare ad aprile per l'orto di primavera - Wise Society"
-slug: "ortaggi-e-fiori-da-piantare-ad-aprile-per-lorto-di-primavera---wise-society"
+title: "Ortaggi e Fiori da Piantare ad Aprile: Guida Completa per l'Orto di Primavera 2026"
+slug: "ortaggi-e-fiori-da-piantare-ad-aprile-guida-completa-per-lorto-di-primavera-2026"
 date: "2026-04-10"
 nicchia: "giardinaggio"
 nicchia_nome: "Giardinaggio"
-meta_description: "Ortaggi e fiori da piantare ad aprile per l'orto di primavera - Wise Society"
+meta_description: "Ortaggi e Fiori da Piantare ad Aprile: Guida Completa per l'Orto di Primavera 2026"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
 ---

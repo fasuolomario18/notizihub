@@ -1,6 +1,6 @@
 ---
-title: "Deutsche Börse AG stock (DE0005810055): Is its data and exchange dominance strong enough for new gr - AD HOC NEWS"
-slug: "deutsche-borse-ag-stock-de0005810055-is-its-data-and-exchange-dominance-strong-e"
+title: "Deutsche Börse AG Aktie (DE0005810055): Ist die Daten- und Börsendominanz stark genug für neues Wachstum?"
+slug: "deutsche-borse-ag-aktie-de0005810055-ist-die-daten--und-borsendominanz-stark-gen"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Online-Trading"

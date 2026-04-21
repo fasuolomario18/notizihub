@@ -1,6 +1,6 @@
 ---
-title: "Decreto Bollette 2026. Arrivato l’ok del Senato: è Legge - Abbassalebollette.it"
-slug: "decreto-bollette-2026-arrivato-lok-del-senato-e-legge---abbassalebolletteit"
+title: "Decreto Bollette 2026: l'ok del Senato è arrivato, ecco cosa cambia per la luce e il gas"
+slug: "decreto-bollette-2026-lok-del-senato-e-arrivato-ecco-cosa-cambia-per-la-luce-e-i"
 date: "2026-04-11"
 nicchia: "energia"
 nicchia_nome: "Energia & Bollette"

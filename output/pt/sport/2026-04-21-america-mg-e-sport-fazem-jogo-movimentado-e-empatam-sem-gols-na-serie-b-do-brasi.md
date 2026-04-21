@@ -1,6 +1,6 @@
 ---
-title: "América-MG e Sport fazem jogo movimentado e empatam sem gols na Série B do Brasileirão - ESPN Brasil"
-slug: "america-mg-e-sport-fazem-jogo-movimentado-e-empatam-sem-gols-na-serie-b-do-brasi"
+title: "América-MG e Sport empatam sem gols em jogo movimentado da Série B do Brasileirão"
+slug: "america-mg-e-sport-empatam-sem-gols-em-jogo-movimentado-da-serie-b-do-brasileira"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Esportes"

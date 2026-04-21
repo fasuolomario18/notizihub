@@ -1,11 +1,11 @@
 ---
-title: "Monopattini, dal 16 maggio obbligatoria anche l’assicurazione Rc auto - Il Sole 24 ORE"
-slug: "monopattini-dal-16-maggio-obbligatoria-anche-lassicurazione-rc-auto---il-sole-24"
+title: "Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio"
+slug: "assicurazione-auto-e-polizza-rc-lobbligo-che-arriva-ai-monopattini-dal-16-maggio"
 date: "2026-04-21"
 nicchia: "assicurazioni"
 nicchia_nome: "Assicurazioni"
 lang: "it"
-meta_description: "Monopattini, dal 16 maggio obbligatoria anche l’assicurazione Rc auto - Il Sole 24 ORE"
+meta_description: "Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio"
 tags: ["assicurazione auto", "polizza"]
 auto_generated: true
 ---

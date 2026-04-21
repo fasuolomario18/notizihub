@@ -1,6 +1,6 @@
 ---
-title: "Facebook, al via oggi Instant Articles. Le news si leggono direttamente senza uscire dal social - ItaliaOggi"
-slug: "facebook-al-via-oggi-instant-articles-le-news-si-leggono-direttamente-senza-usci"
+title: "Facebook Instant Articles: le notizie di cronaca in Italia si leggono senza uscire dal social"
+slug: "facebook-instant-articles-le-notizie-di-cronaca-in-italia-si-leggono-senza-uscir"
 date: "2026-04-12"
 nicchia: "cronaca"
 nicchia_nome: "Cronaca"

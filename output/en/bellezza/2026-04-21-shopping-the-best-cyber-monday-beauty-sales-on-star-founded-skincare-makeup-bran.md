@@ -1,6 +1,6 @@
 ---
-title: "Shopping: The Best Cyber Monday Beauty Sales on Star-Founded Skincare, Makeup Brands and More - IMDb"
-slug: "shopping-the-best-cyber-monday-beauty-sales-on-star-founded-skincare-makeup-bran"
+title: "Best Cyber Monday Beauty Sales on Star-Founded Skincare, Makeup Brands and More"
+slug: "best-cyber-monday-beauty-sales-on-star-founded-skincare-makeup-brands-and-more"
 date: "2026-04-21"
 nicchia: "bellezza"
 nicchia_nome: "Beauty & Care"

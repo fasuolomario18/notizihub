@@ -1,6 +1,6 @@
 ---
-title: "Nem todo híbrido é igual: o segredo que muda tudo na nova geração de carros - Mecânica Online"
-slug: "nem-todo-hibrido-e-igual-o-segredo-que-muda-tudo-na-nova-geracao-de-carros---mec"
+title: "Nem todo híbrido é igual: o segredo que muda tudo na nova geração de carros"
+slug: "nem-todo-hibrido-e-igual-o-segredo-que-muda-tudo-na-nova-geracao-de-carros"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Carros & Motor"

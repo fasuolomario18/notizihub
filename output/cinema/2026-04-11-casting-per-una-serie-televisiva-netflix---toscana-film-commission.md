@@ -1,10 +1,10 @@
 ---
-title: "Casting per una serie televisiva Netflix - Toscana Film Commission"
-slug: "casting-per-una-serie-televisiva-netflix---toscana-film-commission"
+title: "Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026"
+slug: "casting-netflix-in-toscana-la-nuova-opportunita-per-attori-e-attrici-nel-2026"
 date: "2026-04-11"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"
-meta_description: "Casting per una serie televisiva Netflix - Toscana Film Commission"
+meta_description: "Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
 ---

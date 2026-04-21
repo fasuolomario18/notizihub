@@ -1,10 +1,10 @@
 ---
-title: "Rinnovo polizza auto: l'assicurazione online Verti offre fino al 36% di sconto - HDmotori"
-slug: "rinnovo-polizza-auto-lassicurazione-online-verti-offre-fino-al-36-di-sconto---hd"
+title: "Assicurazione Auto: Verti Offre fino al 36% di Sconto sul Rinnovo della Polizza RC Auto"
+slug: "assicurazione-auto-verti-offre-fino-al-36-di-sconto-sul-rinnovo-della-polizza-rc"
 date: "2026-04-17"
 nicchia: "assicurazioni"
 nicchia_nome: "Assicurazioni"
-meta_description: "Rinnovo polizza auto: l'assicurazione online Verti offre fino al 36% di sconto - HDmotori"
+meta_description: "Assicurazione Auto: Verti Offre fino al 36% di Sconto sul Rinnovo della Polizza RC Auto"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
 ---

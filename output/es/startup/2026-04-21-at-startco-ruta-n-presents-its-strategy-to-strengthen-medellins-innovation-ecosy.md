@@ -1,6 +1,6 @@
 ---
-title: "At StartCo, Ruta N presents its strategy to strengthen Medellín’s innovation ecosystem - Ruta N Medellín"
-slug: "at-startco-ruta-n-presents-its-strategy-to-strengthen-medellins-innovation-ecosy"
+title: "Ruta N fortalece el ecosistema de startup y emprendimiento en Medellín con nueva estrategia"
+slug: "ruta-n-fortalece-el-ecosistema-de-startup-y-emprendimiento-en-medellin-con-nueva"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startups & Negocios"

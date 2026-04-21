@@ -1,10 +1,10 @@
 ---
-title: "Dichiarazione dei Redditi 2026, detrazioni sulle tasse: come si calcolano e quali sono - Sky TG24"
-slug: "dichiarazione-dei-redditi-2026-detrazioni-sulle-tasse-come-si-calcolano-e-quali-"
+title: "Dichiarazione dei Redditi 2026: Detrazioni sulle Tasse, Come Calcolarle e Quali Sono"
+slug: "dichiarazione-dei-redditi-2026-detrazioni-sulle-tasse-come-calcolarle-e-quali-so"
 date: "2026-04-07"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "Dichiarazione dei Redditi 2026, detrazioni sulle tasse: come si calcolano e quali sono - Sky TG24"
+meta_description: "Dichiarazione dei Redditi 2026: Detrazioni sulle Tasse, Come Calcolarle e Quali Sono"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

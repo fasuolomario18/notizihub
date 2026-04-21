@@ -1,5 +1,5 @@
 ---
-title: "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More - Forbes"
+title: "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
 slug: "what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-"
 date: "2026-04-21"
 nicchia: "cinema"

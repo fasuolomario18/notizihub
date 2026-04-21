@@ -1,6 +1,6 @@
 ---
-title: "BTC, ETH, XRP in calo mentre i negoziatori di Stati Uniti e Iran non riescono a raggiungere una risoluzione sulla guerra - CoinDesk"
-slug: "btc-eth-xrp-in-calo-mentre-i-negoziatori-di-stati-uniti-e-iran-non-riescono-a-ra"
+title: "Bitcoin, Ethereum e Altcoin in Calo: Le Tensioni Geopolitiche Scuotono i Mercati Crypto"
+slug: "bitcoin-ethereum-e-altcoin-in-calo-le-tensioni-geopolitiche-scuotono-i-mercati-c"
 date: "2026-04-13"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

@@ -1,6 +1,6 @@
 ---
-title: "Oggi sciopero dei giornalisti per il rinnovo del contratto nazionale - Sky TG24"
-slug: "oggi-sciopero-dei-giornalisti-per-il-rinnovo-del-contratto-nazionale---sky-tg24"
+title: "Sciopero dei giornalisti oggi per il rinnovo del contratto nazionale"
+slug: "sciopero-dei-giornalisti-oggi-per-il-rinnovo-del-contratto-nazionale"
 date: "2026-04-17"
 nicchia: "cronaca"
 nicchia_nome: "Cronaca"

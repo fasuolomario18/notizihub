@@ -1,10 +1,10 @@
 ---
-title: "Film e serie TV del weekend: cosa vedere su Netflix e piattaforme streaming - Prima Pagina Online"
-slug: "film-e-serie-tv-del-weekend-cosa-vedere-su-netflix-e-piattaforme-streaming---pri"
+title: "Film e Serie TV del Weekend: Cosa Vedere su Netflix e Piattaforme Streaming ad Aprile 2026"
+slug: "film-e-serie-tv-del-weekend-cosa-vedere-su-netflix-e-piattaforme-streaming-ad-ap"
 date: "2026-04-12"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"
-meta_description: "Film e serie TV del weekend: cosa vedere su Netflix e piattaforme streaming - Prima Pagina Online"
+meta_description: "Film e Serie TV del Weekend: Cosa Vedere su Netflix e Piattaforme Streaming ad Aprile 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
 ---

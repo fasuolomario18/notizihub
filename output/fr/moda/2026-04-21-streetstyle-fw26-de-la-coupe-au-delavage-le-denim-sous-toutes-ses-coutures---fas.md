@@ -1,6 +1,6 @@
 ---
-title: "Streetstyle FW26 : de la coupe au délavage, le denim sous toutes ses coutures - FashionUnited"
-slug: "streetstyle-fw26-de-la-coupe-au-delavage-le-denim-sous-toutes-ses-coutures---fas"
+title: "Streetstyle FW26 : Le Denim Sous Toutes Ses Coutures, Une Tendance Mode Incontournable"
+slug: "streetstyle-fw26-le-denim-sous-toutes-ses-coutures-une-tendance-mode-incontourna"
 date: "2026-04-21"
 nicchia: "moda"
 nicchia_nome: "Mode & Style"

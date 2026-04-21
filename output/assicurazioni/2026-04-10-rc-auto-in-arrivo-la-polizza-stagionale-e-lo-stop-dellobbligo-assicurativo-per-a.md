@@ -1,10 +1,10 @@
 ---
-title: "RC auto, in arrivo la polizza stagionale e lo stop dell'obbligo assicurativo per alcuni mezzi: ecco tutte le novità - Brocardi.it"
-slug: "rc-auto-in-arrivo-la-polizza-stagionale-e-lo-stop-dellobbligo-assicurativo-per-a"
+title: "RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo"
+slug: "rc-auto-2026-polizza-stagionale-e-novita-sullobbligo-assicurativo"
 date: "2026-04-10"
 nicchia: "assicurazioni"
 nicchia_nome: "Assicurazioni"
-meta_description: "RC auto, in arrivo la polizza stagionale e lo stop dell'obbligo assicurativo per alcuni mezzi: ecco tutte le novità - Brocardi.it"
+meta_description: "RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
 ---

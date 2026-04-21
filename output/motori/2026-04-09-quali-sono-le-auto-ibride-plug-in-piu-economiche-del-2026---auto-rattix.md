@@ -1,10 +1,10 @@
 ---
-title: "Quali sono le auto ibride plug-in più economiche del 2026? - Auto Rattix"
-slug: "quali-sono-le-auto-ibride-plug-in-piu-economiche-del-2026---auto-rattix"
+title: "Quali sono le auto ibride plug-in più economiche del 2026?"
+slug: "quali-sono-le-auto-ibride-plug-in-piu-economiche-del-2026"
 date: "2026-04-09"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Quali sono le auto ibride plug-in più economiche del 2026? - Auto Rattix"
+meta_description: "Quali sono le auto ibride plug-in più economiche del 2026?"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

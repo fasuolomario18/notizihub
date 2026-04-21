@@ -1,6 +1,6 @@
 ---
-title: "Los mejores móviles (2026), los hemos probado y aquí están sus análisis - Xataka"
-slug: "los-mejores-moviles-2026-los-hemos-probado-y-aqui-estan-sus-analisis---xataka"
+title: "Los mejores móviles de 2026: los hemos probado y aquí están sus análisis"
+slug: "los-mejores-moviles-de-2026-los-hemos-probado-y-aqui-estan-sus-analisis"
 date: "2026-04-21"
 nicchia: "smartphone"
 nicchia_nome: "Smartphones & Apps"

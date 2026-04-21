@@ -1,10 +1,10 @@
 ---
-title: "Data center, investimenti a Milano in netta crescita - Il Sole 24 ORE"
-slug: "data-center-investimenti-a-milano-in-netta-crescita---il-sole-24-ore"
+title: "Data Center a Milano: Come Investire nel Boom dell'Infrastruttura Digitale"
+slug: "data-center-a-milano-come-investire-nel-boom-dellinfrastruttura-digitale"
 date: "2026-04-10"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"
-meta_description: "Data center, investimenti a Milano in netta crescita - Il Sole 24 ORE"
+meta_description: "Data Center a Milano: Come Investire nel Boom dell'Infrastruttura Digitale"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
 ---

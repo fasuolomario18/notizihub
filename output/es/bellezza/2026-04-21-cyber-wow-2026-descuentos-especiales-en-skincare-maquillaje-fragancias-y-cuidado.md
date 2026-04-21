@@ -1,6 +1,6 @@
 ---
-title: "Cyber Wow 2026: Descuentos especiales en skincare, maquillaje, fragancias y cuidado capilar en tendencia - Infobae"
-slug: "cyber-wow-2026-descuentos-especiales-en-skincare-maquillaje-fragancias-y-cuidado"
+title: "Cyber Wow 2026: Los Mejores Descuentos en Skincare, Maquillaje y Cuidado Capilar en Tendencia"
+slug: "cyber-wow-2026-los-mejores-descuentos-en-skincare-maquillaje-y-cuidado-capilar-e"
 date: "2026-04-21"
 nicchia: "bellezza"
 nicchia_nome: "Belleza & Cuidado"

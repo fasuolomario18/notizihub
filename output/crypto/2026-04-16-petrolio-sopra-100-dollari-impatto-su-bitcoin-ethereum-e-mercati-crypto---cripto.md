@@ -1,6 +1,6 @@
 ---
-title: "Petrolio sopra 100 dollari: impatto su Bitcoin, Ethereum e mercati crypto - Criptovaluta.it"
-slug: "petrolio-sopra-100-dollari-impatto-su-bitcoin-ethereum-e-mercati-crypto---cripto"
+title: "Bitcoin, Ethereum e il Mercato Crypto Sotto Pressione: L'Impatto del Petrolio Sopra i 100 Dollari"
+slug: "bitcoin-ethereum-e-il-mercato-crypto-sotto-pressione-limpatto-del-petrolio-sopra"
 date: "2026-04-16"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

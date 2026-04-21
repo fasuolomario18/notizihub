@@ -1,6 +1,6 @@
 ---
-title: "Cosa guardare su Netflix - catalogo aggiornato a Marzo 2026 - Grazia"
-slug: "cosa-guardare-su-netflix---catalogo-aggiornato-a-marzo-2026---grazia"
+title: "Cosa Guardare su Netflix: Il Catalogo Aggiornato ad Aprile 2026"
+slug: "cosa-guardare-su-netflix-il-catalogo-aggiornato-ad-aprile-2026"
 date: "2026-04-09"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"

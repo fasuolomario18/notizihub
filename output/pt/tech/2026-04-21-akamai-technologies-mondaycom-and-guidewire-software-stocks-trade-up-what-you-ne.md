@@ -1,6 +1,6 @@
 ---
-title: "Akamai Technologies, monday.com, and Guidewire Software Stocks Trade Up, What You Need To Know - TradingView"
-slug: "akamai-technologies-mondaycom-and-guidewire-software-stocks-trade-up-what-you-ne"
+title: "Inteligência Artificial Impulsiona Alta de Akamai, monday.com e Guidewire: O que Você Precisa Saber"
+slug: "inteligencia-artificial-impulsiona-alta-de-akamai-mondaycom-e-guidewire-o-que-vo"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & IA"

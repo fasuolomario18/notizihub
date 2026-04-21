@@ -1,6 +1,6 @@
 ---
-title: "Pasquetta in rialzo: Bitcoin ed Ethereum salgono con il petrolio a 110 dollari [Analisi] - Criptovaluta.it"
-slug: "pasquetta-in-rialzo-bitcoin-ed-ethereum-salgono-con-il-petrolio-a-110-dollari-an"
+title: "Bitcoin ed Ethereum in rialzo: l'effetto della corsa del petrolio a 110 dollari"
+slug: "bitcoin-ed-ethereum-in-rialzo-leffetto-della-corsa-del-petrolio-a-110-dollari"
 date: "2026-04-07"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

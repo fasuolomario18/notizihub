@@ -1,6 +1,6 @@
 ---
-title: "Bolzano, nasce Mountain Clinic per la medicina di montagna - Alto Adige"
-slug: "bolzano-nasce-mountain-clinic-per-la-medicina-di-montagna---alto-adige"
+title: "Dieta e Alimentazione in Montagna: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere degli Alpinisti"
+slug: "dieta-e-alimentazione-in-montagna-la-nuova-mountain-clinic-di-bolzano-rivoluzion"
 date: "2026-04-13"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

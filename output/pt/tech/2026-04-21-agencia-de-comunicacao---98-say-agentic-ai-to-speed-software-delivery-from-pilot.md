@@ -1,6 +1,6 @@
 ---
-title: "Agência de Comunicação - 98% Say Agentic AI to Speed Software Delivery from Pilot Purgatory in New Report by SoftServe and MIT Technology Review - Estadão Blue Studio"
-slug: "agencia-de-comunicacao---98-say-agentic-ai-to-speed-software-delivery-from-pilot"
+title: "Inteligência Artificial Agencial Revoluciona a Entrega de Software e Smartphones"
+slug: "inteligencia-artificial-agencial-revoluciona-a-entrega-de-software-e-smartphones"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & IA"

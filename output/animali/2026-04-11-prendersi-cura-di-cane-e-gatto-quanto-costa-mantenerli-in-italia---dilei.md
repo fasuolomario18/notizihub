@@ -1,10 +1,10 @@
 ---
-title: "Prendersi cura di cane e gatto: quanto costa mantenerli in Italia - DiLei"
-slug: "prendersi-cura-di-cane-e-gatto-quanto-costa-mantenerli-in-italia---dilei"
+title: "Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026"
+slug: "quanto-costa-mantenere-un-cane-o-un-gatto-in-italia-nel-2026"
 date: "2026-04-11"
 nicchia: "animali"
 nicchia_nome: "Animali Domestici"
-meta_description: "Prendersi cura di cane e gatto: quanto costa mantenerli in Italia - DiLei"
+meta_description: "Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
 ---

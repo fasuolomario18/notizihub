@@ -1,6 +1,6 @@
 ---
-title: "‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine - Al Jazeera"
-slug: "technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine---al-jazeera"
+title: "Artificial Intelligence War Doctrine: Understanding the Technofascism Debate Surrounding Palantir's Software Platform"
+slug: "artificial-intelligence-war-doctrine-understanding-the-technofascism-debate-surr"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Technology & AI"

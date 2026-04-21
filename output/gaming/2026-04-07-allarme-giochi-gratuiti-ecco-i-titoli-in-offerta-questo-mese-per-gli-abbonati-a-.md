@@ -1,6 +1,6 @@
 ---
-title: "Allarme giochi gratuiti: ecco i titoli in offerta questo mese per gli abbonati a PlayStation Plus - Sortir à Paris"
-slug: "allarme-giochi-gratuiti-ecco-i-titoli-in-offerta-questo-mese-per-gli-abbonati-a-"
+title: "PS5 e PlayStation Plus: Aprile 2026 Porta Giochi Incredibili in Abbonamento"
+slug: "ps5-e-playstation-plus-aprile-2026-porta-giochi-incredibili-in-abbonamento"
 date: "2026-04-07"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

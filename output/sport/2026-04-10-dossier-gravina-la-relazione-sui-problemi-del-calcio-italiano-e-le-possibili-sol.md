@@ -1,6 +1,6 @@
 ---
-title: "Dossier Gravina: la relazione sui problemi del calcio italiano e le possibili soluzioni - Sky Sport"
-slug: "dossier-gravina-la-relazione-sui-problemi-del-calcio-italiano-e-le-possibili-sol"
+title: "Dossier Gravina: il calcio italiano di fronte ai suoi problemi e le soluzioni per il futuro"
+slug: "dossier-gravina-il-calcio-italiano-di-fronte-ai-suoi-problemi-e-le-soluzioni-per"
 date: "2026-04-10"
 nicchia: "sport"
 nicchia_nome: "Sport"

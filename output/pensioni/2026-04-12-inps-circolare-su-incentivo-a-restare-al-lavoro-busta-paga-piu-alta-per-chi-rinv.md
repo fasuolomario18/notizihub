@@ -1,6 +1,6 @@
 ---
-title: "INPS, circolare su incentivo a restare al lavoro: busta paga più alta per chi rinvia la pensione - Orizzonte Scuola Notizie"
-slug: "inps-circolare-su-incentivo-a-restare-al-lavoro-busta-paga-piu-alta-per-chi-rinv"
+title: "INPS: Incentivi per Chi Rimanda la Pensione, Busta Paga più Alta nel 2026"
+slug: "inps-incentivi-per-chi-rimanda-la-pensione-busta-paga-piu-alta-nel-2026"
 date: "2026-04-12"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

@@ -1,6 +1,6 @@
 ---
-title: "Medici di famiglia, 'in Fvg sanità territoriale disomogenea' - Alto Adige"
-slug: "medici-di-famiglia-in-fvg-sanita-territoriale-disomogenea---alto-adige"
+title: "Dieta e Alimentazione: Come la Sanità Territoriale Influisce sul Benessere in Friuli Venezia Giulia nel 2026"
+slug: "dieta-e-alimentazione-come-la-sanita-territoriale-influisce-sul-benessere-in-fri"
 date: "2026-04-15"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"

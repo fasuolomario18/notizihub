@@ -1,10 +1,10 @@
 ---
-title: "Egm ai raggi X: Franchetti cresce nel 2025 e fa shopping in Brasile - Il Sole 24 ORE"
-slug: "egm-ai-raggi-x-franchetti-cresce-nel-2025-e-fa-shopping-in-brasile---il-sole-24-"
+title: "Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026"
+slug: "investire-in-etf-e-risparmio-la-strategia-di-franchetti-e-egm-nel-2026"
 date: "2026-04-16"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"
-meta_description: "Egm ai raggi X: Franchetti cresce nel 2025 e fa shopping in Brasile - Il Sole 24 ORE"
+meta_description: "Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
 ---

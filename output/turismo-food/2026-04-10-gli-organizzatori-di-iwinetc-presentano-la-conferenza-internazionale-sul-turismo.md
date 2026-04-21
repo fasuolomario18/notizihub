@@ -1,10 +1,10 @@
 ---
-title: "Gli organizzatori di IWINETC presentano la Conferenza Internazionale sul Turismo Alimentare che si terrà in Spagna nel 2026 - Vinetur"
-slug: "gli-organizzatori-di-iwinetc-presentano-la-conferenza-internazionale-sul-turismo"
+title: "Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia"
+slug: "conferenza-internazionale-sul-turismo-alimentare-2026-spagna-protagonista-di-vin"
 date: "2026-04-10"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"
-meta_description: "Gli organizzatori di IWINETC presentano la Conferenza Internazionale sul Turismo Alimentare che si terrà in Spagna nel 2026 - Vinetur"
+meta_description: "Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
 ---

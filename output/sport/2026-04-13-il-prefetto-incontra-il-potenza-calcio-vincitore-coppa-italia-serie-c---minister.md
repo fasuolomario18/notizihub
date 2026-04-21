@@ -1,6 +1,6 @@
 ---
-title: "Il Prefetto incontra il Potenza Calcio vincitore Coppa Italia Serie C - Ministero dell‘Interno"
-slug: "il-prefetto-incontra-il-potenza-calcio-vincitore-coppa-italia-serie-c---minister"
+title: "Serie A e il Calcio Italiano in Festa: Il Prefetto Celebra il Potenza Campione della Coppa Italia Serie C"
+slug: "serie-a-e-il-calcio-italiano-in-festa-il-prefetto-celebra-il-potenza-campione-de"
 date: "2026-04-13"
 nicchia: "sport"
 nicchia_nome: "Sport"

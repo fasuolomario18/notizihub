@@ -1,5 +1,5 @@
 ---
-title: "Intelligenza artificiale e sicurezza domestica: come cambia la gestione degli allarmi? - Sky TG24"
+title: "Intelligenza Artificiale e Sicurezza Domestica: Come Cambia la Gestione degli Allarmi"
 slug: "intelligenza-artificiale-e-sicurezza-domestica-come-cambia-la-gestione-degli-all"
 date: "2026-04-21"
 nicchia: "tech"

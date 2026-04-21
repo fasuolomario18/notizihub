@@ -1,6 +1,6 @@
 ---
-title: "Government to propose electricity price changes in clean power push - BBC"
-slug: "government-to-propose-electricity-price-changes-in-clean-power-push---bbc"
+title: "Government Electricity Bill Changes Explained: Solar Panels and Clean Power Reforms"
+slug: "government-electricity-bill-changes-explained-solar-panels-and-clean-power-refor"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Energy & Bills"

@@ -1,6 +1,6 @@
 ---
-title: "Take my breadth away: What a historically top-heavy stock market means for investors - Business Insider"
-slug: "take-my-breadth-away-what-a-historically-top-heavy-stock-market-means-for-invest"
+title: "Understanding Top-Heavy Stock Markets: What It Means for Your Trading Strategy"
+slug: "understanding-top-heavy-stock-markets-what-it-means-for-your-trading-strategy"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Online Trading"

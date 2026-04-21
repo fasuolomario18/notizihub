@@ -1,6 +1,6 @@
 ---
-title: "La tua auto elettrica: la guida completa di Rinnovabili - Rinnovabili"
-slug: "la-tua-auto-elettrica-la-guida-completa-di-rinnovabili---rinnovabili"
+title: "Auto Elettrica: La Guida Completa per Orientarsi nel 2026"
+slug: "auto-elettrica-la-guida-completa-per-orientarsi-nel-2026"
 date: "2026-04-11"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

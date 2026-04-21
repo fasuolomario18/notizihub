@@ -1,10 +1,10 @@
 ---
-title: "Le nuove tecnologie ridisegnano l’umano. Regolarle non basterà a salvarci dall’abisso - La Verità"
-slug: "le-nuove-tecnologie-ridisegnano-lumano-regolarle-non-bastera-a-salvarci-dallabis"
+title: "Intelligenza Artificiale e Smartphone: Come le Tecnologie Ridisegnano l'Umano nel 2026"
+slug: "intelligenza-artificiale-e-smartphone-come-le-tecnologie-ridisegnano-lumano-nel-"
 date: "2026-04-07"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Le nuove tecnologie ridisegnano l’umano. Regolarle non basterà a salvarci dall’abisso - La Verità"
+meta_description: "Intelligenza Artificiale e Smartphone: Come le Tecnologie Ridisegnano l'Umano nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

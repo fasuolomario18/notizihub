@@ -1,10 +1,10 @@
 ---
-title: "Modello 730/2026, il calendario completo degli adempimenti: le date dei rimborsi - QuiFinanza"
-slug: "modello-7302026-il-calendario-completo-degli-adempimenti-le-date-dei-rimborsi---"
+title: "Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi"
+slug: "modello-7302026-il-calendario-completo-degli-adempimenti-e-le-date-dei-rimborsi"
 date: "2026-04-09"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "Modello 730/2026, il calendario completo degli adempimenti: le date dei rimborsi - QuiFinanza"
+meta_description: "Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The Bundestag approves a retroactive start of the new electric car subsidy. - VISION mobility"
-slug: "the-bundestag-approves-a-retroactive-start-of-the-new-electric-car-subsidy---vis"
+title: "Bundestag genehmigt rückwirkende Förderung für Elektroautos ab Januar 2026"
+slug: "bundestag-genehmigt-ruckwirkende-forderung-fur-elektroautos-ab-januar-2026"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Autos & Motor"

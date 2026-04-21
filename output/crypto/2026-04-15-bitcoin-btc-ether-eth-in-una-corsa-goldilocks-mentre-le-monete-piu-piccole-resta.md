@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin (BTC), ether (ETH) in una corsa Goldilocks mentre le monete più piccole restano in secondo piano: Crypto Daily - CoinDesk"
-slug: "bitcoin-btc-ether-eth-in-una-corsa-goldilocks-mentre-le-monete-piu-piccole-resta"
+title: "Bitcoin e Ethereum in Corsa Goldilocks: Gli Altcoin Restano in Secondo Piano"
+slug: "bitcoin-e-ethereum-in-corsa-goldilocks-gli-altcoin-restano-in-secondo-piano"
 date: "2026-04-15"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

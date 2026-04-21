@@ -1,10 +1,10 @@
 ---
-title: "Maltempo, gelo e burrasche, il colpo di coda dell'inverno: temperature in picchiata e allerta gialla - RaiNews"
-slug: "maltempo-gelo-e-burrasche-il-colpo-di-coda-dellinverno-temperature-in-picchiata-"
+title: "Maltempo Aprile 2026: Gelo e Burrasche, il Colpo di Coda dell'Inverno sulle Previsioni Meteo"
+slug: "maltempo-aprile-2026-gelo-e-burrasche-il-colpo-di-coda-dellinverno-sulle-previsi"
 date: "2026-04-10"
 nicchia: "meteo"
 nicchia_nome: "Meteo"
-meta_description: "Maltempo, gelo e burrasche, il colpo di coda dell'inverno: temperature in picchiata e allerta gialla - RaiNews"
+meta_description: "Maltempo Aprile 2026: Gelo e Burrasche, il Colpo di Coda dell'Inverno sulle Previsioni Meteo"
 tags: ["meteo", "previsioni", "temperature"]
 auto_generated: true
 ---

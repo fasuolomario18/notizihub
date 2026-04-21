@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin, Ethereum: tra poche ore annuncio di acquisti milionari da queste due società - Criptovaluta.it"
-slug: "bitcoin-ethereum-tra-poche-ore-annuncio-di-acquisti-milionari-da-queste-due-soci"
+title: "Bitcoin ed Ethereum: Due Grandi Società Annunciano Acquisti Milionari Oggi"
+slug: "bitcoin-ed-ethereum-due-grandi-societa-annunciano-acquisti-milionari-oggi"
 date: "2026-04-07"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

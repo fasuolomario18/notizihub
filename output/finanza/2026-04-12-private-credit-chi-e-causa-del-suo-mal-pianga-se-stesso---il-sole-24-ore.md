@@ -1,6 +1,6 @@
 ---
-title: "Private credit, chi è causa del suo mal pianga se stesso - Il Sole 24 ORE"
-slug: "private-credit-chi-e-causa-del-suo-mal-pianga-se-stesso---il-sole-24-ore"
+title: "Private Credit: Come Investire in Modo Consapevole nel 2026"
+slug: "private-credit-come-investire-in-modo-consapevole-nel-2026"
 date: "2026-04-12"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"

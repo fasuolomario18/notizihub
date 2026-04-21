@@ -1,10 +1,10 @@
 ---
-title: "Famiglia nel bosco, figli trasferiti in una struttura protetta. I genitori non volevano portarli a scuola, facevano 'unschooling' - Tecnica della Scuola"
-slug: "famiglia-nel-bosco-figli-trasferiti-in-una-struttura-protetta-i-genitori-non-vol"
+title: "Educazione Figli: Quando l'Unschooling Diventa un Problema Legale"
+slug: "educazione-figli-quando-lunschooling-diventa-un-problema-legale"
 date: "2026-04-07"
 nicchia: "genitori"
 nicchia_nome: "Genitori & Figli"
-meta_description: "Famiglia nel bosco, figli trasferiti in una struttura protetta. I genitori non volevano portarli a scuola, facevano 'unschooling' - Tecnica della Scuola"
+meta_description: "Educazione Figli: Quando l'Unschooling Diventa un Problema Legale"
 tags: ["educazione figli", "gravidanza", "neonato"]
 auto_generated: true
 ---

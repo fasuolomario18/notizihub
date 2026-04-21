@@ -1,6 +1,6 @@
 ---
-title: "Choc fiscal sur la crypto : 61% méconnaissent les nouvelles règles de l’IRS avant la date limite du 15 avril - Yahoo Finance France"
-slug: "choc-fiscal-sur-la-crypto-61-meconnaissent-les-nouvelles-regles-de-lirs-avant-la"
+title: "Choc fiscal sur la crypto : 61% des contribuables ignorent les nouvelles règles de déclaration d'impôts de l'IRS"
+slug: "choc-fiscal-sur-la-crypto-61-des-contribuables-ignorent-les-nouvelles-regles-de-"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Impôts & Fiscalité"

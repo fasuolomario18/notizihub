@@ -1,6 +1,6 @@
 ---
-title: "Novità Decreto Bollette 2026: arrivato l’ok del Cdm e l’approvazione della Camera - Abbassalebollette.it"
-slug: "novita-decreto-bollette-2026-arrivato-lok-del-cdm-e-lapprovazione-della-camera--"
+title: "Decreto Bollette 2026: Approvazione della Camera e le Novità per Luce, Gas e Fotovoltaico"
+slug: "decreto-bollette-2026-approvazione-della-camera-e-le-novita-per-luce-gas-e-fotov"
 date: "2026-04-07"
 nicchia: "energia"
 nicchia_nome: "Energia & Bollette"

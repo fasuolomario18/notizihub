@@ -1,6 +1,6 @@
 ---
-title: "Inps, anche nel 2026 bonus in busta paga a chi rinuncia alla pensione anticipata - Sky TG24"
-slug: "inps-anche-nel-2026-bonus-in-busta-paga-a-chi-rinuncia-alla-pensione-anticipata-"
+title: "INPS: Bonus in Busta Paga nel 2026 per chi Rinuncia alla Pensione Anticipata"
+slug: "inps-bonus-in-busta-paga-nel-2026-per-chi-rinuncia-alla-pensione-anticipata"
 date: "2026-04-09"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

@@ -1,6 +1,6 @@
 ---
-title: "Pensioni con 35 anni di contributi e meno di 62 di età: per quota 97,6 e 98,6 domanda entro il 1° maggio (senza adeguamento dell'età) - Il Messaggero"
-slug: "pensioni-con-35-anni-di-contributi-e-meno-di-62-di-eta-per-quota-976-e-986-doman"
+title: "Pensione INPS con 35 anni di contributi: le nuove opzioni di Quota 97,6 e Quota 98,6"
+slug: "pensione-inps-con-35-anni-di-contributi-le-nuove-opzioni-di-quota-976-e-quota-98"
 date: "2026-04-21"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

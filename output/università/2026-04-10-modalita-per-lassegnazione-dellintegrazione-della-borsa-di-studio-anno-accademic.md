@@ -1,10 +1,10 @@
 ---
-title: "Modalità per l’assegnazione dell’integrazione della borsa di studio anno accademico 2024/2 - ERSU Cagliari"
-slug: "modalita-per-lassegnazione-dellintegrazione-della-borsa-di-studio-anno-accademic"
+title: "Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari"
+slug: "borse-di-studio-universita-le-nuove-modalita-di-assegnazione-dellintegrazione-er"
 date: "2026-04-10"
 nicchia: "università"
 nicchia_nome: "Università & Studio"
-meta_description: "Modalità per l’assegnazione dell’integrazione della borsa di studio anno accademico 2024/2 - ERSU Cagliari"
+meta_description: "Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
 ---

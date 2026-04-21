@@ -1,6 +1,6 @@
 ---
-title: "Pensioni 2026, via alle domande per Quota 97,6: la circolare Inps per lasciare il lavoro prima dei 62 anni - Fanpage"
-slug: "pensioni-2026-via-alle-domande-per-quota-976-la-circolare-inps-per-lasciare-il-l"
+title: "Pensione 2026: Quota 97,6 e le nuove opportunità per uscire dal lavoro prima dei 62 anni"
+slug: "pensione-2026-quota-976-e-le-nuove-opportunita-per-uscire-dal-lavoro-prima-dei-6"
 date: "2026-04-09"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

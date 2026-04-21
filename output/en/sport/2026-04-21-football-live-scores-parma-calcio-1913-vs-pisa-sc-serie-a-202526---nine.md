@@ -1,6 +1,6 @@
 ---
-title: "Football Live Scores: Parma Calcio 1913 vs Pisa SC, Serie A, 2025/26 - Nine"
-slug: "football-live-scores-parma-calcio-1913-vs-pisa-sc-serie-a-202526---nine"
+title: "Football Live Scores: Parma Calcio 1913 vs Pisa SC, Serie A, 2025/26"
+slug: "football-live-scores-parma-calcio-1913-vs-pisa-sc-serie-a-202526"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sports"

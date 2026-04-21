@@ -1,6 +1,6 @@
 ---
-title: "Perché la diversificazione del portafoglio ha fuzionato, ma è meglio evitare gli eccessi - Morningstar"
-slug: "perche-la-diversificazione-del-portafoglio-ha-fuzionato-ma-e-meglio-evitare-gli-"
+title: "Diversificazione del Portafoglio: Come Investire Correttamente nel 2026 Senza Eccessi"
+slug: "diversificazione-del-portafoglio-come-investire-correttamente-nel-2026-senza-ecc"
 date: "2026-04-17"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"

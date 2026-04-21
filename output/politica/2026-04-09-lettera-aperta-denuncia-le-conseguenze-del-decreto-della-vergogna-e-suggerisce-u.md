@@ -1,6 +1,6 @@
 ---
-title: "Lettera aperta denuncia le conseguenze del “Decreto della Vergogna” e suggerisce una responsabilizzazione politica nel governo italiano - Insieme"
-slug: "lettera-aperta-denuncia-le-conseguenze-del-decreto-della-vergogna-e-suggerisce-u"
+title: "Governo italiano sotto pressione: la lettera aperta accusa il 'Decreto della Vergogna'"
+slug: "governo-italiano-sotto-pressione-la-lettera-aperta-accusa-il-decreto-della-vergo"
 date: "2026-04-09"
 nicchia: "politica"
 nicchia_nome: "Politica"

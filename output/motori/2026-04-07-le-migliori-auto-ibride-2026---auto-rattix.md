@@ -1,10 +1,10 @@
 ---
-title: "Le migliori auto ibride 2026 - Auto Rattix"
-slug: "le-migliori-auto-ibride-2026---auto-rattix"
+title: "Le Migliori Auto Ibride 2026: Guida Completa ai Modelli Più Efficienti"
+slug: "le-migliori-auto-ibride-2026-guida-completa-ai-modelli-piu-efficienti"
 date: "2026-04-07"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Le migliori auto ibride 2026 - Auto Rattix"
+meta_description: "Le Migliori Auto Ibride 2026: Guida Completa ai Modelli Più Efficienti"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

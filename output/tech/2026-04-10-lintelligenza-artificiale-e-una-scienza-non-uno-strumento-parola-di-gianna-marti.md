@@ -1,6 +1,6 @@
 ---
-title: "'L'intelligenza artificiale è una scienza, non uno strumento': parola di Gianna Martinengo - Cremonaoggi"
-slug: "lintelligenza-artificiale-e-una-scienza-non-uno-strumento-parola-di-gianna-marti"
+title: "L'Intelligenza Artificiale è una Scienza, non uno Strumento: la Visione di Gianna Martinengo"
+slug: "lintelligenza-artificiale-e-una-scienza-non-uno-strumento-la-visione-di-gianna-m"
 date: "2026-04-10"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

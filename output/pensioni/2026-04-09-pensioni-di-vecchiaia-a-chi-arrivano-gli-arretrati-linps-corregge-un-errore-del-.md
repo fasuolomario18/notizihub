@@ -1,6 +1,6 @@
 ---
-title: "Pensioni di vecchiaia, a chi arrivano gli arretrati: l'Inps corregge un errore del 2024 - Il Messaggero"
-slug: "pensioni-di-vecchiaia-a-chi-arrivano-gli-arretrati-linps-corregge-un-errore-del-"
+title: "Pensioni di Vecchiaia: INPS Riconosce Arretrati ai Beneficiari Quota 103"
+slug: "pensioni-di-vecchiaia-inps-riconosce-arretrati-ai-beneficiari-quota-103"
 date: "2026-04-09"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

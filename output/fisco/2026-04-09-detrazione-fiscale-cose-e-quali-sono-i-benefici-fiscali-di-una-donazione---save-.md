@@ -1,6 +1,6 @@
 ---
-title: "Detrazione fiscale: cos’è e quali sono i benefici fiscali di una donazione - Save the Children Italia"
-slug: "detrazione-fiscale-cose-e-quali-sono-i-benefici-fiscali-di-una-donazione---save-"
+title: "Detrazione Fiscale: Come Ottenere Benefici Fiscali dalle Donazioni nella Dichiarazione dei Redditi 2026"
+slug: "detrazione-fiscale-come-ottenere-benefici-fiscali-dalle-donazioni-nella-dichiara"
 date: "2026-04-09"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"

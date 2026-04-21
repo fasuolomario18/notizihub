@@ -1,10 +1,10 @@
 ---
-title: "30 film da guardare su Netflix – Le novità di aprile 2026 - TV Sorrisi e Canzoni"
-slug: "30-film-da-guardare-su-netflix-le-novita-di-aprile-2026---tv-sorrisi-e-canzoni"
+title: "30 film da guardare su Netflix – Le novità di aprile 2026"
+slug: "30-film-da-guardare-su-netflix-le-novita-di-aprile-2026"
 date: "2026-04-07"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"
-meta_description: "30 film da guardare su Netflix – Le novità di aprile 2026 - TV Sorrisi e Canzoni"
+meta_description: "30 film da guardare su Netflix – Le novità di aprile 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
 ---

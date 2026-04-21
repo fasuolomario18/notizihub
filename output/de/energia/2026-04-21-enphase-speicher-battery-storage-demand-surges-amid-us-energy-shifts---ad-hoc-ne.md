@@ -1,6 +1,6 @@
 ---
-title: "Enphase Speicher: Battery Storage Demand Surges Amid US Energy Shifts - AD HOC NEWS"
-slug: "enphase-speicher-battery-storage-demand-surges-amid-us-energy-shifts---ad-hoc-ne"
+title: "Enphase Speicher: Wie Battery Storage die Stromrechnung senkt und Ihre Solaranlage optimiert"
+slug: "enphase-speicher-wie-battery-storage-die-stromrechnung-senkt-und-ihre-solaranlag"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Energie & Rechnungen"

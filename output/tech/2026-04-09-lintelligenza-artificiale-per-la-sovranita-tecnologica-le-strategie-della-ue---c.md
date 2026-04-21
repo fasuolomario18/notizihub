@@ -1,10 +1,10 @@
 ---
-title: "L'intelligenza artificiale per la sovranità tecnologica, le strategie della Ue - Corriere della Sera"
-slug: "lintelligenza-artificiale-per-la-sovranita-tecnologica-le-strategie-della-ue---c"
+title: "Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026"
+slug: "intelligenza-artificiale-e-sovranita-tecnologica-la-strategia-dellue-nel-2026"
 date: "2026-04-09"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "L'intelligenza artificiale per la sovranità tecnologica, le strategie della Ue - Corriere della Sera"
+meta_description: "Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

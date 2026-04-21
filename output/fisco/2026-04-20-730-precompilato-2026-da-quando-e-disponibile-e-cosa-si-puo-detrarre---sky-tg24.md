@@ -1,10 +1,10 @@
 ---
-title: "730 precompilato 2026, da quando è disponibile e cosa si può detrarre - Sky TG24"
-slug: "730-precompilato-2026-da-quando-e-disponibile-e-cosa-si-puo-detrarre---sky-tg24"
+title: "Dichiarazione dei Redditi 2026: Il 730 Precompilato è Disponibile, Ecco Cosa Detrarre"
+slug: "dichiarazione-dei-redditi-2026-il-730-precompilato-e-disponibile-ecco-cosa-detra"
 date: "2026-04-20"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"
-meta_description: "730 precompilato 2026, da quando è disponibile e cosa si può detrarre - Sky TG24"
+meta_description: "Dichiarazione dei Redditi 2026: Il 730 Precompilato è Disponibile, Ecco Cosa Detrarre"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
 ---

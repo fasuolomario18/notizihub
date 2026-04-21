@@ -1,10 +1,10 @@
 ---
-title: "Vacanze di Pasqua 2026, viaggi e turismo in Italia: giro d'affari da 3 miliardi di euro - Sky TG24"
-slug: "vacanze-di-pasqua-2026-viaggi-e-turismo-in-italia-giro-daffari-da-3-miliardi-di-"
+title: "Pasqua 2026: Vacanze in Italia al Picco, con Voli Low Cost e Hotel a Prezzi Competitivi"
+slug: "pasqua-2026-vacanze-in-italia-al-picco-con-voli-low-cost-e-hotel-a-prezzi-compet"
 date: "2026-04-09"
 nicchia: "viaggi"
 nicchia_nome: "Viaggi"
-meta_description: "Vacanze di Pasqua 2026, viaggi e turismo in Italia: giro d'affari da 3 miliardi di euro - Sky TG24"
+meta_description: "Pasqua 2026: Vacanze in Italia al Picco, con Voli Low Cost e Hotel a Prezzi Competitivi"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
 ---

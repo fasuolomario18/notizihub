@@ -1,6 +1,6 @@
 ---
-title: "EV sales soar in main European markets as drivers shun expensive petrol - Reuters"
-slug: "ev-sales-soar-in-main-european-markets-as-drivers-shun-expensive-petrol---reuter"
+title: "Electric Car Sales Surge in Europe as Drivers Reject Costly Petrol Vehicles"
+slug: "electric-car-sales-surge-in-europe-as-drivers-reject-costly-petrol-vehicles"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Cars & Motors"

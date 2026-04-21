@@ -1,6 +1,6 @@
 ---
-title: "Pensione, ti spettano due anni di arretrati dall'INPS, ha sbagliato i calcoli e ora deve rimborsarti: nuova circolare INPS - Brocardi.it"
-slug: "pensione-ti-spettano-due-anni-di-arretrati-dallinps-ha-sbagliato-i-calcoli-e-ora"
+title: "Pensione, INPS riconosce errori: ti spettano due anni di arretrati"
+slug: "pensione-inps-riconosce-errori-ti-spettano-due-anni-di-arretrati"
 date: "2026-04-21"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"

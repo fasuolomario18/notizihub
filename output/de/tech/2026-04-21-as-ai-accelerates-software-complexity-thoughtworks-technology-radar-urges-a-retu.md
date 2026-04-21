@@ -1,6 +1,6 @@
 ---
-title: "As AI Accelerates Software Complexity, Thoughtworks Technology Radar Urges a Return to Engineering F - AD HOC NEWS"
-slug: "as-ai-accelerates-software-complexity-thoughtworks-technology-radar-urges-a-retu"
+title: "Künstliche Intelligenz und die Komplexität von Software: Warum Engineering-Fundamentals nicht verhandelbar sind"
+slug: "kunstliche-intelligenz-und-die-komplexitat-von-software-warum-engineering-fundam"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Technologie & KI"

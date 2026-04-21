@@ -1,10 +1,10 @@
 ---
-title: "'Orto sospeso': il laboratorio di giardinaggio dedicato alla terza età - Prima Saronno"
-slug: "orto-sospeso-il-laboratorio-di-giardinaggio-dedicato-alla-terza-eta---prima-saro"
+title: "Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età"
+slug: "orto-sospeso-il-laboratorio-di-giardinaggio-che-trasforma-la-vita-della-terza-et"
 date: "2026-04-07"
 nicchia: "giardinaggio"
 nicchia_nome: "Giardinaggio"
-meta_description: "'Orto sospeso': il laboratorio di giardinaggio dedicato alla terza età - Prima Saronno"
+meta_description: "Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
 ---

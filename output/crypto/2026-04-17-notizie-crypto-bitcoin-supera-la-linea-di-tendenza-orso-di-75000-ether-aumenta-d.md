@@ -1,6 +1,6 @@
 ---
-title: "Notizie Crypto: Bitcoin supera la linea di tendenza orso di $75,000, Ether aumenta del 9% nella rally 'Goldilocks' -- Altcoin lasciato indietro - Binance"
-slug: "notizie-crypto-bitcoin-supera-la-linea-di-tendenza-orso-di-75000-ether-aumenta-d"
+title: "Bitcoin supera i $75.000 e rompe la linea di tendenza orso: la rally Goldilocks di Ethereum mentre gli altcoin restano indietro"
+slug: "bitcoin-supera-i-75000-e-rompe-la-linea-di-tendenza-orso-la-rally-goldilocks-di-"
 date: "2026-04-17"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

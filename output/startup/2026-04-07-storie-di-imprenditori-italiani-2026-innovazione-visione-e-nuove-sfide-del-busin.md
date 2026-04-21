@@ -1,6 +1,6 @@
 ---
-title: "Storie di imprenditori italiani 2026: innovazione, visione e nuove sfide del business - Timemagazine.it"
-slug: "storie-di-imprenditori-italiani-2026-innovazione-visione-e-nuove-sfide-del-busin"
+title: "Imprenditoria Italiana 2026: Startup e Innovazione Ridefiniscono il Business"
+slug: "imprenditoria-italiana-2026-startup-e-innovazione-ridefiniscono-il-business"
 date: "2026-04-07"
 nicchia: "startup"
 nicchia_nome: "Startup & Business"

@@ -1,5 +1,5 @@
 ---
-title: "App “nudify” su iPhone e Android: perché Apple e Google sono di nuovo sotto pressione - Webnews"
+title: "App 'Nudify' su iPhone e Android: Perché Apple e Google Sono di Nuovo Sotto Pressione"
 slug: "app-nudify-su-iphone-e-android-perche-apple-e-google-sono-di-nuovo-sotto-pressio"
 date: "2026-04-21"
 nicchia: "smartphone"

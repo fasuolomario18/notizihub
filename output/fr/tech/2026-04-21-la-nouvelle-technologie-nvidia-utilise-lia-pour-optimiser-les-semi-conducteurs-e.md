@@ -1,6 +1,6 @@
 ---
-title: "La nouvelle technologie NVIDIA utilise l’IA pour optimiser les semi-conducteurs et remplacer des mois de travail - Mix Vale"
-slug: "la-nouvelle-technologie-nvidia-utilise-lia-pour-optimiser-les-semi-conducteurs-e"
+title: "Comment la nouvelle technologie NVIDIA utilise l'intelligence artificielle pour optimiser les semi-conducteurs"
+slug: "comment-la-nouvelle-technologie-nvidia-utilise-lintelligence-artificielle-pour-o"
 date: "2026-04-21"
 nicchia: "tech"
 nicchia_nome: "Technologie & IA"

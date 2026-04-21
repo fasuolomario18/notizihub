@@ -1,11 +1,11 @@
 ---
-title: "Federal budget changes leave Kentucky energy projects in limbo - LEX18"
-slug: "federal-budget-changes-leave-kentucky-energy-projects-in-limbo---lex18"
+title: "Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité"
+slug: "les-changements-du-budget-federal-impactent-les-projets-energetiques-du-kentucky"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Énergie & Factures"
 lang: "fr"
-meta_description: "Federal budget changes leave Kentucky energy projects in limbo - LEX18"
+meta_description: "Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité"
 tags: ["facture d'électricité", "panneaux solaires"]
 auto_generated: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Medical Care Technologies Inc.: From Photo to Plate in Seconds: Snapshot Recipes Redefines Cooking With AI-Powered Recipe Generation - FinanzNachrichten.de"
-slug: "medical-care-technologies-inc-from-photo-to-plate-in-seconds-snapshot-recipes-re"
+title: "Rezepte aus Fotos: Wie KI-Technologie das Kochen revolutioniert"
+slug: "rezepte-aus-fotos-wie-ki-technologie-das-kochen-revolutioniert"
 date: "2026-04-21"
 nicchia: "cucina"
 nicchia_nome: "Kochen & Rezepte"

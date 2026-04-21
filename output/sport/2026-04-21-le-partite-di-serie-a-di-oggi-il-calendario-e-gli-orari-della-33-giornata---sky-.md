@@ -1,6 +1,6 @@
 ---
-title: "Le partite di Serie A di oggi, il calendario e gli orari della 33^ giornata - Sky Sport"
-slug: "le-partite-di-serie-a-di-oggi-il-calendario-e-gli-orari-della-33-giornata---sky-"
+title: "Serie A oggi: il calendario e gli orari della 33ª giornata su Sky Sport"
+slug: "serie-a-oggi-il-calendario-e-gli-orari-della-33-giornata-su-sky-sport"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sport"

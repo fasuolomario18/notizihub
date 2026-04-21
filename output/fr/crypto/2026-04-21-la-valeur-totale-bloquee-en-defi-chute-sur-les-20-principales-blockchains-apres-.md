@@ -1,11 +1,11 @@
 ---
-title: "La valeur totale bloquée en DeFi chute sur les 20 principales blockchains après le hack de KelpDAO - BeInCrypto"
+title: "La valeur totale bloquée en DeFi chute sur les 20 principales blockchains après le hack de KelpDAO"
 slug: "la-valeur-totale-bloquee-en-defi-chute-sur-les-20-principales-blockchains-apres-"
 date: "2026-04-21"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"
 lang: "fr"
-meta_description: "La valeur totale bloquée en DeFi chute sur les 20 principales blockchains après le hack de KelpDAO - BeInCrypto"
+meta_description: "La valeur totale bloquée en DeFi chute sur les 20 principales blockchains après le hack de KelpDAO"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
 ---

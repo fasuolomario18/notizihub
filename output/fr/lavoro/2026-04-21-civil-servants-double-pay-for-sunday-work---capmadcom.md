@@ -1,6 +1,6 @@
 ---
-title: "Civil servants : Double pay for Sunday work - Capmad.com"
-slug: "civil-servants-double-pay-for-sunday-work---capmadcom"
+title: "Fonctionnaires : La double paie pour le travail du dimanche expliquée"
+slug: "fonctionnaires-la-double-paie-pour-le-travail-du-dimanche-expliquee"
 date: "2026-04-21"
 nicchia: "lavoro"
 nicchia_nome: "Travail & Carrière"

@@ -1,6 +1,6 @@
 ---
-title: "Electric car reduces cost of use by up to 70 percent compared to gasoline models - Mix Vale"
-slug: "electric-car-reduces-cost-of-use-by-up-to-70-percent-compared-to-gasoline-models"
+title: "Carro Elétrico Reduz Custo de Uso em até 70% Comparado aos Modelos a Gasolina"
+slug: "carro-eletrico-reduz-custo-de-uso-em-ate-70-comparado-aos-modelos-a-gasolina"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Carros & Motor"

@@ -1,10 +1,10 @@
 ---
-title: "Marketing, professionisti ibridi costruiscono ponti narrativi tra intelligenza umana e artificiale - Il Sole 24 ORE"
-slug: "marketing-professionisti-ibridi-costruiscono-ponti-narrativi-tra-intelligenza-um"
+title: "Intelligenza Artificiale e Marketing: Come i Professionisti Ibridi Trasformano la Comunicazione nel 2026"
+slug: "intelligenza-artificiale-e-marketing-come-i-professionisti-ibridi-trasformano-la"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Marketing, professionisti ibridi costruiscono ponti narrativi tra intelligenza umana e artificiale - Il Sole 24 ORE"
+meta_description: "Intelligenza Artificiale e Marketing: Come i Professionisti Ibridi Trasformano la Comunicazione nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

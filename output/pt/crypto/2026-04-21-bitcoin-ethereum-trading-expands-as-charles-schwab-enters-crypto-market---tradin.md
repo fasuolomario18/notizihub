@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin, Ethereum Trading Expands As Charles Schwab Enters Crypto Market - TradingView"
-slug: "bitcoin-ethereum-trading-expands-as-charles-schwab-enters-crypto-market---tradin"
+title: "Bitcoin e Ethereum Trading Expande com Entrada da Charles Schwab no Mercado Cripto"
+slug: "bitcoin-e-ethereum-trading-expande-com-entrada-da-charles-schwab-no-mercado-crip"
 date: "2026-04-21"
 nicchia: "crypto"
 nicchia_nome: "Cripto & Web3"

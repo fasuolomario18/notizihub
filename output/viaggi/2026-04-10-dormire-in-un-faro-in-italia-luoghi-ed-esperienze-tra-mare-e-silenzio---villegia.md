@@ -1,10 +1,10 @@
 ---
-title: "Dormire in un faro in Italia: luoghi ed esperienze tra mare e silenzio - Villegiardini"
-slug: "dormire-in-un-faro-in-italia-luoghi-ed-esperienze-tra-mare-e-silenzio---villegia"
+title: "Dormire in un Faro in Italia: Vacanze Indimenticabili tra Mare e Silenzio nel 2026"
+slug: "dormire-in-un-faro-in-italia-vacanze-indimenticabili-tra-mare-e-silenzio-nel-202"
 date: "2026-04-10"
 nicchia: "viaggi"
 nicchia_nome: "Viaggi"
-meta_description: "Dormire in un faro in Italia: luoghi ed esperienze tra mare e silenzio - Villegiardini"
+meta_description: "Dormire in un Faro in Italia: Vacanze Indimenticabili tra Mare e Silenzio nel 2026"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
 ---

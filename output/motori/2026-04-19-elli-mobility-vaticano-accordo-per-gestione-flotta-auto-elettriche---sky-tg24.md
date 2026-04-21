@@ -1,10 +1,10 @@
 ---
-title: "Elli Mobility-Vaticano, accordo per gestione flotta auto elettriche - Sky TG24"
-slug: "elli-mobility-vaticano-accordo-per-gestione-flotta-auto-elettriche---sky-tg24"
+title: "Auto Elettrica: L'Accordo tra Elli Mobility e il Vaticano Segna Una Nuova Era della Mobilità Sostenibile"
+slug: "auto-elettrica-laccordo-tra-elli-mobility-e-il-vaticano-segna-una-nuova-era-dell"
 date: "2026-04-19"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Elli Mobility-Vaticano, accordo per gestione flotta auto elettriche - Sky TG24"
+meta_description: "Auto Elettrica: L'Accordo tra Elli Mobility e il Vaticano Segna Una Nuova Era della Mobilità Sostenibile"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

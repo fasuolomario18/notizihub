@@ -1,10 +1,10 @@
 ---
-title: "Dubbi sul Bonus ristrutturazione 2026? Tutte le risposte date dall'Agenzia delle Entrate - PGCasa"
-slug: "dubbi-sul-bonus-ristrutturazione-2026-tutte-le-risposte-date-dallagenzia-delle-e"
+title: "Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica"
+slug: "bonus-ristrutturazione-2026-guida-completa-al-fai-da-te-e-ai-lavori-di-idraulica"
 date: "2026-04-19"
 nicchia: "bricolage"
 nicchia_nome: "Bricolage & Fai da te"
-meta_description: "Dubbi sul Bonus ristrutturazione 2026? Tutte le risposte date dall'Agenzia delle Entrate - PGCasa"
+meta_description: "Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
 ---

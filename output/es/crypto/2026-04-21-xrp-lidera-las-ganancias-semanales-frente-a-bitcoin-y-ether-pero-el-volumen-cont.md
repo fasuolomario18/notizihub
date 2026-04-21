@@ -1,6 +1,6 @@
 ---
-title: "XRP lidera las ganancias semanales frente a bitcoin y ether, pero el volumen contenido mantiene el nivel de ruptura bajo control - CoinDesk"
-slug: "xrp-lidera-las-ganancias-semanales-frente-a-bitcoin-y-ether-pero-el-volumen-cont"
+title: "XRP Lidera Ganancias Semanales: Bitcoin y Ethereum se Quedan Atrás en el Análisis de Mercado Cripto"
+slug: "xrp-lidera-ganancias-semanales-bitcoin-y-ethereum-se-quedan-atras-en-el-analisis"
 date: "2026-04-21"
 nicchia: "crypto"
 nicchia_nome: "Cripto & Web3"

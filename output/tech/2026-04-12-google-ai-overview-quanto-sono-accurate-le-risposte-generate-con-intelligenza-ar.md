@@ -1,6 +1,6 @@
 ---
-title: "Google AI Overview, quanto sono accurate le risposte generate con intelligenza artificiale? Cosa dicono i numeri - Corriere della Sera"
-slug: "google-ai-overview-quanto-sono-accurate-le-risposte-generate-con-intelligenza-ar"
+title: "Google AI Overview: Quanto sono Accurate le Risposte di Intelligenza Artificiale nel 2026"
+slug: "google-ai-overview-quanto-sono-accurate-le-risposte-di-intelligenza-artificiale-"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

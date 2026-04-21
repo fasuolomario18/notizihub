@@ -1,6 +1,6 @@
 ---
-title: "Lautaro, quante e quali partite salterà il capitano dell'Inter - Sky Sport"
-slug: "lautaro-quante-e-quali-partite-saltera-il-capitano-dellinter---sky-sport"
+title: "Lautaro Martinez, le partite che salterà il capitano dell'Inter: analisi e calendario 2026"
+slug: "lautaro-martinez-le-partite-che-saltera-il-capitano-dellinter-analisi-e-calendar"
 date: "2026-04-12"
 nicchia: "sport"
 nicchia_nome: "Sport"

@@ -1,6 +1,6 @@
 ---
-title: "Modalità per l’assegnazione dell’integrazione della borsa di studio anno accademico 2024/2 - Ersu Cagliari"
-slug: "modalita-per-lassegnazione-dellintegrazione-della-borsa-di-studio-anno-accademic"
+title: "Borse di Studio Università: Come Ottenere l'Integrazione nel 2026"
+slug: "borse-di-studio-universita-come-ottenere-lintegrazione-nel-2026"
 date: "2026-04-08"
 nicchia: "università"
 nicchia_nome: "Università & Studio"

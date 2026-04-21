@@ -1,10 +1,10 @@
 ---
-title: "Tutti gli smartphone compatibili con AirDrop, ecco chi può sfruttare subito la condivisione tra Android e iPhone - Wired"
-slug: "tutti-gli-smartphone-compatibili-con-airdrop-ecco-chi-puo-sfruttare-subito-la-co"
+title: "AirDrop tra iPhone e Android: ecco quali smartphone sono compatibili nel 2026"
+slug: "airdrop-tra-iphone-e-android-ecco-quali-smartphone-sono-compatibili-nel-2026"
 date: "2026-04-08"
 nicchia: "smartphone"
 nicchia_nome: "Smartphone & App"
-meta_description: "Tutti gli smartphone compatibili con AirDrop, ecco chi può sfruttare subito la condivisione tra Android e iPhone - Wired"
+meta_description: "AirDrop tra iPhone e Android: ecco quali smartphone sono compatibili nel 2026"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
 ---

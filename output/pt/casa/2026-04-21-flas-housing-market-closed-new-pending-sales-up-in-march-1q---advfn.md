@@ -1,6 +1,6 @@
 ---
-title: "Fla.'s Housing Market: Closed & New Pending Sales Up in March, 1Q - ADVFN"
-slug: "flas-housing-market-closed-new-pending-sales-up-in-march-1q---advfn"
+title: "Mercado Imobiliário da Flórida: Hipotecas e Aluguel em Alta com Aumento de Vendas em Março"
+slug: "mercado-imobiliario-da-florida-hipotecas-e-aluguel-em-alta-com-aumento-de-vendas"
 date: "2026-04-21"
 nicchia: "casa"
 nicchia_nome: "Casa & Imóveis"

@@ -1,6 +1,6 @@
 ---
-title: "I’d Sworn Off Air Fryers — Until I Tried the Ninja Crispi - Allrecipes"
-slug: "id-sworn-off-air-fryers-until-i-tried-the-ninja-crispi---allrecipes"
+title: "I'd Sworn Off Air Fryers — Until I Tried the Ninja Crispi: The Game-Changing Recipes and Cooking Transformation"
+slug: "id-sworn-off-air-fryers-until-i-tried-the-ninja-crispi-the-game-changing-recipes"
 date: "2026-04-21"
 nicchia: "cucina"
 nicchia_nome: "Cooking & Recipes"

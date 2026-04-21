@@ -1,6 +1,6 @@
 ---
-title: "Young entrepreneur awards 2024 - Capmad.com"
-slug: "young-entrepreneur-awards-2024---capmadcom"
+title: "Young Entrepreneur Awards 2024 : Comment Capmad.com Célèbre les Startups Innovantes"
+slug: "young-entrepreneur-awards-2024-comment-capmadcom-celebre-les-startups-innovantes"
 date: "2026-04-21"
 nicchia: "startup"
 nicchia_nome: "Startups & Business"

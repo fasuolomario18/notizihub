@@ -1,6 +1,6 @@
 ---
-title: "Notizie sui prezzi di BTC, ETH, SOL: le azioni crypto balzano del 10%-20% mentre il Bitcoin raggiunge 78.000$ per le trattative con l'Iran - CoinDesk"
-slug: "notizie-sui-prezzi-di-btc-eth-sol-le-azioni-crypto-balzano-del-10-20-mentre-il-b"
+title: "Bitcoin, Ethereum e Altcoin in Rialzo: le Criptovalute Raggiungono Nuovi Picchi con Bitcoin a 78.000$"
+slug: "bitcoin-ethereum-e-altcoin-in-rialzo-le-criptovalute-raggiungono-nuovi-picchi-co"
 date: "2026-04-19"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

@@ -1,6 +1,6 @@
 ---
-title: "“Usa e Iran si vedranno in Pakistan”. Israele intensificherà attacchi - Sky TG24"
-slug: "usa-e-iran-si-vedranno-in-pakistan-israele-intensifichera-attacchi---sky-tg24"
+title: "Guerra in Medio Oriente: gli USA incontreranno l'Iran in Pakistan mentre Israele intensifica gli attacchi"
+slug: "guerra-in-medio-oriente-gli-usa-incontreranno-liran-in-pakistan-mentre-israele-i"
 date: "2026-04-09"
 nicchia: "esteri"
 nicchia_nome: "Notizie dal Mondo"

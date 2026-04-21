@@ -1,6 +1,6 @@
 ---
-title: "Auto China 2026 fra elettrico e intelligenza futura - Zero Zero News"
-slug: "auto-china-2026-fra-elettrico-e-intelligenza-futura---zero-zero-news"
+title: "Auto Elettrica e Intelligenza Artificiale: le Novità di Auto China 2026"
+slug: "auto-elettrica-e-intelligenza-artificiale-le-novita-di-auto-china-2026"
 date: "2026-04-17"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

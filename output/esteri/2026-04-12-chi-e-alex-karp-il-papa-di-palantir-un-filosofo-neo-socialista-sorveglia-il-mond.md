@@ -1,6 +1,6 @@
 ---
-title: "Chi è Alex Karp, il papà di Palantir: un filosofo neo-socialista sorveglia il mondo - Quotidiano Nazionale"
-slug: "chi-e-alex-karp-il-papa-di-palantir-un-filosofo-neo-socialista-sorveglia-il-mond"
+title: "Alex Karp: il filosofo che controlla i dati della guerra tra USA ed Europa nel 2026"
+slug: "alex-karp-il-filosofo-che-controlla-i-dati-della-guerra-tra-usa-ed-europa-nel-20"
 date: "2026-04-12"
 nicchia: "esteri"
 nicchia_nome: "Notizie dal Mondo"

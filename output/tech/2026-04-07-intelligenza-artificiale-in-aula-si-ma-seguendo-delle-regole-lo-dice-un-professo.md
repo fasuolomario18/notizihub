@@ -1,6 +1,6 @@
 ---
-title: "Intelligenza Artificiale in aula sì, ma seguendo delle regole. Lo dice un professore di Harvard - Libero"
-slug: "intelligenza-artificiale-in-aula-si-ma-seguendo-delle-regole-lo-dice-un-professo"
+title: "Intelligenza Artificiale in Aula: Sì, ma con Regole Precise secondo Harvard"
+slug: "intelligenza-artificiale-in-aula-si-ma-con-regole-precise-secondo-harvard"
 date: "2026-04-07"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

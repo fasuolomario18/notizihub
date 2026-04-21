@@ -1,6 +1,6 @@
 ---
-title: "Krypto News: Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen, was Anleger jetzt wissen müssen - Wallstreet Online"
-slug: "krypto-news-bitcoin-ethereum-und-xrp-fallen-nach-hormuz-spannungen-was-anleger-j"
+title: "Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen: Was Anleger jetzt wissen müssen"
+slug: "bitcoin-ethereum-und-xrp-fallen-nach-hormuz-spannungen-was-anleger-jetzt-wissen-"
 date: "2026-04-21"
 nicchia: "crypto"
 nicchia_nome: "Krypto & Web3"

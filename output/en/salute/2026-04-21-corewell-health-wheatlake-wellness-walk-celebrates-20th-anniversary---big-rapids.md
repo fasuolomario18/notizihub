@@ -1,6 +1,6 @@
 ---
-title: "Corewell Health Wheatlake Wellness Walk celebrates 20th anniversary - Big Rapids Pioneer"
-slug: "corewell-health-wheatlake-wellness-walk-celebrates-20th-anniversary---big-rapids"
+title: "Corewell Health Wheatlake Wellness Walk Celebrates 20 Years of Community Health and Prevention"
+slug: "corewell-health-wheatlake-wellness-walk-celebrates-20-years-of-community-health-"
 date: "2026-04-21"
 nicchia: "salute"
 nicchia_nome: "Health & Wellness"

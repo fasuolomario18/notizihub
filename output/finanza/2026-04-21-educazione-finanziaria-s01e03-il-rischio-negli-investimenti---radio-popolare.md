@@ -1,6 +1,6 @@
 ---
-title: "Educazione finanziaria s01e03: Il rischio negli investimenti - Radio Popolare"
-slug: "educazione-finanziaria-s01e03-il-rischio-negli-investimenti---radio-popolare"
+title: "Investire consapevolmente: come gestire il rischio negli investimenti"
+slug: "investire-consapevolmente-come-gestire-il-rischio-negli-investimenti"
 date: "2026-04-21"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"

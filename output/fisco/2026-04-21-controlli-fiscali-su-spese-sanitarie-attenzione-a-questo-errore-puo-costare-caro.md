@@ -1,6 +1,6 @@
 ---
-title: "Controlli fiscali su spese sanitarie, attenzione a questo errore. Può costare caro - Money.it"
-slug: "controlli-fiscali-su-spese-sanitarie-attenzione-a-questo-errore-puo-costare-caro"
+title: "Controlli Fiscali su Spese Sanitarie nella Dichiarazione dei Redditi: Attenzione a Questo Errore"
+slug: "controlli-fiscali-su-spese-sanitarie-nella-dichiarazione-dei-redditi-attenzione-"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Fisco & Tasse"

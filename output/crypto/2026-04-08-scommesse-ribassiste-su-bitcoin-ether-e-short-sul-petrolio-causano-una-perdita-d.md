@@ -1,6 +1,6 @@
 ---
-title: "Scommesse ribassiste su bitcoin, ether e short sul petrolio causano una perdita di 427 milioni di dollari sul cessate il fuoco tra USA e Iran - CoinDesk"
-slug: "scommesse-ribassiste-su-bitcoin-ether-e-short-sul-petrolio-causano-una-perdita-d"
+title: "Bitcoin ed Ethereum Crollano dopo Cessate il Fuoco USA-Iran: Trader in Perdita per 427 Milioni"
+slug: "bitcoin-ed-ethereum-crollano-dopo-cessate-il-fuoco-usa-iran-trader-in-perdita-pe"
 date: "2026-04-08"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

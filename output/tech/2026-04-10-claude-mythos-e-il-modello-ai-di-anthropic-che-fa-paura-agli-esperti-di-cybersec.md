@@ -1,10 +1,10 @@
 ---
-title: "Claude Mythos è il modello AI di Anthropic che fa paura agli esperti di cybersecurity - Geopop"
-slug: "claude-mythos-e-il-modello-ai-di-anthropic-che-fa-paura-agli-esperti-di-cybersec"
+title: "Claude Mythos: L'Intelligenza Artificiale che Preoccupa gli Esperti di Cybersecurity nel 2026"
+slug: "claude-mythos-lintelligenza-artificiale-che-preoccupa-gli-esperti-di-cybersecuri"
 date: "2026-04-10"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Claude Mythos è il modello AI di Anthropic che fa paura agli esperti di cybersecurity - Geopop"
+meta_description: "Claude Mythos: L'Intelligenza Artificiale che Preoccupa gli Esperti di Cybersecurity nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

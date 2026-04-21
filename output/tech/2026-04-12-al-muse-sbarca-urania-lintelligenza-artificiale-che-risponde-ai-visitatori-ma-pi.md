@@ -1,10 +1,10 @@
 ---
-title: "Al Muse sbarca UranIA, l'intelligenza artificiale che risponde ai visitatori. Ma piace a tutti? - TrentoToday"
-slug: "al-muse-sbarca-urania-lintelligenza-artificiale-che-risponde-ai-visitatori-ma-pi"
+title: "UranIA al Muse: l'intelligenza artificiale che rivoluziona l'esperienza dei visitatori nel 2026"
+slug: "urania-al-muse-lintelligenza-artificiale-che-rivoluziona-lesperienza-dei-visitat"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "Al Muse sbarca UranIA, l'intelligenza artificiale che risponde ai visitatori. Ma piace a tutti? - TrentoToday"
+meta_description: "UranIA al Muse: l'intelligenza artificiale che rivoluziona l'esperienza dei visitatori nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Blog | Sono 5,7 milioni le auto elettriche che si muovono lungo le strade dell'Unione Europea - Il Sole 24 ORE"
-slug: "blog-sono-57-milioni-le-auto-elettriche-che-si-muovono-lungo-le-strade-dellunion"
+title: "Auto Elettrica in Europa: 5,7 Milioni di Veicoli in Circolazione nel 2026"
+slug: "auto-elettrica-in-europa-57-milioni-di-veicoli-in-circolazione-nel-2026"
 date: "2026-04-12"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"
-meta_description: "Blog | Sono 5,7 milioni le auto elettriche che si muovono lungo le strade dell'Unione Europea - Il Sole 24 ORE"
+meta_description: "Auto Elettrica in Europa: 5,7 Milioni di Veicoli in Circolazione nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
 ---

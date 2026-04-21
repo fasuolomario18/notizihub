@@ -1,11 +1,11 @@
 ---
-title: "The United States Stock Market Index (US2000) Hit All-time High - TradingView"
-slug: "the-united-states-stock-market-index-us2000-hit-all-time-high---tradingview"
+title: "Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView"
+slug: "trading-aktien-an-der-borse-us2000-index-erreicht-allzeithoch-auf-tradingview"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Online-Trading"
 lang: "de"
-meta_description: "US2000-Index erreicht 2026 Allzeithoch - TradingView Analyse. Erfahren Sie, wie Trader Small-Cap-Aktien handeln. Aktuelles und Strategien."
+meta_description: "Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView"
 tags: ["Trading", "Aktien", "Börse"]
 auto_generated: true
 ---

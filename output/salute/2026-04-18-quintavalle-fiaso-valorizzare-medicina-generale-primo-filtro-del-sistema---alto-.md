@@ -1,10 +1,10 @@
 ---
-title: "Quintavalle (Fiaso), 'valorizzare medicina generale primo filtro del sistema' - Alto Adige"
-slug: "quintavalle-fiaso-valorizzare-medicina-generale-primo-filtro-del-sistema---alto-"
+title: "Medicina Generale e Alimentazione Consapevole: Come il Medico di Base Diventa Guardiano della Salute nel 2026"
+slug: "medicina-generale-e-alimentazione-consapevole-come-il-medico-di-base-diventa-gua"
 date: "2026-04-18"
 nicchia: "salute"
 nicchia_nome: "Salute & Wellness"
-meta_description: "Quintavalle (Fiaso), 'valorizzare medicina generale primo filtro del sistema' - Alto Adige"
+meta_description: "Medicina Generale e Alimentazione Consapevole: Come il Medico di Base Diventa Guardiano della Salute nel 2026"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
 ---

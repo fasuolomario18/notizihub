@@ -1,6 +1,6 @@
 ---
-title: "Xbox Game Pass: l'elenco dei giochi di dicembre 2025 inclusi nell'abbonamento - Sortir à Paris"
-slug: "xbox-game-pass-lelenco-dei-giochi-di-dicembre-2025-inclusi-nellabbonamento---sor"
+title: "Xbox Game Pass 2026: I Titoli Più Attesi Inclusi Nell'Abbonamento"
+slug: "xbox-game-pass-2026-i-titoli-piu-attesi-inclusi-nellabbonamento"
 date: "2026-04-08"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

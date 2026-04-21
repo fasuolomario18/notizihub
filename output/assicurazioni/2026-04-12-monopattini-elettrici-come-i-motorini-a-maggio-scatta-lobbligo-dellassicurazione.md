@@ -1,10 +1,10 @@
 ---
-title: "Monopattini elettrici come i motorini, a maggio scatta l’obbligo dell’assicurazione – Cosa sapere - La Nuova Sardegna"
-slug: "monopattini-elettrici-come-i-motorini-a-maggio-scatta-lobbligo-dellassicurazione"
+title: "Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026"
+slug: "assicurazione-auto-e-rc-auto-monopattini-elettrici-equiparati-ai-motorini-da-mag"
 date: "2026-04-12"
 nicchia: "assicurazioni"
 nicchia_nome: "Assicurazioni"
-meta_description: "Monopattini elettrici come i motorini, a maggio scatta l’obbligo dell’assicurazione – Cosa sapere - La Nuova Sardegna"
+meta_description: "Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
 ---

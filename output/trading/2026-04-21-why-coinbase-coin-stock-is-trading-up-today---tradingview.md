@@ -1,6 +1,6 @@
 ---
-title: "Why Coinbase (COIN) Stock Is Trading Up Today - TradingView"
-slug: "why-coinbase-coin-stock-is-trading-up-today---tradingview"
+title: "Trading di Azioni Coinbase: Guida Completa al Rialzo di COIN in Borsa"
+slug: "trading-di-azioni-coinbase-guida-completa-al-rialzo-di-coin-in-borsa"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Trading Online"

@@ -1,6 +1,6 @@
 ---
-title: "5 Best Movies to Watch This Weekend on Netflix, Prime Video, and More (18-19 April) - IMDb"
-slug: "5-best-movies-to-watch-this-weekend-on-netflix-prime-video-and-more-18-19-april-"
+title: "5 Mejores Películas para Ver Este Fin de Semana en Netflix, Prime Video y Más"
+slug: "5-mejores-peliculas-para-ver-este-fin-de-semana-en-netflix-prime-video-y-mas"
 date: "2026-04-21"
 nicchia: "cinema"
 nicchia_nome: "Cine & Series"

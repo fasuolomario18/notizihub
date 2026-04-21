@@ -1,10 +1,10 @@
 ---
-title: "“Così cambia l’Esercito: tecnologia, addestramento, valori. L’etica è il parametro irrinunciabile nell’uso dell’Intelligenza artificiale” - Quotidiano Nazionale"
-slug: "cosi-cambia-lesercito-tecnologia-addestramento-valori-letica-e-il-parametro-irri"
+title: "L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici"
+slug: "lintelligenza-artificiale-trasforma-lesercito-italiano-tra-tecnologia-e-valori-e"
 date: "2026-04-12"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"
-meta_description: "“Così cambia l’Esercito: tecnologia, addestramento, valori. L’etica è il parametro irrinunciabile nell’uso dell’Intelligenza artificiale” - Quotidiano Nazi"
+meta_description: "L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
 ---

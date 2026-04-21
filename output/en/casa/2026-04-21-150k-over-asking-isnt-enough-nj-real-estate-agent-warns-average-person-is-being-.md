@@ -1,6 +1,6 @@
 ---
-title: "$150K over asking isn't enough: NJ real estate agent warns ‘average person’ is being priced out - Fox Business"
-slug: "150k-over-asking-isnt-enough-nj-real-estate-agent-warns-average-person-is-being-"
+title: "How the Mortgage Crisis and Rising Home Prices Are Pricing Out Average New Jersey Buyers"
+slug: "how-the-mortgage-crisis-and-rising-home-prices-are-pricing-out-average-new-jerse"
 date: "2026-04-21"
 nicchia: "casa"
 nicchia_nome: "Home & Real Estate"

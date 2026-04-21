@@ -1,6 +1,6 @@
 ---
-title: "The United States Stock Market Index (US2000) Hit All-time High - TradingView"
-slug: "the-united-states-stock-market-index-us2000-hit-all-time-high---tradingview"
+title: "L'indice boursier US2000 atteint un sommet historique : analyse du trading et opportunités d'investissement"
+slug: "lindice-boursier-us2000-atteint-un-sommet-historique-analyse-du-trading-et-oppor"
 date: "2026-04-21"
 nicchia: "trading"
 nicchia_nome: "Trading en ligne"

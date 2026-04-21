@@ -1,6 +1,6 @@
 ---
-title: "Tennis, Olympia und Skicross - SRF"
-slug: "tennis-olympia-und-skicross---srf"
+title: "Fußball und Formel 1: Wie SRF Tennis, Olympia und Skicross revolutioniert"
+slug: "fuball-und-formel-1-wie-srf-tennis-olympia-und-skicross-revolutioniert"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sport"

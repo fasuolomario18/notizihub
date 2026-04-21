@@ -1,6 +1,6 @@
 ---
-title: "If the charging network runs faster than the electric car market: the paradox in Italia - Il Sole 24 ORE"
-slug: "if-the-charging-network-runs-faster-than-the-electric-car-market-the-paradox-in-"
+title: "Auto Elettrica e Infrastrutture: Il Paradosso della Rete di Ricarica Più Veloce del Mercato in Italia"
+slug: "auto-elettrica-e-infrastrutture-il-paradosso-della-rete-di-ricarica-piu-veloce-d"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

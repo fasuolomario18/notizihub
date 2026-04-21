@@ -1,6 +1,6 @@
 ---
-title: "Elettricità gratis nel Regno Unito quando c'è molto sole: perché la nostra tariffa bioraria è vecchia (e spreca energia) - Corriere della Sera"
-slug: "elettricita-gratis-nel-regno-unito-quando-ce-molto-sole-perche-la-nostra-tariffa"
+title: "Kostenloser Strom bei Sonne: Warum die deutsche Stromrechnung modernisiert werden muss"
+slug: "kostenloser-strom-bei-sonne-warum-die-deutsche-stromrechnung-modernisiert-werden"
 date: "2026-04-21"
 nicchia: "energia"
 nicchia_nome: "Energie & Rechnungen"

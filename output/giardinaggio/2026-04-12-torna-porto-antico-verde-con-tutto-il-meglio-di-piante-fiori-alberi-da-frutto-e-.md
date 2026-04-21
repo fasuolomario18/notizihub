@@ -1,10 +1,10 @@
 ---
-title: "Torna 'Porto Antico Verde' con tutto il meglio di piante, fiori, alberi da frutto e cosmetici naturali - GenovaToday"
-slug: "torna-porto-antico-verde-con-tutto-il-meglio-di-piante-fiori-alberi-da-frutto-e-"
+title: "Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova"
+slug: "porto-antico-verde-2026-il-paradiso-delle-piante-e-dellorto-biologico-torna-a-ge"
 date: "2026-04-12"
 nicchia: "giardinaggio"
 nicchia_nome: "Giardinaggio"
-meta_description: "Torna 'Porto Antico Verde' con tutto il meglio di piante, fiori, alberi da frutto e cosmetici naturali - GenovaToday"
+meta_description: "Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
 ---

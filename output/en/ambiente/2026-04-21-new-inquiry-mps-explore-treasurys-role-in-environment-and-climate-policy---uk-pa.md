@@ -1,6 +1,6 @@
 ---
-title: "New inquiry: MPs explore Treasury’s role in environment and climate policy - UK Parliament"
-slug: "new-inquiry-mps-explore-treasurys-role-in-environment-and-climate-policy---uk-pa"
+title: "MPs Launch Parliamentary Inquiry Into Treasury's Role in Environment and Climate Policy"
+slug: "mps-launch-parliamentary-inquiry-into-treasurys-role-in-environment-and-climate-"
 date: "2026-04-21"
 nicchia: "ambiente"
 nicchia_nome: "Environment & Green"

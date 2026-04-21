@@ -1,6 +1,6 @@
 ---
-title: "Intelligenza artificiale, i giovani vogliono avere voce in capitolo - Il Sole 24 ORE"
-slug: "intelligenza-artificiale-i-giovani-vogliono-avere-voce-in-capitolo---il-sole-24-"
+title: "Intelligenza Artificiale: i Giovani Pretendono Voce in Capitolo nel 2026"
+slug: "intelligenza-artificiale-i-giovani-pretendono-voce-in-capitolo-nel-2026"
 date: "2026-04-20"
 nicchia: "tech"
 nicchia_nome: "Tecnologia & AI"

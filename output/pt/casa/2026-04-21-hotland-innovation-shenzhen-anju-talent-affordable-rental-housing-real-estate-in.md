@@ -1,5 +1,5 @@
 ---
-title: "Hotland Innovation Shenzhen Anju Talent Affordable Rental Housing Real Estate Investment Trust - TradingView"
+title: "Hotland Innovation Shenzhen Anju Talent Affordable Rental Housing Real Estate Investment Trust: Oportunidades de Investimento Imobiliário"
 slug: "hotland-innovation-shenzhen-anju-talent-affordable-rental-housing-real-estate-in"
 date: "2026-04-21"
 nicchia: "casa"

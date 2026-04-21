@@ -1,6 +1,6 @@
 ---
-title: "Concerti 2026 in Italia: tutte le date, cantanti e città aggiornate - All Music Italia"
-slug: "concerti-2026-in-italia-tutte-le-date-cantanti-e-citta-aggiornate---all-music-it"
+title: "Concerti 2026 in Italia: Le Date, i Cantanti e le Città Imperdibili dell'Anno"
+slug: "concerti-2026-in-italia-le-date-i-cantanti-e-le-citta-imperdibili-dellanno"
 date: "2026-04-11"
 nicchia: "musica"
 nicchia_nome: "Musica"

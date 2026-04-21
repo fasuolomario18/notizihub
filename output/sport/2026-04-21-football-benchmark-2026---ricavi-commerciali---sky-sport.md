@@ -1,6 +1,6 @@
 ---
-title: "Football Benchmark 2026 - Ricavi commerciali - Sky Sport"
-slug: "football-benchmark-2026---ricavi-commerciali---sky-sport"
+title: "Serie A e Ricavi Commerciali: Il Football Benchmark 2026 di Sky Sport Analizza il Calcio Italiano"
+slug: "serie-a-e-ricavi-commerciali-il-football-benchmark-2026-di-sky-sport-analizza-il"
 date: "2026-04-21"
 nicchia: "sport"
 nicchia_nome: "Sport"

@@ -1,6 +1,6 @@
 ---
-title: "Las 13 marcas mexicanas de belleza que no debes perder de vista (aprobadas por una experta de belleza) - Vogue México"
-slug: "las-13-marcas-mexicanas-de-belleza-que-no-debes-perder-de-vista-aprobadas-por-un"
+title: "Las 13 marcas mexicanas de belleza que no debes perder de vista: skincare, maquillaje y cabello de clase mundial"
+slug: "las-13-marcas-mexicanas-de-belleza-que-no-debes-perder-de-vista-skincare-maquill"
 date: "2026-04-21"
 nicchia: "bellezza"
 nicchia_nome: "Belleza & Cuidado"

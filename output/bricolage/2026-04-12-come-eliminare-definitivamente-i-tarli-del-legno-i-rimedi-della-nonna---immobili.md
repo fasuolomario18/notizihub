@@ -1,6 +1,6 @@
 ---
-title: "Come eliminare definitivamente i tarli del legno: i rimedi della nonna - Immobiliare"
-slug: "come-eliminare-definitivamente-i-tarli-del-legno-i-rimedi-della-nonna---immobili"
+title: "Come Eliminare Definitivamente i Tarli del Legno: i Rimedi della Nonna per il Fai da Te"
+slug: "come-eliminare-definitivamente-i-tarli-del-legno-i-rimedi-della-nonna-per-il-fai"
 date: "2026-04-12"
 nicchia: "bricolage"
 nicchia_nome: "Bricolage & Fai da te"

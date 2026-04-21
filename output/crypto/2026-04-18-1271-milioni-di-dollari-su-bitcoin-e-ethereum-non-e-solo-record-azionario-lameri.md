@@ -1,6 +1,6 @@
 ---
-title: "1.271 milioni di dollari su Bitcoin e Ethereum. Non è solo record azionario. L'America punta qui - Criptovaluta.it"
-slug: "1271-milioni-di-dollari-su-bitcoin-e-ethereum-non-e-solo-record-azionario-lameri"
+title: "Bitcoin ed Ethereum Raggiungono i 1.271 Miliardi di Dollari: L'America Ridefinisce la Strategia Sulle Criptovalute"
+slug: "bitcoin-ed-ethereum-raggiungono-i-1271-miliardi-di-dollari-lamerica-ridefinisce-"
 date: "2026-04-18"
 nicchia: "crypto"
 nicchia_nome: "Crypto & Web3"

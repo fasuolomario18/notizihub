@@ -1,10 +1,10 @@
 ---
-title: "Pensioni di vecchiaia, dietrofront Inps: ricalcoli e rimborsi per migliaia di pensionati - Il Sole 24 ORE"
-slug: "pensioni-di-vecchiaia-dietrofront-inps-ricalcoli-e-rimborsi-per-migliaia-di-pens"
+title: "Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati"
+slug: "pensioni-di-vecchiaia-dietrofront-inps-con-ricalcoli-e-rimborsi-per-migliaia-di-"
 date: "2026-04-11"
 nicchia: "pensioni"
 nicchia_nome: "Pensioni"
-meta_description: "Pensioni di vecchiaia, dietrofront Inps: ricalcoli e rimborsi per migliaia di pensionati - Il Sole 24 ORE"
+meta_description: "Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
 ---

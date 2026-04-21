@@ -1,6 +1,6 @@
 ---
-title: "Pendolarismo e stress, lo psicologo Paladini: 'Oltre 45 minuti di tragitto cresce il rischio di ansia e depressione' - Fanpage"
-slug: "pendolarismo-e-stress-lo-psicologo-paladini-oltre-45-minuti-di-tragitto-cresce-i"
+title: "Pendolarismo e Stress: Quando il Tragitto Diventa Un Problema di Salute Mentale"
+slug: "pendolarismo-e-stress-quando-il-tragitto-diventa-un-problema-di-salute-mentale"
 date: "2026-04-10"
 nicchia: "psicologia"
 nicchia_nome: "Psicologia & Mente"

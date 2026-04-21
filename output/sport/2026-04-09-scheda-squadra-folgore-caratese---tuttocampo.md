@@ -1,6 +1,6 @@
 ---
-title: "Scheda squadra Folgore Caratese - Tuttocampo"
-slug: "scheda-squadra-folgore-caratese---tuttocampo"
+title: "Serie A: La Folgore Caratese e il Fascino del Calcio Italiano nel 2026"
+slug: "serie-a-la-folgore-caratese-e-il-fascino-del-calcio-italiano-nel-2026"
 date: "2026-04-09"
 nicchia: "sport"
 nicchia_nome: "Sport"

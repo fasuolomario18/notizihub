@@ -1,6 +1,6 @@
 ---
-title: "Environment Minister announces the launch of the new electric-vehicle funding platform in May. - VISION mobility"
-slug: "environment-minister-announces-the-launch-of-the-new-electric-vehicle-funding-pl"
+title: "Neue Elektroauto-Förderplattform: Umweltministerin kündigt revolutionäres Förderprogramm an"
+slug: "neue-elektroauto-forderplattform-umweltministerin-kundigt-revolutionares-forderp"
 date: "2026-04-21"
 nicchia: "motori"
 nicchia_nome: "Autos & Motor"

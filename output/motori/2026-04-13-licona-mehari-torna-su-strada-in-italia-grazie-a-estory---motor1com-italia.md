@@ -1,6 +1,6 @@
 ---
-title: "L'icona Méhari torna su strada in Italia grazie a eStory - Motor1.com Italia"
-slug: "licona-mehari-torna-su-strada-in-italia-grazie-a-estory---motor1com-italia"
+title: "Auto Elettrica: la Leggendaria Méhari Ritorna su Strada Grazie a eStory"
+slug: "auto-elettrica-la-leggendaria-mehari-ritorna-su-strada-grazie-a-estory"
 date: "2026-04-13"
 nicchia: "motori"
 nicchia_nome: "Motori & Auto"

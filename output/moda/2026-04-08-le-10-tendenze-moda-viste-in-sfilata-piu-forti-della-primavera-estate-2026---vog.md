@@ -1,10 +1,10 @@
 ---
-title: "Le 10 tendenze moda – viste in sfilata – più forti della primavera estate 2026 - Vogue Italia"
-slug: "le-10-tendenze-moda-viste-in-sfilata-piu-forti-della-primavera-estate-2026---vog"
+title: "Le 10 Tendenze Moda Più Forti della Primavera Estate 2026 Viste in Sfilata"
+slug: "le-10-tendenze-moda-piu-forti-della-primavera-estate-2026-viste-in-sfilata"
 date: "2026-04-08"
 nicchia: "moda"
 nicchia_nome: "Moda & Stile"
-meta_description: "Le 10 tendenze moda – viste in sfilata – più forti della primavera estate 2026 - Vogue Italia"
+meta_description: "Le 10 Tendenze Moda Più Forti della Primavera Estate 2026 Viste in Sfilata"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
 ---

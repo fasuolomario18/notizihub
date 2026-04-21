@@ -1,6 +1,6 @@
 ---
-title: "Dal tristellato alla trattoria: ecco qualche consiglio su dove mangiare durante il Vinitaly - Il Sole 24 ORE"
-slug: "dal-tristellato-alla-trattoria-ecco-qualche-consiglio-su-dove-mangiare-durante-i"
+title: "Dove Mangiare durante il Vinitaly 2026: dalla Stella Michelin alla Trattoria Autentica"
+slug: "dove-mangiare-durante-il-vinitaly-2026-dalla-stella-michelin-alla-trattoria-aute"
 date: "2026-04-14"
 nicchia: "turismo-food"
 nicchia_nome: "Turismo Enogastronomico"

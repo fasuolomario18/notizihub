@@ -1,10 +1,10 @@
 ---
-title: "Offerte NOW TV di aprile 2026: sport, cinema e serie TV da 7,99€ al mese - Facile.it"
-slug: "offerte-now-tv-di-aprile-2026-sport-cinema-e-serie-tv-da-799-al-mese---facileit"
+title: "Film e Serie TV su NOW TV ad Aprile 2026: Le Migliori Offerte da 7,99€ al Mese"
+slug: "film-e-serie-tv-su-now-tv-ad-aprile-2026-le-migliori-offerte-da-799-al-mese"
 date: "2026-04-11"
 nicchia: "cinema"
 nicchia_nome: "Cinema & Serie TV"
-meta_description: "Offerte NOW TV di aprile 2026: sport, cinema e serie TV da 7,99€ al mese - Facile.it"
+meta_description: "Film e Serie TV su NOW TV ad Aprile 2026: Le Migliori Offerte da 7,99€ al Mese"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
 ---

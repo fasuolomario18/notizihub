@@ -1,6 +1,6 @@
 ---
-title: "Residents of Maui, Hawaiʻi and Honolulu Counties Impacted by March Kona Low Can Apply for FEMA Assistance - Maui Recovers"
-slug: "residents-of-maui-hawaii-and-honolulu-counties-impacted-by-march-kona-low-can-ap"
+title: "Car Insurance and Life Insurance: Essential Coverage for Maui Residents Recovering from Kona Low Disaster"
+slug: "car-insurance-and-life-insurance-essential-coverage-for-maui-residents-recoverin"
 date: "2026-04-21"
 nicchia: "assicurazioni"
 nicchia_nome: "Insurance"

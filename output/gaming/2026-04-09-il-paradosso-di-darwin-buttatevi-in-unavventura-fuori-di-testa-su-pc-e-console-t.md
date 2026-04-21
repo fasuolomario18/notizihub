@@ -1,6 +1,6 @@
 ---
-title: "Il paradosso di Darwin: buttatevi in un'avventura fuori di testa su PC e console, trailer - Sortir à Paris"
-slug: "il-paradosso-di-darwin-buttatevi-in-unavventura-fuori-di-testa-su-pc-e-console-t"
+title: "Il Paradosso di Darwin: L'Avventura Folle che Conquista PS5, Xbox e PC Gaming nel 2026"
+slug: "il-paradosso-di-darwin-lavventura-folle-che-conquista-ps5-xbox-e-pc-gaming-nel-2"
 date: "2026-04-09"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

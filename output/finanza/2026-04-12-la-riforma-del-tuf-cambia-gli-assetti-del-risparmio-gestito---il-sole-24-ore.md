@@ -1,6 +1,6 @@
 ---
-title: "La riforma del Tuf cambia gli assetti del risparmio gestito - Il Sole 24 ORE"
-slug: "la-riforma-del-tuf-cambia-gli-assetti-del-risparmio-gestito---il-sole-24-ore"
+title: "La Riforma del TUF Cambia gli Assetti del Risparmio Gestito: Come Investire nel 2026"
+slug: "la-riforma-del-tuf-cambia-gli-assetti-del-risparmio-gestito-come-investire-nel-2"
 date: "2026-04-12"
 nicchia: "finanza"
 nicchia_nome: "Finanza Personale"

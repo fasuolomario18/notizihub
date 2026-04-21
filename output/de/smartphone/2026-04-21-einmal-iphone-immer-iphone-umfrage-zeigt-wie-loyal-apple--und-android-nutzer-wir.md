@@ -1,6 +1,6 @@
 ---
-title: "Einmal iPhone, immer iPhone? Umfrage zeigt, wie loyal Apple- und Android-Nutzer wirklich sind - CHIP"
-slug: "einmal-iphone-immer-iphone-umfrage-zeigt-wie-loyal-apple--und-android-nutzer-wir"
+title: "iPhone vs. Android: Einmal iPhone, immer iPhone? Umfrage zeigt echte Nutzer-Loyalität"
+slug: "iphone-vs-android-einmal-iphone-immer-iphone-umfrage-zeigt-echte-nutzer-loyalita"
 date: "2026-04-21"
 nicchia: "smartphone"
 nicchia_nome: "Smartphones & Apps"

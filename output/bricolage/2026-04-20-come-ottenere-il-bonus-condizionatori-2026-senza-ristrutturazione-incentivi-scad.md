@@ -1,10 +1,10 @@
 ---
-title: "Come ottenere il Bonus condizionatori 2026 senza ristrutturazione? Incentivi, scadenze e requisiti - PGCasa"
-slug: "come-ottenere-il-bonus-condizionatori-2026-senza-ristrutturazione-incentivi-scad"
+title: "Bonus Condizionatori 2026: Come Ottenerlo Senza Ristrutturazione – Guida Completa per il Fai da Te"
+slug: "bonus-condizionatori-2026-come-ottenerlo-senza-ristrutturazione-guida-completa-p"
 date: "2026-04-20"
 nicchia: "bricolage"
 nicchia_nome: "Bricolage & Fai da te"
-meta_description: "Come ottenere il Bonus condizionatori 2026 senza ristrutturazione? Incentivi, scadenze e requisiti - PGCasa"
+meta_description: "Bonus Condizionatori 2026: Come Ottenerlo Senza Ristrutturazione – Guida Completa per il Fai da Te"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
 ---

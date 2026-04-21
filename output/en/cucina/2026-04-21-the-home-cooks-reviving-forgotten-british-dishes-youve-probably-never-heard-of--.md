@@ -1,6 +1,6 @@
 ---
-title: "The home cooks reviving forgotten British dishes you've probably never heard of - BBC"
-slug: "the-home-cooks-reviving-forgotten-british-dishes-youve-probably-never-heard-of--"
+title: "Rediscovering Forgotten British Recipes: A Home Cook's Guide to Traditional Cooking"
+slug: "rediscovering-forgotten-british-recipes-a-home-cooks-guide-to-traditional-cookin"
 date: "2026-04-21"
 nicchia: "cucina"
 nicchia_nome: "Cooking & Recipes"

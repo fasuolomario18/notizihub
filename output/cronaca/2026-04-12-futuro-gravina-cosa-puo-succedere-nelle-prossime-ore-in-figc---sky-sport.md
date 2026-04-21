@@ -1,6 +1,6 @@
 ---
-title: "Futuro Gravina: cosa può succedere nelle prossime ore in Figc - Sky Sport"
-slug: "futuro-gravina-cosa-puo-succedere-nelle-prossime-ore-in-figc---sky-sport"
+title: "Futuro Gravina: cosa può succedere nelle prossime ore in FIGC"
+slug: "futuro-gravina-cosa-puo-succedere-nelle-prossime-ore-in-figc"
 date: "2026-04-12"
 nicchia: "cronaca"
 nicchia_nome: "Cronaca"

@@ -1,6 +1,6 @@
 ---
-title: "La “doppia tassazione” e l’esplosione delle addizionali Irpef: il girone infernale del fisco locale - Quotidiano Nazionale"
-slug: "la-doppia-tassazione-e-lesplosione-delle-addizionali-irpef-il-girone-infernale-d"
+title: "Declaración de Renta: Cómo Evitar la Doble Imposición de Adiciones IRPEF"
+slug: "declaracion-de-renta-como-evitar-la-doble-imposicion-de-adiciones-irpef"
 date: "2026-04-21"
 nicchia: "fisco"
 nicchia_nome: "Impuestos & Fiscal"

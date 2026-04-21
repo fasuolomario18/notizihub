@@ -1,6 +1,6 @@
 ---
-title: "Resident Evil Requiem: il gioco horror di Capcom ora disponibile - Sortir à Paris"
-slug: "resident-evil-requiem-il-gioco-horror-di-capcom-ora-disponibile---sortir-a-paris"
+title: "Resident Evil Requiem su PS5, Xbox e PC Gaming: il nuovo capolavoro horror di Capcom"
+slug: "resident-evil-requiem-su-ps5-xbox-e-pc-gaming-il-nuovo-capolavoro-horror-di-capc"
 date: "2026-04-21"
 nicchia: "gaming"
 nicchia_nome: "Gaming & Esport"

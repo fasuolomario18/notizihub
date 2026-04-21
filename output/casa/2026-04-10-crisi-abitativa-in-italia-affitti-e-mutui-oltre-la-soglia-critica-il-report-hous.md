@@ -1,10 +1,10 @@
 ---
-title: "Crisi abitativa: in Italia affitti e mutui oltre la soglia critica. Il report HOUSE4ALL - Lab24 - Sole 24 ORE"
-slug: "crisi-abitativa-in-italia-affitti-e-mutui-oltre-la-soglia-critica-il-report-hous"
+title: "Mutuo e Affitto in Italia: la Crisi Abitativa Raggiunge Livelli Critici nel 2026"
+slug: "mutuo-e-affitto-in-italia-la-crisi-abitativa-raggiunge-livelli-critici-nel-2026"
 date: "2026-04-10"
 nicchia: "casa"
 nicchia_nome: "Casa & Immobiliare"
-meta_description: "Crisi abitativa: in Italia affitti e mutui oltre la soglia critica. Il report HOUSE4ALL - Lab24 - Sole 24 ORE"
+meta_description: "Mutuo e Affitto in Italia: la Crisi Abitativa Raggiunge Livelli Critici nel 2026"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
 ---

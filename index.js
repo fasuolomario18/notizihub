@@ -190,7 +190,7 @@ async function generaArticolo(nicchia, spunto) {
 
   const response = await client.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 2000,
+    max_tokens: 2500,
     system: `Sei un giornalista esperto di ${nicchia.nome} che scrive per un pubblico italiano. Scrivi SOLO l'articolo in formato Markdown, senza commenti aggiuntivi. Oggi è ${dataOggi}. Scrivi sempre al presente, riferendoti ad eventi e dati attuali del ${annoCorrente}. Non usare mai date passate o anni precedenti al ${annoCorrente}.`,
     messages: [{
       role: 'user',
@@ -201,12 +201,51 @@ SOMMARIO: "${spunto.sommario.substring(0, 200)}"
 KEYWORD: ${nicchia.keyword_base.slice(0, 3).join(', ')}
 DATA OGGI: ${dataOggi}
 
-Regole importanti:
+Struttura OBBLIGATORIA (rispettala sempre):
+
+<!-- TLDR -->
+[2-3 frasi che riassumono l'articolo in modo chiaro e diretto]
+<!-- /TLDR -->
+
+# [H1 con keyword principale]
+
+[Introduzione 2 paragrafi]
+
+## [Sezione 1]
+[contenuto]
+
+## [Sezione 2]
+[contenuto]
+
+## [Sezione 3]
+[contenuto — lista puntata con punti chiave]
+
+## Domande Frequenti
+
+**D: [Domanda 1 pertinente e cercata su Google]?**
+R: [Risposta concisa e diretta, 2-3 frasi]
+
+**D: [Domanda 2]?**
+R: [Risposta]
+
+**D: [Domanda 3]?**
+R: [Risposta]
+
+**D: [Domanda 4]?**
+R: [Risposta]
+
+**D: [Domanda 5]?**
+R: [Risposta]
+
+## Conclusione
+[Paragrafo conclusivo]
+
+<!-- META: [meta description esatta di 155 caratteri] -->
+
+Regole:
 - Scrivi come se la notizia fosse di oggi
 - Usa sempre l'anno ${annoCorrente} nei riferimenti temporali
 - Non citare mai anni passati come attuali
-- Struttura: H1 con keyword, introduzione, 3-5 sezioni H2, lista puntata, conclusione
-- Alla fine aggiungi: <!-- META: [meta description 155 caratteri] -->
 - Italiano professionale e aggiornato`
     }]
   });

@@ -289,7 +289,7 @@ export default function Home({ articoli, articoliSearch }) {
           <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap', marginBottom: 8 }}>
             {NICCHIE.slice(0, 10).map(n => <Link key={n.id} href={`/nicchia/${n.id}`} style={{ color: '#666' }}>{n.nome}</Link>)}
           </div>
-          <div>© {new Date().getFullYear()} NotiziHub · <Link href="/chi-siamo" style={{ color: '#666' }}>Chi siamo</Link> · <Link href="/contattaci" style={{ color: '#666' }}>Contattaci</Link></div>
+          <div>© {new Date().getFullYear()} NotiziHub · <Link href="/chi-siamo" style={{ color: '#666' }}>Chi siamo</Link> · <Link href="/contattaci" style={{ color: '#666' }}>Contattaci</Link> · <Link href="/privacy" style={{ color: '#666' }}>Privacy</Link></div>
         </div>
       </footer>
     </>

@@ -2,13 +2,18 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const OUTPUT_DIR = path.join(process.cwd(), '..', 'auto-publisher', 'output');
+const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://notizihub.it';
 
 function generateSitemap(articoli) {
-  const staticPages = ['', '/nicchia/finanza', '/nicchia/crypto', '/nicchia/tech',
+  const staticPages = [
+    '', '/chi-siamo', '/contattaci', '/privacy',
+    '/nicchia/finanza', '/nicchia/crypto', '/nicchia/tech',
     '/nicchia/salute', '/nicchia/viaggi', '/nicchia/motori',
-    '/nicchia/gaming', '/nicchia/casa', '/nicchia/lavoro', '/nicchia/sport'];
+    '/nicchia/gaming', '/nicchia/casa', '/nicchia/lavoro', '/nicchia/sport',
+    '/nicchia/assicurazioni', '/nicchia/fisco', '/nicchia/pensioni',
+    '/nicchia/trading', '/nicchia/startup', '/nicchia/smartphone',
+  ];
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import { LINGUE, SITE_URL } from '../lib/langPageHelpers';
+import { LINGUE, SITE_URL } from '../lib/langConfig';
 
 const faqLabels = { en: 'Frequently Asked Questions', es: 'Preguntas Frecuentes', de: 'Häufig gestellte Fragen', fr: 'Questions Fréquentes', pt: 'Perguntas Frequentes' };
 const correlatiLabels = { en: 'Related articles', es: 'Artículos relacionados', de: 'Ähnliche Artikel', fr: 'Articles similaires', pt: 'Artigos relacionados' };

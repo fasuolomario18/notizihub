@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Head from 'next/head';
 import { useState } from 'react';
-import { LINGUE, SITE_URL, getNicchiaMeta } from '../lib/langPageHelpers';
+import { LINGUE, SITE_URL, getNicchiaMeta } from '../lib/langConfig';
 
 const titles = { en: 'NotiziHub — Daily News', es: 'NotiziHub — Noticias del Día', de: 'NotiziHub — Aktuelle Nachrichten', fr: 'NotiziHub — Actualités', pt: 'NotiziHub — Notícias do Dia' };
 const descriptions = { en: 'Daily news updated every day.', es: 'Noticias actualizadas cada día.', de: 'Täglich aktualisierte Nachrichten.', fr: 'Actualités mises à jour chaque jour.', pt: 'Notícias atualizadas todos os dias.' };

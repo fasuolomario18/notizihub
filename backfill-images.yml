@@ -1,0 +1,35 @@
+name: Backfill Pexels Images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Aggiungi immagini agli articoli esistenti
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: node backfill-images.mjs
+
+      - name: Commit e push
+        run: |
+          git config --local user.email "bot@notizihub.it"
+          git config --local user.name "NotiziHub Bot"
+          git add output/
+          git diff --staged --quiet || git commit -m "Backfill: aggiunte immagini Pexels agli articoli esistenti"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

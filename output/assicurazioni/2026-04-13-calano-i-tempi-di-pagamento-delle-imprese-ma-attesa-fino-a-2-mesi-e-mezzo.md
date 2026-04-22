@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Calano i tempi di pagamento delle imprese ma attesa fino a 2 mesi e mezzo"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35636207/pexels-photo-35636207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e Protezione Finanziaria: Come i Ritardi nei Pagamenti Impattano le Imprese nel 2026

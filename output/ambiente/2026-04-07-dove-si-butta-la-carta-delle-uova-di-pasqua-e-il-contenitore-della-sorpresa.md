@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Scopri come riciclare correttamente gli imballaggi delle uova di Pasqua 2026: carta, cartone e plastica. Guida pratica per la sostenibilità e la riduzione dell'impatto climatico."
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14885373/pexels-photo-14885373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Riciclare gli Imballaggi delle Uova di Pasqua: Una Guida per la Sostenibilità nel 2026

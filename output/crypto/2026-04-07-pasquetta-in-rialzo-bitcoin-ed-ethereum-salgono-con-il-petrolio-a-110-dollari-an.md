@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin ed Ethereum in rialzo a Pasquetta 2026: petrolio a 110 dollari traina le criptovalute verso nuovi record. Analisi tecnica e previsioni."
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin ed Ethereum in rialzo: l'effetto della corsa del petrolio a 110 dollari

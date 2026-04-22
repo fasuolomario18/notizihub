@@ -7,6 +7,7 @@ nicchia_nome: "Meteo"
 meta_description: "Meteo aprile 2026: piogge, neve in montagna e allerta meteo. Calo temperature fino a 12 gradi. Previsioni e consigli."
 tags: ["meteo", "previsioni", "temperature"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5017868/pexels-photo-5017868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Meteo: In Arrivo Freddo, Piogge e Nevicate in Montagna. Scatta l'Allerta Meteo

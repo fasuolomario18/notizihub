@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Perdite record di 427 milioni per trader short su Bitcoin ed Ethereum dopo cessate il fuoco USA-Iran dell'8 aprile 2026"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911423/pexels-photo-14911423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin ed Ethereum Crollano dopo Cessate il Fuoco USA-Iran: Trader in Perdita per 427 Milioni

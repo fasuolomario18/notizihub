@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Ricorso al Tar della società italo-belga contro i bandi della Regione per Spiaggia Mondello. Udienza 28 aprile 2026."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13105441/pexels-photo-13105441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Spiaggia Mondello, ricorso al Tar contro i bandi della Regione Siciliana: la battaglia legale si intensifica

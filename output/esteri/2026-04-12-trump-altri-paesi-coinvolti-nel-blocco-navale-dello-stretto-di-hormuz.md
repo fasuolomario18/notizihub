@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Trump, altri Paesi coinvolti nel blocco navale dello stretto di Hormuz"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1464202/pexels-photo-1464202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Trump e il Blocco dello Stretto di Hormuz: Guerra Commerciale e Tensioni Globali nel 2026

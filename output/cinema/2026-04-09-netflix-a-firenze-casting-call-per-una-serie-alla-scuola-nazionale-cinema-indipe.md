@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Netflix organizza casting call a Firenze presso la Scuola Nazionale di Cinema Indipendente per cercare talenti italiani per una nuova serie televisiva nel 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991472/pexels-photo-7991472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Netflix Firenze: Casting Call per una Serie alla Scuola Nazionale Cinema Indipendente

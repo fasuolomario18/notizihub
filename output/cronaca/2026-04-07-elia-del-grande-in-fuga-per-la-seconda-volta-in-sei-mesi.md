@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Elia Del Grande in fuga dalla casa-lavoro di Alba per la seconda volta in sei mesi. Detenuto in semilibertà scomparso durante permesso. Cronaca italiana e indagini in corso."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36367183/pexels-photo-36367183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Elia Del Grande in fuga per la seconda volta in sei mesi: il detenuto scompare da Alba

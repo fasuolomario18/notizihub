@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "La crisi di Trump con i tweet di Pasqua 2026 scuote gli USA. Democratici chiedono impeachment mentre la guerra e l'Europa osservano preoccupate."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7264369/pexels-photo-7264369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Trump e la tempesta di tweet di Pasqua 2026: la crisi diplomatica che scuote gli USA

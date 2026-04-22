@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Ponte sul Trigno crollato: subacquei e ecoscandaglio nelle ricerche del disperso. Operazione complessa di soccorso in corso con tecnologie avanzate."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12535498/pexels-photo-12535498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ponte crollato sul Trigno: i sub in azione per le ricerche del disperso

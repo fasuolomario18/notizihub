@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Scopri quali veicoli nel 2026 non pagano più l'RC Auto. Esenzioni per storici, agricoli e mezzi leggeri. Leggi le novità normative complette."
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37163499/pexels-photo-37163499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto: Questi Veicoli Non Devono Più Pagare l'RC Auto nel 2026

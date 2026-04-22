@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "I gatti guardano davvero la tv (e la scienza spiega cosa passa per la loro testa)"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20775629/pexels-photo-20775629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # I Gatti e la TV: Come la Tecnologia Sostenibile Trasforma lo Stile di Vita dei Nostri Animali Domestici

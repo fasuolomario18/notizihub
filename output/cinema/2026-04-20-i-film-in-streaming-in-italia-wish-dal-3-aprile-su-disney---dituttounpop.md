@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Film e Serie TV in Streaming: Dove Guardare i Tuoi Contenuti Preferiti nel 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991328/pexels-photo-7991328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Film e Serie TV in Streaming: Dove Guardare i Tuoi Contenuti Preferiti nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Bricolage & Fai da te"
 meta_description: "Bonus Condizionatori 2026: Come Ottenerlo Senza Ristrutturazione – Guida Completa per il Fai da Te"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37037823/pexels-photo-37037823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bonus Condizionatori 2026: Come Ottenerlo Senza Ristrutturazione – Guida Completa per il Fai da Te

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Alex Karp, fondatore Palantir, rappresenta il controllo dei dati nella guerra USA-Europa 2026. Filosofo neo-socialista che comanda l'intelligence globale contemporanea."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34111046/pexels-photo-34111046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Alex Karp: il filosofo che controlla i dati della guerra tra USA ed Europa nel 2026

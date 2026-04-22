@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "'Cammina con Ale': Roma ricorda Alessandro Parini con iniziative solidali nel 2026. Progetti di aiuto e memoria in onore della vittima dell'attentato di Tel Aviv."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36445119/pexels-photo-36445119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # "Cammina con Ale": Roma ricorda Alessandro Parini con un progetto solidale

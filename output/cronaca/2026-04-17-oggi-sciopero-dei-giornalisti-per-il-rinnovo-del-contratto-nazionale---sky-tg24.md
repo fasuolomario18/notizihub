@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Sciopero nazionale giornalisti 17 aprile 2026 per rinnovo contratto. Riduzione servizi tv e quotidiani. Seguire gli sviluppi della vertenza"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5611142/pexels-photo-5611142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sciopero dei giornalisti oggi per il rinnovo del contratto nazionale

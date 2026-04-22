@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Nel 2026 gli scontri politici tra Trump e Papa Leone ostacolano la sostenibilità globale. Le energie rinnovabili richiedono cooperazione internazionale, non conflitti personali."
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31574575/pexels-photo-31574575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sostenibilità e Politica Estera: Come gli Scontri Globali Influenzano la Transizione Energetica nel 2026

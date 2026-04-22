@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Taglio tassi o rialzo, Fed valuta il doppio scenario per la guerra in Iran"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/248913/pexels-photo-248913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto nel 2026: Come la Fed Influenza i Tassi di Interesse

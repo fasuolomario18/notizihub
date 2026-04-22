@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "La Flc Cgil compie vent'anni, evento a Roma"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7410250/pexels-photo-7410250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Flc Cgil compie vent'anni: due giorni di celebrazione sul valore della Conoscenza a Roma

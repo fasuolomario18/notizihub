@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Ridurre i rifiuti domestici è una pratica fondamentale per promuovere la sostenibilità e contrastare i cambiamenti climatici. Questa guida offre strategie "
 tags: ["sostenibilità", "clima"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33642829/pexels-photo-33642829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

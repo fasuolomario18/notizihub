@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Padre ucciso dal “branco” davanti al figlio per un rimprovero: dietro il folle gesto c’è un vuoto che inghiotte i giovani"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13018719/pexels-photo-13018719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Giovani e Violenza nel 2026: il Vuoto Educativo che il Cambiamento Climatico e la Sostenibilità Possono Colmare

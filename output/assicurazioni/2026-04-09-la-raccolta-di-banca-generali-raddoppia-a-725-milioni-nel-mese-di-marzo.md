@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "La raccolta di Banca Generali raddoppia a 725 milioni nel mese di marzo"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7735632/pexels-photo-7735632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e Vita: il Boom di Banca Generali Segnala Fiducia nel Mercato Assicurativo 2026

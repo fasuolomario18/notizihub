@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Quanti PFAS ci sono in Toscana? Al via l’indagine che porterà alla prima mappatura degli inquinanti eterni nella regione"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8770235/pexels-photo-8770235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PFAS in Toscana: Al via la Prima Mappatura degli Inquinanti Eterni per una Sostenibilità Vera

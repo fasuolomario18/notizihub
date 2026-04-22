@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione Personalizzata con le Nuove Funzioni"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7195195/pexels-photo-7195195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione Personalizzata con le Nuove Funzioni

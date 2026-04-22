@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Il prezzo del gas conclude in discesa a 43,6 euro"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/221174/pexels-photo-221174.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Calo del Gas e Impatto sulle Assicurazioni Auto: Come Cambia il Mercato RC Auto nel 2026

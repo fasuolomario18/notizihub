@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Virale il video di Hegseth che vuole citare la Bibbia ma è Pulp Fiction"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/639090/pexels-photo-639090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La gaffe del Segretario alla Difesa USA: confonde Pulp Fiction con la Bibbia in diretta

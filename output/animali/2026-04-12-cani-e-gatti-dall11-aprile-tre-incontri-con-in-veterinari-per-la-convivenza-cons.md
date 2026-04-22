@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Incontri veterinari ad aprile 2026 su convivenza consapevole tra cani e gatti. Scopri strategie pratiche e consigli di esperti per una coabitazione armoniosa tra i tuoi animali domestici."
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28297776/pexels-photo-28297776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cani e Gatti: Gli Incontri con Veterinari per una Convivenza Consapevole nel 2026

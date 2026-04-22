@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Classifica ATP 2026: Sinner numero uno con 110 punti di vantaggio su Alcaraz. Musetti perde quattro posizioni nella top ten mondiale. Segui i ranking aggiornati."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37112833/pexels-photo-37112833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Classifica ATP 2026: Sinner domina con 110 punti di vantaggio su Alcaraz

@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "A Pisa, cani e gatti diventano donatori di sangue per salvare altri animali. Scopri come funziona il programma di donazione veterinaria nel 2026."
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11418922/pexels-photo-11418922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Donatori di Sangue Cani e Gatti: La Rivoluzione Veterinaria che Salva le Vite

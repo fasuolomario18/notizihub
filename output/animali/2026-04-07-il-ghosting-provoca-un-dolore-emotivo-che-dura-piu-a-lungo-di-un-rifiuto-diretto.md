@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Il ghosting danneggia cani e gatti più del rifiuto diretto. Scopri come comunicare chiaramente con i tuoi animali domestici nel 2026"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34583156/pexels-photo-34583156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ghosting negli Animali Domestici: Quando il Cane o il Gatto Soffre dell'Abbandono Emotivo

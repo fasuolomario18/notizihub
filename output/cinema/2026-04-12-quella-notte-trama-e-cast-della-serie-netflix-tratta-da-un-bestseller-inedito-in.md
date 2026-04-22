@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "'Quella Notte': la nuova serie Netflix basata su un bestseller internazionale arriva il 12 aprile 2026. Scopri trama, cast e perché merita attenzione."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991472/pexels-photo-7991472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # "Quella Notte": La Nuova Serie Netflix che Conquista gli Spettatori nel 2026

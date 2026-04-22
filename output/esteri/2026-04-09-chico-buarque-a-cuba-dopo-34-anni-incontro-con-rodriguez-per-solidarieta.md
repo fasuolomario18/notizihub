@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Chico Buarque a Cuba dopo 34 anni, incontro con Rodríguez 'per solidarietà'"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36584875/pexels-photo-36584875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Chico Buarque torna a Cuba dopo 34 anni: un incontro di solidarietà contro la guerra con Silvio Rodríguez

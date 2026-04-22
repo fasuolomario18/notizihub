@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026

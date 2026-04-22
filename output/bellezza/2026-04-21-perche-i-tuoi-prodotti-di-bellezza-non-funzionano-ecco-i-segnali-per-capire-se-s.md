@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri perché i tuoi prodotti skincare, trucco e capelli non funzionano. Errori comuni e soluzioni efficaci per una routine di bellezza vincente."
 tags: ["skincare", "trucco", "capelli"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1011458/pexels-photo-1011458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

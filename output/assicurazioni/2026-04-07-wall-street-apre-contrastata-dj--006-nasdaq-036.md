@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Wall Street apre contrastata, Dj -0,06%, Nasdaq +0,36%"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6015353/pexels-photo-6015353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e RC Auto: Come la Volatilità dei Mercati Finanziari del 2026 Influenza i Costi e le Coperture

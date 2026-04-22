@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin e altcoin in rally il 9 aprile 2026. Ethereum e Algorand registrano guadagni significativi in seguito ai colloqui di pace in Iran. Analisi completa del mercato crypto odierno"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8370330/pexels-photo-8370330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin e Altcoin in Rally: Gli Sviluppi Geopolitici Spingono il Mercato Crypto

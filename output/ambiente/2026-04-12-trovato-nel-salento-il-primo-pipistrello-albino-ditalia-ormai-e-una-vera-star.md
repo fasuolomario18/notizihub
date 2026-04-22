@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Trovato nel Salento il primo pipistrello albino d’Italia, ormai è una vera star"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15699953/pexels-photo-15699953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Pipistrello Albino del Salento: Una Scoperta Straordinaria che Insegna la Sostenibilità Ambientale

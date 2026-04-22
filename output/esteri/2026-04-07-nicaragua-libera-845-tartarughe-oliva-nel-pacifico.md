@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Nicaragua libera 845 tartarughe oliva nel Pacifico"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11677518/pexels-photo-11677518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Nicaragua Libera 845 Tartarughe Oliva: Conservazione Ambientale nel Contesto Geopolitico Mondiale del 2026

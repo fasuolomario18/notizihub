@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Zurich e Junior Achievement promuovono cultura assicurativa nelle scuole: scopri come i giovani imparano a scegliere l'assicurazione auto consapevolmente"
 tags: ["assicurazione auto", "polizza"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34071082/pexels-photo-34071082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

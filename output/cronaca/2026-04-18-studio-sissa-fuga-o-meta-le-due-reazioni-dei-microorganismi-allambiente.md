@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Studio Sissa, fuga o meta le due reazioni dei microorganismi all'ambiente"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20313879/pexels-photo-20313879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Microorganismi e Farmaci: La Scoperta Sissa che Rivoluziona la Medicina Italiana nel 2026

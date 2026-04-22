@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Cheremule offre negozi gratis e zero tasse per combattere spopolamento. Scopri come sostenibilità territoriale e incentivi economici ridanno vita ai borghi sardi nel 2026."
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5829050/pexels-photo-5829050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sostenibilità Territoriale: Come un Borgo Sardo Combatte lo Spopolamento con Incentivi Economici e Rinnovabili

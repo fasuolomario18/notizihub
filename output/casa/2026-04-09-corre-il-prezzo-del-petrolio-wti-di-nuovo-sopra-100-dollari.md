@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Corre il prezzo del petrolio, Wti di nuovo sopra 100 dollari"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/248913/pexels-photo-248913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Petrolio Oltre 100 Dollari: Come i Rincari Energetici Impattano su Mutuo, Affitto e Bonus Ristrutturazione nel 2026

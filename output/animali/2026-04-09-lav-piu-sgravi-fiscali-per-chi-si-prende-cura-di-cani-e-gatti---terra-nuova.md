@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Sgravi fiscali cani gatti: la proposta della LAV 2026 per detrazioni spese veterinarie e mantenimento animali domestici"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/128662/pexels-photo-128662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sgravi Fiscali per Chi Si Prende Cura di Cani e Gatti: La Proposta della LAV nel 2026

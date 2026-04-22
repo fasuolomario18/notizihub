@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Area Esentata RC Auto 2026: come funziona la nuova assicurazione auto con riduzione di premio fino al 50%. Leggi vantaggi e limitazioni"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5190159/pexels-photo-5190159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # RC Auto: Arriva l'Area Esentata nel 2026 - Come Funziona la Nuova Assicurazione Auto

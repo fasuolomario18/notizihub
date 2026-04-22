@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Georgieva: 'Le banche centrali rialzino i tassi se saltano le stime sull'inflazione'"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37044640/pexels-photo-37044640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come l'Inflazione e i Rialzi dei Tassi Impattano l'Assicurazione Auto e Vita nel 2026

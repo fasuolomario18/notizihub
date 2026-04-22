@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Borsa: Europa in avvio è debole, Francoforte cede lo 0,41%"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36478471/pexels-photo-36478471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Crisi Europea e Mercato Immobiliare: Cosa Significano le Oscillazioni di Borsa per Mutui e Affitti nel 2026

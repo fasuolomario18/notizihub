@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "La Sardegna approva il salario minimo di 9 euro l’ora (ma non per tutti): un comitato monitorerà la qualità del lavoro"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36796782/pexels-photo-36796782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sardegna e Salario Minimo: Come la Sostenibilità Ambientale Incontra la Giustizia Economica nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Altri due 'hater' si scusano con Segre e risarciscono dopo insulti social"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20620625/pexels-photo-20620625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cronaca Italia: Due 'hater' si scusano e risarciscono Segre dopo insulti social

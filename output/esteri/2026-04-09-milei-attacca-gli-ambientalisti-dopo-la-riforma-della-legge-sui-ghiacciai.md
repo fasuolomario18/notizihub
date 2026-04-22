@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Milei attacca gli ambientalisti dopo la riforma della legge sui ghiacciai"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30496127/pexels-photo-30496127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La guerra di Milei contro gli ambientalisti: il conflitto sulla riforma della legge sui ghiacciai dilaga in USA e Europa

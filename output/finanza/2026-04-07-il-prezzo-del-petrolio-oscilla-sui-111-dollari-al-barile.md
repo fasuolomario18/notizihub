@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Il prezzo del petrolio oscilla sui 111 dollari al barile"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27075161/pexels-photo-27075161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire nel Petrolio nel 2026: ETF e Strategie di Risparmio con il Greggio a 111 Dollari

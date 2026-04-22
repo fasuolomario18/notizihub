@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Truffe SMS in 2026: come proteggersi dagli attacchi fraudolenti che frenano la transizione energetica italiana verso la sostenibilità e le energie rinnovabili"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7419118/pexels-photo-7419118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Truffe SMS e Sostenibilità: Come le Frodi Digitali Frenano la Transizione Energetica

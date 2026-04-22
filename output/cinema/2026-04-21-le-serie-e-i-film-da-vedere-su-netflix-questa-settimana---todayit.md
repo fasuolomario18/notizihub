@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri i migliori film e serie TV su Netflix questa settimana. Dalla nuove uscite ai titoli imperdibili, una guida completa per scegliere cosa guardare oggi"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

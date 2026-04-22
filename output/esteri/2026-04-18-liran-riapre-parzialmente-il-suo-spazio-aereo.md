@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Iran riapre spazio aereo ai voli internazionali nel 2026. Implicazioni sulla guerra commerciale USA-Iran e opportunità economiche per l'Europa"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34962871/pexels-photo-34962871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Iran riapre lo spazio aereo ai voli internazionali: le implicazioni geopolitiche per USA ed Europa

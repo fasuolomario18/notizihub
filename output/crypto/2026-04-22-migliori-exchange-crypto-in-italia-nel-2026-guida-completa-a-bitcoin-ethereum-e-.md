@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Migliori exchange crypto in Italia nel 2026"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5435844/pexels-photo-5435844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

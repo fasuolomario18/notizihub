@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin ed Ethereum scendono per le tensioni USA-Iran mentre il petrolio sale a 110$. Analisi della volatilità crypto e impatto macroeconomico nel 2026."
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911432/pexels-photo-14911432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin ed Ethereum in Calo: Come le Tensioni Geopolitiche Influenzano il Mercato delle Criptovalute

@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Un quadro di Picasso in palio a soli 100 euro! Torna la lotteria che finanzia la ricerca sull’Alzheimer"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11644201/pexels-photo-11644201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Lotteria Solidale di Picasso: Come l'Arte Finanzia la Ricerca Sostenibile nel 2026

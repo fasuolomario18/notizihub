@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Aggressione mortale a Barletta: muore 49enne in ospedale dopo litigio nel centro città. Fermato sospettato. Indagini dei carabinieri in corso."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36495324/pexels-photo-36495324.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cronaca Italia: Uomo Muore in Ospedale dopo Aggressione nel Centro di Barletta

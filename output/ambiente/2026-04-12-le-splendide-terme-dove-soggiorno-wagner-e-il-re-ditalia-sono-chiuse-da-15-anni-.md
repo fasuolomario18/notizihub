@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Terme Acireale chiuse 15 anni: rigenerazione sostenibile con energia geotermica e climatica consapevole per il futuro italiano"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1472553/pexels-photo-1472553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le Terme di Acireale: Un Tesoro Abbandonato che Potrebbe Rinascere con l'Energia Sostenibile

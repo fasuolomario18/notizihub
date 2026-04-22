@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Elezioni Ungheria 2026: Magyar avanti su Orban con 110 seggi. Analisi geopolitica su guerra, USA e futuro dell'Europa"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11255767/pexels-photo-11255767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La sfida ungherese tra guerra, diplomazia USA e il futuro dell'Europa nel 2026

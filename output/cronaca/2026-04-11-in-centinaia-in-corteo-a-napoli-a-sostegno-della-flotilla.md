@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Napoli scende in piazza il 11 aprile 2026: migliaia al corteo per la Flotilla verso Gaza. Venti imbarcazioni a Mergellina in questa cronaca rilevante dalla città campana sui diritti umanitari."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16929702/pexels-photo-16929702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Napoli in piazza per la Flotilla verso Gaza: migliaia al corteo di Mergellina

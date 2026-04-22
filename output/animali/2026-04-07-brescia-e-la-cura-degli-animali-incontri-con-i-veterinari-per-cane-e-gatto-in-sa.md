@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8570243/pexels-photo-8570243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia

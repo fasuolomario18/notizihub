@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "L'allarme di Dimon, guerra in Iran può spingere il petrolio e i tassi di interesse"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11135734/pexels-photo-11135734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Investire e Risparmiare nel 2026 Tra le Turbolenze Geopolitiche

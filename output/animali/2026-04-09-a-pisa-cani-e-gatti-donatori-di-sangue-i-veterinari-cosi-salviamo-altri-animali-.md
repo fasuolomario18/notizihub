@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "A Pisa cani e gatti donatori di sangue, i veterinari: “Così salviamo altri animali” - la Repubblica"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11418922/pexels-photo-11418922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cani e Gatti Donatori di Sangue: la Rivoluzione Veterinaria di Pisa nel 2026

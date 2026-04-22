@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "L'assicurazione vita è una protezione finanziaria essenziale per chi vuole garantire il benessere dei propri cari. Esistono diverse tipologie di polizze, o"
 tags: ["assicurazione auto", "polizza"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35157025/pexels-photo-35157025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

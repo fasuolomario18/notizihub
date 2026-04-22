@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/987586/pexels-photo-987586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Sindacati, 'ad Amazon Passo Corese siglato accordo storico, più diritti'"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4790266/pexels-photo-4790266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come gli Accordi Sindacali Influenzano il Mercato Immobiliare nel 2026

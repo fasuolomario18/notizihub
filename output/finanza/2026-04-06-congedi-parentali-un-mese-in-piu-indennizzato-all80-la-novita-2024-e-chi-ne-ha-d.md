@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Congedi parentali, un mese in più indennizzato all’80%: la novità 2024 (e chi ne ha diritto)"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37018541/pexels-photo-37018541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Investire e Risparmiare Grazie ai Nuovi Congedi Parentali 2024

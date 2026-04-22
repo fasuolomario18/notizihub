@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "USA e Iran negozieranno a Islamabad mentre Israele intensifica attacchi. Implicazioni geopolitiche per Europa, stabilità mediorientale e sicurezza globale nel 2026."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37002253/pexels-photo-37002253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra in Medio Oriente: gli USA incontreranno l'Iran in Pakistan mentre Israele intensifica gli attacchi

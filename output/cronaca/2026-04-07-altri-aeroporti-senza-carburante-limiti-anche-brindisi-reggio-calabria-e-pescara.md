@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Altri aeroporti senza carburante, limiti anche Brindisi, Reggio Calabria e Pescara"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13643909/pexels-photo-13643909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Aeroporti italiani senza carburante: emergenza sui voli estivi, allarme del Codacons

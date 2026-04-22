@@ -7,6 +7,7 @@ nicchia_nome: "Bricolage & Fai da te"
 meta_description: "Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6102155/pexels-photo-6102155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica

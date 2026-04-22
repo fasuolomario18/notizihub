@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Come risparmiare sul carburante"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154606/pexels-photo-37154606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

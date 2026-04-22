@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Italia e 14 Paesi europei chiedono stop raid in Libano. Divergenza con USA su strategie militari. Appello per pace e diritti umani nel 2026"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30230055/pexels-photo-30230055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Crisi in Libano: l'Italia e 14 Paesi europei chiedono lo stop ai raid mentre la guerra si intensifica

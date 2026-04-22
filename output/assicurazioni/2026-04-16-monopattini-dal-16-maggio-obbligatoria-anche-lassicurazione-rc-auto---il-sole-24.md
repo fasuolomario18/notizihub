@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Assicurazione RC Auto Obbligatoria per i Monopattini: Cosa Cambia dal 16 Maggio 2026"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3807226/pexels-photo-3807226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione RC Auto Obbligatoria per i Monopattini: Cosa Cambia dal 16 Maggio 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Un percorso lungo un anno, dall'offerta su Piazzetta Cuccia a oggi"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo, Affitto e Bonus Ristrutturazione: Il Percorso della Banca Senese su Piazzetta Cuccia

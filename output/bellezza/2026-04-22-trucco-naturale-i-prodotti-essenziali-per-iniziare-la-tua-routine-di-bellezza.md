@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri i prodotti essenziali per il trucco naturale e una skincare efficace. Una guida completa ai cosmetici imprescindibili per iniziare con un approccio "
 tags: ["skincare", "trucco", "capelli"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6570781/pexels-photo-6570781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Vinitaly a sostegno export in nuova geografia mercati"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34159376/pexels-photo-34159376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Bonus Ristrutturazione: Come la Nuova Strategia Vinitaly Impatta sul Mercato Immobiliare Italiano

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Pechino, la navigazione nello Stretto di Hormuz non subisca ostacoli"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33540928/pexels-photo-33540928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Tensioni Geopolitiche: La Posizione della Cina sulla Guerra e la Libertà di Navigazione nello Stretto di Hormuz

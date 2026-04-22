@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Avvelenamento da ricina in Italia: padre e figlia interrogati, sopralluogo previsto. Seguici per gli ultimi aggiornamenti su questa vicenda di cronaca."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7133640/pexels-photo-7133640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Avvelenate con la ricina: interrogatorio fiume per padre e figlia nel caso che scuote l'Italia

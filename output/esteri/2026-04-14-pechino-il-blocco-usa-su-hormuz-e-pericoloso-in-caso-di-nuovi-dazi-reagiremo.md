@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Tensioni USA-Cina su Hormuz e dazi commerciali nel 2026. Pechino nega forniture armi Iran, minaccia rappresaglie. Impatti su Europa e economia globale"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34236811/pexels-photo-34236811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra commerciale e tensioni geopolitiche: il nuovo braccio di ferro tra USA ed Europa sulla questione Hormuz

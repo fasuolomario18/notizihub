@@ -7,6 +7,7 @@ nicchia_nome: "Cucina & Ricette"
 meta_description: "Scopri i migliori libri di cucina e gastronomia per la primavera 2026. Ricette italiane, dolci e guide pratiche per chi ama cucinare consapevolmente."
 tags: ["ricette", "cucina italiana", "dolci"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37042345/pexels-photo-37042345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # I Migliori Libri di Cucina e Gastronomia da Leggere questa Primavera 2026

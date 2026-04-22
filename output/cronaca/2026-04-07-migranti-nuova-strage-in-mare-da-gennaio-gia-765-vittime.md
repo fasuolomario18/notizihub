@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Cronaca: strage nel Mediterraneo, 765 morti da gennaio 2026. Nuovo naufragio con 80 dispersi e 32 sopravvissuti, tra cui Ahmed, minore salvato dai soccorritori. Italia e UE affrontano crisi migratoria"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16105719/pexels-photo-16105719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Notizie di cronaca: strage in mare, 765 vittime da gennaio 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Stop ai social per under 15: il Governo italiano propone nuovo ddl con focus su sostenibilità digitale e energie rinnovabili nel 2026"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1292296/pexels-photo-1292296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Social Media e Sostenibilità Digitale: Il Governo Italiano Propone Lo Stop per gli Under 15

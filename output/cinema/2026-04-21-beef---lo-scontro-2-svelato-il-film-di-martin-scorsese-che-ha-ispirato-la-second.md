@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri come il film di Scorsese ha ispirato Beef stagione 2 su Netflix. Analisi della connessione tra il cinema e la serie TV contemporanea."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7513460/pexels-photo-7513460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

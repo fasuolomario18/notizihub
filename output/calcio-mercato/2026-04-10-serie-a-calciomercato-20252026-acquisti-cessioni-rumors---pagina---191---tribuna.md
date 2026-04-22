@@ -7,6 +7,7 @@ nicchia_nome: "Calciomercato"
 meta_description: "Calciomercato Serie A 2025/2026: acquisti, cessioni e ultimi rumors. Scopri i principali trasferimenti e le strategie delle big del calcio italiano"
 tags: ["calciomercato", "trasferimenti", "Serie A"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7002939/pexels-photo-7002939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Calciomercato Serie A: Trasferimenti e Rumors della Stagione 2025/2026

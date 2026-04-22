@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Matilda De Angelis star della serialità: scopri le serie TV che l'hanno resa famosa su Netflix e dove vederle nel 2026"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991528/pexels-photo-7991528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Matilda De Angelis: da cinema a serie TV, la star che conquista Netflix e le piattaforme streaming

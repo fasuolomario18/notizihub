@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Piano Accumulo Capitale: investire poco e crescere nel tempo - www.altroconsumo.it"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10254559/pexels-photo-10254559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Piano Accumulo Capitale: come investire poco e crescere nel tempo

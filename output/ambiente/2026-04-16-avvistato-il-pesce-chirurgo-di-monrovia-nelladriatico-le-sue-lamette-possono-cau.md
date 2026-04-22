@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Avvistato il pesce chirurgo di Monrovia nell’Adriatico: le sue “lamette” possono causare ferite"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34653890/pexels-photo-34653890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Pesce Chirurgo di Monrovia nell'Adriatico: Come il Cambiamento Climatico Sta Trasformando gli Ecosistemi Marini

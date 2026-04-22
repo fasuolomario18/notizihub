@@ -7,6 +7,7 @@ nicchia_nome: "Calciomercato"
 meta_description: "Griezmann lascia l'Atletico Madrid a luglio 2026. Scopri le possibili destinazioni nel calciomercato: Serie A, Premier League e altre big europee interessate al francese"
 tags: ["calciomercato", "trasferimenti", "Serie A"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30893285/pexels-photo-30893285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026

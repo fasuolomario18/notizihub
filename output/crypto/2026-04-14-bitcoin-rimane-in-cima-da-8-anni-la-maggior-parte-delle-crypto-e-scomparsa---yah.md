@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin Domina il Mercato Crypto: Come Rimane in Cima da 8 Anni Mentre la Maggior Parte delle Altcoin Scompare"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8370330/pexels-photo-8370330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin Domina il Mercato Crypto: Come Rimane in Cima da 8 Anni Mentre la Maggior Parte delle Altcoin Scompare

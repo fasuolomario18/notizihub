@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Facebook lancia oggi Instant Articles in Italia. Le notizie di cronaca si leggono senza uscire dal social network. Opportunità e sfide per le testate giornalistiche nel 2026."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7568292/pexels-photo-7568292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Facebook Instant Articles: le notizie di cronaca in Italia si leggono senza uscire dal social

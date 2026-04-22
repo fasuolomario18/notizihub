@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Imparare a fare la pasta fresca in casa è più semplice di quanto pensi e non richiede attrezzature costose. Con gli ingredienti giusti e un po' di pratica,"
 tags: ["ricette", "cucina italiana"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36974112/pexels-photo-36974112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Scopri i rischi dell'obesità felina nel 2026: come riconoscerla e mantener il gatto in forma. Consigli veterinari pratici."
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16752502/pexels-photo-16752502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Gatti Obesi e Pericoli Domestici: Come Proteggere il Tuo Animale nel 2026

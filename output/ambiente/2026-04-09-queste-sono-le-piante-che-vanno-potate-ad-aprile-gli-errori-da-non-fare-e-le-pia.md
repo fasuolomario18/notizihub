@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Queste sono le piante che vanno potate ad aprile, gli errori da non fare (e le piante che non devi toccare)"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13012144/pexels-photo-13012144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Potatura ad Aprile 2026: La Guida Sostenibile per un Giardino Consapevole

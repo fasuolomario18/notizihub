@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Arriva una potenziale nuova arma contro il glaucoma, la lente a contatto smart"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36595940/pexels-photo-36595940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Lenti a Contatto Smart per il Glaucoma: la Sostenibilità Incontra l'Innovazione Medica nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Minore arrestato in Abruzzo per propaganda neonazista. Sequestrati manuali per armi 3D e istruzioni per molotov. Cronaca Italia 2026."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37044630/pexels-photo-37044630.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Minore arrestato per propaganda neonazista e terrorismo in Abruzzo: sequestrati manuali per armi 3D

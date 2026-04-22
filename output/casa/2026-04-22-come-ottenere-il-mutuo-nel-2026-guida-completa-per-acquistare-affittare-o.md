@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Nel 2026 ottenere un mutuo richiede una preparazione accurata e la conoscenza delle attuali condizioni di mercato. È essenziale avere documenti in ordine, "
 tags: ["mutuo", "affitto", "ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37002253/pexels-photo-37002253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

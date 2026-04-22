@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Futuro Gravina FIGC: cosa potrebbe accadere nelle prossime ore. Ultime news su cronaca e leadership della federazione italiana di calcio nel 2026"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9271471/pexels-photo-9271471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Futuro Gravina: cosa può succedere nelle prossime ore in FIGC

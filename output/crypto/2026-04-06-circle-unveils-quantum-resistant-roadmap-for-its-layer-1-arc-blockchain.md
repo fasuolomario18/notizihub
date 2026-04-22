@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Circle Unveils Quantum-Resistant Roadmap for Its Layer-1 Arc Blockchain"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30901567/pexels-photo-30901567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Circle Presenta la Roadmap Quantum-Resistant per Arc: La Nuova Frontiera di Bitcoin, Ethereum e Altcoin

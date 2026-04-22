@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28925695/pexels-photo-28925695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026

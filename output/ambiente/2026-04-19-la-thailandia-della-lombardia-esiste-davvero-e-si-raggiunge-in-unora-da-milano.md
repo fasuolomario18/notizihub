@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "La “Thailandia della Lombardia” esiste davvero e si raggiunge in un’ora da Milano"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36422263/pexels-photo-36422263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La "Thailandia della Lombardia": come il lago d'Iseo diventa meta sostenibile di turismo green nel 2026

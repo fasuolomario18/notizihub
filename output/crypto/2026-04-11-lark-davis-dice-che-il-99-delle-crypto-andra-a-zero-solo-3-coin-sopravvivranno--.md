@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin, Ethereum e le Altcoin: Lark Davis Prevede il Crollo del 99% delle Criptovalute nel 2026"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14354118/pexels-photo-14354118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin, Ethereum e le Altcoin: Lark Davis Prevede il Crollo del 99% delle Criptovalute nel 2026

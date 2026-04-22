@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Omicidio a Crema: 17enne confermato in carcere, chiede perdono ma non spiega movente. Convalidato arresto per minore, cronaca nera Italia aprile 2026."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16954318/pexels-photo-16954318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cronaca Italia: Omicidio a Crema, il 17enne resta in carcere e chiede perdono

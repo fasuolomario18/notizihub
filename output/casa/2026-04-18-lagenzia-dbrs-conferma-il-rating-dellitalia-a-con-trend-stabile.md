@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "L'agenzia Dbrs conferma il rating dell'Italia, 'A' con trend stabile"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32750014/pexels-photo-32750014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto nel 2026: Come il Rating Stabile dell'Italia Influisce sul Mercato Immobiliare

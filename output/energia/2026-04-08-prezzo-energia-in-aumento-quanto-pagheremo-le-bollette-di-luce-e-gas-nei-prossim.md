@@ -7,6 +7,7 @@ nicchia_nome: "Energia & Bollette"
 meta_description: "Bolletta Luce e Gas in Aumento: Quanto Pagheremo nei Prossimi Mesi del 2026"
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29970177/pexels-photo-29970177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bolletta Luce e Gas in Aumento: Quanto Pagheremo nei Prossimi Mesi del 2026

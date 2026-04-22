@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Lavorare su doppi turni fa impennare l’ormone dello stress: lo studio sugli infermieri (e sulla sicurezza dei pazienti)"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6779566/pexels-photo-6779566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Doppi Turni e Stress: Come la Salute dei Lavoratori Impatta sulla Sostenibilità Energetica e Climatica

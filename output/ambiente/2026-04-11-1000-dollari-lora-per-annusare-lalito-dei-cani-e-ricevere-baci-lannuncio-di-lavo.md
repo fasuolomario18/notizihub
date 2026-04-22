@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Scopri come il mercato del lavoro 2026 unisce creatività e sostenibilità. Analisi su green jobs, energia rinnovabile e trasformazione climatica nelle aziende moderne"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28497375/pexels-photo-28497375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Nuovo Mercato del Lavoro nel 2026: Quando la Sostenibilità Incontra le Professioni Stravaganti

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Premier Pakistan riapre dialogo diplomatico: stallo nei negoziati non significa fine della pace. USA ed Europa intensificano mediazione internazionale nel 2026"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34419385/pexels-photo-34419385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra e Diplomazia: il Premier del Pakistan Rompe il Silenzio sui Negoziati

@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Zamò (Confindustria Fvg), salario minimo utile anche per attrarre lavoratori"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37002253/pexels-photo-37002253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Salario minimo e mercato immobiliare: come i redditi più alti cambiano le scelte abitative nel 2026

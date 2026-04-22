@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Lite Maurizio Battista ex manager, denunce incrociate in Procura 2026. Il comico accusa di truffa via social media: cronaca italiana dello spettacolo"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34277177/pexels-photo-34277177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Lite tra Maurizio Battista e l'ex manager: denunce incrociate in Procura

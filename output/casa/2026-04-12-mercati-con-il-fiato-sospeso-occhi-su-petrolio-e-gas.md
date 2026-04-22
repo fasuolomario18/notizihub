@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Mercati con il fiato sospeso, occhi su petrolio e gas"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12530461/pexels-photo-12530461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutui e Affitti nel 2026: Come le Decisioni del FMI Influenzano Casa e Immobiliare

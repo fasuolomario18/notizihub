@@ -7,6 +7,7 @@ nicchia_nome: "Università & Studio"
 meta_description: "Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36367404/pexels-photo-36367404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari

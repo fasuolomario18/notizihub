@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Bitcoin stabile, Ethereum testa supporti, XRP debole per tensioni geopolitiche. Analisi completa delle previsioni di prezzo nel mercato crypto e DeFi."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14354118/pexels-photo-14354118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "'La vita va così' conquista box-office e home video nel 2026. Scopri come il film di Riccardo Milani sfida Netflix con l'edizione Blu-ray Mustang"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Film e Serie TV: "La vita va così" conquista anche l'home video dopo il successo al box-office

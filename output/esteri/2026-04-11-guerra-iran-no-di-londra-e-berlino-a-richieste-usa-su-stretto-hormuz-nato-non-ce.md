@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Tensioni transatlantiche ad aprile 2026: USA chiede coinvolgimento NATO per Stretto Hormuz, ma Regno Unito e Germania rifiutano. Analisi della crisi geopolitica."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14136446/pexels-photo-14136446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra Iran: USA richieste per lo Stretto Hormuz respinte da Regno Unito e Germania

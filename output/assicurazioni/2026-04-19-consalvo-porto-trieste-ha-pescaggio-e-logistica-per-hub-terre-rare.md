@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Consalvo, Porto Trieste ha pescaggio e logistica per hub terre rare"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6475009/pexels-photo-6475009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e RC Auto: Come il Progetto del Porto di Trieste Cambia la Logistica Italiana nel 2026

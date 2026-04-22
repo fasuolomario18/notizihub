@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Lula rivendica: Brasile non è Terzo Mondo. Dalle tensioni USA-Europa emerge la sfida brasiliana nel 2026"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35047475/pexels-photo-35047475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Brasile non è più il Terzo Mondo: La Sfida di Lula alle Grandi Potenze in Piena Guerra Commerciale Globale

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Media, 'gravi divergenze' ma i colloqui Usa-Iran proseguono oggi"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33739181/pexels-photo-33739181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # USA-Iran, proseguono i colloqui nonostante le gravi divergenze: il terzo round a Islamabad

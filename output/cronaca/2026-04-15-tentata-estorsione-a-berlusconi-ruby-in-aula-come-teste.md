@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Tentata estorsione a Berlusconi: Ruby non risponde in aula, Rigato nega tutto. Ultimi sviluppi del processo il 15 aprile 2026. Cronaca giudiziale italiana."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/949266/pexels-photo-949266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Tentata Estorsione a Berlusconi: Ruby in aula come teste, Rigato nega tutto

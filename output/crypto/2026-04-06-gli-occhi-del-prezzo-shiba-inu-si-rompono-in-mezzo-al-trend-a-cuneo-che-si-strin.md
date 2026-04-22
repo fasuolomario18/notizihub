@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Gli occhi del prezzo Shiba Inu si rompono in mezzo al trend a cuneo che si stringe"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14856614/pexels-photo-14856614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin, Ethereum e Altcoin: L'Analisi Tecnica dello Shiba Inu in un Trend a Cuneo

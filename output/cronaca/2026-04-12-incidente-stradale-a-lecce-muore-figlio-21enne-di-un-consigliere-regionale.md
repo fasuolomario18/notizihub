@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Tragedia a Lecce: 21enne figlio di consigliere regionale muore in incidente stradale. Il giovane ha perso il controllo del veicolo schiantandosi su una villa. Cronaca e dettagli dell'accaduto."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12576612/pexels-photo-12576612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Tragedia a Lecce: muore 21enne figlio di consigliere regionale in incidente stradale

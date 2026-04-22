@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Syensqo, cambio di leadership nel sito di Spinetta Marengo"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9908376/pexels-photo-9908376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto ad Alessandria: Come Cambia il Mercato Immobiliare con i Nuovi Investimenti Syensqo

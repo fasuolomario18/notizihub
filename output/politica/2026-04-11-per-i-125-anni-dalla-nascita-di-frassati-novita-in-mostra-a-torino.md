@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Mostra 125 anni Frassati a Torino con nuovi contenuti, spazio santi sociali e webapp interattiva. Governo e Parlamento supportano celebrazione del beato torinese nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7103165/pexels-photo-7103165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento sostengono la mostra per i 125 anni di Frassati a Torino

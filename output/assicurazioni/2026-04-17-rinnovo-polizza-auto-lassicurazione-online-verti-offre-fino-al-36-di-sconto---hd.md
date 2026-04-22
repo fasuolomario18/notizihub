@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Assicurazione Auto: Verti Offre fino al 36% di Sconto sul Rinnovo della Polizza RC Auto"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20629673/pexels-photo-20629673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto: Verti Offre fino al 36% di Sconto sul Rinnovo della Polizza RC Auto

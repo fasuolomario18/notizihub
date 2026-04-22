@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "La Caccia a Gollum 2026: sostenibilità, energia rinnovabile e impegno climatico nel nuovo film di Tolkien. Scopri come Hollywood abbraccia la green production"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3782973/pexels-photo-3782973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Signore degli Anelli – La Caccia a Gollum: come Hollywood abbraccia la sostenibilità nel 2026

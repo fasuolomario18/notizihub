@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio"
 tags: ["assicurazione auto", "polizza"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36729875/pexels-photo-36729875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

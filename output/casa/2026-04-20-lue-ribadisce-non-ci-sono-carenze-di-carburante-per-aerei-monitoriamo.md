@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Scopri come la stabilità energetica UE del 2026 influenza mutui, affitti e bonus ristrutturazione. Analisi approfondita e strategie per investimenti immobiliari consapevoli"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30195017/pexels-photo-30195017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto nel 2026: Come la Stabilità Energetica dell'UE Influenza il Mercato Immobiliare

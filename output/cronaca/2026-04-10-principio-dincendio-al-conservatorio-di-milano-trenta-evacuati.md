@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Principio d'incendio al Conservatorio di Milano, 30 evacuati il 10 aprile 2026. Fuochi in materassi domati dai vigili del fuoco. Notizie cronaca Italia."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5389322/pexels-photo-5389322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Principio d'incendio al Conservatorio di Milano: 30 persone evacuate, fiamme già domate

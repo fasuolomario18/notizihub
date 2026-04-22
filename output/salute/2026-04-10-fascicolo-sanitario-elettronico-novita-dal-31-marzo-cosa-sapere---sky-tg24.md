@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Scopri come il nuovo Fascicolo Sanitario Elettronico 2026 rivoluziona la gestione di dieta, alimentazione e benessere. Guida completa alle novità del 31 marzo"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5778359/pexels-photo-5778359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Fascicolo Sanitario Elettronico 2026: Come Gestire Dieta e Alimentazione nel Nuovo Sistema

@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "La storia di Valsoia evidenzia l'urgenza di sostenibilità ambientale e energia rinnovabile per proteggere la fauna selvatica dall'invasione urbana nel 2026"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15265122/pexels-photo-15265122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cinghialetta Salvata a Roma: Come la Crisi Climatica Spinge gli Animali Selvatici verso le Città

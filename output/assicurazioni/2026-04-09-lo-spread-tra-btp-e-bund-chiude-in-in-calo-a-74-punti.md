@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Lo spread Btp-Bund cala a 74 punti: scopri come questo influenza i prezzi dell'assicurazione auto, RC auto e vita nel 2026."
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27459671/pexels-photo-27459671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e Vita: Come lo Spread in Calo Influenza i Premi nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Rapina banca Vomero 2026: come energia rinnovabile e sostenibilità proteggono infrastrutture critiche italiane"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8271253/pexels-photo-8271253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Rapina in Banca al Vomero: Come gli Infrastrutture Critiche Richiedono Energia Rinnovabile per la Sicurezza Sostenibile

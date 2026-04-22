@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8986132/pexels-photo-8986132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo

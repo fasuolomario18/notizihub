@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Analisti Kpler, traffico attraverso Hormuz aumentato nel fine settimana"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8331152/pexels-photo-8331152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come i Flussi Commerciali Globali Influenzano il Mercato Immobiliare Italiano nel 2026

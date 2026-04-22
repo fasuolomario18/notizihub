@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "++ Mimit, carburanti ancora in calo, gasolio self a 2,162 ++"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6516369/pexels-photo-6516369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Carburanti in Calo ad Aprile 2026: Come Risparmiare su Mutuo, Affitto e Bonus Ristrutturazione

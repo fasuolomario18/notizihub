@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin regge, Ethereum accelera: crypto tra svolta regolamentare e ritorno dei flussi"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911432/pexels-photo-14911432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin regge, Ethereum accelera: crypto tra svolta regolamentare e ritorno dei flussi

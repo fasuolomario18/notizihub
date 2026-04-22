@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Mangia Prega Abbaia: trama, cast e location del nuovo film Netflix disponibile in streaming ad aprile 2026. Scopri tutto sulla nuova produzione originale"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mangia Prega Abbaia: il Film Netflix che Conquista lo Streaming nel 2026

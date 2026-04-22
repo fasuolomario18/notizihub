@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Pezeshkian sfida Trump su diritti nucleari Iran nel 2026. Conflitto USA-Europa-Iran su sovranità, sanzioni e stabilità globale nel Medio Oriente."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31513071/pexels-photo-31513071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La sfida dell'Iran a Trump sul nucleare: conflitto globale e tensioni tra USA e Europa nel 2026

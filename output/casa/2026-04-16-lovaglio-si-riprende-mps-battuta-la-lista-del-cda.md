@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Lovaglio torna a MPS nel 2026. Scopri come il cambio di leadership impatta mutui, affitti e bonus ristrutturazione nel mercato immobiliare italiano"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16930980/pexels-photo-16930980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come le Novità su MPS Impattano il Mercato Immobiliare nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Cuba apre il commercio dei prodotti agricoli al settore privato"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1637122/pexels-photo-1637122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cuba Apre il Commercio Agricolo al Settore Privato: le Implicazioni Geopolitiche nella Guerra Commerciale USA-Europa

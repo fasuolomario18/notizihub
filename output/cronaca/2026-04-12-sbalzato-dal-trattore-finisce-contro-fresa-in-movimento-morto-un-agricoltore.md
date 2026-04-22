@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Agricoltore muore nel Forlivese sbalzato da trattore contro fresa in movimento. Tragedia a Meldola il 12 aprile 2026, ennesima vittima del lavoro agricolo"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37182514/pexels-photo-37182514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Tragedia negli Orti del Forlivese: Agricoltore Muore dopo Incidente con Trattore

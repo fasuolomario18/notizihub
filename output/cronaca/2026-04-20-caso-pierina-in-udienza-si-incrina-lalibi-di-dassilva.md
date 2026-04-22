@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Caso Pierina: l'alibi di Dassilva si incrina in udienza. Domande cruciali del giudice e pm su orari e movimenti nel processo per omicidio di Pierina Paganelli. Cronaca giudiziaria 2026."
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11219740/pexels-photo-11219740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Caso Pierina, l'alibi di Dassilva si incrina in aula: le domande cruciali su orario e movimenti

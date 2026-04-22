@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Cnsas, 40 morti per scialpinismo e freeride in Trentino Alto Adige"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11849371/pexels-photo-11849371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Scialpinismo e Freeride in Trentino Alto Adige: 40 Morti e 250 Soccorsi, l'Allarme del Cnsas

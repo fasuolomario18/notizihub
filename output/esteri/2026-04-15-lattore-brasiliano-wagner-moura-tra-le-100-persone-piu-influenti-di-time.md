@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Wagner Moura tra le 100 personalità più influenti secondo Time nel 2026. L'attore brasiliano candidato all'Oscar affronta temi di guerra e conflitti geopolitici nel cinema"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/771883/pexels-photo-771883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Wagner Moura tra le 100 persone più influenti: il cinema e la politica globale nell'era della guerra e dei conflitti internazionali

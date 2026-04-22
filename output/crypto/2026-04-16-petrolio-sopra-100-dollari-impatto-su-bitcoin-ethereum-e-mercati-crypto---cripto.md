@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Petrolio oltre 100$ impatta Bitcoin ed Ethereum. Analisi della volatilità crypto ad aprile 2026 e strategie per investitori durante questa fase di stress macroeconomico."
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911432/pexels-photo-14911432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin, Ethereum e il Mercato Crypto Sotto Pressione: L'Impatto del Petrolio Sopra i 100 Dollari

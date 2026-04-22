@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Scopri cosa guardare su Netflix ad aprile 2026: serie TV, film, documentari e contenuti per famiglie nel catalogo aggiornato."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32458988/pexels-photo-32458988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cosa Guardare su Netflix: Il Catalogo Aggiornato ad Aprile 2026

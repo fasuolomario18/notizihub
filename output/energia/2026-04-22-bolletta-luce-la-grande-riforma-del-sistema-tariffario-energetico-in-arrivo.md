@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Un nuovo piano di riforma del sistema tariffario energetico europeo, riportato dalla BBC, mira a rivoluzionare il calcolo della bolletta luce. La proposta "
 tags: ["bolletta luce", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33681457/pexels-photo-33681457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

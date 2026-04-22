@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Milei in Israele per il Giorno dell'Indipendenza tra tensioni e minacce iraniane"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30284224/pexels-photo-30284224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra, USA e Europa: Milei vola in Israele tra tensioni iraniane e possibile presenza di Trump

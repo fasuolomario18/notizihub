@@ -7,6 +7,7 @@ nicchia_nome: "Energia & Bollette"
 meta_description: "Decreto Bollette 2026 approvato dal Senato: sconti su luce, gas e incentivi fotovoltaico. Scopri come cambiano le bollette"
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12410061/pexels-photo-12410061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Decreto Bollette 2026: l'ok del Senato è arrivato, ecco cosa cambia per la luce e il gas

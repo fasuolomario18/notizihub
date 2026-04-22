@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Scopri i 7 set PLAYMOBIL pirata in sconto su Amazon oggi: dalla nave di Asterix ai vascelli leggendari. Occasione imperdibile per collezionisti e appassionati."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7150642/pexels-photo-7150642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PS5, Xbox e PC Gaming: i Migliori Set PLAYMOBIL Pirata su Amazon Oggi 7 Aprile 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Rutte, quasi tutti gli alleati stanno facendo ciò che gli Usa chiedono"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/69931/dragonfly-insect-animal-blue-dragonfly-69931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La pressione americana spinge l'Europa verso nuovi impegni militari nel 2026

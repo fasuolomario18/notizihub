@@ -7,6 +7,7 @@ nicchia_nome: "Animali Domestici"
 meta_description: "Scopri come accedere a servizi veterinari gratuiti per cani e gatti nel 2026. Guida completa alle ASL, associazioni e campagne di vaccinazione disponibili"
 tags: ["cane", "gatto", "animali"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/128662/pexels-photo-128662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Veterinario Gratis per Animali Domestici: Guida Completa ai Servizi Disponibili nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Scopri i migliori film e serie TV su Netflix ad aprile 2026. Guida completa alle novità streaming da non perdere con trame e generi"
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19374140/pexels-photo-19374140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Film e Serie TV su Netflix ad Aprile 2026: Le Novità Streaming da Non Perdere

@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Cassa centrale banca, piano al 2028 con raccolta 148 miliardi (+14%)"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32750015/pexels-photo-32750015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e Vita: Come il Piano di Cassa Centrale Banca Impatta sui Tuoi Contratti nel 2026

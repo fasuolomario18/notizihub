@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Mimit, prezzi carburanti in calo, gasolio self a 2,181 euro al litro"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7485062/pexels-photo-7485062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto e RC Auto: Come Risparmiare con i Prezzi Carburanti in Calo ad Aprile 2026

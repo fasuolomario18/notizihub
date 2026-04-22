@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Baby gang Italia 2026: crescita allarmante del fenomeno criminale giovanile. Giannini Sapienza afferma urgenza interventi strutturati contro frustrazione e disagio"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4975666/pexels-photo-4975666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Baby gang in Italia: la crisi sociale dietro la violenza giovanile

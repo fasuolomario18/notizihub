@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri come il calo del fotovoltaico nel 2026 impatta la tua bolletta luce. Analisi delle conseguenze e strategie per risparmiare sull'energia."
 tags: ["bolletta luce", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35486171/pexels-photo-35486171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

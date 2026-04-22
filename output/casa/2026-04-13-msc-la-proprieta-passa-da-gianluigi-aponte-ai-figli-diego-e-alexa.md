@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Msc, la proprietà passa da Gianluigi Aponte ai figli Diego e Alexa"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/22034268/pexels-photo-22034268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come Cambiano le Opportunità Immobiliari con il Passaggio Generazionale MSC

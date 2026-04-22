@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Perché Bitcoin, Ethereum e XRP stanno salendo oggi: analisi del mercato crypto del 9 aprile 2026"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14354118/pexels-photo-14354118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Perché Bitcoin, Ethereum e XRP stanno salendo oggi: analisi del mercato crypto del 9 aprile 2026

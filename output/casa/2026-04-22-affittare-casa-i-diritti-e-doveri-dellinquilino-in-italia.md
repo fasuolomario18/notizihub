@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Affittare casa: diritti e doveri dell'inquilino"
 tags: ["mutuo", "affitto", "ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30965188/pexels-photo-30965188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

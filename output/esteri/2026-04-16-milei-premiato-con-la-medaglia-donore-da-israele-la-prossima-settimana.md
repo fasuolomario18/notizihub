@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Milei premiato con la Medaglia d'onore da Israele la prossima settimana"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20620625/pexels-photo-20620625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Milei riceve la Medaglia d'onore da Israele: il riconoscimento geopolitico che ridisegna gli equilibri globali

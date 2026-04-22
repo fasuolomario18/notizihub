@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Pensioni, quando ci andremo? La nuova mappa età per età e gli assegni: i calcoli per donne e uomini"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9940307/pexels-photo-9940307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire per la Pensione: Guida Completa alle Età e agli Assegni in Italia

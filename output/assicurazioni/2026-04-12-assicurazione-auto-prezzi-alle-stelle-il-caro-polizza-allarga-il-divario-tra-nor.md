@@ -7,6 +7,7 @@ nicchia_nome: "Assicurazioni"
 meta_description: "Assicurazione Auto: Prezzi Alle Stelle e il Divario Nord-Sud che si Allarga nel 2026"
 tags: ["assicurazione auto", "RC auto", "assicurazione vita"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4895449/pexels-photo-4895449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Assicurazione Auto: Prezzi Alle Stelle e il Divario Nord-Sud che si Allarga nel 2026

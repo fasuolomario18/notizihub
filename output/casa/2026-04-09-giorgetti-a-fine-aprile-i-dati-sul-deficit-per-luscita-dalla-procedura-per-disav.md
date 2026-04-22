@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Giorgetti, a fine aprile i dati sul deficit per l'uscita dalla procedura per disavanzo"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7195545/pexels-photo-7195545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto in Incertezza: cosa cambia con i dati sul deficit di fine aprile 2026

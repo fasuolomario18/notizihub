@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Ethereum (ETH) prezzo odierno 13 aprile 2026: analisi in tempo reale, grafici, notizie e dinamiche del mercato Bitcoin, Ethereum e altcoin"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1036637/pexels-photo-1036637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ethereum (ETH): Prezzo Odierno e Analisi del Mercato Crypto nel 2026

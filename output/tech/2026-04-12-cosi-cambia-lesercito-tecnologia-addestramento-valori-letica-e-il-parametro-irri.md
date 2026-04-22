@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8721318/pexels-photo-8721318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici

@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Ucciso a 19 anni per errore: arrestati a tredici anni i killer della 'Ndrangheta nel 2026. Era in auto con un vero obiettivo mafioso. Cronaca Italia"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10481256/pexels-photo-10481256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ucciso a 19 anni per un errore: arrestati i killer 13 anni dopo nel 2026

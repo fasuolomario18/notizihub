@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Giovani Confindustria chiedono coraggio su mutui e affitti nel 2026. Bonus ristrutturazione in discussione. Ecco le sfide del mercato immobiliare italiano."
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19350051/pexels-photo-19350051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come i Giovani Imprenditori Affrontano le Sfide Economiche del 2026

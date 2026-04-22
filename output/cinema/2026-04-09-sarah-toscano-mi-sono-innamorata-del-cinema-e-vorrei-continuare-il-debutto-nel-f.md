@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Sarah Toscano debutta nel cinema con 'Non abbiam bisogno di parole' su Netflix nel 2026. L'attrice dichiara la sua passione per il cinema in un'intervista esclusiva."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991313/pexels-photo-7991313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sarah Toscano debutta nel cinema con "Non abbiam bisogno di parole" su Netflix: l'intervista esclusiva

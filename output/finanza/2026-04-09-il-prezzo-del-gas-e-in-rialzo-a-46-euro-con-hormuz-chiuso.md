@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Guida completa su come investire e risparmiare durante il rialzo del gas nel 2026. Strategie ETF e protezione del patrimonio dall'inflazione energetica con la chiusura di Hormuz."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33009099/pexels-photo-33009099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Investire e Risparmiare Durante il Rialzo dei Prezzi del Gas nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Presidente di Cuba, 'non mi dimetterò sotto pressione degli Usa'"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13100052/pexels-photo-13100052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Díaz-Canel alla NBC: "Non mi dimetterò sotto pressione degli USA" - Le tensioni geopolitiche di aprile 2026

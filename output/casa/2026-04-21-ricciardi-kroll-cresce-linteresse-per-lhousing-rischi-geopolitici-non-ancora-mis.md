@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Mutuo, affitto e ristrutturazione: le opportunità dell'housing italiano tra crescita e incertezze geopolitiche. Strategie di investimento 2026."
 tags: ["mutuo", "affitto", "ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/248913/pexels-photo-248913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

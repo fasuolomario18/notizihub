@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Arrestato 19enne a Pavia per violenza domestica contro compagna. Aggressione con pugni, scopa e badile. Ultime notizie cronaca Italia 16 aprile 2026"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12464270/pexels-photo-12464270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Violenza in casa nel Pavese: Arrestato 19enne per Aggressione alla Compagna

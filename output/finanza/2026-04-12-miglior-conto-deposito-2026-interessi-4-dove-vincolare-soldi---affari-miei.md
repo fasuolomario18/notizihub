@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Miglior Conto Deposito 2026: Dove Vincolare i Soldi con Interessi al 4%"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16600134/pexels-photo-16600134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Miglior Conto Deposito 2026: Dove Vincolare i Soldi con Interessi al 4%

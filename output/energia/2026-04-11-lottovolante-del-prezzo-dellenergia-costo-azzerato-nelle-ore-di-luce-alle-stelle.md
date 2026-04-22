@@ -7,6 +7,7 @@ nicchia_nome: "Energia & Bollette"
 meta_description: "Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna"
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1854866/pexels-photo-1854866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna

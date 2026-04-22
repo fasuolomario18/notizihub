@@ -7,6 +7,7 @@ nicchia_nome: "Calciomercato"
 meta_description: "Calciomercato Serie A 2026: scopri gli ultimi acquisti, cessioni e rumors che stanno caratterizzando la stagione calcistica italiana con analisi delle principali operazioni"
 tags: ["calciomercato", "trasferimenti", "Serie A"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36943876/pexels-photo-36943876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Calciomercato Serie A 2025/2026: Gli Ultimi Acquisti, Cessioni e Rumors che Infiammano il Campionato

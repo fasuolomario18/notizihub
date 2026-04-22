@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Repubblica Dominicana raggiunge record storico di 3,7 milioni turisti nel Q1 2026. Boom crociere traina economia mentre geopolitica favorisce mete sicure caraibiche"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12156171/pexels-photo-12156171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Repubblica Dominicana: 3,7 Milioni di Turisti nel Primo Trimestre 2026, un Record Storico Mentre Guerra e Tensioni Geopolitiche Spingono i Viaggiatori verso Mete Sicure

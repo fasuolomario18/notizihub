@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Casa Bianca: 'I colloqui tra Iran e Usa stanno andando avanti'"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9380143/pexels-photo-9380143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # USA e Iran verso una tregua? Le tensioni commerciali ed energetiche che dividono il mondo nel 2026

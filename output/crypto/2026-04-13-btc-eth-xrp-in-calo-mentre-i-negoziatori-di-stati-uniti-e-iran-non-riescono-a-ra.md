@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin, Ethereum e altcoin crollano mentre negoziatori USA-Iran non trovano accordo. Analisi della volatilità crypto nel 2026 e prospettive future"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911424/pexels-photo-14911424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin, Ethereum e Altcoin in Calo: Le Tensioni Geopolitiche Scuotono i Mercati Crypto

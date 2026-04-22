@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Prospettive sul prezzo di LINK mentre Chainlink si unirà all’alleanza coreana KRW Stablecoin"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8370332/pexels-photo-8370332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin, Ethereum e Altcoin: Le Prospettive di LINK nell'Alleanza KRW di Chainlink

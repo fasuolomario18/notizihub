@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Casa Bianca, inviati di Trump sabato a Islamabad per colloqui con Iran"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/21765186/pexels-photo-21765186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # USA verso la diplomazia: Trump invia delegazione a Islamabad per negoziati con l'Iran

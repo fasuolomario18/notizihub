@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Calano le vendite di Bmw, nel primo trimestre pesano la Cina e gli Usa"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30229060/pexels-photo-30229060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto in Italia: Come il Mercato Immobiliare Risente delle Fluttuazioni del Mercato Automobilistico

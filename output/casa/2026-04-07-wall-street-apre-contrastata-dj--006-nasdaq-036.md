@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Wall Street apre contrastata, Dj -0,06%, Nasdaq +0,36%"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33014548/pexels-photo-33014548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto nel 2026: Come la Volatilità di Wall Street Influenza i Tassi Immobiliari Italiani

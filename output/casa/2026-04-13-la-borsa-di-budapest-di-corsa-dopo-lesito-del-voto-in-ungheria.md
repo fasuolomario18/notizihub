@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "La Borsa di Budapest di corsa dopo l'esito del voto in Ungheria"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1797119/pexels-photo-1797119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto in Rialzo: Come l'Ottimismo di Budapest Influenza il Mercato Immobiliare Italiano

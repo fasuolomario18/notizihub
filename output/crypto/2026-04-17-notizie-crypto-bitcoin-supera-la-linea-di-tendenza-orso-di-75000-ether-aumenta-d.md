@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin supera $75.000 rompendo la linea orso. Ethereum sale del 9% in rally Goldilocks mentre altcoin restano indietro nel mercato crypto di aprile 2026."
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29968119/pexels-photo-29968119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin supera i $75.000 e rompe la linea di tendenza orso: la rally Goldilocks di Ethereum mentre gli altcoin restano indietro

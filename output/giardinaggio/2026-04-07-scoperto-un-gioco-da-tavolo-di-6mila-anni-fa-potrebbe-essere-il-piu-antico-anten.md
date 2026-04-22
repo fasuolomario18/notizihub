@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Scoperto un gioco da tavolo di 6mila anni fa: potrebbe essere il più antico antenato degli scacchi"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27738499/pexels-photo-27738499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Giochi da Tavolo Antichi e Giardinaggio: Come Coltivare Orto e Giardino Mentre Scopri la Storia

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Le Azioni Buzzi Sono Davvero a Sconto? Una Guida all'Investimento nel 2026"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37010654/pexels-photo-37010654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le Azioni Buzzi Sono Davvero a Sconto? Una Guida all'Investimento nel 2026

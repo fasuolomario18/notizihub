@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Cosa succede davvero al tuo corpo quando mangi troppo zucchero"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7291986/pexels-photo-7291986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Zucchero e Sostenibilità: Come le Nostre Scelte Alimentari Impattano su Clima ed Energia Rinnovabile nel 2026

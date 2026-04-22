@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Bitcoin tocca 78.000$ grazie a trattative Iran-USA. Ethereum e Solana salgono del 10-20%. Analisi sul boom crypto e DeFi nel 2026."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911423/pexels-photo-14911423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

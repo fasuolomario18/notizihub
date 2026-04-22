@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Mutuo e Affitto in Italia: la Crisi Abitativa Raggiunge Livelli Critici nel 2026"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31889397/pexels-photo-31889397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto in Italia: la Crisi Abitativa Raggiunge Livelli Critici nel 2026

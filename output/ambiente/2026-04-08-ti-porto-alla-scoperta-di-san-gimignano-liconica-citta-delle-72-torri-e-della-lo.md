@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Ti porto alla scoperta di San Gimignano, l’iconica città delle 72 torri (e della loro storia)"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6963573/pexels-photo-6963573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # San Gimignano tra le torri medievali e la transizione verso l'energia rinnovabile

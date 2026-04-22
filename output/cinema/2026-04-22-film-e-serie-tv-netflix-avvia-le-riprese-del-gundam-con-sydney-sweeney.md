@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Film Gundam Netflix con Sydney Sweeney: riprese avviate. Scopri i dettagli del nuovo adattamento live-action della celebre serie TV anime su Netflix."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991328/pexels-photo-7991328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

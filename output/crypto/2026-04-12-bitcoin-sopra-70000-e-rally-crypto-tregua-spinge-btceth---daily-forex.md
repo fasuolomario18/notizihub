@@ -7,6 +7,7 @@ nicchia_nome: "Crypto & Web3"
 meta_description: "Bitcoin Sopra 70.000$: Il Rally Crypto che Sta Ridefinendo il Mercato nel 2026"
 tags: ["bitcoin", "ethereum", "altcoin"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29968119/pexels-photo-29968119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bitcoin Sopra 70.000$: Il Rally Crypto che Sta Ridefinendo il Mercato nel 2026

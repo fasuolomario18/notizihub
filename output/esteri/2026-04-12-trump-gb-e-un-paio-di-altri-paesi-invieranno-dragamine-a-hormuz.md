@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Trump, 'Gb e un paio di altri Paesi invieranno dragamine a Hormuz'"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1464202/pexels-photo-1464202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Trump annuncia: GB e altri Paesi europei invieranno dragamine nello Stretto di Hormuz

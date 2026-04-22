@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Piano Ue 'Accelerate Eu' rivoluziona mutui, affitti e bonus ristrutturazione nel 2026. Telelavoro e trasporti pubblici trasformano il mercato immobiliare italiano."
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37002253/pexels-photo-37002253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come il Piano Ue "Accelerate Eu" Cambia le Regole del Mercato Immobiliare nel 2026

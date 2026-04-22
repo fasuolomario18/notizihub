@@ -7,6 +7,7 @@ nicchia_nome: "Bricolage & Fai da te"
 meta_description: "Come eliminare i tarli del legno con metodi naturali della nonna: rimedi fai da te efficaci per la ristrutturazione della casa nel 2026."
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6920101/pexels-photo-6920101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Eliminare Definitivamente i Tarli del Legno: i Rimedi della Nonna per il Fai da Te

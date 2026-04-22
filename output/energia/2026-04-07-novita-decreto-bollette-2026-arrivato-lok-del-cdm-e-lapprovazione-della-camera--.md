@@ -7,6 +7,7 @@ nicchia_nome: "Energia & Bollette"
 meta_description: "Decreto Bollette 2026 approvato: riduzioni su luce, gas e incentivi fotovoltaico. Scopri le novità e i benefici per famiglie e imprese."
 tags: ["bolletta luce", "gas", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14921265/pexels-photo-14921265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Decreto Bollette 2026: Approvazione della Camera e le Novità per Luce, Gas e Fotovoltaico

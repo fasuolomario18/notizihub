@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Scopri i 25 esercizi di core training per addominali forti, postura corretta e equilibrio ottimale nel 2026. Fitness sostenibile a corpo libero."
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37108774/pexels-photo-37108774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Addominali e Core Training: Il Fitness Sostenibile che Trasforma il Tuo Corpo nel 2026

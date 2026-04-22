@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Iliad porta in Italia Stancer, la fintech per i pagamenti digitali"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32880793/pexels-photo-32880793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come Stancer di Iliad Rivoluziona i Pagamenti per Chi Acquista o Affitta Casa nel 2026

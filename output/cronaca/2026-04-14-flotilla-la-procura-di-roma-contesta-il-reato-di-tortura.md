@@ -7,6 +7,7 @@ nicchia_nome: "Cronaca"
 meta_description: "Procura Roma contesta tortura in caso Flotilla: aperto fascicolo contro ignoti. Rogatoria a Israele per acquisire prove. Notizie cronaca italiana 2026"
 tags: ["notizie", "cronaca", "Italia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37192949/pexels-photo-37192949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Procura di Roma contesta il reato di tortura: notizie e sviluppi dell'inchiesta su Flotilla

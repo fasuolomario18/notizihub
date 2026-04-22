@@ -7,6 +7,7 @@ nicchia_nome: "Cinema & Serie TV"
 meta_description: "Scopri cosa vedere ad aprile 2026: i migliori film al cinema e le serie TV su Netflix e altre piattaforme streaming. Guida completa con consigli e generi consigliati."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32458988/pexels-photo-32458988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Film e Serie TV da non perdere ad aprile 2026: la guida completa tra cinema e streaming

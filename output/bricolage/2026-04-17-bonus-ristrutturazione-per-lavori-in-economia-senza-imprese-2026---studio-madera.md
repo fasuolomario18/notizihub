@@ -7,6 +7,7 @@ nicchia_nome: "Bricolage & Fai da te"
 meta_description: "Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese"
 tags: ["fai da te", "ristrutturazione", "idraulica"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15798780/pexels-photo-15798780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese

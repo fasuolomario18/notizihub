@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Dalle discariche al cantiere: questa azienda trasforma i rifiuti non riciclabili in calcestruzzo leggero per strade e case"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18267250/pexels-photo-18267250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dai Rifiuti al Calcestruzzo Sostenibile: La Rivoluzione dell'Edilizia Ecologica nel 2026

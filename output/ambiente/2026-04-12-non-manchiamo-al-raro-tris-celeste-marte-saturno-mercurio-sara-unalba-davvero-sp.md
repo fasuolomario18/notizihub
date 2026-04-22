@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Non manchiamo al raro tris celeste Marte – Saturno – Mercurio, sarà un’alba davvero speciale"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/2990641/pexels-photo-2990641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Osservazione Astronomica e Sostenibilità: Come il Tris Celeste del 20 Aprile 2026 Ci Ricorda l'Importanza di Energia Rinnovabile e Clima

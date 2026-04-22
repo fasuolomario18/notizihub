@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "I negoziati Iran-Pakistan sorprendono il 12 aprile 2026. USA ed Europa monitorano sviluppi geopolitici. Contatti proseguono con alleati regionali."
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33746105/pexels-photo-33746105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Guerra in Medio Oriente: USA ed Europa osservano i negoziati tra Iran e Pakistan nel 2026

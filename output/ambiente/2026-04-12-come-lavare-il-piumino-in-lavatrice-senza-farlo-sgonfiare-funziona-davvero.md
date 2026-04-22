@@ -7,6 +7,7 @@ nicchia_nome: "Ambiente & Green"
 meta_description: "Come lavare il piumino in lavatrice senza farlo sgonfiare (funziona davvero)"
 tags: ["sostenibilità", "clima", "energia rinnovabile"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6195289/pexels-photo-6195289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Lavare il Piumino in Lavatrice Senza Farlo Sgonfiare: Una Guida Sostenibile per il 2026

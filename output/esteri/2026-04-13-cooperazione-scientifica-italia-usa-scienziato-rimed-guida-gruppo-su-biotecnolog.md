@@ -7,6 +7,7 @@ nicchia_nome: "Notizie dal Mondo"
 meta_description: "Cooperazione scientifica Italia-USA: Antonio D'Amore guida ricerca biotecnologie. Strategie su IA, nucleare e materiali avanzati in contesto competizione tecnologica globale 2026"
 tags: ["guerra", "USA", "Europa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20636921/pexels-photo-20636921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Cooperazione Scientifica Italia-USA nella Guerra Tecnologica: Il Ruolo Decisivo di Ri.Med

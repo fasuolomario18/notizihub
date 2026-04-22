@@ -7,6 +7,7 @@ nicchia_nome: "Casa & Immobiliare"
 meta_description: "Con incertezza crollano prezzi alcune rotte, alle Maldive con 250 euro"
 tags: ["mutuo", "affitto", "bonus ristrutturazione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36064515/pexels-photo-36064515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mutuo e Affitto: Come le Oscillazioni dei Prezzi dei Voli Impattano il Mercato Immobiliare nel 2026

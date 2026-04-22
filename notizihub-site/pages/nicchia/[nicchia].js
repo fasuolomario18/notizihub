@@ -69,6 +69,7 @@ export async function getStaticProps({ params }) {
         slug: data.slug || '',
         data: data.date || '',
         meta: data.meta_description || '',
+        image_url: data.image_url || '',
       });
     }
   }
@@ -138,7 +139,7 @@ export default function PaginaNicchia({ articoli, nicchia, info }) {
           {articoli.map((art, i) => (
             <div key={i} className="card" style={{ border: '1px solid #eee', borderRadius: 10, overflow: 'hidden', background: '#fff' }}>
               <img
-                src={`/nicchie/${nicchia}.png`}
+                src={art.image_url || `/nicchie/${nicchia}.png`}
                 alt={art.titolo}
                 className="card-img"
               />

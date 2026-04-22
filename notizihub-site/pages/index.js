@@ -70,6 +70,7 @@ export async function getStaticProps() {
         nicchia_nome: nicchia.nome,
         data: data.date || '',
         meta: data.meta_description || '',
+        image_url: data.image_url || '',
       });
     }
   }
@@ -230,7 +231,7 @@ export default function Home({ articoli, articoliSearch }) {
             <div>
               <div style={{ width: '100%', overflow: 'hidden', borderRadius: 6, marginBottom: 14 }}>
                 <img
-                  src={`/nicchie/${principale.nicchia}.png`}
+                  src={principale.image_url || `/nicchie/${principale.nicchia}.png`}
                   alt={principale.nicchia_nome}
                   style={{ width: '100%', height: 260, objectFit: 'cover', display: 'block' }}
                 />
@@ -248,7 +249,7 @@ export default function Home({ articoli, articoliSearch }) {
                 return (
                   <div key={i} style={{ paddingBottom: 14, marginBottom: 14, borderBottom: i < secondari.length - 1 ? '1px solid #e5e5e5' : 'none', display: 'flex', gap: 10, alignItems: 'flex-start' }}>
                     <img
-                      src={`/nicchie/${art.nicchia}.png`}
+                      src={art.image_url || `/nicchie/${art.nicchia}.png`}
                       alt={art.nicchia_nome}
                       className="secondary-img"
                     />
@@ -274,7 +275,7 @@ export default function Home({ articoli, articoliSearch }) {
               <div key={i} style={{ borderRadius: 8, overflow: 'hidden', border: '1px solid #e5e5e5', background: '#fff' }}>
                 <div style={{ overflow: 'hidden' }}>
                   <img
-                    src={`/nicchie/${art.nicchia}.png`}
+                    src={art.image_url || `/nicchie/${art.nicchia}.png`}
                     alt={art.nicchia_nome}
                     className="card-img"
                   />

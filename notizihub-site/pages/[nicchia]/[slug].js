@@ -65,7 +65,8 @@ export async function getStaticProps({ params }) {
     if (data.slug === params.slug) {
       const tldr = parseTldr(content);
       const faqs = parseFaq(content);
-      const cleanContent = stripTldrMarkers(content);
+      // Strip TLDR markers and the first H1 (rendered separately in the template)
+      const cleanContent = stripTldrMarkers(content).replace(/^#\s+.+\n?/m, '');
       const processed = await remark().use(html).process(cleanContent);
       articolo = { ...data, contenuto: processed.toString(), tldr, faqs };
       break;

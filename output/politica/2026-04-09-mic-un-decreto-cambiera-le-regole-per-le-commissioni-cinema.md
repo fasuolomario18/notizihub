@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Decreto Mic 2026 riforma commissioni Cinema. Il governo modernizza le regole amministrative mentre il ministro Giuli riconosce le dimissioni di Vocca. Il Parlamento supervisiona i cambiamenti normativi nel settore audiovisivo italiano contemporaneo."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10945789/pexels-photo-10945789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: Le Nuove Regole per le Commissioni Cinema nel 2026

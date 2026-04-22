@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Tra caos e armonia, l’Inaf accende Roma e Foligno"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25300587/pexels-photo-25300587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Scienza e lo Spazio Protagonisti in Italia: INAF Accende Roma e Foligno ad Aprile 2026

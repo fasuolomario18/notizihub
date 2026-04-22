@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Uscire dai debiti richiede una strategia ben definita che parte dall'analisi della situazione finanziaria. Un prestito personale o un finanziamento mirato "
 tags: ["prestito personale", "finanziamento"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3943726/pexels-photo-3943726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

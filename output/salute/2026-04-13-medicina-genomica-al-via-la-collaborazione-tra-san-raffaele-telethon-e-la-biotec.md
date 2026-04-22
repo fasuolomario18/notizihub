@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Genomica e Nutrizione: Come la Medicina del Futuro Trasforma la Tua Dieta"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36317402/pexels-photo-36317402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Genomica e Nutrizione: Come la Medicina del Futuro Trasforma la Tua Dieta

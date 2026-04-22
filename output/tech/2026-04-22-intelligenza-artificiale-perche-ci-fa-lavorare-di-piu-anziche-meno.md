@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "L'intelligenza artificiale ci fa lavorare più intensamente: come smartphone e software stanno trasformando il nostro rapporto con il lavoro nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

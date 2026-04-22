@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18500640/pexels-photo-18500640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026

@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "5 modi per trarre vantaggio da un mercato azionario volatile - Morningstar"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6289026/pexels-photo-6289026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

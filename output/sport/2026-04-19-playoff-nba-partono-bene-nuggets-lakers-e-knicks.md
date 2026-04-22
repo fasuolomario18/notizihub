@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Playoff Nba: partono bene Nuggets, Lakers e Knicks"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35992416/pexels-photo-35992416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # NBA Playoff 2026: Nuggets, Lakers e Knicks Accendono i Riflettori - Analisi tra Serie A e Formula 1

@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Questi 3 giochi hanno ridefinito la grafica dei videogiochi per sempre"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7776168/pexels-photo-7776168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Tre Videogiochi che Hanno Ridefinito la Grafica su PS5, Xbox e PC Gaming nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Musica"
 meta_description: "Concerti 2026 in Italia: scopri tutte le date, gli artisti e le città. Guida completa agli eventi musicali, festival e album in uscita per un anno indimenticabile"
 tags: ["musica", "concerti", "album"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30777536/pexels-photo-30777536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Concerti 2026 in Italia: Le Date, i Cantanti e le Città Imperdibili dell'Anno

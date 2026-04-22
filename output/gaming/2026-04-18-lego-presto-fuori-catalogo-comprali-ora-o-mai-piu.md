@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Set LEGO in uscita dal catalogo nel 2026: guida all'acquisto per gamer su PS5, Xbox e PC gaming. Scopri quali mattoncini scompaiono e perché comprarli ora."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3928164/pexels-photo-3928164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Set LEGO in Uscita dal Catalogo: La Guida Completa per Gamer su PS5, Xbox e PC Gaming nel 2026

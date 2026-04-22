@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Ristorante Tosca Ticino: gastronomia italiana contemporanea e selezione vini. Esperienza culinaria che unisce tradizione, lirismo e eccellenza enogastronomica nel 2026."
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30716389/pexels-photo-30716389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ristorante Tosca: il lirismo italiano si ritrova nel piatto e nella cucina contemporanea

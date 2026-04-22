@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "Pixel 10 ora può far girare giochi Steam anche offline, ma non è ancora una console tascabile"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pixel 10 e il Gaming Android: Come Google Sfida iPhone (e le Console)

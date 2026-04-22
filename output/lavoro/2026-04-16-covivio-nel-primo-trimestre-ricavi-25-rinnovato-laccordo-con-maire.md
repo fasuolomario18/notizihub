@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Covivio, nel primo trimestre ricavi +2,5%, rinnovato l'accordo con Maire"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15392937/pexels-photo-15392937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi nel 2026: Come le Aziende Come Covivio Trasformano i Contratti di Lavoro

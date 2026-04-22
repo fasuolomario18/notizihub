@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Meloni al Papa, possa il suo viaggio in Africa portare la pace"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32421782/pexels-photo-32421782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Meloni al Papa: l'Italia costruisce un nuovo modello di cooperazione in Africa

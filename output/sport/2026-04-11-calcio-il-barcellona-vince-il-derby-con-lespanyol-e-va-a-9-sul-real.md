@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Barcellona vince il derby con l'Espanyol 4-1 e va a +9 sul Real Madrid nella Liga 2026. Analisi della prestazione blaugrana e implicazioni per il campionato spagnolo."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12605822/pexels-photo-12605822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Barcellona Domina il Derby Spagnolo: La Liga si Decide Ancora in Catalonia

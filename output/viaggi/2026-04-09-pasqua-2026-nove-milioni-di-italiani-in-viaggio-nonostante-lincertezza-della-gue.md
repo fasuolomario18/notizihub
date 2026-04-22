@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Pasqua 2026: Nove Milioni di Italiani in Viaggio Nonostante le Incertezze Globali"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36503543/pexels-photo-36503543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pasqua 2026: Nove Milioni di Italiani in Viaggio Nonostante le Incertezze Globali

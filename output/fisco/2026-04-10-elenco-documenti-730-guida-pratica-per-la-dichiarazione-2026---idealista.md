@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863281/pexels-photo-6863281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari

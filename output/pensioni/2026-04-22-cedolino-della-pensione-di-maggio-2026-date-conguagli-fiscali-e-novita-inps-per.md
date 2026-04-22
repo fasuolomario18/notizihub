@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Il cedolino della pensione di maggio 2026 sarà accreditato il 3 maggio per i titolari di conto corrente e il 5 maggio presso gli sportelli postali. A maggi"
 tags: ["pensione", "INPS"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545279/pexels-photo-7545279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

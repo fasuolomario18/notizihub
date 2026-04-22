@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "La Méhari ritorna su strada come auto elettrica grazie a eStory. Scopri questa icona rigenerata, gli incentivi auto disponibili e le opportunità nel mercato degli SUV green italiani del 2026."
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16040182/pexels-photo-16040182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica: la Leggendaria Méhari Ritorna su Strada Grazie a eStory

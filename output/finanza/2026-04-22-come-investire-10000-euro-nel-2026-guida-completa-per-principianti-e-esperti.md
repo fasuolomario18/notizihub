@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Nel 2026, investire 10.000 euro richiede una strategia consapevole che combini risparmio disciplinato e strumenti efficienti come gli ETF. La diversificazi"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8841712/pexels-photo-8841712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

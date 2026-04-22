@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Quota 97,6 2026: accesso alla pensione anticipata prima dei 62 anni. Scopri come presentare domanda INPS e i requisiti richiesti."
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545307/pexels-photo-7545307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione 2026: Quota 97,6 e le nuove opportunità per uscire dal lavoro prima dei 62 anni

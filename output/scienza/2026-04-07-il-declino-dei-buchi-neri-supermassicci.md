@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "I buchi neri supermassicci erano 10 volte più attivi 10 miliardi di anni fa. NASA scopre il declino cosmico analizzando 1,3 milioni di galassie con Chandra e XMM-Newton nel 2026."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35735906/pexels-photo-35735906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Declino dei Buchi Neri Supermassicci: La Rivelazione del "Mezzogiorno Cosmico"

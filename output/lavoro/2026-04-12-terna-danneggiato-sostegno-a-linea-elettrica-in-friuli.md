@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Terna, danneggiato sostegno a linea elettrica in Friuli"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7446628/pexels-photo-7446628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio: Come i Danni alle Infrastrutture Energetiche Impattano sul Mercato del Lavoro nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Il VST rivela cinque affascinanti galassie di Arp nel 2026. Scopri le immagini straordinarie dello spazio dall'Osservatorio di Paranal in Cile."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36782610/pexels-photo-36782610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sfogliando le Galassie di Arp con il VST: Le Straordinarie Immagini dello Spazio

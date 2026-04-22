@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "València Cuina Oberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17626642/pexels-photo-17626642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # València Cuina Oberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti

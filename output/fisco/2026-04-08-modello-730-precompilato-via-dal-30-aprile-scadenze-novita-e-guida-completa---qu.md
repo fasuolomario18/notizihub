@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Dichiarazione dei Redditi 2026: il Modello 730 Precompilato e le Scadenze da Non Perdere"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25300525/pexels-photo-25300525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dichiarazione dei Redditi 2026: il Modello 730 Precompilato e le Scadenze da Non Perdere

@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Ansia cumulativa globale nel 2026: strategie per proteggere la salute mentale dalle continue crisi mondiali. Scopri come gestire depressione e ansia."
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5427999/pexels-photo-5427999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ansia Cumulativa Globale: Come Proteggere la Salute Mentale dalle Continue Crisi Mondiali

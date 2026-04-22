@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensione aprile 2026: assegno in pagamento - informazionefiscale.it"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6487204/pexels-photo-6487204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione aprile 2026: assegno INPS in pagamento oggi

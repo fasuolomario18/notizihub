@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "AI Essentials: Il Primo Corso Gratuito di Intelligenza Artificiale Nasce a Firenze nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18069695/pexels-photo-18069695.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # AI Essentials: Il Primo Corso Gratuito di Intelligenza Artificiale Nasce a Firenze nel 2026

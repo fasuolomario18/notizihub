@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Il tasso di espansione dell'universo continua a dividersi tra misurazioni locali e osservazioni cosmiche nel 2026, confermando una tensione fondamentale nella cosmologia moderna."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9243538/pexels-photo-9243538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Espansione dell'Universo: la Misurazione che Divide gli Scienziati nel 2026

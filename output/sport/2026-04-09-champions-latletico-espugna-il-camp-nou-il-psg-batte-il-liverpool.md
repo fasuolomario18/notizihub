@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Atletico demolisce il Barcellona 2-0, PSG batte Liverpool 2-0 nei quarti Champions 2026. Andate decisive per accesso semifinali"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14363874/pexels-photo-14363874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Champions League 2026: Atletico e PSG domano gli avversari nei quarti di finale

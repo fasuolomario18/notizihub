@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Governo italiano: 60 dimissioni in 20 anni. Analisi della crisi di stabilità politica, cause strutturali e impatto sul parlamento e le elezioni 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32750014/pexels-photo-32750014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo Italiano: Oltre 60 Dimissioni in Due Decenni, Una Crisi Strutturale di Fiducia

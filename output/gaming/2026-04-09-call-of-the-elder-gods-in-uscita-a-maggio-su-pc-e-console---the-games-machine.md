@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Call of the Elder Gods esce a maggio 2026 su PS5, Xbox e PC. Scopri tutto sul nuovo horror cosmico che farà tremare i gamer."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9071736/pexels-photo-9071736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Call of the Elder Gods in uscita a maggio su PC e console: la guida completa

@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "INPS riconosce errori nei calcoli pensionistici: scopri se hai diritto a due anni di arretrati e come richiedere il rimborso secondo la nuova circolare"
 tags: ["pensione", "INPS"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545279/pexels-photo-7545279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

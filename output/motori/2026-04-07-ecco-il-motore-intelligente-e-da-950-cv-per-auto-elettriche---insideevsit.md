@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Ecco il motore intelligente (e da 950 CV) per auto elettriche - insideevs.it"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica: Il Motore Intelligente da 950 CV che Rivoluziona il Settore nel 2026

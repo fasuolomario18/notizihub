@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Presidente Meloni interviene all'Assemblea Nazionale Federalberghi ribadendo l'impegno del Governo per il turismo italiano nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32686048/pexels-photo-32686048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Turismo: L'intervento della Presidente Meloni all'Assemblea Nazionale di Federalberghi

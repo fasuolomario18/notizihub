@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Pendolarismo oltre 45 minuti aumenta ansia e depressione. Lo psicologo Paladini spiega i rischi per la salute mentale nel 2026"
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31529623/pexels-photo-31529623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pendolarismo e Stress: Quando il Tragitto Diventa Un Problema di Salute Mentale

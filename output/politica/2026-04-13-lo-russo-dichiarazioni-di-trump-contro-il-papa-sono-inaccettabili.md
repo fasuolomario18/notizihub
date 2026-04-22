@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Governo italiano solidale con Papa Francesco contro dichiarazioni Trump. Lo Russo condanna le critiche, ribadendo importanza pace e dialogo"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6638878/pexels-photo-6638878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo italiano: Lo Russo condanna le dichiarazioni di Trump contro il Papa

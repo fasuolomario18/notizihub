@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29509534/pexels-photo-29509534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi

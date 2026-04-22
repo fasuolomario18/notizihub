@@ -7,6 +7,7 @@ nicchia_nome: "Startup & Business"
 meta_description: "Neuroscienze, quali sono le quattro startup per la ricerca finanziate con quasi 3 milioni di euro da Mnesys?"
 tags: ["startup", "imprenditoria", "business"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414280/pexels-photo-7414280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Neuroscienze e Startup: Mnesys Finanzia 4 Progetti con 2,5 Milioni di Euro nel 2026

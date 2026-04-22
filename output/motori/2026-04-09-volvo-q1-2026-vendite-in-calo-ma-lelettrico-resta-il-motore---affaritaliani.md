@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Volvo Q1 2026: calo vendite ma auto elettrica e SUV guidano la strategia. Analisi incentivi e mercato italiano dell'auto sostenibile"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica e SUV: Analisi del Calo Vendite Volvo nel Q1 2026 e il Ruolo degli Incentivi

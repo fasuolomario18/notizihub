@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Stella con metallicità più bassa mai registrata scoperta vicino alla Grande Nube di Magellano. Studio su Nature Astronomy rivela corpo celeste primordiale a 80mila anni luce."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5876883/pexels-photo-5876883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Stella Più Pura dell'Universo: Una Scoperta Straordinaria Vicino alla Grande Nube di Magellano

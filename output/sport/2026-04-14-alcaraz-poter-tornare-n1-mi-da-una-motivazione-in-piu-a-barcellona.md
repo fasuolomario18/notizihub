@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Alcaraz a Barcellona 2026 punta al numero 1 mondiale. Lo spagnolo ottimista con Sinner rapporto eccellente. Motivazione massima nel torneo"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32285239/pexels-photo-32285239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Alcaraz e la sfida di Barcellona 2026: il cammino verso il numero 1 mondiale

@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Armatori siciliani, verso blocco dello Stretto di Messina il 1 maggio"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10901966/pexels-photo-10901966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Crisi dei Trasporti Marittimi: Come la Protesta dello Stretto di Messina Impatta sugli Stipendi e il Mercato del Lavoro nel 2026

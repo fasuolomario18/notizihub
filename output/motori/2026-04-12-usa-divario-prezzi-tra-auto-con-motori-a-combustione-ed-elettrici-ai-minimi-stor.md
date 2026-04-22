@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto Elettrica vs Motore a Combustione: il Divario Prezzi Scende ai Minimi Storici negli USA"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica vs Motore a Combustione: il Divario Prezzi Scende ai Minimi Storici negli USA

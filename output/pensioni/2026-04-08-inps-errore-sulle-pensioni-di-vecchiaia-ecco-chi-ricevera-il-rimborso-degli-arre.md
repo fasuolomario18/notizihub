@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8247921/pexels-photo-8247921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo

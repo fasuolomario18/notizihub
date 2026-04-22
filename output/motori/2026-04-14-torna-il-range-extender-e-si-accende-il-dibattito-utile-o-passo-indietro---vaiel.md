@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Range extender auto elettrica 2026: ritorno utile o compromesso? Scopri il dibattito su SUV ibridi, incentivi auto e la transizione verso la mobilità sostenibile"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154615/pexels-photo-37154615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Range Extender per Auto Elettrica: Ritorno al Futuro o Passo Indietro?

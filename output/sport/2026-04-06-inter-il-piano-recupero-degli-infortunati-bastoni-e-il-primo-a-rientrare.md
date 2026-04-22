@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "L'Inter svuota l'infermeria: Bastoni primo a rientrare. Il piano nerazzurro per recuperare l'organico entro fine anno e riprendere la lotta scudetto in Serie A."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34583/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Inter: il piano recupero degli infortunati, Bastoni primo a rientrare

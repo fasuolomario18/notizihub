@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Piano UE 2026 con smart working e sconti trasporti: come influenza la quota 103 e la pensione INPS in Italia oggi"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/221592/pexels-photo-221592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione e Piano UE Anti-Crisi: Come il Lavoro Smart Influenza la Quota 103 nel 2026

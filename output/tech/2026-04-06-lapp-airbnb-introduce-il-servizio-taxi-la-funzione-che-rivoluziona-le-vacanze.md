@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "L’app Airbnb introduce il servizio taxi: la funzione che rivoluziona le vacanze"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18999289/pexels-photo-18999289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # L'intelligenza artificiale trasforma Airbnb: arriva il servizio taxi integrato nello smartphone

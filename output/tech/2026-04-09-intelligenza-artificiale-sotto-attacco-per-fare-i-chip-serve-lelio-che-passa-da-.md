@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza artificiale sotto attacco nel 2026: l'elio per chip AI passa da Hormuz. Scopri come questa dipendenza geopolitica minaccia smartphone, laptop e dispositivi AI."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8566467/pexels-photo-8566467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale Sotto Attacco: La Vulnerabilità Dei Chip AI Nel 2026

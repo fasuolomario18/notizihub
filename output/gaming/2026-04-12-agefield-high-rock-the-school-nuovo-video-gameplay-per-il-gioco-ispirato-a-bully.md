@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Agefield High Rock the School torna in auge con nuovo gameplay video per PS5, Xbox e PC. Scopri i dettagli del gioco ispirato a Bully nel 2026."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7923286/pexels-photo-7923286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Agefield High Rock the School: il nuovo gameplay video che riporta in auge il clone di Bully su PS5, Xbox e PC

@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Premier Meloni al Vinitaly 2026: punto stampa governo, parlamento e agenda legislativa. Dichiarazioni su economia agricola e strategie politiche attuali nel panorama nazionale italiano"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28808360/pexels-photo-28808360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo, Parlamento e Elezioni: Il Punto Stampa di Meloni al Vinitaly 2026

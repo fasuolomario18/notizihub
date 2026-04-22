@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Il declino dei buchi neri supermassicci"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35735906/pexels-photo-35735906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Declino dei Buchi Neri Supermassicci: Una Scoperta Rivoluzionaria del 2026

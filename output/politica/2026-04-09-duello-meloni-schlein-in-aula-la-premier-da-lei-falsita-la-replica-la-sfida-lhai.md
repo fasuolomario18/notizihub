@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Acceso scontro tra Meloni e Schlein in Parlamento: accuse di falsità e controreplica sulla legittimità del governo nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7657274/pexels-photo-7657274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: il duro scontro tra Meloni e Schlein nell'Aula della Camera

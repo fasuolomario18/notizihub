@@ -7,6 +7,7 @@ nicchia_nome: "Università & Studio"
 meta_description: "Scopri come ottenere l'integrazione della borsa di studio Ersu Cagliari nel 2026. Requisiti, modalità di richiesta e criteri basati su esami e ISEE."
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17082393/pexels-photo-17082393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Borse di Studio Università: Come Ottenere l'Integrazione nel 2026

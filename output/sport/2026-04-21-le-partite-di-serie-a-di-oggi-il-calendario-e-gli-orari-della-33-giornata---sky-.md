@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Serie A 33ª giornata: calendario, orari e partite su Sky Sport. Tutte le informazioni per seguire il calcio italiano in diretta"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7002939/pexels-photo-7002939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

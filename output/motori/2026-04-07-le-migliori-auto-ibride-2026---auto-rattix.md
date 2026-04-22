@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Le Migliori Auto Ibride 2026: Guida Completa ai Modelli Più Efficienti"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le Migliori Auto Ibride 2026: Guida Completa ai Modelli Più Efficienti

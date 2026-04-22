@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Gestire il rischio negli investimenti e nel risparmio con ETF e diversificazione. Guida completa per investitori principianti e avanzati."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8919575/pexels-photo-8919575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

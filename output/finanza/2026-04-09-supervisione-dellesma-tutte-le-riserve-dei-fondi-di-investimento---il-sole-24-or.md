@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Supervisione Esma fondi investimento 2026: nuove riserve e implicazioni per risparmi e ETF. Guida completa alle nuove regole normative e strategie"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8353792/pexels-photo-8353792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Supervisione Esma sui Fondi di Investimento: Cosa Cambierà per i Tuoi Risparmi nel 2026

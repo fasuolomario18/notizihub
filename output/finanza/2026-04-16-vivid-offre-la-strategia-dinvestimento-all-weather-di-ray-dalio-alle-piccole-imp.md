@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Vivid lancia la strategia All Weather di Ray Dalio per le piccole imprese: accesso democratico agli ETF e al risparmio intelligente nel 2026."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34649070/pexels-photo-34649070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire con la strategia All Weather di Ray Dalio: il nuovo servizio Vivid per le piccole imprese

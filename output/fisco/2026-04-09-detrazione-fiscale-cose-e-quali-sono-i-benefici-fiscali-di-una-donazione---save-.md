@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Detrazione fiscale 2026: come ottenere benefici dalle donazioni nel 730 e dichiarazione redditi. Scopri limiti, procedure e vantaggi economici"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7111583/pexels-photo-7111583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Detrazione Fiscale: Come Ottenere Benefici Fiscali dalle Donazioni nella Dichiarazione dei Redditi 2026

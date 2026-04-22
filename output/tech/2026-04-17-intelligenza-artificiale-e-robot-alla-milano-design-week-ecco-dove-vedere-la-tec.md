@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Milano Design Week 2026: scopri intelligenza artificiale, robot avanzati, smartphone e laptop di nuova generazione. La tecnologia più innovativa in mostra"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16675632/pexels-photo-16675632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Robot alla Milano Design Week 2026: La Tecnologia più Avanzata in Mostra

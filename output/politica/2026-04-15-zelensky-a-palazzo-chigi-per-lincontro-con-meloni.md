@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Zelensky a Palazzo Chigi per l'incontro con Meloni"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35075571/pexels-photo-35075571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Zelensky a Palazzo Chigi: l'incontro strategico con Meloni per il futuro dell'Ucraina e dell'Europa

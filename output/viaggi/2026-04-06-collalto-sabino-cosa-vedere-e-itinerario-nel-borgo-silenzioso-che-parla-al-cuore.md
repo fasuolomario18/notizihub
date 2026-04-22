@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Collalto Sabino: cosa vedere e itinerario nel borgo silenzioso che parla al cuore"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14844168/pexels-photo-14844168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Collalto Sabino: Un'Oasi di Serenità a Pochi Passi da Roma per Vacanze Indimenticabili

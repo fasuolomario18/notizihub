@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Giorgetti illustra la strategia economica del governo nel 2026: ammette rallentamenti esogeni e promette revisione stime Pil, mantenendo speranza in miracoli economici italiani."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13778820/pexels-photo-13778820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Giorgetti e le prospettive economiche del governo nel 2026: cosa cambia per l'Italia

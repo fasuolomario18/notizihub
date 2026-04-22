@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Ansia cumulativa globale: come proteggere la salute mentale dalle continue crisi mondiali - My-personaltrainer"
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6990602/pexels-photo-6990602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ansia Cumulativa Globale: Come Proteggere la Salute Mentale dalle Continue Crisi Mondiali

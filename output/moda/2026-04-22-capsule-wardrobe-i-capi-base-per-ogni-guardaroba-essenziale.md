@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Capsule wardrobe: i capi base per ogni guardaroba"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36730643/pexels-photo-36730643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

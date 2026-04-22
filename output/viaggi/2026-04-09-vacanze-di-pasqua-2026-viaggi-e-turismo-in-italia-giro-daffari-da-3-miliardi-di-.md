@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Pasqua 2026: Vacanze in Italia al Picco, con Voli Low Cost e Hotel a Prezzi Competitivi"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6773086/pexels-photo-6773086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pasqua 2026: Vacanze in Italia al Picco, con Voli Low Cost e Hotel a Prezzi Competitivi

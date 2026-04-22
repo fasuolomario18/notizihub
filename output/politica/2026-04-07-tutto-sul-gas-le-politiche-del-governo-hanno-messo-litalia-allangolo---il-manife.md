@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Analisi delle critiche alle politiche governative sul gas nel 2026: come il governo italiano affronta la crisi energetica"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12585528/pexels-photo-12585528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Gas: Come le Politiche Energetiche Hanno Messo l'Italia in Difficoltà

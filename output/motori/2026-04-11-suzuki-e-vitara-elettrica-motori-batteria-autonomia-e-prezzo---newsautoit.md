@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Suzuki Vitara elettrica 2026: motori 140 kW, batteria 49 kWh, autonomia 320 km, prezzo da €32.500 con incentivi auto disponibili. Scopri caratteristiche e offerte."
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27083757/pexels-photo-27083757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Suzuki Vitara Elettrica 2026: Motori, Batteria, Autonomia e Prezzo Scontati

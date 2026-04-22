@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Partita IVA forfettaria: conviene aprirla?"
 tags: ["dichiarazione dei redditi", "tasse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5484739/pexels-photo-5484739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33086823/pexels-photo-33086823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova

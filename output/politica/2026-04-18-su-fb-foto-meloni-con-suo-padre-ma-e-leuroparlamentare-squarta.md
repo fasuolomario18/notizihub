@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "La foto di Meloni con l'europarlamentare Squarta scatena la crisi: governo e parlamento nel turbine della comunicazione digitale nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6977698/pexels-photo-6977698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: Meloni nella tempesta politica per foto falsificata su Facebook

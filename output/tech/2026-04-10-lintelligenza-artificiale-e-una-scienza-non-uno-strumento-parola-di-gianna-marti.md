@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "L'intelligenza artificiale è una scienza completa, non uno strumento. Scopri la visione di Gianna Martinengo e le implicazioni per smartphone e laptop nel 2026."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8386358/pexels-photo-8386358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # L'Intelligenza Artificiale è una Scienza, non uno Strumento: la Visione di Gianna Martinengo

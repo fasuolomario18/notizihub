@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Giorgetti vede Séjourné, 'regole Ue flessibili per impatti energia'"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7195545/pexels-photo-7195545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio: Come le Nuove Regole UE del 2026 Influenzano il Mercato del Lavoro Italiano

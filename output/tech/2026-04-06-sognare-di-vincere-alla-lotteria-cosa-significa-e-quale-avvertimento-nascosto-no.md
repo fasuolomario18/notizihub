@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Sognare di vincere alla lotteria: cosa significa e quale avvertimento nascosto non dovresti ignorare"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8721318/pexels-photo-8721318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Smartphone: Come la Tecnologia Sta Rivoluzionando i Sogni e le Previsioni della Lotteria

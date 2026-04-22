@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Mountain Clinic a Bolzano rivoluziona la medicina di montagna nel 2026. Scopri come dieta e alimentazione ottimale migliorano benessere e performance in alta quota."
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29991491/pexels-photo-29991491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Medicina di Montagna e Alimentazione: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere

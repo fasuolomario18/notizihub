@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensione autonomi: 120 euro annui per familiari a carico con Quota 103. Novità INPS 2026: requisiti, modalità richiesta e scadenze per beneficiare dell'incremento."
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30872356/pexels-photo-30872356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione: 120 euro in più l'anno per i familiari a carico con Quota 103

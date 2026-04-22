@@ -7,6 +7,7 @@ nicchia_nome: "Genitori & Figli"
 meta_description: "Educazione Figli: Quando l'Unschooling Diventa un Problema Legale"
 tags: ["educazione figli", "gravidanza", "neonato"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6274960/pexels-photo-6274960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Educazione Figli: Quando l'Unschooling Diventa un Problema Legale

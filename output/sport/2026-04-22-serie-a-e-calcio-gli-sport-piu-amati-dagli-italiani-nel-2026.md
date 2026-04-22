@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Quali sono gli sport più amati dagli italiani? Il calcio resta al primo posto, ma il tennis cresce - Ciociaria Oggi"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9071736/pexels-photo-9071736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

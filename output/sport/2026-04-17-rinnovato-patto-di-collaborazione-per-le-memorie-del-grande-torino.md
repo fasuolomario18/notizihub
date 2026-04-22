@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Rinnovato patto tra Torino, AFC e Circolo Soci per le Memorie del Grande Torino. Accordo storico per preservare il patrimonio calcistico italiano e la tradizione della Serie A nel 2026."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8795758/pexels-photo-8795758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A e Calcio Italiano: Il Torino Rinfresca l'Accordo sulle Memorie del Grande Torino

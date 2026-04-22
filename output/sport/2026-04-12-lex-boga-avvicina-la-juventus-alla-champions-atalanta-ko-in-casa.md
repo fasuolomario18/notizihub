@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "L'ex Boga avvicina la Juventus alla Champions, Atalanta ko in casa"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34688570/pexels-photo-34688570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A 2026: Juventus Conquista il Quarto Posto Grazie a Boga, Atalanta Cede in Casa

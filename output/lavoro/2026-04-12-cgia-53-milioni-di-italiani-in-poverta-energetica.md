@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Cgia, 5,3 milioni di italiani in povertà energetica"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33266/work-chinese-industrial-professional.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio: Come Proteggere il Tuo Curriculum dalla Crisi Energetica

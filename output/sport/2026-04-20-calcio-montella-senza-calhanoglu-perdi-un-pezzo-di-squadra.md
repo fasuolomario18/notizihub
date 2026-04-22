@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Montella spiega l'impatto psicologico dell'assenza di Calhanoglu sulla Serie A 2026. Il commissario turco: 'Perdi un pezzo di squadra, compagni meno sicuri'"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36866638/pexels-photo-36866638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Montella e il peso di Calhanoglu: come un assenza cambia la Serie A nel 2026

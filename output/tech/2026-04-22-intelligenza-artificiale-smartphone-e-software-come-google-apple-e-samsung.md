@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Google, Apple e Samsung stanno rivoluzionando i loro ecosistemi digitali integrando l'intelligenza artificiale nei loro smartphone e software. Queste innov"
 tags: ["intelligenza artificiale", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20870797/pexels-photo-20870797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

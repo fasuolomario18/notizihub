@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Nessuna atmosfera su Trappist-1b e Trappist-1c"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30596252/pexels-photo-30596252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Telescopio Webb Rivela l'Assenza di Atmosfera su Trappist-1b e Trappist-1c

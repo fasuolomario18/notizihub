@@ -7,6 +7,7 @@ nicchia_nome: "Startup & Business"
 meta_description: "Scopri le storie degli imprenditori italiani nel 2026: innovazione, visione strategica e le nuove sfide del business made in Italy che trasforma l'economia"
 tags: ["startup", "imprenditoria", "business"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414020/pexels-photo-7414020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Imprenditoria Italiana 2026: Startup e Innovazione Ridefiniscono il Business

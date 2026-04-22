@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Come liberare memoria su iPhone e Android: scopri i migliori metodi per ripulire il tuo smartphone e migliorare le prestazioni dell'app"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/215581/pexels-photo-215581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

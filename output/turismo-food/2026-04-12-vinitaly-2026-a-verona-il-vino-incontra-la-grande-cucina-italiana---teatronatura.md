@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Vinitaly 2026: scopri come vino e gastronomia italiana si incontrano a Verona. Ristoranti, cantine e chef stellati in un'edizione straordinaria del turismo enogastronomico"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36132810/pexels-photo-36132810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Vinitaly 2026: quando il vino incontra la grande cucina italiana a Verona

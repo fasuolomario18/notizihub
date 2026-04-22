@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Investire in ETF nel 2026: strategie per proteggere risparmi in tempi di incertezza economica. Guida completa alla diversificazione patrimoniale consapevole."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6758247/pexels-photo-6758247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in Tempi di Incertezza: Come Proteggere i Tuoi Risparmi con gli ETF nel 2026

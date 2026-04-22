@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Medicina Nucleare e Benessere: Come la Formazione Medica Influenza la Tua Alimentazione e la Tua Salute"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Medicina Nucleare e Benessere: Come la Formazione Medica Influenza la Tua Alimentazione e la Tua Salute

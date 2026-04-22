@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Inter domina Serie A: Thuram, Barella e Zielinski battono il Cagliari. Nerazzurri a +12 sul Napoli, scudetto sempre più vicino nella stagione 2025-2026"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31116595/pexels-photo-31116595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Inter Cala il Tris: Cagliari Battuto, Scudetto Serie A Sempre Più Vicino

@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Jaecoo 8 Shs-P ibrido super SUV 2026: tecnologia, incentivi auto e vantaggi ecologici per automobilisti italiani consapevoli"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36608910/pexels-photo-36608910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Jaecoo 8 Shs-P: Come l'Ibrido Diventa "Super" nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Crisi turismo 2026: guerre, disdette massiccee e assenza di sostegni colpiscono voli low cost, hotel e vacanze italiane. Analisi della situazione"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7009469/pexels-photo-7009469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Turismo in Crisi nel 2026: Voli Low Cost e Hotel Soffrono tra Guerre e Disdette Massicce

@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "InnoEX e Electronics Fair 2026: L'Intelligenza Artificiale Protagonista nelle Vetrine di Hong Kong"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18721086/pexels-photo-18721086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # InnoEX e Electronics Fair 2026: L'Intelligenza Artificiale Protagonista nelle Vetrine di Hong Kong

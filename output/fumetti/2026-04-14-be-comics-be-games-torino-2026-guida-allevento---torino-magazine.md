@@ -7,6 +7,7 @@ nicchia_nome: "Fumetti & Manga"
 meta_description: "Be Comics! Be Games! Torino 2026: la guida completa all'evento più atteso dai fan di manga e fumetti"
 tags: ["manga", "fumetti", "anime"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6654173/pexels-photo-6654173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Be Comics! Be Games! Torino 2026: la guida completa all'evento più atteso dai fan di manga e fumetti

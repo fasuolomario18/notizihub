@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Replaced di Sad Cat Studios su Xbox PS5 e PC: l'estetica anni '80 e la fantascienza si incontrano in questo capolavoro narrativo 2026"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4842494/pexels-photo-4842494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Replaced: il capolavoro retrò di Sad Cat Studios conquista Xbox, PS5 e PC nel 2026

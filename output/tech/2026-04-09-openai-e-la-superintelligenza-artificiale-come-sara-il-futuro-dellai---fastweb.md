@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "OpenAI e la Superintelligenza Artificiale: Il Futuro dell'Intelligenza Artificiale nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # OpenAI e la Superintelligenza Artificiale: Il Futuro dell'Intelligenza Artificiale nel 2026

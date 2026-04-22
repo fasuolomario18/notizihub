@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Starfield alla Gamescom 2026: scopri il rivoluzionario trailer su PS5, Xbox e PC gaming. Analisi tecnica, innovazioni e data di lancio attesa del 2026."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6125333/pexels-photo-6125333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Starfield alla Gamescom 2026: Il Nuovo Trailer Rivoluziona PS5, Xbox e PC Gaming

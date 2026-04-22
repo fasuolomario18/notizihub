@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Atalanta-Juventus di Serie A 2026: sfida decisiva per le posizioni europee tra due squadre con ambizioni diverse. Analisi tattica e importanza della posta in palio"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16679456/pexels-photo-16679456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Atalanta-Juventus: La Sfida Champions che Decide il Futuro della Serie A 2026

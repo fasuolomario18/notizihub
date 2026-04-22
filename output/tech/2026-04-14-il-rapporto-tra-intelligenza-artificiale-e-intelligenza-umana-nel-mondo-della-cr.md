@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "L'IA non sostituisce la creatività umana: MIR rimette la persona al centro nel 2026, rivoluzionando il rapporto tra intelligenza artificiale e intelligenza umana nel design e nella produzione creativa"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18500640/pexels-photo-18500640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Creatività Umana: Come MIR Rimette la Persona al Centro nel 2026

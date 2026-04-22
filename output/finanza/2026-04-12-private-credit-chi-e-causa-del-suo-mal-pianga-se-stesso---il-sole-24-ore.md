@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Private credit nel 2026: strategie di investimento consapevole, rischi gestibili e diversificazione intelligente tramite ETF per il risparmio italiano"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32641818/pexels-photo-32641818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Private Credit: Come Investire in Modo Consapevole nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Investire nel 2026: Vincitori e Perdenti del Primo Trimestre Difficile"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4160077/pexels-photo-4160077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire nel 2026: Vincitori e Perdenti del Primo Trimestre Difficile

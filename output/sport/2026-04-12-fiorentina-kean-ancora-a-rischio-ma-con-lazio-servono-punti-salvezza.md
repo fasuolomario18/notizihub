@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Fiorentina-Lazio: Kean a rischio, Parisi in dubbio, rientra Solomon. Viola cercano punti salvezza cruciali in Serie A 2026."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28812863/pexels-photo-28812863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Fiorentina: Kean ancora a rischio, ma con la Lazio servono i punti della salvezza

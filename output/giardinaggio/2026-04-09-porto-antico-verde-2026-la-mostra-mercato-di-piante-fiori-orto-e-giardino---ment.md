@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Porto Antico Verde 2026: la Mostra Mercato per Piante, Fiori, Orto e Giardino"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10419744/pexels-photo-10419744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Porto Antico Verde 2026: la Mostra Mercato per Piante, Fiori, Orto e Giardino

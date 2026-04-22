@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Migliori monitor 2K per PS5 e Xbox Series X|S (aprile 2026) - tomshw.it"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7915282/pexels-photo-7915282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

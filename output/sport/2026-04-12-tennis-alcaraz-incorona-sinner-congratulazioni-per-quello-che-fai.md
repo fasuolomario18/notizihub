@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Tennis: Alcaraz incorona Sinner 'congratulazioni per quello che fai'"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34399237/pexels-photo-34399237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Alcaraz Celebra Sinner nel 2026: Il Dominio del Tennis Contemporaneo tra Sunshine Double e Montecarlo

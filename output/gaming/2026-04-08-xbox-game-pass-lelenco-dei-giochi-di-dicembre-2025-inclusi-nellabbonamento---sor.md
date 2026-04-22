@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Xbox Game Pass 2026 offre centinaia di giochi su console, PC e cloud. Scopri le novità, i vantaggi e come scegliere tra Game Pass, PS5 e PC gaming."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4068701/pexels-photo-4068701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Xbox Game Pass 2026: I Titoli Più Attesi Inclusi Nell'Abbonamento

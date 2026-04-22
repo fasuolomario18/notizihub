@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "La Serie A 2026 tra crisi strutturale e eccellenze locali. Chivu sorride, Allegri sotto pressione, Spalletti cerca calma nel caos calcistico italiano contemporaneo"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25786050/pexels-photo-25786050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A in Crisi: Chivu Sorride mentre Allegri e Spalletti Affrontano le Sfide della Stagione 2026

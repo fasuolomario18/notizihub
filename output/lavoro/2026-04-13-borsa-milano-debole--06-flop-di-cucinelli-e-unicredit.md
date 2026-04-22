@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Borsa: Milano debole (-0,6%), flop di Cucinelli e Unicredit"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36874302/pexels-photo-36874302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi: Come la Crisi di Borsa del 13 Aprile 2026 Impatta le Carriere Italiane

@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7654180/pexels-photo-7654180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale

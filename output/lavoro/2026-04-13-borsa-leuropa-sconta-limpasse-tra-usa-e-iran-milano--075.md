@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Volatilità economica 2026: come smart working, curriculum strategico e negoziazione consapevole proteggono stipendi e carriera dei professionisti italiani"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34418452/pexels-photo-34418452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi: Come Affrontare l'Incertezza dei Mercati nel 2026

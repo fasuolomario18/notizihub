@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Fabregas e il Como spingono per salire in Serie A 2026. L'allenatore spagnolo dichiara: 'Innamorato di ciò che faccio qui'. Paragone con Wenger e ambizioni future nel calcio italiano."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29719229/pexels-photo-29719229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Fabregas e il Como: l'ambizione di un allenatore che sogna in grande nella Serie A 2026

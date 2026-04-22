@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "La riforma TUF 2026 trasforma il risparmio gestito italiano. Scopri come investire con ETF e fondi, con maggiore trasparenza sui costi e nuove opportunità."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32750014/pexels-photo-32750014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Riforma del TUF Cambia gli Assetti del Risparmio Gestito: Come Investire nel 2026

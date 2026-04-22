@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Il Paradosso di Darwin arriva su PS5, Xbox e PC nel 2026 con un'avventura folle e paradossale. Scopri il trailer e le caratteristiche del gioco più innovativo"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7047667/pexels-photo-7047667.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Paradosso di Darwin: L'Avventura Folle che Conquista PS5, Xbox e PC Gaming nel 2026

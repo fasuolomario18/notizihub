@@ -7,6 +7,7 @@ nicchia_nome: "Università & Studio"
 meta_description: "Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36374754/pexels-photo-36374754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura

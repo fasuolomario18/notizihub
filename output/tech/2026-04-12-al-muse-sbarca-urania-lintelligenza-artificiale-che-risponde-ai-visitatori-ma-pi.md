@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "UranIA al Muse: l'intelligenza artificiale che rivoluziona l'esperienza dei visitatori nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37148213/pexels-photo-37148213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # UranIA al Muse: l'intelligenza artificiale che rivoluziona l'esperienza dei visitatori nel 2026

@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "L'autostima bassa è spesso accompagnata da ansia e insicurezza. Scopri come migliorarla attraverso tecniche psicologiche pratiche e efficaci, dalla consape"
 tags: ["ansia", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7699372/pexels-photo-7699372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

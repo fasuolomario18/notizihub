@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Sanità territoriale disomogenea in FVG compromette l'accesso equo a consulenze nutrizionali. Scopri come la disomogeneità influisce su dieta, alimentazione e benessere dei cittadini nel 2026."
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36765499/pexels-photo-36765499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dieta e Alimentazione: Come la Sanità Territoriale Influisce sul Benessere in Friuli Venezia Giulia nel 2026

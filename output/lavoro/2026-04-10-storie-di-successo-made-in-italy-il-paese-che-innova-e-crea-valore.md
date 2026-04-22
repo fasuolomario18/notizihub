@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Storie di Successo Made in Italy, il Paese che innova e crea valore"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4872061/pexels-photo-4872061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working, Stipendio e Curriculum: Come l'Italia Innova nel Mondo del Lavoro

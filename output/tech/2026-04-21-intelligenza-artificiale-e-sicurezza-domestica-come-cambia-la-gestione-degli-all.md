@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Intelligenza artificiale rivoluziona la sicurezza domestica con software smart, controllo smartphone e monitoraggio predittivo 24/7"
 tags: ["intelligenza artificiale", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18500640/pexels-photo-18500640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

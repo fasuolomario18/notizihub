@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Fattori di rischio del lutto prolungato"
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10990167/pexels-photo-10990167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Fattori di Rischio del Lutto Prolungato: Quando il Dolore Diventa Patologia

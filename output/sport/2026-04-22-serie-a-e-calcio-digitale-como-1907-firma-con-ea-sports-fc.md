@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Como 1907 firma con EA Sports FC: la partnership che rivoluziona la Serie A con l'accordo European Football Clubs nel calcio digitale italiano"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6951875/pexels-photo-6951875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

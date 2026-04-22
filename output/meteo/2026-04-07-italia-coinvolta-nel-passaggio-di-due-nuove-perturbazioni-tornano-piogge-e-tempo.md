@@ -7,6 +7,7 @@ nicchia_nome: "Meteo"
 meta_description: "Meteo Italia: due perturbazioni portano piogge, temporali e calo termico. Previsioni attuali su temperature e fenomeni. Leggi l'analisi dettagliata."
 tags: ["meteo", "previsioni", "temperature"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4594611/pexels-photo-4594611.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Meteo Italia: Due Perturbazioni in Arrivo, Ritornano Piogge e Temporali ad Aprile 2026

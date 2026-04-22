@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Bmti, in aumento le produzioni primaverili, giù del 27,9% i prezzi degli asparagi"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33009099/pexels-photo-33009099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi: Come le Produzioni Primaverili Stanno Rivoluzionando il Mercato del Lavoro Agricolo nel 2026

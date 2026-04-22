@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "LEGO sotto 10 euro: set creativi e accessibili nel 2026 per tutte le età. Animali, città e universi fantastici a prezzi imbattibili"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19916223/pexels-photo-19916223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # LEGO Sotto i 10 Euro: Creatività Senza Limiti nel 2026

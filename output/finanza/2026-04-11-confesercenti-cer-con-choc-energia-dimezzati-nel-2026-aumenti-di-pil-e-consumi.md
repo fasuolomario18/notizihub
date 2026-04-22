@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Confesercenti-Cer, con choc energia dimezzati nel 2026 aumenti di pil e consumi"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18859349/pexels-photo-18859349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Investire nel 2026 tra Costi Energetici Dimezzati e Ripresa Economica

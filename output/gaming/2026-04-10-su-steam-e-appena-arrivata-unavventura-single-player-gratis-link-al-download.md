@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Su Steam è disponibile gratuitamente una colorata avventura single player. Scopri come scaricarla e perché rappresenta un'eccellente occasione per i gamer PC nel 2026"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12670694/pexels-photo-12670694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Steam regala un'avventura single player gratuita: la guida completa per PC gaming nel 2026

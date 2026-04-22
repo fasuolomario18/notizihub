@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Riscatta gratis una simulazione apprezzata su PS5, Xbox e PC oggi 12 aprile 2026. Scopri come ottenerla e tutti i dettagli del gioco."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30945674/pexels-photo-30945674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Giochi Gratis: Riscatta Ora la Simulazione su PS5, Xbox e PC

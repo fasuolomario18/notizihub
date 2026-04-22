@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Papa Angola: la qualità di un governo si misura da come protegge i fragili e gli anziani. Il messaggio del Santo Padre al governo e al parlamento nel 2026."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17057070/pexels-photo-17057070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Papa in Angola: come la cura dei fragili rappresenta la qualità di un governo

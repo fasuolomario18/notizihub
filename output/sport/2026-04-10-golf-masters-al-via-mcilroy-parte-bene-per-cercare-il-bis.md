@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Masters 2026 ad Augusta National: McIlroy insegue il bis come favorito. Sfida aperta tra i campioni del golf mondiale nel primo major della stagione."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6542426/pexels-photo-6542426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Masters 2026: McIlroy insegue il bis ad Augusta, sfida tra campioni nel primo major della stagione

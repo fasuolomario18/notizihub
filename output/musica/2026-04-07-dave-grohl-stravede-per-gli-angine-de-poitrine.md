@@ -7,6 +7,7 @@ nicchia_nome: "Musica"
 meta_description: "Dave Grohl stravede per gli Angine de Poitrine"
 tags: ["musica", "concerti", "album"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19489098/pexels-photo-19489098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dave Grohl stravede per gli Angine de Poitrine: il tributo rock che conquista i Foo Fighters

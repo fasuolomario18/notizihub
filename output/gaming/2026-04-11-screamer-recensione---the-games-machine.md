@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Screamer: La Recensione Completa su The Games Machine – PS5, Xbox e PC Gaming nel 2026"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4842494/pexels-photo-4842494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Screamer: La Recensione Completa su The Games Machine – PS5, Xbox e PC Gaming nel 2026

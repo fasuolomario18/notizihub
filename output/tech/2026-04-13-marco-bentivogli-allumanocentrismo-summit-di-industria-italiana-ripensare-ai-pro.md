@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8386358/pexels-photo-8386358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale

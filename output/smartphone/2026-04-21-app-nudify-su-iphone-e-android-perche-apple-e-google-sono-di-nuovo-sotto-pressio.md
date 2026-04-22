@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "App nudify su iPhone e Android eludono i controlli di Apple e Google. Scopri perché le piattaforme affrontano pressioni crescenti e le strategie di contrasto al deepfake intimo."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/89955/pexels-photo-89955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

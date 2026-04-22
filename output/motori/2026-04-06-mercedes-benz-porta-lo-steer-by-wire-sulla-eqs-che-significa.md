@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Mercedes EQS 2026: Steer-by-Wire di serie su auto elettrica premium. Scopri come funziona il nuovo sterzo elettronico, i vantaggi e il design interno rivoluzionario"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12066299/pexels-photo-12066299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mercedes EQS con Steer-by-Wire: la rivoluzione dello sterzo elettronico arriva nel 2026

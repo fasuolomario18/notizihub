@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Come combattere l'ansia senza farmaci"
 tags: ["ansia", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5491062/pexels-photo-5491062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "Scopri le migliori app per riconoscere piante e fiori con iPhone e Android nel 2026. PlantSnap, PictureThis, iNaturalist: confronto completo e dettagliato."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/89955/pexels-photo-89955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le migliori app per riconoscere piante e fiori con iPhone e Android nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Detrazione interessi mutuo nel Modello 730/2026: guida completa sui limiti, requisiti e modalità di compilazione della dichiarazione dei redditi per proprietari di immobili."
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863335/pexels-photo-6863335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dichiarazione dei redditi 2026: Come portare in detrazione gli interessi passivi del mutuo nel Modello 730

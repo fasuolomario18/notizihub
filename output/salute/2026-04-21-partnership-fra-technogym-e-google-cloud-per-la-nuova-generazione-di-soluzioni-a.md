@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Dieta personalizzata, benessere olistico e prevenzione con l'AI di Technogym e Google Cloud. Scopri come l'intelligenza artificiale rivoluziona la salute preventiva nel 2026."
 tags: ["dieta", "benessere", "prevenzione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36765499/pexels-photo-36765499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

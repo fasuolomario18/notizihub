@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6889999/pexels-photo-6889999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026

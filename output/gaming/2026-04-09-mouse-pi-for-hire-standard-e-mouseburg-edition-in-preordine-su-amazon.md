@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Mouse P.I. For Hire arriva in preordine su Amazon con Standard e Mouseburg Edition. Scopri prezzi, piattaforme (PS5, Xbox, PC) e contenuti esclusivi."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33475144/pexels-photo-33475144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mouse P.I. For Hire: il nuovo sparatutto irriverente arriva in preordine su Amazon per PS5, Xbox e PC

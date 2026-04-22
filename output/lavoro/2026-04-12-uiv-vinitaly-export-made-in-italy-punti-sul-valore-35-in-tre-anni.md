@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Opportunità di carriera nel vino italiano in crescita nel 2026. Smart working, stipendi competitivi e rotte verso Giappone, Messico e Cina."
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27849405/pexels-photo-27849405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Nuove Opportunità di Carriera nel Settore Vinicolo Made in Italy

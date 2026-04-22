@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Alimentaria 2026, dentro la fiera che racconta il futuro del cibo (tra proteine, scarti e tecnologia)"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37142972/pexels-photo-37142972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Alimentaria 2026: Come i Ristoranti e la Gastronomia Italiana si Reinventano tra Innovazione e Tradizione

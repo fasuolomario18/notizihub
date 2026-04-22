@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "La Terra formata esclusivamente da materiali del Sistema solare interno: la rivoluzionaria scoperta dell'ETH Zurigo nel 2026 smentisce le teorie precedenti su acqua e volatili"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30596216/pexels-photo-30596216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La Terra si è formata solo dal Sistema solare interno: lo rivela uno studio scientifico del 2026

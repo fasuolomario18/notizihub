@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "De Laurentiis esalta Conte come gran motivatore: il secondo scudetto del Napoli è un thriller della Serie A 2026, con strategie simili alla Formula 1"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33095503/pexels-photo-33095503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # De Laurentiis e il secondo scudetto del Napoli: quando il calcio diventa un thriller come la Formula 1

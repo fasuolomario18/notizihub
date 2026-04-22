@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Renzi sfida Salis sulle primarie mentre M5S e Pd cercano l'unità. Italia Viva costruisce alleanze programmatiche con i riformisti. Analisi delle tensioni nel centrosinistra 2026."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4604641/pexels-photo-4604641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: le tensioni sulle elezioni dividono il centrosinistra

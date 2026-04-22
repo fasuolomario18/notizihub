@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Data Center a Milano: Come Investire nel Boom dell'Infrastruttura Digitale"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Data Center a Milano: Come Investire nel Boom dell'Infrastruttura Digitale

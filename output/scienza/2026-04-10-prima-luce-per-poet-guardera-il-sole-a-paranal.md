@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Prima luce per Poet: guarderà il Sole a Paranal"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8533138/pexels-photo-8533138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # POET: Il Nuovo Telescopio Solare dell'ESO che Rivoluziona la Ricerca di Pianeti Extrasolari

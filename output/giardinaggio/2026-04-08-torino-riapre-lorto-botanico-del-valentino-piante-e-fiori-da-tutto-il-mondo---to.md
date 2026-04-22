@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "L'Orto Botanico del Valentino riapre a Torino nel 2026: scopri piante e fiori da tutto il mondo in questo giardino botanico straordinario"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16285476/pexels-photo-16285476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # L'Orto Botanico del Valentino di Torino riapre: un giardino straordinario con piante e fiori da tutto il mondo

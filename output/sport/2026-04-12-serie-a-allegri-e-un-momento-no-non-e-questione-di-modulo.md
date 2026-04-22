@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Milan in crisi con Allegri: 'Non è modulo, serve lucidità e ordine' nella Serie A 2026. Analisi della situazione rossonera"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25786050/pexels-photo-25786050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Allegri e il Milan in crisi: "Momento no, servono ordine e lucidità" - Serie A 2026

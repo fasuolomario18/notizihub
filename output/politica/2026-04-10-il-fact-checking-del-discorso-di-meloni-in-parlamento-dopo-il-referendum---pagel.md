@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Analisi del fact-checking di Pagella Politica sul discorso di Meloni in Parlamento dopo il referendum. Verifica dei dati, interpretazioni politiche e dinamiche governative nel dibattito parlamentare italiano di aprile 2026."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29131376/pexels-photo-29131376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: Il Fact-Checking del Discorso di Meloni dopo il Referendum

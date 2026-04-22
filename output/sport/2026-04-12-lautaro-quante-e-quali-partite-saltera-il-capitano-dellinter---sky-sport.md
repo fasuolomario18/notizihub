@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Lautaro Martinez salterà 4-6 partite. Ecco quando tornerà il capitano dell'Inter e come cambierà il gioco di Inzaghi nella Serie A 2026."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29719237/pexels-photo-29719237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Lautaro Martinez, le partite che salterà il capitano dell'Inter: analisi e calendario 2026

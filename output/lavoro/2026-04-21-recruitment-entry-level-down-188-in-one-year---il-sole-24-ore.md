@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Recruitment entry level cala del 18,8%. Scopri come affrontare la contrazione con smart working, strategie salariali e un curriculum vincente."
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25284371/pexels-photo-25284371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

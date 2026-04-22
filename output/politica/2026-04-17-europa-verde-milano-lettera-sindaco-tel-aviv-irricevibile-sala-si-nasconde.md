@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Dibattito su politica estera italiana nel 2026: governo e parlamento si confrontano sulle posizioni verso Israele e il Medio Oriente"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36700298/pexels-photo-36700298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo, Parlamento e il Dibattito sulla Politica Estera verso Israele: Lo Scontro di Europa Verde

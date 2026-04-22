@@ -7,6 +7,7 @@ nicchia_nome: "Moda & Stile"
 meta_description: "Le 10 Tendenze Moda Più Forti della Primavera Estate 2026 Viste in Sfilata"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/753325/pexels-photo-753325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le 10 Tendenze Moda Più Forti della Primavera Estate 2026 Viste in Sfilata

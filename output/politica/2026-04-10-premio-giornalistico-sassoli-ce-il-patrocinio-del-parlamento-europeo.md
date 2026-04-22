@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Premio giornalistico Sassoli, c'è il patrocinio del Parlamento europeo"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13278344/pexels-photo-13278344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo, Parlamento e Elezioni: Il Ruolo dei Premi Giornalistici nel Dibattito Politico Italiano 2026

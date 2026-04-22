@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "HYROX in Virgin Active: scopri come il fitness racing rivoluziona dieta, benessere e prevenzione delle malattie. Leggi i consigli degli esperti."
 tags: ["dieta", "benessere", "prevenzione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36376081/pexels-photo-36376081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

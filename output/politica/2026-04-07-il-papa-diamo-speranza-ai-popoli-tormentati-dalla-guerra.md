@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Il Papa chiede ai governi di dare speranza ai popoli in guerra. L'appello impegna il Parlamento italiano nel 2026 su elezioni, politiche umanitarie e pace globale."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/26975930/pexels-photo-26975930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento di fronte all'Appello del Papa: la Speranza come Priorità Politica nel 2026

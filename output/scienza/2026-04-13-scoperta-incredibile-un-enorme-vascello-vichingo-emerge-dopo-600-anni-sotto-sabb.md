@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Scoperta sorprendente: enorme vascello vichingo emerge dopo 600 anni sotto sabbia. Tecnologie NASA rivoluzionano l'archeologia moderna nel 2026, unendo scienza spaziale e ricerca storica."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7722871/pexels-photo-7722871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Scoperta Straordinaria: Emerge un Antico Vascello Vichingo dopo 600 Anni di Sepoltura Sabbiosa

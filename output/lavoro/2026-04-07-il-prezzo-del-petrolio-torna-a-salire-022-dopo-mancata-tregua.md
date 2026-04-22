@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Il prezzo del petrolio torna a salire (+0,22%) dopo mancata tregua"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37129530/pexels-photo-37129530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi: Come il Rialzo del Petrolio Impatta sulla Tua Carriera nel 2026

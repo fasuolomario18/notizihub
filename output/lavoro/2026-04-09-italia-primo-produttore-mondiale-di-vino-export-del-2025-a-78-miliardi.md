@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Italia primo produttore mondiale di vino, export del 2025 a 7,8 miliardi"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16430460/pexels-photo-16430460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi nel Settore Vinicolo: Come il Boom dell'Export Trasforma il Mercato del Lavoro

@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Inps, altro errore sulle pensioni di vecchiaia. Ora scattano arretrati e interessi - la Repubblica"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34482315/pexels-photo-34482315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # INPS: Ennesimo Errore sulle Pensioni di Vecchiaia nel 2026, Scattano Arretrati e Interessi

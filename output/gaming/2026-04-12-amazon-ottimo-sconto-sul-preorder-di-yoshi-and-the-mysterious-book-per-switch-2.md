@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Yoshi and the Mysterious Book in offerta preorder Amazon: sconto imperdibile su Switch 2 per il ritorno del dinosauro Nintendo più amato del 2026"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15592023/pexels-photo-15592023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Yoshi and the Mysterious Book su Amazon: Lo Sconto Imperdibile per Switch 2 nel 2026

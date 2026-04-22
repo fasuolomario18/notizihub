@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Nel 2026, 1.100 comuni non raggiungono standard riscossione, 21 miliardi persi. Effetto domino su INPS e quota 103: come il caos amministrativo locale minaccia le pensioni italiane."
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30391273/pexels-photo-30391273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensioni e riscossioni: il caos nelle casse comunali mette a rischio l'INPS nel 2026

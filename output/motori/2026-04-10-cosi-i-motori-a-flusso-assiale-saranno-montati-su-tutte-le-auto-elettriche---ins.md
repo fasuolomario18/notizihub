@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Motori a Flusso Assiale: La Rivoluzione che Cambierà Tutte le Auto Elettriche"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37143217/pexels-photo-37143217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Motori a Flusso Assiale: La Rivoluzione che Cambierà Tutte le Auto Elettriche

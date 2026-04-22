@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Conte riunisce il campo largo con primarie non divisive. Sondaggi vedono Schlein in testa, centrosinistra avanti. Governo e Parlamento italiani verso nuovo assetto"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/26975930/pexels-photo-26975930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Elezioni: Conte Riunisce il Campo Largo, il Parlamento Italiano Tra Primarie e Sondaggi

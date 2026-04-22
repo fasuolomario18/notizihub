@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Sport italiano 2026: il Governo riconosce valore educativo agli Azzurri. Serie A, Formula 1 e sci alpino nel progetto di società."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29306749/pexels-photo-29306749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A e Sport Italiano: Il Riconoscimento del Governo Meloni agli Azzurri di Milano-Cortina 2026

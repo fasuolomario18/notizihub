@@ -7,6 +7,7 @@ nicchia_nome: "Università & Studio"
 meta_description: "Università e Borse di Studio: Ebat Ciala Catania Finanzia gli Studenti di Viticoltura al Vinitaly 2026"
 tags: ["università", "borse di studio", "esami"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11010068/pexels-photo-11010068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Università e Borse di Studio: Ebat Ciala Catania Finanzia gli Studenti di Viticoltura al Vinitaly 2026

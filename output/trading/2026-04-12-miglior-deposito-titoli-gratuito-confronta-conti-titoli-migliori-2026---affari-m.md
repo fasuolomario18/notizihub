@@ -7,6 +7,7 @@ nicchia_nome: "Trading Online"
 meta_description: "Miglior Deposito Titoli Gratuito: Confronta i Conti Titoli Migliori nel 2026"
 tags: ["trading", "azioni", "borsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5833263/pexels-photo-5833263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Miglior Deposito Titoli Gratuito: Confronta i Conti Titoli Migliori nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "730 Precompilato 2026: Cos'è e Come Scaricarlo per la Dichiarazione dei Redditi"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27641162/pexels-photo-27641162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # 730 Precompilato 2026: Cos'è e Come Scaricarlo per la Dichiarazione dei Redditi

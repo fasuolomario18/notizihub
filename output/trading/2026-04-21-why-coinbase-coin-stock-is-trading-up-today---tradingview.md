@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri perché Coinbase (COIN) sta salendo in borsa. Analisi completa del trading online, fattori di mercato e strategie per trader italiani esperti."
 tags: ["trading", "azioni", "borsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19825348/pexels-photo-19825348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

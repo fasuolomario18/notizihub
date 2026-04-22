@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "EGO Food Fest 2026 trasforma Taranto in capitale gastronomica del Mediterraneo. Scopri i migliori ristoranti, vini pugliesi e proposte enogastronomiche internazionali dell'evento."
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5864746/pexels-photo-5864746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # EGO Food Fest 2026: Taranto Diventa Capitale della Gastronomia Mediterranea e Internazionale

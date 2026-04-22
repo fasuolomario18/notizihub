@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Tensioni nel Veronese durante manifestazione. Governo blocca attivisti, parlamento chiede chiarimenti. Dibattito su diritti civili e ordine pubblico nell'Italia del 2026."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27966047/pexels-photo-27966047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento affrontano nuove sfide sulle libertà civili: tensioni nel Veronese per manifestazione

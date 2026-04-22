@@ -7,6 +7,7 @@ nicchia_nome: "Startup & Business"
 meta_description: "Startup e Imprenditoria: Come Roma, Milano e Torino Stanno Ridefinendo l'Innovazione nel 2026"
 tags: ["startup", "imprenditoria", "business"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Startup e Imprenditoria: Come Roma, Milano e Torino Stanno Ridefinendo l'Innovazione nel 2026

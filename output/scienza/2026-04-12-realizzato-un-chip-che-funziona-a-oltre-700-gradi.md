@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Chip grafene a 700 gradi: rivoluzione NASA e spazio 2026. Scopri come la University of Southern California trasforma l'esplorazione planetaria con i memristori."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12489164/pexels-photo-12489164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Chip Grafene Supera 700 Gradi: La Rivoluzione Tecnologica del 2026

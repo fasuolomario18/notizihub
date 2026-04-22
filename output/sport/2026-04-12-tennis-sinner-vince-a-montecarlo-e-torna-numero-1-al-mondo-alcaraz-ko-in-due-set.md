@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Sinner numero 1 mondiale dopo vittoria Montecarlo. Analisi su Serie A, Formula 1 e tennis italiano nel 2026. Eccellenza sportiva e mentalità vincente."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36231030/pexels-photo-36231030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A, Formula 1 e Tennis: il panorama dello sport italiano nel 2026

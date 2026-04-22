@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12476798/pexels-photo-12476798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati

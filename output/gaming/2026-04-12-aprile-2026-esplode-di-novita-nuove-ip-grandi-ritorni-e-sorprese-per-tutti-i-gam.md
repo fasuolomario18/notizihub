@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33061113/pexels-photo-33061113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese

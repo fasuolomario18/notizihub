@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Maggio esplosivo per i collezionisti Pokémon: arrivano Caos Nascente e il set giapponese di Darkrai! #AD"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9072269/pexels-photo-9072269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PS5, Xbox e PC Gaming: Maggio 2026 porta novità imperdibili per i collezionisti Pokémon

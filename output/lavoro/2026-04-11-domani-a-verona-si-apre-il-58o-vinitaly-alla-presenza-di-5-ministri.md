@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Domani a Verona si apre il 58/o Vinitaly alla presenza di 5 ministri"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36799912/pexels-photo-36799912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working, Stipendi e Opportunità di Carriera: Il Vinitaly 2026 Apre le Porte a Migliaia di Professionisti

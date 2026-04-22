@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza artificiale in aula sì, ma seguendo regole precise. Harvard propone linee guida per uso responsabile di IA, smartphone e laptop nell'educazione"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19825349/pexels-photo-19825349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale in Aula: Sì, ma con Regole Precise secondo Harvard

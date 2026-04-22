@@ -7,6 +7,7 @@ nicchia_nome: "Fisco & Tasse"
 meta_description: "Dichiarazione dei Redditi 2026: Detrazioni sulle Tasse, Come Calcolarle e Quali Sono"
 tags: ["dichiarazione dei redditi", "730", "partita IVA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16600134/pexels-photo-16600134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dichiarazione dei Redditi 2026: Detrazioni sulle Tasse, Come Calcolarle e Quali Sono

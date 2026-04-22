@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Family office e governance nelle strategie: come investire in ETF e proteggere il risparmio nel 2026 con strutture organizzative trasparenti"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27177632/pexels-photo-27177632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in Family Office: Come la Governance Rivoluziona le Strategie di Risparmio nel 2026

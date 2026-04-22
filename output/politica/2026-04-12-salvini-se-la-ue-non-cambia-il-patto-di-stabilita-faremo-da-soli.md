@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Salvini chiede cambio Patto Stabilità UE: nel 2026 governo sfida Bruxelles sulle regole fiscali che limitano gli aiuti agli italiani in difficoltà economica."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27849824/pexels-photo-27849824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Patto di Stabilità: Salvini chiede cambiamenti alle regole UE nel 2026

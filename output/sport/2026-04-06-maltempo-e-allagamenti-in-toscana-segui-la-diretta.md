@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Tempesta Ciaran colpisce Toscana: rinvii Serie A e Formula 1, sei morti e alluvioni. Segui la diretta dell'emergenza meteo e le operazioni di soccorso."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28648559/pexels-photo-28648559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A e Formula 1 Rinviate per il Maltempo in Toscana: Emergenza Alluvioni e Danni

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Scopri i 10 titoli USA a sconto con moat elevato nel 2026. Strategie di investimento, ETF e risparmio per costruire portafogli solidi nel mercato americano"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in Titoli USA a Sconto: Le 10 Migliori Opportunità con Moat Elevato nel 2026

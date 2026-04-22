@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Scatta il Rimborso degli Arretrati con Quota 103"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9940307/pexels-photo-9940307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensioni Dipendenti Pubblici: INPS Ammette Errori e Scatta il Rimborso degli Arretrati con Quota 103

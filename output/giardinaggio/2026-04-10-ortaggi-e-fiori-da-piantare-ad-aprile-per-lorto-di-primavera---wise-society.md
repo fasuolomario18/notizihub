@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Ortaggi e Fiori da Piantare ad Aprile: Guida Completa per l'Orto di Primavera 2026"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7658782/pexels-photo-7658782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Ortaggi e Fiori da Piantare ad Aprile: Guida Completa per l'Orto di Primavera 2026

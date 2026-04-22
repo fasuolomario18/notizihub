@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Cosa Piantare ad Aprile 2026 per un Giardino Primaverile Rigoglioso e un Orto Davvero Produttivo"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7466975/pexels-photo-7466975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cosa Piantare ad Aprile 2026 per un Giardino Primaverile Rigoglioso e un Orto Davvero Produttivo

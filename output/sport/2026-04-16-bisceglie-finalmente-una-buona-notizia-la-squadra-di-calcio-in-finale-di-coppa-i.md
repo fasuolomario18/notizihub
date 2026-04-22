@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Bisceglie raggiunge la finale della Coppa Italia di Eccellenza 2026 e vede concretamente la promozione in Serie D. Una storia di successo calcistico"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32522199/pexels-photo-32522199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A, Calcio e le Grandi Ambizioni del Bisceglie nel 2026

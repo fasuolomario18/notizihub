@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Aprile 2026: i migliori giochi gratuiti su PlayStation Plus per PS5. Scopri la lineup completa e confronta con Xbox e PC gaming."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33350512/pexels-photo-33350512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PS5 e PlayStation Plus: Aprile 2026 Porta Giochi Incredibili in Abbonamento

@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Cosa accade al cervello senza social per 3 giorni? Scopri gli effetti sulla ansia, depressione e psicologia secondo gli studi del 2026"
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7176053/pexels-photo-7176053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cosa succede al cervello dopo 3 giorni senza social: la ricerca psicologica del 2026

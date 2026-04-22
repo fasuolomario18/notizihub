@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Vacanze Pasqua 2026 in Italia: scopri come trovare voli low cost e hotel convenienti. Giro d'affari da 3 miliardi euro."
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29794368/pexels-photo-29794368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Vacanze di Pasqua 2026: Come Trovare Voli Low Cost e Hotel Convenienti per il Tuo Viaggio in Italia

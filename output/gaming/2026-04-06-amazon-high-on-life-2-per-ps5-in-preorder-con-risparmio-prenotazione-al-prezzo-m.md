@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Amazon: High on Life 2 per PS5 in preorder con Risparmio Prenotazione al prezzo minimo"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5208874/pexels-photo-5208874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # High on Life 2 per PS5 in Preorder su Amazon: Tutti i Dettagli dell'Offerta

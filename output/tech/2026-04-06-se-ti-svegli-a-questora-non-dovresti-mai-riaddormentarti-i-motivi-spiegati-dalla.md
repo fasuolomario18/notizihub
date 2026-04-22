@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Se ti svegli a quest’ora, non dovresti MAI riaddormentarti: i motivi spiegati dalla scienza"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Svegliarsi Prima della Sveglia: Come l'Intelligenza Artificiale e gli Smartphone Stanno Rivoluzionando il Nostro Sonno nel 2026

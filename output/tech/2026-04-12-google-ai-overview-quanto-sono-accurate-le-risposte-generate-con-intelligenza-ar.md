@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Google AI Overview genera risposte accurate nell'80% dei casi. Scopri quanto fidarti dell'intelligenza artificiale per ricerche su smartphone e laptop nel 2026."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18069696/pexels-photo-18069696.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Google AI Overview: Quanto sono Accurate le Risposte di Intelligenza Artificiale nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Libri & Cultura"
 meta_description: "Perché (ri)leggere “Illusioni perdute” di Honoré de Balzac"
 tags: ["libri", "romanzi", "narrativa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12798506/pexels-photo-12798506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Perché leggere "Illusioni perdute" di Balzac nel 2026: il romanzo che continua a raccontarci il presente

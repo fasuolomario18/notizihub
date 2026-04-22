@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La dieta mediterranea è un modello nutrizionale basato su alimenti naturali e tradizionali che offre benefici straordinari per la salute cardiovascolare e "
 tags: ["dieta", "benessere", "prevenzione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4638384/pexels-photo-4638384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

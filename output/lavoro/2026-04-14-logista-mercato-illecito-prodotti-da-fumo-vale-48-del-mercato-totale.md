@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Logista, mercato illecito prodotti da fumo vale 4,8% del mercato totale"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11114134/pexels-photo-11114134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi nel Settore del Controllo Illecito: Come Costruire un Curriculum Vincente nel 2026

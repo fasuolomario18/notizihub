@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Crimson Desert ha una data di uscita ufficiale nel 2026! Scopri i dettagli su PS5, Xbox Series X|S e PC gaming nel nostro articolo completo sui prossimi lanciamenti AAA."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33324214/pexels-photo-33324214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Crimson Desert: Finalmente Svelata la Data di Uscita del Prossimo Capolavoro su PS5, Xbox e PC Gaming

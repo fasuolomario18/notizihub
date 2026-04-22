@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154611/pexels-photo-37154611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026

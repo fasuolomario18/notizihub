@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Cygnus X-1: i getti del buco nero equivalgono a diecimila soli. Nuova ricerca 2026 della Curtin University e NASA confermano teorie astrofisiche sulla potenza straordinaria dei buchi neri."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37180487/pexels-photo-37180487.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # I Getti di Cygnus X-1 Equivalgono a Diecimila Soli: La Scoperta della NASA nel 2026

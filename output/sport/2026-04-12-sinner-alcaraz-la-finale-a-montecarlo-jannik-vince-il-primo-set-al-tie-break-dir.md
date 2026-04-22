@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Sinner batte Alcaraz al tiebreak nella finale di Montecarlo 2026. Duello per il numero uno ATP tra l'azzurro e lo spagnolo."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27532388/pexels-photo-27532388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sinner-Alcaraz a Montecarlo: il duello per il numero uno mondiale

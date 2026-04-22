@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Dichiarazione dei redditi e tasse: come i tagli IRS americani influenzano il controllo fiscale italiano e i comportamenti dei contribuenti"
 tags: ["dichiarazione dei redditi", "tasse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33175657/pexels-photo-33175657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

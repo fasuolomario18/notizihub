@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Scoperta 2026: l'uomo primitivo era sorprendentemente sofisticato nella scienza e ingegneria. NASA e ricerca moderna rivelano invenzioni complesse e conoscenze avanzate degli antichi."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33655025/pexels-photo-33655025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le Scoperte Rivoluzionarie sulla Scienza Primitiva: Cosa la NASA e i Ricercatori Stanno Rivelando nel 2026

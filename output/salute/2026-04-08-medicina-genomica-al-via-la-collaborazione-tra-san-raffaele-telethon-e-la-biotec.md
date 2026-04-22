@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Medicina genomica, alimentazione personalizzata e benessere nel 2026. La collaborazione San Raffaele-Telethon-Cytiva rivoluziona la nutrigenomica italiana."
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17515219/pexels-photo-17515219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Medicina Genomica e Benessere: Come la Genetica Rivoluziona Alimentazione e Dieta nel 2026

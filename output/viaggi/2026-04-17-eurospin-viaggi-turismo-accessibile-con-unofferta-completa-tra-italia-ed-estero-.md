@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Eurospin Viaggi: Voli Low Cost e Hotel a Portata di Tutti nel 2026"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32296350/pexels-photo-32296350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Eurospin Viaggi: Voli Low Cost e Hotel a Portata di Tutti nel 2026

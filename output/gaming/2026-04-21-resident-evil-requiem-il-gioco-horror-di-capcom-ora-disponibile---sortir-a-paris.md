@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Resident Evil Requiem è disponibile su PS5, Xbox e PC gaming. Scopri il nuovo capolavoro horror di Capcom con grafica next-gen e gameplay innovativo"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28859503/pexels-photo-28859503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

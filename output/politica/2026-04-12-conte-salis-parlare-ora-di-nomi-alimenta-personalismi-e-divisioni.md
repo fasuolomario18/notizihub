@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Conte critica l'anticipazione sui nomi nel dibattito governativo. Priorità al programma condiviso e agli obiettivi comuni nel 2026."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31175298/pexels-photo-31175298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: il dibattito sui nomi passa in secondo piano rispetto al programma

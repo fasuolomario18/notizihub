@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "INPS riconosce arretrati pensione vecchiaia Quota 103 nel 2026. Scopri chi beneficia, importi dovuti e come verificare la tua posizione."
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33866069/pexels-photo-33866069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensioni di Vecchiaia: INPS Riconosce Arretrati ai Beneficiari Quota 103

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Borsa: Milano prosegue in rialzo, corre Cucinelli"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36161904/pexels-photo-36161904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire e Risparmiare nel 2026: La Strategia Giusta con ETF Mentre la Borsa Milanesa Continua il Rialzo

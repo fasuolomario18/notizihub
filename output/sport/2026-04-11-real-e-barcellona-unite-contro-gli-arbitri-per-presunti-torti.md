@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Real Madrid e Barcellona protestano contro arbitri per rigori non assegnati in Liga e Champions nel 2026. Analisi della crisi arbitrale nel calcio moderno."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14317118/pexels-photo-14317118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Real Madrid e Barcellona unite contro gli arbitri: la protesta nel calcio moderno del 2026

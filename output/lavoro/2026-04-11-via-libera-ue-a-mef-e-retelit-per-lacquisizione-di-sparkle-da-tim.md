@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Via libera Ue a Mef e Retelit per l'acquisizione di Sparkle da Tim"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13092433/pexels-photo-13092433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi nel Settore Telecom: Come Cambia con l'Acquisizione di Sparkle

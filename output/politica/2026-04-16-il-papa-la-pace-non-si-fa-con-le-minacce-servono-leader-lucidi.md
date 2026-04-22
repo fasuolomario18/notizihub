@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Papa Leone XIV in Camerun chiede leader lucidi per la pace. Il Pontefice rifiuta minacce e armi, enfatizzando il ruolo cruciale di governi e parlamenti nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34806096/pexels-photo-34806096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Papa a Camerun: "La pace richiede leader lucidi, non minacce e armi"

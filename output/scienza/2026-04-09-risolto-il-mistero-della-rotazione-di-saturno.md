@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Scoperto il vero periodo di rotazione di Saturno grazie al telescopio Webb della NASA nel 2026. Analisi delle aurore rivela i segreti del gigante gassoso."
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7788341/pexels-photo-7788341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # La NASA Risolve il Mistero della Rotazione di Saturno Grazie al Telescopio Webb

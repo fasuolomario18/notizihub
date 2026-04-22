@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Claude Mythos, il nuovo modello IA di Anthropic, non sarà disponibile pubblicamente. L'anteprima esclusiva per le Big Tech nel 2026 rivoluziona smartphone e laptop"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4565724/pexels-photo-4565724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Claude Mythos: il nuovo modello di Anthropic che rivoluziona l'intelligenza artificiale su smartphone e laptop

@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "Crittografia RCS tra iPhone e Android nel 2026: scopri come funziona la sicurezza end-to-end nella messaggistica moderna tra piattaforme diverse"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20870794/pexels-photo-20870794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # iPhone e Android: la crittografia RCS finalmente unifica i messaggi nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza Artificiale e Lavoro: Boom di Richieste per Tecnici Specializzati nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18548427/pexels-photo-18548427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Lavoro: Boom di Richieste per Tecnici Specializzati nel 2026

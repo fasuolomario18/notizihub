@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Pokémon TCG ristampe ETB 2026: due Set Allenatore Fuoriclasse legendaridi ritorno estate. Analisi impatto mercato"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9661252/pexels-photo-9661252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PS5, Xbox e PC Gaming: La Rivoluzione dei Pokémon TCG nel 2026

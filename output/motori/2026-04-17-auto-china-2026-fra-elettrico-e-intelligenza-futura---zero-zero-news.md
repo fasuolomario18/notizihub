@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto China 2026: scopri le novità su auto elettrica, SUV innovativi e incentivi auto. Intelligenza artificiale e guida autonoma: il futuro della mobilità nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica e Intelligenza Artificiale: le Novità di Auto China 2026

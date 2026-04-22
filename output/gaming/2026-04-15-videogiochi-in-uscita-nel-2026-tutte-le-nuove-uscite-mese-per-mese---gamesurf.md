@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Scopri tutti i videogiochi in uscita nel 2026 su PS5, Xbox e PC. Calendario completo mese per mese con i titoli più attesi"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7862347/pexels-photo-7862347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Videogiochi in uscita nel 2026: il calendario completo per PS5, Xbox e PC Gaming

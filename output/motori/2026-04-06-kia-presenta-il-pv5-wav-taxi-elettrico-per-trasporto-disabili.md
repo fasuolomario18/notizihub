@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Kia presenta il PV5 WAV: taxi elettrico per trasporto disabili"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18363486/pexels-photo-18363486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Kia PV5 WAV: il nuovo SUV elettrico rivoluzionario per il trasporto dei disabili

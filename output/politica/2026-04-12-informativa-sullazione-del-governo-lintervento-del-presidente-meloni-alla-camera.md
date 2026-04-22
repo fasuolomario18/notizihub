@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Intervento della Presidente Meloni al Parlamento oggi, 12 aprile 2026. Informativa sull'azione del Governo: priorità economiche, sociali e istituzionali nel confronto con la Camera dei Deputati."
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36613858/pexels-photo-36613858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Parlamento: L'intervento della Presidente Meloni alla Camera dei Deputati

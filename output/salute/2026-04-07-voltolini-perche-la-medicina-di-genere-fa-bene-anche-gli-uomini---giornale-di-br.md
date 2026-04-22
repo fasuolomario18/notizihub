@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Medicina di Genere: Come la Dieta e l'Alimentazione Personalizzate Migliorano il Benessere di Uomini e Donne"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16204178/pexels-photo-16204178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Medicina di Genere: Come la Dieta e l'Alimentazione Personalizzate Migliorano il Benessere di Uomini e Donne

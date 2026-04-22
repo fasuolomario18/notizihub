@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza artificiale nelle RSA: la startup TeiaCare raccoglie 7 milioni di euro - la Repubblica"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale nelle RSA: TeiaCare raccoglie 7 milioni di euro per rivoluzionare l'assistenza agli anziani

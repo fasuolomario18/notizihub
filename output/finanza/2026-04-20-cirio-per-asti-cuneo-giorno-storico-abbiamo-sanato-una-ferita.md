@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Scopri come investire in ETF nel 2026 e diversificare il risparmio con le migliori strategie di crescita economica italiana. Guida pratica."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19062952/pexels-photo-19062952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire nella Ripresa Economica Italiana: ETF e Strategie di Risparmio nel 2026

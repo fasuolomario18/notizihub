@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "Come capire quali app consumano più batteria dello smartphone: i consigli per Android e iPhone - geopop.it"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/215581/pexels-photo-215581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Capire Quali App Consumano Più Batteria dello Smartphone: Guida Completa per Android e iPhone

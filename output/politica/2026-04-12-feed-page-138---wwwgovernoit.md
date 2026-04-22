@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Governo italiano nel 2026: attività esecutiva, parlamento, elezioni e priorità politiche nazionali nel contesto istituzionale contemporaneo"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11263489/pexels-photo-11263489.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Il Governo Italiano Continua l'Azione di Governo: Cosa Accade al Parlamento nel 2026

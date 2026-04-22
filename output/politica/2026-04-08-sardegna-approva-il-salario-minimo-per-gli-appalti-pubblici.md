@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "La Sardegna approva salario minimo appalti pubblici. Todde: 'passo concreto dignità lavoro'. Dibattito governo e parlamento italiano sul tema"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35854928/pexels-photo-35854928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Sardegna approva il salario minimo per gli appalti pubblici: una battaglia politica che infiamma il dibattito nazionale

@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Controlli su spese sanitarie in dichiarazione redditi: errore che costa caro. Documenti, limiti e sanzioni da conoscere per evitare problemi con Agenzia Entrate."
 tags: ["dichiarazione dei redditi", "tasse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/221174/pexels-photo-221174.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

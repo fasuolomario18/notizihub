@@ -7,6 +7,7 @@ nicchia_nome: "Fumetti & Manga"
 meta_description: "Crimson Desert PS5 in sconto pasquale su Amazon. Scopri l'offerta Day One Edition e come il gaming moderno dialoga con fumetti e anime nel 2026"
 tags: ["manga", "fumetti", "anime"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/22940331/pexels-photo-22940331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Crimson Desert su PS5: l'offerta di Pasqua di Amazon e il fenomeno gaming nei fumetti

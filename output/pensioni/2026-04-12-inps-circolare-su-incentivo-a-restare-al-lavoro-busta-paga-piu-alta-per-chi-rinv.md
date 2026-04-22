@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "INPS introduce incentivi economici 2026 per chi rimanda pensione: aumenti busta paga fino al 7% per differimento quota 103"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/42108/pexels-photo-42108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # INPS: Incentivi per Chi Rimanda la Pensione, Busta Paga più Alta nel 2026

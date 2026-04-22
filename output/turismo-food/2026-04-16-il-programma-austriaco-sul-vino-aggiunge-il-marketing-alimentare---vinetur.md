@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36644114/pexels-photo-36644114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026

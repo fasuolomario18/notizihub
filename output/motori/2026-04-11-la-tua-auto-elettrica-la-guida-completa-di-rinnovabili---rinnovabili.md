@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto elettrica 2026: guida completa con informazioni su SUV, incentivi governativi, prezzi e rete di ricarica in Italia. Scopri come scegliere."
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29054407/pexels-photo-29054407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica: La Guida Completa per Orientarsi nel 2026

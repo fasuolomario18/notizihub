@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Scoperta storica del 2026: il James Webb rivela l'atmosfera dell'esopianeta TOI-5205 b, un gigante gassoso torridamente affascinante in un sistema stellare distante"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36611235/pexels-photo-36611235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # TOI-5205 b: L'Esopianeta Proibito Svelato dal James Webb nel 2026

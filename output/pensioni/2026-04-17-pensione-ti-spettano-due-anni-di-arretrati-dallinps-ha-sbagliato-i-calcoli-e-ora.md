@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensione: Ti Spettano Due Anni di Arretrati dall'INPS con la Nuova Circolare"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29094243/pexels-photo-29094243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione: Ti Spettano Due Anni di Arretrati dall'INPS con la Nuova Circolare

@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "La precocità dei campi magnetici al collasso"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8666444/pexels-photo-8666444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # I Campi Magnetici delle Giovani Galassie si Formano Molto Più Velocemente del Previsto: le Scoperte della NASA

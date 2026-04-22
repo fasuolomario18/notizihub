@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Investire in ETF: Come la Rivoluzione UE della Consulenza Finanziaria Cambia le Tue Strategie di Risparmio nel 2026"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/26841237/pexels-photo-26841237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in ETF: Come la Rivoluzione UE della Consulenza Finanziaria Cambia le Tue Strategie di Risparmio nel 2026

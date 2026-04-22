@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Scopri come le carte WWE del 2004 hanno influenzato il sistema di loot economy su PS5, Xbox e PC gaming nel 2026. Analisi approfondita."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19228385/pexels-photo-19228385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come le Carte Collezionabili WWE hanno Influenzato il Gaming nel 2026

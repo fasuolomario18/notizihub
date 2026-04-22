@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34991756/pexels-photo-34991756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia

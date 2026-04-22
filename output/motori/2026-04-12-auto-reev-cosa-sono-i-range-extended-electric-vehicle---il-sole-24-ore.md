@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto Reev: cosa sono i Range Extended Electric Vehicle. Scopri i SUV Reev, gli incentivi auto 2026 e caratteristiche tecniche per una scelta consapevole."
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4480505/pexels-photo-4480505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Reev: cosa sono i Range Extended Electric Vehicle e come sfruttare gli incentivi auto nel 2026

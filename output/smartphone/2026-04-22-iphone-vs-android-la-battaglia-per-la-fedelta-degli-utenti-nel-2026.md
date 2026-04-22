@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "iPhone mantiene il suo status di cult tra gli utenti, ma Android sta recuperando terreno con innovazioni e prezzi competitivi. La fedeltà agli smartphone d"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36680547/pexels-photo-36680547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

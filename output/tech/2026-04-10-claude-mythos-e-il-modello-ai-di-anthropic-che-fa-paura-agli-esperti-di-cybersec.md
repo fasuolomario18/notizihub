@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Claude Mythos: L'Intelligenza Artificiale che Preoccupa gli Esperti di Cybersecurity nel 2026"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8720273/pexels-photo-8720273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Claude Mythos: L'Intelligenza Artificiale che Preoccupa gli Esperti di Cybersecurity nel 2026

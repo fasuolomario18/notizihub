@@ -7,6 +7,7 @@ nicchia_nome: "Meteo"
 meta_description: "Forti venti e neve in arrivo. Allerta gialla in 6 regioni italiane. Le previsioni meteo avvertono di calo delle temperature e maltempo intenso tra il fine settimana."
 tags: ["meteo", "previsioni", "temperature"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35890088/pexels-photo-35890088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Meteo: Forti Venti e Neve in Arrivo, Allerta Gialla in 6 Regioni

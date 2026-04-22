@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza artificiale vs manager tecnologico: confronto nel 2026 rivela come IA e expertise umana sono entrambi convincenti e complementari per le decisioni aziendali"
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale contro Manager Tecnologico: Chi Convince di Più nel 2026?

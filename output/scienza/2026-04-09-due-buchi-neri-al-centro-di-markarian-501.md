@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Due buchi neri al centro di Markarian 501"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30596284/pexels-photo-30596284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Due Buchi Neri Supermassicci al Centro di Markarian 501: La Scoperta che Rivoluziona la Nostra Comprensione dello Spazio

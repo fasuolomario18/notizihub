@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Intelligenza artificiale in Romagna 2026: camionisti e hotel tra rischi e opportunità. Analisi dell'impatto dell'IA sul lavoro e le competenze necessarie per evolversi."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale: Sostituzione o Evoluzione? Chi Rischia il Posto in Romagna nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Diversificazione portafoglio 2026: come investire senza eccessi. Guida ETF e risparmio intelligente con consigli Morningstar."
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4651145/pexels-photo-4651145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Diversificazione del Portafoglio: Come Investire Correttamente nel 2026 Senza Eccessi

@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Uncharted 4 Fine di un Ladro 10 anni dopo: perché è ancora un capolavoro?"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4523031/pexels-photo-4523031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Uncharted 4: Fine di un Ladro Rimane un Capolavoro nel 2026 su PS5, Xbox e PC Gaming

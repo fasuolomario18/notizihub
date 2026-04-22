@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Intelligenza artificiale e sovranismo digitale: i rischi dell'isolazionismo tecnologico nel software e negli smartphone moderni. Analisi critica dei pericoli della sovranità digitale assoluta."
 tags: ["intelligenza artificiale", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8386358/pexels-photo-8386358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "Messico-Usa, secondo incontro per la revisione del trattato nordamericano"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8363661/pexels-photo-8363661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Investire in Sicurezza: Come Proteggere i Tuoi Risparmi Durante le Negoziazioni USA-Messico del 2026

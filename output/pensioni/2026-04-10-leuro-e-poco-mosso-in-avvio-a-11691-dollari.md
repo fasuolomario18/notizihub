@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "L'euro è poco mosso in avvio a 1,1691 dollari"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7352057/pexels-photo-7352057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione INPS con Quota 103: Come il Cambio Euro-Dollaro Influenza gli Assegni nel 2026

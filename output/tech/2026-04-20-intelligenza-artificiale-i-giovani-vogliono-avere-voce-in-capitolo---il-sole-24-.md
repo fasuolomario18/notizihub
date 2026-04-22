@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "I giovani richiedono partecipazione attiva alle decisioni sull'intelligenza artificiale nel 2026. Scopri le loro rivendicazioni e come influenzano smartphone e laptop."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale: i Giovani Pretendono Voce in Capitolo nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Dossier Gravina: problemi e soluzioni del calcio italiano 2026. Analisi Serie A, infrastrutture, investimenti e governance"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20795775/pexels-photo-20795775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dossier Gravina: il calcio italiano di fronte ai suoi problemi e le soluzioni per il futuro

@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Medicina Generale e Alimentazione Consapevole: Come il Medico di Base Diventa Guardiano della Salute nel 2026"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8460084/pexels-photo-8460084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Medicina Generale e Alimentazione Consapevole: Come il Medico di Base Diventa Guardiano della Salute nel 2026

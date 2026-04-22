@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Ferrari presenta la sua prima auto elettrica al prezzo di 550.000 euro, entrando nel mercato delle auto elettriche premium. Il SUV elettrico rappresenta un"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9113865/pexels-photo-9113865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

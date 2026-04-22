@@ -7,6 +7,7 @@ nicchia_nome: "Giardinaggio"
 meta_description: "Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età"
 tags: ["piante", "orto", "giardino"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36450988/pexels-photo-36450988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età

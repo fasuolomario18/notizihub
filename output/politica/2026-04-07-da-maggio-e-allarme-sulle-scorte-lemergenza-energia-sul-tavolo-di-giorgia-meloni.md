@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Governo Meloni affronta emergenza energetica a maggio 2026. Conflitto Iran rischia scorte. Parlamento attivo sulle misure. Stabilità politica in gioco"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8850626/pexels-photo-8850626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo Meloni: L'Allarme Sulle Scorte Energetiche a Maggio Minaccia la Stabilità Politica

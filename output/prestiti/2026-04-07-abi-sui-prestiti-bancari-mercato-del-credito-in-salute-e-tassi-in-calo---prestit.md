@@ -7,6 +7,7 @@ nicchia_nome: "Prestiti & Credito"
 meta_description: "Prestiti Bancari: Il Mercato del Credito in Salute con Tassi in Calo ad Aprile 2026"
 tags: ["prestito personale", "finanziamento", "tasso interesse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30139520/pexels-photo-30139520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Prestiti Bancari: Il Mercato del Credito in Salute con Tassi in Calo ad Aprile 2026

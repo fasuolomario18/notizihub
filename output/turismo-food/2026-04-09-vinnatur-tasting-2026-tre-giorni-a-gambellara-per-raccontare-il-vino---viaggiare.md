@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "VinNatur Tasting 2026: tre giorni a Gambellara per raccontare il vino - viaggiare.net"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15198280/pexels-photo-15198280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # VinNatur Tasting 2026: Tre Giorni a Gambellara tra Vino, Gastronomia e Ristoranti d'Eccellenza

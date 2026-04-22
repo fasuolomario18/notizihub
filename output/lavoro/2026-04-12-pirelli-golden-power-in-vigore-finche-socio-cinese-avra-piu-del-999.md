@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Golden power Pirelli 2026: impatto su smart working, stipendio e carriera. Opportunità in aziende strategiche italiane e vincoli su Sinochem."
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33526287/pexels-photo-33526287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio in Aziende Strategiche: Come il Golden Power Pirelli Influisce sul Tuo Curriculum

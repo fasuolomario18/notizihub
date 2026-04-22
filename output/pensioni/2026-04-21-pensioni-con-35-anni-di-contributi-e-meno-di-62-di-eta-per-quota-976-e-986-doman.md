@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Quota 97,6 e 98,6: pensione INPS con 35 anni contributi senza 62 anni. Domanda entro 1° maggio 2026"
 tags: ["pensione", "INPS"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5790832/pexels-photo-5790832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

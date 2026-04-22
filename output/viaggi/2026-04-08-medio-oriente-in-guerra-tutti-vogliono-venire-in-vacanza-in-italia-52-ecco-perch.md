@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Boom vacanze in Italia nel 2026: +52% turisti dal Medio Oriente. Scopri voli low cost, hotel e mete imperdibili per una vacanza indimenticabile"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/25489841/pexels-photo-25489841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Vacanze in Italia: il boom del turismo dal Medio Oriente grazie ai voli low cost

@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Lo studio dell'Università di Kyoto 2026 spiega il magnetismo dietro la formazione dei satelliti di Giove e Saturno nello spazio"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Lune Giganti: Ecco Perché Giove Batte Saturno nello Spazio

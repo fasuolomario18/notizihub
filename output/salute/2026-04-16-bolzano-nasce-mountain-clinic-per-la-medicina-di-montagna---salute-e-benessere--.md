@@ -7,6 +7,7 @@ nicchia_nome: "Salute & Wellness"
 meta_description: "Mountain Clinic Bolzano: medicina di montagna con programmi di dieta personalizzata, alimentazione scientifica e benessere integrato per chi frequenta l'alta quota nel 2026"
 tags: ["dieta", "alimentazione", "benessere"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29920731/pexels-photo-29920731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Mountain Clinic a Bolzano: La Nuova Frontiera della Medicina di Montagna e Benessere Nutrizionale

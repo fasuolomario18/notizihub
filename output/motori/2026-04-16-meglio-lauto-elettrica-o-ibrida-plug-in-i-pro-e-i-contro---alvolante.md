@@ -7,6 +7,7 @@ nicchia_nome: "Motori & Auto"
 meta_description: "Auto Elettrica o SUV Ibrido Plug-in: Come Scegliere nel 2026"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37163499/pexels-photo-37163499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Auto Elettrica o SUV Ibrido Plug-in: Come Scegliere nel 2026

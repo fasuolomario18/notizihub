@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "PlayStation Plus 2026 offre giochi single player eccezionali su PS5: soulslike, classici remasterizzati e JRPG acclamati. Scopri i titoli imperdibili del servizio di abbonamento Sony"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7047193/pexels-photo-7047193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # PlayStation Plus 2026: I Cinque Giochi Single Player Imperdibili su PS5, Xbox e PC Gaming

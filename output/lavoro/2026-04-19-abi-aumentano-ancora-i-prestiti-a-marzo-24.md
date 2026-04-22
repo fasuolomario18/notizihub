@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Abi, aumentano ancora i prestiti, a marzo +2,4%"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12841134/pexels-photo-12841134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio: Come i Nuovi Tassi sui Prestiti Influenzano il Tuo Curriculum Professionale nel 2026

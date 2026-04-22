@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "App 'nudify' su iPhone e Android nel 2026: scopri come Apple e Google affrontano la pressione delle immagini sintetiche deepfake e le conseguenze legali"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/89955/pexels-photo-89955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # App "Nudify" su iPhone e Android: Apple e Google sotto Pressione nel 2026

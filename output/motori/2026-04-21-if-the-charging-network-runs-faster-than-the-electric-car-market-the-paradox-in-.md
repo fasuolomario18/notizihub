@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "In Italia la rete di ricarica cresce più veloce del mercato auto elettrica. Analisi del paradosso tra infrastrutture moderne e bassi incentivi auto. SUV e soluzioni."
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

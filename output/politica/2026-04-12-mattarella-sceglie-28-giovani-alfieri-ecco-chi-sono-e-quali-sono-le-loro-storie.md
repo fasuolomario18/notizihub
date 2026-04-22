@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Mattarella sceglie 28 giovani Alfieri, ecco chi sono e quali sono le loro storie"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30415362/pexels-photo-30415362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo e Società Civile: I 28 Alfieri della Repubblica Scelti da Mattarella nel 2026

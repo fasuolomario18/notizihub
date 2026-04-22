@@ -7,6 +7,7 @@ nicchia_nome: "Scienza & Spazio"
 meta_description: "Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza"
 tags: ["scienza", "spazio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3825569/pexels-photo-3825569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza

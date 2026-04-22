@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Wall Street avanza con i negoziati, Dj +0,62%, Nasdaq +0,85%"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7869676/pexels-photo-7869676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi: Come i Mercati Rialzisti del 2026 Cambiano le Opportunità di Carriera

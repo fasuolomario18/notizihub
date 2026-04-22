@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "150 anni di notizie, il Corriere della Sera celebrato in una moneta"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8096465/pexels-photo-8096465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Carriera nel Giornalismo: Opportunità Lavorative Dopo il Riconoscimento del Corriere della Sera

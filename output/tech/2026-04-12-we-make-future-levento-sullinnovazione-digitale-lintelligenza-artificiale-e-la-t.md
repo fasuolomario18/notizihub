@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "'We Make Future' a Bologna: l'evento che celebra intelligenza artificiale, smartphone e laptop nel 2026. Scopri le ultime innovazioni tecnologiche."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16385071/pexels-photo-16385071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # "We Make Future": l'evento bolognese che celebra intelligenza artificiale, smartphone e laptop nel 2026

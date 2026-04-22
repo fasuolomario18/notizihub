@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La primavera 2026 celebra l'eleganza senza tempo di Versailles con tendenze moda che reinterpretano il lusso barocco contemporaneo. Scopri come indossare r"
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20531142/pexels-photo-20531142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Serie A 2026: Politano stende il Milan, Napoli sorpassa al secondo posto a -7 dall'Inter. Anteprima della classifica e prospettive della stagione."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20814951/pexels-photo-20814951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A 2026: Politano stende il Milan, il Napoli aggancia il secondo posto a -7 dall'Inter

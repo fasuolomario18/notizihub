@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Set LEGO pirati su Amazon: collezioni tematiche per nerd, collezionisti e appassionati gaming nel 2026. Scopri opzioni disponibili oggi."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19012040/pexels-photo-19012040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Set LEGO Pirati su Amazon: la scelta perfetta per nerd e collezionisti nel 2026

@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Esclusive PC che hanno segnato un'epoca: ecco i giochi che invidiavo da bambino"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27350792/pexels-photo-27350792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Le Esclusive PC che hanno Segnato un'Epoca: dai Sogni d'Infanzia al Mondo del Gaming Moderno

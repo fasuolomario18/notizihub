@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Lettera aperta denuncia il 'Decreto della Vergogna': governo italiano sotto pressione su responsabilizzazione politica e Parlamento nel 2026"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36458686/pexels-photo-36458686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo italiano sotto pressione: la lettera aperta accusa il "Decreto della Vergogna"

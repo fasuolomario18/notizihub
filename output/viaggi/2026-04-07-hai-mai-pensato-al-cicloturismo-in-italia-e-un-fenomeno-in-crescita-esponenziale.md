@@ -7,6 +7,7 @@ nicchia_nome: "Viaggi"
 meta_description: "Hai mai pensato al cicloturismo? In Italia è un fenomeno in crescita esponenziale"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3767792/pexels-photo-3767792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cicloturismo in Italia 2026: La Nuova Frontiera del Turismo Consapevole tra Voli Low Cost e Esperienze Autentiche

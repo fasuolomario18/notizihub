@@ -7,6 +7,7 @@ nicchia_nome: "Finanza Personale"
 meta_description: "La guerra contro l'Iran fa aumentare i passeggeri in transito ad Heathrow"
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16563539/pexels-photo-16563539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Investire Saggiamente negli ETF Durante l'Incertezza Geopolitica: La Lezione da Heathrow

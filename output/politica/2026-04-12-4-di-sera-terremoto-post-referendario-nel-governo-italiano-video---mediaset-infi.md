@@ -7,6 +7,7 @@ nicchia_nome: "Politica"
 meta_description: "Crisi governo italiano dopo referendum 12 aprile 2026. Terremoto politico post-referendario: analisi della situazione, scenari possibili e conseguenze per Parlamento ed economia"
 tags: ["governo", "parlamento", "elezioni"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3115407/pexels-photo-3115407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Governo italiano nel caos post referendario: le conseguenze politiche del 12 aprile 2026

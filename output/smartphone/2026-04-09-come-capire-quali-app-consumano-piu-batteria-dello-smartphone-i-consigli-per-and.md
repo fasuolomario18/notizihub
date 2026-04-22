@@ -7,6 +7,7 @@ nicchia_nome: "Smartphone & App"
 meta_description: "Scopri come identificare le app che consumano più batteria su iPhone e Android nel 2026. Leggi la guida completa per ottimizzare l'autonomia del tuo smartphone con semplici strategie."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35147147/pexels-photo-35147147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Come Capire Quali App Consumano più Batteria su iPhone e Android nel 2026

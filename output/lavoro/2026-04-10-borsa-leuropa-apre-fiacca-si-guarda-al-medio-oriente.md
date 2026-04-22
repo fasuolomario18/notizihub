@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Borsa: l'Europa apre fiacca, si guarda al Medio Oriente"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11636475/pexels-photo-11636475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendio: Come la Volatilità dei Mercati nel 2026 Influenza il Mercato del Lavoro

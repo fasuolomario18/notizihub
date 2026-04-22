@@ -7,6 +7,7 @@ nicchia_nome: "Tecnologia & AI"
 meta_description: "Nel 2026 l'intelligenza artificiale promette riduzione del lavoro ma aumenta le ore lavorative. Scopri il paradosso dell'AI su smartphone e laptop."
 tags: ["intelligenza artificiale", "smartphone", "laptop"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36829048/pexels-photo-36829048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Intelligenza Artificiale e Lavoro: Il Paradosso che Aumenta le Ore Lavorative nel 2026

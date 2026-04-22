@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Serie A: Milan sconfitto 3-0 da Udinese a San Siro. Champions League a rischio, Leao fischiato. Analisi e conseguenze della débâcle rossonera."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33286496/pexels-photo-33286496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A: Milan Shock, Sconfitta 3-0 con l'Udinese a San Siro. Champions League a Rischio

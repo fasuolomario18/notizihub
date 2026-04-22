@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Scopri dove mangiare durante il Vinitaly 2026: dalle stelle Michelin alle trattorie autentiche. Guida completa ai ristoranti di Verona per esperienze enogastronomiche indimenticabili."
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16736488/pexels-photo-16736488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dove Mangiare durante il Vinitaly 2026: dalla Stella Michelin alla Trattoria Autentica

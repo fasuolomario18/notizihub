@@ -7,6 +7,7 @@ nicchia_nome: "Gaming & Esport"
 meta_description: "Scopri l'aggiornamento Xbox di aprile 2026: novità su console, Game Pass, handheld e cloud gaming. Confronto con PS5 e PC."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28774616/pexels-photo-28774616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Xbox Update di Aprile 2026: Una Rivoluzione Completa tra Console, Game Pass e Cloud Gaming

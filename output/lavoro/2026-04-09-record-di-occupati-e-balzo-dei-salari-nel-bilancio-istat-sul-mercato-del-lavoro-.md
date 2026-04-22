@@ -7,6 +7,7 @@ nicchia_nome: "Lavoro & Carriera"
 meta_description: "Smart Working e Aumento degli Stipendi: Come Negoziare il Tuo Salario nel 2026"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6968122/pexels-photo-6968122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Aumento degli Stipendi: Come Negoziare il Tuo Salario nel 2026

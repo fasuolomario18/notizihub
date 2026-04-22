@@ -7,6 +7,7 @@ nicchia_nome: "Pensioni"
 meta_description: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati"
 tags: ["pensione", "INPS", "quota 103"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13278344/pexels-photo-13278344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati

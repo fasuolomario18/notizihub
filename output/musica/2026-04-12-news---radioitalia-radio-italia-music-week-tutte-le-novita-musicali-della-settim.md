@@ -7,6 +7,7 @@ nicchia_nome: "Musica"
 meta_description: "Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026"
 tags: ["musica", "concerti", "album"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34577466/pexels-photo-34577466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026

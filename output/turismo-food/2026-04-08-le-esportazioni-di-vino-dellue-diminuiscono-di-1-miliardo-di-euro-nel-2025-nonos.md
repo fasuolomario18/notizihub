@@ -7,6 +7,7 @@ nicchia_nome: "Turismo Enogastronomico"
 meta_description: "Crisi esportazioni vino UE 2026: ristoranti e gastronomia si adattano con strategie innovative, vini locali e sostenibilità per rilanciare il settore enogastronomico"
 tags: ["ristoranti", "vino", "gastronomia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8775389/pexels-photo-8775389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Vino e Gastronomia in Crisi: Come i Ristoranti Italiani Affrontano il Calo delle Esportazioni UE nel 2026

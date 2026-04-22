@@ -7,6 +7,7 @@ nicchia_nome: "Psicologia & Mente"
 meta_description: "Cosa succede davvero al cervello dopo 3 giorni senza social, secondo la psicologia - My-personaltrainer"
 tags: ["ansia", "depressione", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9064394/pexels-photo-9064394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cosa Succede al Cervello Dopo 3 Giorni Senza Social: La Psicologia Spiega

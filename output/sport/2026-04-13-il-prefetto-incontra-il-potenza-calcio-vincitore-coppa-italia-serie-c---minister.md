@@ -7,6 +7,7 @@ nicchia_nome: "Sport"
 meta_description: "Il Prefetto incontra il Potenza Calcio vincitore della Coppa Italia Serie C. Scopri come il calcio italiano continua a rappresentare un valore fondamentale della cultura e della comunità nel 2026."
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9072247/pexels-photo-9072247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Serie A e il Calcio Italiano in Festa: Il Prefetto Celebra il Potenza Campione della Coppa Italia Serie C

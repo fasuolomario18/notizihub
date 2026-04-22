@@ -33,6 +33,7 @@ jobs:
       - name: Genera articoli in 6 lingue con Claude AI
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           OUTPUT_DIR: './notizihub-site/output'
           ARTICLES_PER_NICHE: ${{ github.event.inputs.articles_per_niche || '1' }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}

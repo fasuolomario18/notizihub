@@ -150,6 +150,22 @@ function slugify(text) {
 function oggi() { return new Date().toISOString().split('T')[0]; }
 function hash(str) { return crypto.createHash('md5').update(str).digest('hex').substring(0, 8); }
 
+async function fetchPexelsImage(query) {
+  const apiKey = process.env.PEXELS_API_KEY;
+  if (!apiKey) return null;
+  try {
+    const q = encodeURIComponent(query.slice(0, 60));
+    const res = await fetch(`https://api.pexels.com/v1/search?query=${q}&per_page=5&orientation=landscape`, {
+      headers: { Authorization: apiKey },
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (!data.photos || data.photos.length === 0) return null;
+    const photo = data.photos[Math.floor(Math.random() * data.photos.length)];
+    return photo.src.large2x || photo.src.large;
+  } catch { return null; }
+}
+
 function getOutputDir(lang) {
   if (lang === 'it') return CONFIG.output_dir;
   return path.join(CONFIG.output_dir, lang);
@@ -269,7 +285,11 @@ async function salvaMarkdown(nicchia, spunto, contenuto, lingua) {
   const slug = slugify(titoloGenerato);
   const nomeNicchia = nicchia.nome[lingua.id] || nicchia.nome.en;
   const keywords = (nicchia.keyword_base[lingua.id] || nicchia.keyword_base.en).slice(0, 3);
-  const frontmatter = `---\ntitle: "${titoloGenerato.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nomeNicchia}"\nlang: "${lingua.id}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${keywords.map(k => `"${k}"`).join(', ')}]\nauto_generated: true\n---\n\n`;
+  // Cerca immagine Pexels in inglese per risultati migliori
+  const enKeywords = (nicchia.keyword_base['en'] || nicchia.keyword_base.en).slice(0, 2).join(' ');
+  const imageUrl = await fetchPexelsImage(enKeywords);
+  const imageLine = imageUrl ? `\nimage_url: "${imageUrl}"` : '';
+  const frontmatter = `---\ntitle: "${titoloGenerato.replace(/"/g, "'")}"\nslug: "${slug}"\ndate: "${data}"\nnicchia: "${nicchia.id}"\nnicchia_nome: "${nomeNicchia}"\nlang: "${lingua.id}"\nmeta_description: "${metaDesc.replace(/"/g, "'")}"\ntags: [${keywords.map(k => `"${k}"`).join(', ')}]${imageLine}\nauto_generated: true\n---\n\n`;
   const dir = path.join(getOutputDir(lingua.id), nicchia.id);
   await fs.mkdir(dir, { recursive: true });
   const filePath = path.join(dir, `${data}-${slug}.md`);

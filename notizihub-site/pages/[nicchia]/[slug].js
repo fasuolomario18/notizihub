@@ -103,7 +103,7 @@ export default function Articolo({ articolo }) {
     author: { '@type': 'Organization', name: 'Redazione NotiziHub', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'NotiziHub', url: SITE_URL },
     url: canonicalUrl,
-    image: `${SITE_URL}/nicchie/${articolo.nicchia}.png`,
+    image: articolo.image_url || `${SITE_URL}/nicchie/${articolo.nicchia}.png`,
   };
 
   const faqSchema = articolo.faqs && articolo.faqs.length > 0 ? {
@@ -123,7 +123,7 @@ export default function Articolo({ articolo }) {
         <meta name="description" content={articolo.meta_description || ''} />
         <meta property="og:title" content={articolo.title} />
         <meta property="og:description" content={articolo.meta_description || ''} />
-        <meta property="og:image" content={`${SITE_URL}/nicchie/${articolo.nicchia}.png`} />
+        <meta property="og:image" content={articolo.image_url || `${SITE_URL}/nicchie/${articolo.nicchia}.png`} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={canonicalUrl} />
         <link rel="canonical" href={canonicalUrl} />
@@ -163,7 +163,7 @@ export default function Articolo({ articolo }) {
         </header>
 
         <div style={{ marginBottom: 24, borderRadius: 8, overflow: 'hidden' }}>
-          <img src={`/nicchie/${articolo.nicchia}.png`} alt={articolo.nicchia_nome || articolo.nicchia} className="article-hero" />
+          <img src={articolo.image_url || `/nicchie/${articolo.nicchia}.png`} alt={articolo.title || articolo.nicchia_nome} className="article-hero" />
         </div>
 
         <div style={{ marginBottom: 12 }}>

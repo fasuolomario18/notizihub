@@ -3,7 +3,7 @@ import path from 'path';
 
 const OUTPUT_DIR = './output';
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY;
-const DELAY_MS = 400; // ~150 req/min, well under 200/hr limit
+const DELAY_MS = 19000; // 19s = ~3 req/min, sotto il limite 200/hr di Pexels
 
 if (!PEXELS_API_KEY) {
   console.error('PEXELS_API_KEY non impostata');
@@ -72,13 +72,20 @@ async function main() {
     fs.statSync(path.join(OUTPUT_DIR, f)).isDirectory() && !f.startsWith('.')
   );
 
-  let total = 0, updated = 0, skipped = 0, errors = 0;
-
+  // Raccogli tutti i file da processare e ordinali per data (più recenti prima)
+  const toProcess = [];
   for (const nicchia of nicchie) {
     const dir = path.join(OUTPUT_DIR, nicchia);
     const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-
     for (const file of files) {
+      toProcess.push({ nicchia, dir, file });
+    }
+  }
+  toProcess.sort((a, b) => b.file.localeCompare(a.file)); // ordinamento decrescente per nome file (= per data)
+
+  let total = 0, updated = 0, skipped = 0, errors = 0;
+
+  for (const { nicchia, dir, file } of toProcess) {
       total++;
       const filePath = path.join(dir, file);
       const raw = fs.readFileSync(filePath, 'utf-8');
@@ -117,7 +124,6 @@ async function main() {
       }
 
       await sleep(DELAY_MS);
-    }
   }
 
   console.log(`\nFatto: ${total} articoli — ${updated} aggiornati, ${skipped} già con immagine, ${errors} errori`);

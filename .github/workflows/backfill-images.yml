@@ -22,6 +22,7 @@ jobs:
       - name: Aggiungi immagini agli articoli esistenti
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          OUTPUT_DIR: './output'
         run: node backfill-images.mjs
 
       - name: Commit e push

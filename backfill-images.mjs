@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const OUTPUT_DIR = process.env.OUTPUT_DIR || './notizihub-site/output';
+const OUTPUT_DIR = process.env.OUTPUT_DIR || './output';
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY;
 const DELAY_MS = 19000; // 19s = ~3 req/min, sotto il limite 200/hr di Pexels
 

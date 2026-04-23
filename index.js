@@ -150,20 +150,38 @@ function slugify(text) {
 function oggi() { return new Date().toISOString().split('T')[0]; }
 function hash(str) { return crypto.createHash('md5').update(str).digest('hex').substring(0, 8); }
 
+let _lastPexelsCallAt = 0;
+const PEXELS_MIN_INTERVAL_MS = 18500; // 200 req/ora = 1 ogni 18s
+
 async function fetchPexelsImage(query) {
   const apiKey = process.env.PEXELS_API_KEY;
-  if (!apiKey) return null;
+  if (!apiKey) {
+    console.warn('  [pexels] PEXELS_API_KEY non configurata — immagine saltata');
+    return null;
+  }
+  const wait = PEXELS_MIN_INTERVAL_MS - (Date.now() - _lastPexelsCallAt);
+  if (wait > 0) await new Promise(r => setTimeout(r, wait));
+  _lastPexelsCallAt = Date.now();
   try {
     const q = encodeURIComponent(query.slice(0, 60));
     const res = await fetch(`https://api.pexels.com/v1/search?query=${q}&per_page=5&orientation=landscape`, {
       headers: { Authorization: apiKey },
     });
-    if (!res.ok) return null;
+    if (!res.ok) {
+      console.warn(`  [pexels] Errore API ${res.status} per "${query}" — immagine saltata`);
+      return null;
+    }
     const data = await res.json();
-    if (!data.photos || data.photos.length === 0) return null;
+    if (!data.photos || data.photos.length === 0) {
+      console.warn(`  [pexels] Nessuna foto trovata per "${query}"`);
+      return null;
+    }
     const photo = data.photos[Math.floor(Math.random() * data.photos.length)];
     return photo.src.large2x || photo.src.large;
-  } catch { return null; }
+  } catch (err) {
+    console.warn(`  [pexels] Eccezione: ${err.message} — immagine saltata`);
+    return null;
+  }
 }
 
 function getOutputDir(lang) {

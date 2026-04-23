@@ -1,12 +1,17 @@
 import fs from 'fs';
 import path from 'path';
 
-const OUTPUT_DIR = './output';
+const OUTPUT_DIR = process.env.OUTPUT_DIR || './notizihub-site/output';
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY;
 const DELAY_MS = 19000; // 19s = ~3 req/min, sotto il limite 200/hr di Pexels
 
 if (!PEXELS_API_KEY) {
-  console.error('PEXELS_API_KEY non impostata');
+  console.error('[backfill] PEXELS_API_KEY non impostata — impossibile procedere');
+  process.exit(1);
+}
+
+if (!fs.existsSync(OUTPUT_DIR)) {
+  console.error(`[backfill] Directory non trovata: ${OUTPUT_DIR}`);
   process.exit(1);
 }
 
@@ -16,9 +21,15 @@ async function fetchPexelsImage(query) {
     `https://api.pexels.com/v1/search?query=${q}&per_page=5&orientation=landscape`,
     { headers: { Authorization: PEXELS_API_KEY } }
   );
-  if (!res.ok) return null;
+  if (!res.ok) {
+    console.warn(`  [pexels] Errore API ${res.status} per "${query}"`);
+    return null;
+  }
   const data = await res.json();
-  if (!data.photos || data.photos.length === 0) return null;
+  if (!data.photos || data.photos.length === 0) {
+    console.warn(`  [pexels] Nessuna foto per "${query}"`);
+    return null;
+  }
   const photo = data.photos[Math.floor(Math.random() * data.photos.length)];
   return photo.src.large2x || photo.src.large;
 }
@@ -27,106 +38,125 @@ function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
-// Nicchia → query inglese
 const nicchiaToQuery = {
-  cronaca: 'italy news breaking',
-  esteri: 'world news international',
-  calcio: 'soccer football match',
-  'calcio-mercato': 'soccer transfer market',
-  finanza: 'finance money economy',
-  crypto: 'cryptocurrency bitcoin',
-  tecnologia: 'technology innovation',
-  cinema: 'cinema movie film',
-  musica: 'music concert stage',
-  salute: 'health medicine wellness',
-  cucina: 'food cooking italian cuisine',
-  viaggi: 'travel landscape destination',
-  casa: 'home interior design',
-  moda: 'fashion style clothing',
-  bellezza: 'beauty cosmetics skincare',
-  sport: 'sport athlete training',
-  ambiente: 'environment nature ecology',
-  energia: 'energy solar wind power',
-  politica: 'politics government parliament',
-  economia: 'economy business market',
-  scienze: 'science research laboratory',
-  scuola: 'education school students',
-  lavoro: 'work office career',
-  auto: 'car automobile driving',
-  tech: 'technology gadget digital',
-  gaming: 'gaming videogame console',
-  animali: 'animals pets nature',
-  fumetti: 'comics manga cartoon',
-  fisco: 'tax finance documents',
+  // Niches attive in index.js
+  finanza:       'finance money investing',
+  crypto:        'cryptocurrency bitcoin blockchain',
+  tech:          'technology innovation digital',
+  salute:        'health medicine wellness',
+  viaggi:        'travel landscape destination',
+  motori:        'car automobile electric vehicle',
+  gaming:        'gaming videogame console',
+  casa:          'home interior real estate',
+  lavoro:        'work office career',
+  sport:         'sport athlete training',
   assicurazioni: 'insurance contract business',
-  bricolage: 'diy tools home improvement',
-  en: 'news world',
-  es: 'noticias mundo',
-  de: 'nachrichten welt',
-  fr: 'actualités monde',
-  pt: 'notícias mundo',
+  fisco:         'tax finance documents',
+  pensioni:      'retirement pension senior',
+  prestiti:      'loan credit bank',
+  trading:       'stock market trading finance',
+  cucina:        'food cooking italian cuisine',
+  moda:          'fashion style clothing',
+  bellezza:      'beauty cosmetics skincare',
+  animali:       'animals pets nature',
+  ambiente:      'environment nature ecology',
+  startup:       'startup entrepreneurship business',
+  smartphone:    'smartphone mobile app technology',
+  scienza:       'science research laboratory space',
+  psicologia:    'psychology mind mental health',
+  cinema:        'cinema movie film entertainment',
+  energia:       'energy solar wind power',
+  // Legacy niches
+  cronaca:       'italy news breaking',
+  esteri:        'world news international',
+  calcio:        'soccer football match',
+  'calcio-mercato': 'soccer transfer market',
+  tecnologia:    'technology gadget digital',
+  musica:        'music concert stage',
+  politica:      'politics government parliament',
+  economia:      'economy business market',
+  scienze:       'science research laboratory',
+  scuola:        'education school students',
+  auto:          'car automobile driving',
+  fumetti:       'comics manga cartoon',
+  bricolage:     'diy tools home improvement',
 };
 
-async function main() {
-  const nicchie = fs.readdirSync(OUTPUT_DIR).filter(f =>
-    fs.statSync(path.join(OUTPUT_DIR, f)).isDirectory() && !f.startsWith('.')
-  );
-
-  // Raccogli tutti i file da processare e ordinali per data (più recenti prima)
-  const toProcess = [];
-  for (const nicchia of nicchie) {
-    const dir = path.join(OUTPUT_DIR, nicchia);
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      toProcess.push({ nicchia, dir, file });
+// Raccoglie ricorsivamente tutti i file .md sotto una dir
+function collectMdFiles(dir) {
+  const results = [];
+  if (!fs.existsSync(dir)) return results;
+  for (const entry of fs.readdirSync(dir)) {
+    const full = path.join(dir, entry);
+    const stat = fs.statSync(full);
+    if (stat.isDirectory() && !entry.startsWith('.')) {
+      results.push(...collectMdFiles(full));
+    } else if (entry.endsWith('.md') && !entry.startsWith('.')) {
+      results.push(full);
     }
   }
-  toProcess.sort((a, b) => b.file.localeCompare(a.file)); // ordinamento decrescente per nome file (= per data)
+  return results;
+}
+
+// Estrae un campo dal frontmatter YAML
+function extractFrontmatterField(raw, field) {
+  const re = new RegExp(`^${field}:\\s*["']?(.+?)["']?\\s*$`, 'm');
+  const m = raw.match(re);
+  return m ? m[1].trim() : null;
+}
+
+async function main() {
+  console.log(`[backfill] Scanning: ${OUTPUT_DIR}`);
+  const files = collectMdFiles(OUTPUT_DIR);
+  console.log(`[backfill] Trovati ${files.length} file .md`);
+
+  // Ordina dal più recente al più vecchio (per nome file)
+  files.sort((a, b) => path.basename(b).localeCompare(path.basename(a)));
 
   let total = 0, updated = 0, skipped = 0, errors = 0;
 
-  for (const { nicchia, dir, file } of toProcess) {
-      total++;
-      const filePath = path.join(dir, file);
-      const raw = fs.readFileSync(filePath, 'utf-8');
+  for (const filePath of files) {
+    total++;
+    const raw = fs.readFileSync(filePath, 'utf-8');
 
-      // Skip if already has image_url
-      if (/^image_url:/m.test(raw)) {
-        skipped++;
-        continue;
+    if (/^image_url:/m.test(raw)) {
+      skipped++;
+      continue;
+    }
+
+    // Estrai nicchia dal frontmatter; fallback al nome della dir padre
+    const nicchia = extractFrontmatterField(raw, 'nicchia')
+      || path.basename(path.dirname(filePath));
+    const title = extractFrontmatterField(raw, 'title') || '';
+
+    const baseQuery = nicchiaToQuery[nicchia] || nicchia;
+    const titleWords = title.replace(/['"]/g, '').split(' ').slice(0, 3).join(' ');
+    const query = titleWords.length > 5 ? `${titleWords} ${nicchia}` : baseQuery;
+
+    console.log(`[${total}] ${path.relative(OUTPUT_DIR, filePath)}`);
+
+    try {
+      const imageUrl = await fetchPexelsImage(query);
+      if (imageUrl) {
+        const newRaw = raw.replace(
+          /^(---\n[\s\S]*?)(---\n)/m,
+          (_, front, close) => `${front}image_url: "${imageUrl}"\n${close}`
+        );
+        fs.writeFileSync(filePath, newRaw, 'utf-8');
+        updated++;
+        console.log(`  → OK: ${imageUrl.substring(0, 60)}...`);
+      } else {
+        console.log('  → nessuna foto trovata');
       }
+    } catch (e) {
+      errors++;
+      console.error(`  → ERRORE: ${e.message}`);
+    }
 
-      // Extract title from frontmatter for search query
-      const titleMatch = raw.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-      const title = titleMatch ? titleMatch[1] : '';
-      const baseQuery = nicchiaToQuery[nicchia] || nicchia;
-      // Use first 3 words of title if available, else nicchia query
-      const titleWords = title.split(' ').slice(0, 3).join(' ');
-      const query = titleWords.length > 5 ? `${titleWords} ${nicchia}` : baseQuery;
-
-      try {
-        const imageUrl = await fetchPexelsImage(query);
-        if (imageUrl) {
-          // Insert image_url after the last frontmatter field before closing ---
-          const newRaw = raw.replace(
-            /^(---\n[\s\S]*?)(---\n)/m,
-            (_, front, close) => `${front}image_url: "${imageUrl}"\n${close}`
-          );
-          fs.writeFileSync(filePath, newRaw, 'utf-8');
-          updated++;
-          console.log(`[${updated}] ${nicchia}/${file} → OK`);
-        } else {
-          console.log(`[skip] ${nicchia}/${file} → nessuna foto trovata`);
-        }
-      } catch (e) {
-        errors++;
-        console.error(`[err] ${nicchia}/${file}: ${e.message}`);
-      }
-
-      await sleep(DELAY_MS);
+    await sleep(DELAY_MS);
   }
 
-  console.log(`\nFatto: ${total} articoli — ${updated} aggiornati, ${skipped} già con immagine, ${errors} errori`);
+  console.log(`\n[backfill] Completato: ${total} file — ${updated} aggiornati, ${skipped} già con immagine, ${errors} errori`);
 }
 
 main();

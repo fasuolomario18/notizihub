@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Em 2026, encontrar um seguro de carro económico requer comparação de várias ofertas e personalização da cobertura. As tecnologias de inteligência artificia"
 tags: ["seguro de carro", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35979809/pexels-photo-35979809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Seguro de Carro Mais Económico em 2026: Como Encontrar a Melhor RC Auto

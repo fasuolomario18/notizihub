@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "La mindfulness est une pratique de méditation accessible aux débutants pour réduire l'anxiété et améliorer le bien-être mental. Découvrez des techniques si"
 tags: ["anxiété", "psychologie"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7176132/pexels-photo-7176132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

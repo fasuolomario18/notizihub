@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Startup Weekend transforma ideias de jovens em negócios reais em 54 horas. Descobra como participar e impulsionar seu empreendedorismo através da Capmad.com."
 tags: ["startup", "empreendedorismo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

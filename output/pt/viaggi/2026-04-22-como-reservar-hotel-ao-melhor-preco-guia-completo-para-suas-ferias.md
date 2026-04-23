@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra como reservar hotel ao melhor preço. Dicas sobre voos baratos, comparação de plataformas e estratégias para economizar em suas férias."
 tags: ["voos baratos", "hotel", "férias"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7820689/pexels-photo-7820689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

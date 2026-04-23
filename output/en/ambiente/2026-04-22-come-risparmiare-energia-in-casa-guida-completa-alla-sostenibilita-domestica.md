@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Scopri come risparmiare energia in casa con strategie di sostenibilità. Riduci i consumi, combatti il cambiamento climatico e abbassa le bollette energetiche."
 tags: ["sustainability", "climate change"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18451632/pexels-photo-18451632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

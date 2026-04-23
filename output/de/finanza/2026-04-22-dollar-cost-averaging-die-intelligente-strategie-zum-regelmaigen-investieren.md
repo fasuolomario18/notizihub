@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Dollar cost averaging: cos'è e come funziona"
 tags: ["investieren", "sparen", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3943733/pexels-photo-3943733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

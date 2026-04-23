@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Im Jahr 2026 liegt die Regelaltersgrenze bei 67 Jahren. Erfahren Sie alles über vorgezogene Rente, Abschläge und Ihre Optionen für den Ruhestand."
 tags: ["Rente", "Ruhestand"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14093971/pexels-photo-14093971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Aprende cómo comenzar en el trading online para principiantes. Guía completa sobre bolsa, acciones y estrategias iniciales con seguridad."
 tags: ["trading", "acciones", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11361902/pexels-photo-11361902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

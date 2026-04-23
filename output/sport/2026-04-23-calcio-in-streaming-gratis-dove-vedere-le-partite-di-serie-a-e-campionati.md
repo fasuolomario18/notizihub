@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Nel 2026 ci sono molteplici opzioni per guardare il calcio in streaming gratis, dalla Serie A agli eventi internazionali. Scopri le migliori piattaforme le"
 tags: ["Serie A", "calcio", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5117989/pexels-photo-5117989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

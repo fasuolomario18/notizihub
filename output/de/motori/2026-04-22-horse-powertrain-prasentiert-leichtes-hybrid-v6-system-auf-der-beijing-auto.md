@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Horse Powertrain präsentierte auf der Beijing Auto Show 2026 ein innovatives leichtes Hybrid-V6-System, das eine Brücke zwischen traditionellen Verbrennung"
 tags: ["Elektroauto", "SUV", "Förderung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28721763/pexels-photo-28721763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

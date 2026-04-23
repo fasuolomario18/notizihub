@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Come smettere di sprecare soldi ogni mese"
 tags: ["invertir", "ahorro", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33607763/pexels-photo-33607763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

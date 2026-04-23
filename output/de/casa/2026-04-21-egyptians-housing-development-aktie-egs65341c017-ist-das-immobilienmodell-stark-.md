@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Egyptians Housing Development (EGS65341C017): Ist das Geschäftsmodell mit Hypotheken, Mieteinnahmen und Renovierungen stark genug? Analyse der Aktie und Marktchancen."
 tags: ["Hypothek", "Miete", "Renovierung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33217410/pexels-photo-33217410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

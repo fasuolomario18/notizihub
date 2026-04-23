@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Skeptical about air fryers? Discover how the Ninja Crispi converts disbelievers into loyal users with superior recipes and cooking performance that rivals traditional methods."
 tags: ["recipes", "cooking"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36739000/pexels-photo-36739000.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

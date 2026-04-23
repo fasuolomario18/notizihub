@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "61% des investisseurs en crypto ignorent les nouvelles règles fiscales de l'IRS pour la déclaration d'impôts. Découvrez les obligations légales avant le 15 avril 2026."
 tags: ["déclaration d'impôts", "fiscalité"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863286/pexels-photo-6863286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

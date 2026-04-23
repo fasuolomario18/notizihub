@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "En 2026, les meilleurs smartphones sous 300 euros intègrent l'intelligence artificielle pour optimiser les performances et l'autonomie. Les constructeurs p"
 tags: ["intelligence artificielle", "smartphone", "logiciel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/24181865/pexels-photo-24181865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

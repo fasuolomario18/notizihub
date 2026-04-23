@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Aprenda como analisar uma ação antes de comprar na bolsa. Guia completo sobre análise técnica, fundamental e indicadores essenciais para trading online com sucesso"
 tags: ["trading", "ações", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5831339/pexels-photo-5831339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

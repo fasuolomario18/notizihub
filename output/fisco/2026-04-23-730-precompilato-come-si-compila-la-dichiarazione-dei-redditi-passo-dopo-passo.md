@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Il 730 precompilato è il modello di dichiarazione dei redditi predisposto dall'Agenzia delle Entrate con i dati già inseriti. La compilazione richiede veri"
 tags: ["dichiarazione dei redditi", "tasse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5491062/pexels-photo-5491062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

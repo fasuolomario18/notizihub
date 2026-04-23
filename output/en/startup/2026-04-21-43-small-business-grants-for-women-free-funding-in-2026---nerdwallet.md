@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "43 small-business grants for women entrepreneurs in 2026 offer free startup funding. Discover federal, state, and nonprofit grant opportunities without repayment requirements."
 tags: ["startup", "entrepreneurship"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6956129/pexels-photo-6956129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

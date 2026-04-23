@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra qual plataforma escolher em 2026: PS5, Xbox Series X/S ou PC gaming. Comparação completa de exclusivos, preços e performance. Guia definitivo."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5626726/pexels-photo-5626726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

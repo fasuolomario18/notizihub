@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez les meilleures applications open source pour Android qui garantissent votre confidentialité et liberté numérique. Un guide complet des outils ess"
 tags: ["iPhone", "Android", "application"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6901037/pexels-photo-6901037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "NASA crew installs new science gear and begins space research on ISS. Advanced instruments enable climate, medical, and physics studies in microgravity environment."
 tags: ["science", "space", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8474466/pexels-photo-8474466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

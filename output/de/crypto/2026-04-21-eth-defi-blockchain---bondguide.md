@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "BondGuide revolutioniert dezentralisierte Anleihemärkte auf Ethereum. Erfahren Sie, wie diese DeFi-Plattform Bitcoin und Ethereum verbindet, um innovative Finanzlösungen zu schaffen."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8185629/pexels-photo-8185629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

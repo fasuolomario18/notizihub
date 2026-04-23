@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment dénicher des pièces de mode de qualité dans les marchés aux puces et brocantes. Apprenez à identifier les matières nobles, vérifier l'éta"
 tags: ["mode", "tendances", "tenue"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5717943/pexels-photo-5717943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

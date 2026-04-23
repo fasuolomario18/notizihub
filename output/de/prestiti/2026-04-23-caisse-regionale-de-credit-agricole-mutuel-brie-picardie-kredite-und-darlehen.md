@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die Caisse Régionale de Crédit Agricole Mutuel Brie Picardie ist eine französische Genossenschaftsbank, die Kredite und Darlehen für Privatpersonen und Unt"
 tags: ["Kredit", "Darlehen"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37143315/pexels-photo-37143315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

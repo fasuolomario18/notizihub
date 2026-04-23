@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Complete guide to adopting a dog: assess lifestyle, research breeds, find reputable sources, prepare your home, schedule vet visits, and begin training for successful pet ownership."
 tags: ["dog", "cat", "vet"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16465597/pexels-photo-16465597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

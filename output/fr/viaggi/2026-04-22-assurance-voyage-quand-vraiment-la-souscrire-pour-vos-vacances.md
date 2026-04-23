@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Assurance voyage: découvrez quand la souscrire vraiment. Protection essentielle pour vols pas chers, hôtel et vacances. Guide complet 2026."
 tags: ["vols pas chers", "hôtel", "vacances"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7010104/pexels-photo-7010104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

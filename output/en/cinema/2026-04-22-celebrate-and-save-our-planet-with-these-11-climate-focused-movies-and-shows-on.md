@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover 11 climate-focused movies and TV shows on Netflix celebrating our planet. From award-winning documentaries to dramatic series, explore environmental storytelling that inspires action."
 tags: ["movies", "TV shows", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5538737/pexels-photo-5538737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

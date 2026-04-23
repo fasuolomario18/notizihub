@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Carro elétrico reduz custo de uso em até 70% vs gasolina. Descubra incentivos para SUV elétricos e economize na manutenção. Mix Vale revela."
 tags: ["carro elétrico", "SUV", "incentivos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

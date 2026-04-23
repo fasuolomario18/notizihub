@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Résultats détaillés du match Andrey Rublev vs Arthur Fils du 19 avril 2026 au tournoi de Barcelone Men's Singles. Scores, performances et analyse tactique en direct sur Eurosport."
 tags: ["football", "Ligue 1", "Formule 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5739120/pexels-photo-5739120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

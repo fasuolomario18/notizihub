@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La Regione Lombardia rafforza i Patti Territoriali di Sostenibilità, un programma ambizioso per contrastare i cambiamenti climatici e promuovere lo svilupp"
 tags: ["sostenibilità", "clima"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19969441/pexels-photo-19969441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

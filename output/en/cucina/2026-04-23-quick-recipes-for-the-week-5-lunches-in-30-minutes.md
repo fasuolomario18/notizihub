@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Quick 30-minute lunch recipes for busy weekdays. Five satisfying dishes combining fresh ingredients with efficient cooking techniques for nutritious meals."
 tags: ["recipes", "cooking"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13428163/pexels-photo-13428163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

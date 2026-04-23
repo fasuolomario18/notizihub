@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Come risparmiare energia in casa"
 tags: ["sostenibilidad", "cambio climático"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6990580/pexels-photo-6990580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cómo Ahorrar Energía en Casa: Guía Práctica para Combatir el Cambio Climático

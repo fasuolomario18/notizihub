@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Renault e Geely desenvolveram um sistema inovador que permite transformar um carro elétrico em híbrido, ampliando as possibilidades de uso dos SUVs elétric"
 tags: ["carro elétrico", "SUV", "incentivos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20286882/pexels-photo-20286882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

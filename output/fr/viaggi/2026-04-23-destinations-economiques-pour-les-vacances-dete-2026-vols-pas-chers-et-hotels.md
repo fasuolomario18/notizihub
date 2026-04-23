@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les vacances estivales 2026 offrent de nombreuses opportunités pour voyager à petit budget grâce aux vols pas chers et aux hôtels économiques. En planifian"
 tags: ["vols pas chers", "hôtel", "vacances"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7010194/pexels-photo-7010194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

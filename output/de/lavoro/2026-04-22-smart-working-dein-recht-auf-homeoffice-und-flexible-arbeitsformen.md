@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Smart working: diritti e come richiederlo"
 tags: ["Homeoffice", "Gehalt", "Lebenslauf"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4043789/pexels-photo-4043789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "El maquillaje natural es tendencia en 2026 y requiere una base impecable de skincare. Descubre los productos esenciales para crear un look minimalista que "
 tags: ["skincare", "maquillaje", "cabello"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4841509/pexels-photo-4841509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

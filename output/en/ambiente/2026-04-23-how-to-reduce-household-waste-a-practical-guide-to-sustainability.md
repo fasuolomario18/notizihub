@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Reduce household waste and combat climate change with practical strategies including composting, reusing items, smart shopping, and eliminating single-use products. Start your sustainability journey today."
 tags: ["sustainability", "climate change"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7692984/pexels-photo-7692984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

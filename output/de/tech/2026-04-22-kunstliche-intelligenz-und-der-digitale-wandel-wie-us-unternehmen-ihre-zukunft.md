@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Viele US-amerikanische Unternehmen haben ihre traditionellen Geschäftsmodelle aufgegeben, um in künstliche Intelligenz und Softwaretechnologie zu investier"
 tags: ["künstliche Intelligenz", "Smartphone", "Software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

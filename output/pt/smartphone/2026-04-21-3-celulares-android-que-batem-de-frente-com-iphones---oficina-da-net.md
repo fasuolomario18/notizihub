@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Conheça os 3 melhores celulares Android que competem com iPhones em 2026: Galaxy S26 Ultra, Pixel 9 Pro XL e OnePlus 13 Pro. Descubra qual é ideal para você."
 tags: ["iPhone", "Android", "aplicativo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14444097/pexels-photo-14444097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

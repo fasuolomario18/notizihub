@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "SRF berichtet umfassend über Tennis, Olympische Spiele und Skicross mit professioneller Qualität, ähnlich wie Fußball und Formel 1. Erfahren Sie mehr über die Sportberichterstattung."
 tags: ["Fußball", "Bundesliga", "Formel 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30726603/pexels-photo-30726603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

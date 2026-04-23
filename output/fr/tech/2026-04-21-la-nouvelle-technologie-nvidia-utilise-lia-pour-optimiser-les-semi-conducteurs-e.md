@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "NVIDIA révolutionne l'optimisation des semi-conducteurs avec l'IA, réduisant la conception de mois à heures. Découvrez comment cette technologie transforme l'industrie du smartphone et des logiciels."
 tags: ["intelligence artificielle", "smartphone", "logiciel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8721318/pexels-photo-8721318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

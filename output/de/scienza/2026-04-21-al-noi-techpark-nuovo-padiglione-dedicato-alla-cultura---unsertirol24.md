@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Der neue Al NOI Techpark Pavillon verbindet Wissenschaft und Kultur mit NASA-Kooperationen. Erfahren Sie mehr über Weltraum, Forschung und innovative Bildungsangebote in Südtirol."
 tags: ["Wissenschaft", "Weltall", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34583777/pexels-photo-34583777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

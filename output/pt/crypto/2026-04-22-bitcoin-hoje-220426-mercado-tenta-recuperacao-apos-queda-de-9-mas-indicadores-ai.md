@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Bitcoin hoje 21/04/26: Mercado tenta recuperação após queda de 9%, mas indicadores ainda apontam cautela - criptofacil.com"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12920769/pexels-photo-12920769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

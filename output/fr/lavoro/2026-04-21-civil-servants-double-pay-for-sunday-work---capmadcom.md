@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment les fonctionnaires français bénéficient d'une double paie pour le travail dominical, les implications du télétravail et l'impact sur le salaire."
 tags: ["télétravail", "salaire", "CV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36517390/pexels-photo-36517390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

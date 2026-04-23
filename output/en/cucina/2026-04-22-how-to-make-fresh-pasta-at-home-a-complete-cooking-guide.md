@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master fresh pasta cooking at home with simple recipes and step-by-step techniques. Learn traditional Italian methods for creating authentic homemade pasta."
 tags: ["recipes", "cooking"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4252773/pexels-photo-4252773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

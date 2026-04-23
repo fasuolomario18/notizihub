@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "HOOPS AI de Tech Soft 3D integra inteligencia artificial en software CAD para automatizar procesos. Acceso desde smartphone incluido. Revoluciona diseño."
 tags: ["inteligencia artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30530404/pexels-photo-30530404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

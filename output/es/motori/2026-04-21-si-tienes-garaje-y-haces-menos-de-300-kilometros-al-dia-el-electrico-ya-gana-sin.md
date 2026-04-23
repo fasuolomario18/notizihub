@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Coche eléctrico para menos de 300 km diarios: análisis económico de por qué los EV y SUV eléctricos ganan frente a combustión con garaje."
 tags: ["coche eléctrico", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

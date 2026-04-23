@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "No-interest personal loans offer savings on borrowing costs. Explore 5 options including credit cards, buy-now-pay-later, and credit unions while protecting your credit score."
 tags: ["personal loan", "credit score"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30945618/pexels-photo-30945618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

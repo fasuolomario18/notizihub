@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Come trovare capi di qualità nei mercatini"
 tags: ["moda", "tendências", "look"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9492816/pexels-photo-9492816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Como Encontrar Peças de Qualidade nos Mercadinhos: Guia Essencial para Fashionistas

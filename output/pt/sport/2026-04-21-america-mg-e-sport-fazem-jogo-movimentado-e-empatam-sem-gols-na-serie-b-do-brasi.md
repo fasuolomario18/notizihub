@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "América-MG e Sport empatam sem gols na Série B do Brasileirão em jogo movimentado. Confira análise tática e oportunidades perdidas."
 tags: ["futebol", "Brasileirão", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7862520/pexels-photo-7862520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

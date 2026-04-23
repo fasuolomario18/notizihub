@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Erfahren Sie, wie Sie professionell eine Gehaltserhöhung fordern. Praktische Tipps zu Vorbereitung, Timing und Verhandlungstaktiken für Ihren Erfolg."
 tags: ["Homeoffice", "Gehalt", "Lebenslauf"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34369598/pexels-photo-34369598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

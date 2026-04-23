@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Migliori smartphone sotto 300 euro nel 2026"
 tags: ["künstliche Intelligenz", "Smartphone", "Software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/24181865/pexels-photo-24181865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

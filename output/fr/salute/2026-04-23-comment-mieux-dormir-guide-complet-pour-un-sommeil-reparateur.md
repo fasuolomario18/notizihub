@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment dormir mieux avec notre guide complet sur le régime, le bien-être et la prévention pour des nuits réparatrices et une santé optimale."
 tags: ["régime", "bien-être", "prévention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5778359/pexels-photo-5778359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

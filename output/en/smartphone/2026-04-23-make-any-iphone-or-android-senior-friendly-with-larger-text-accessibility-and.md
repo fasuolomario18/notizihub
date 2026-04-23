@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Make iPhone and Android senior-friendly with larger text, simple layouts, and accessibility features. Step-by-step guide for families."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36680542/pexels-photo-36680542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

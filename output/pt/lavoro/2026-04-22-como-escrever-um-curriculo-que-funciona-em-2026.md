@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Em 2026, um currículo eficaz deve destacar experiência em trabalho remoto, habilidades digitais e negociação salarial transparente. A otimização para siste"
 tags: ["trabalho remoto", "salário", "currículo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/24429536/pexels-photo-24429536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

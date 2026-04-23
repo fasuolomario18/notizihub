@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La mindfulness è una pratica psicologica efficace per ridurre l'ansia e migliorare il benessere mentale. Scopri le tecniche più semplici per iniziare, dall"
 tags: ["ansia", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8407044/pexels-photo-8407044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

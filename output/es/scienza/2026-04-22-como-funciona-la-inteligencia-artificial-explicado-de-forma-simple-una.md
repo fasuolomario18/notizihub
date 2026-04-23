@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo funciona la inteligencia artificial de forma simple y sus aplicaciones en ciencia y exploración espacial con la NASA."
 tags: ["ciencia", "espacio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8392830/pexels-photo-8392830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

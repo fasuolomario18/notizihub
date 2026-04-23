@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die Partita IVA forfettaria ist ein vereinfachtes Steuersystem für Freiberufler und Kleinunternehmer in Italien mit pauschalen Abgabenquoten. Sie lohnt sic"
 tags: ["Steuererklärung", "Steuer"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5484745/pexels-photo-5484745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

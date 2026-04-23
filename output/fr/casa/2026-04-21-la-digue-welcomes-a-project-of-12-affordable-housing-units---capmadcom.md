@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "La Digue accueille 12 logements abordables avec des solutions de loyer accessible et hypothèques flexibles. Découvrez ce projet immobilier transformateur de Capmad.com"
 tags: ["hypothèque", "loyer", "rénovation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32974328/pexels-photo-32974328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

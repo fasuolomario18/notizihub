@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "EQT identifies AI market corrections as strategic technology investment opportunities, focusing on undervalued software and smartphone sectors positioned to benefit from artificial intelligence adoption."
 tags: ["artificial intelligence", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8192001/pexels-photo-8192001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

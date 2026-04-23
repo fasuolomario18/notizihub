@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Lacerinas sind der heißeste Schuhtrend des Frühlings 2026 und kombinieren feminine Eleganz mit urbaner Coolness. Diese einzigartigen Schuhe lassen sich vie"
 tags: ["Mode", "Trends", "Outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32751993/pexels-photo-32751993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

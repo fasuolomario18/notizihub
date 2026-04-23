@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Eine Reiseversicherung ist nicht immer notwendig, wird aber besonders wichtig bei teuren Reisen, Billigflügen ohne Flexibilität und Aufenthalten in Ländern"
 tags: ["Billigflüge", "Hotel", "Urlaub"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7010104/pexels-photo-7010104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

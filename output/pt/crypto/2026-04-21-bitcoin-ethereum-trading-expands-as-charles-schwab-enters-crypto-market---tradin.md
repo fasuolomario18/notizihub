@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Charles Schwab entra no mercado cripto com Bitcoin e Ethereum. Descubra o impacto na liquidez, DeFi e adoção institucional de criptomoedas em 2026."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

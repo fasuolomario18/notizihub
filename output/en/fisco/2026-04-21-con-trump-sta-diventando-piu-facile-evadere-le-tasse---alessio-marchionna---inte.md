@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Trump policies weakening IRS enforcement make tax evasion easier, with declining audit rates and reduced compliance mechanisms affecting American taxpayers in 2026"
 tags: ["tax return", "IRS", "taxes"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30917967/pexels-photo-30917967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

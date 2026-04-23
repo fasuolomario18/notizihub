@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité"
 tags: ["facture d'électricité", "panneaux solaires"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9468357/pexels-photo-9468357.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

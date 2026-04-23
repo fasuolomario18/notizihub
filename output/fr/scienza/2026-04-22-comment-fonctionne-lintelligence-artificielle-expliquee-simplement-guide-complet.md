@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Come funziona l'intelligenza artificiale spiegato semplice"
 tags: ["science", "espace", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/684319/pexels-photo-684319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

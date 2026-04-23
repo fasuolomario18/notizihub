@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les 10 meilleurs films romantiques Netflix à regarder en 2026 : productions originales, classiques et découvertes récentes pour tous les cœurs tendres"
 tags: ["films", "séries", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33381191/pexels-photo-33381191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

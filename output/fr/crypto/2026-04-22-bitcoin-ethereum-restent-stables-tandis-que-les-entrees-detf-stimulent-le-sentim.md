@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Bitcoin, Ethereum restent stables alors que les entrées d’ETF stimulent le sentiment du marché pour XRP et Dogecoin - Yahoo Finance France"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911424/pexels-photo-14911424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Comienza tu viaje como corredor con nuestro programa de 8 semanas diseñado para principiantes absolutos. Descubre cómo construir resistencia gradualmente, "
 tags: ["fútbol", "La Liga", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29658114/pexels-photo-29658114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

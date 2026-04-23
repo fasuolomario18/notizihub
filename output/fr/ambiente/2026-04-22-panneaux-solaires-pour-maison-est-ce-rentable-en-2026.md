@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Panneaux solaires pour maison en 2026 : rentabilité, durabilité et économies d'énergie. Découvrez les avantages économiques et environnementaux du solaire résidentiel."
 tags: ["durabilité", "changement climatique"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9795367/pexels-photo-9795367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

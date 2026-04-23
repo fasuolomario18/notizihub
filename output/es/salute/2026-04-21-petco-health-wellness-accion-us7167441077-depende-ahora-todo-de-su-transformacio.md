@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Petco Health & Wellness apuesta su futuro en transformación digital, servicios preventivos y dieta especializada. ¿Funcionará? Análisis de su estrategia de bienestar animal."
 tags: ["dieta", "bienestar", "prevención"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33998164/pexels-photo-33998164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

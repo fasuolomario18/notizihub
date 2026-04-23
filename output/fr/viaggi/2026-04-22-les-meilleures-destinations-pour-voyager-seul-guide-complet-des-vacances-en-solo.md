@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les meilleures destinations pour voyager en solo offrent sécurité, accessibilité et expériences enrichissantes. Découvrez comment trouver des vols pas cher"
 tags: ["vols pas chers", "hôtel", "vacances"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1167021/pexels-photo-1167021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

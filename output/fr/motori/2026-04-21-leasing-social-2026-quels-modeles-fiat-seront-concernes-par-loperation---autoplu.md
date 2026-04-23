@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Leasing social 2026 : découvrez les modèles Fiat subventionnés (500e, 600e) et accédez à une voiture électrique abordable dès 100€/mois"
 tags: ["voiture électrique", "SUV", "subvention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37143217/pexels-photo-37143217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

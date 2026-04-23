@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Ethereum est une plateforme blockchain décentralisée fondée en 2015 qui permet d'exécuter des contrats intelligents. Contrairement à Bitcoin, Ethereum va b"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911423/pexels-photo-14911423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

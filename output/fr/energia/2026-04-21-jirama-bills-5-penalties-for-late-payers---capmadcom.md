@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Pénalité Jirama 5% factures impayées électricité Madagascar. Solutions panneaux solaires économies énergie durable."
 tags: ["facture d'électricité", "panneaux solaires"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16823695/pexels-photo-16823695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

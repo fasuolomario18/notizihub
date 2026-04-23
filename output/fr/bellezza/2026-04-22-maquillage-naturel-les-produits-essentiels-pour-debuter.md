@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Trucco naturale: prodotti essenziali per iniziare"
 tags: ["soins de peau", "maquillage", "cheveux"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10456403/pexels-photo-10456403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

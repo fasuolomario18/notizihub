@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Trouver une bonne voiture d'occasion sous 10 000 euros est tout à fait possible en 2026. Entre les SUV compacts, les véhicules électriques d'occasion et le"
 tags: ["voiture électrique", "SUV", "subvention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154611/pexels-photo-37154611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

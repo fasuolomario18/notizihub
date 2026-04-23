@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "2026 promete ser un año crucial para la exploración espacial con múltiples misiones de la NASA y agencias internacionales. Desde nuevos lanzamientos a la L"
 tags: ["ciencia", "espacio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/586030/pexels-photo-586030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

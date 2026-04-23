@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "El Bonus Ristrutturazione 2026 es un incentivo fiscal italiano que permite deducir hasta el 50% de los gastos de renovación del hogar. Este beneficio aplic"
 tags: ["hipoteca", "alquiler", "renovación"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6102155/pexels-photo-6102155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

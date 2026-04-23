@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "IRS data sharing with ICE creates decline in immigrant tax filings, potentially costing billions. Learn about revenue loss, impacts, and the tax return filing chilling effect."
 tags: ["tax return", "IRS", "taxes"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30855422/pexels-photo-30855422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

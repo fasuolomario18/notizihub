@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Neue Mode: Die besten High-Street-Designs der Woche von Uniqlo, H&M und Co."
 tags: ["Mode", "Trends", "Outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36804714/pexels-photo-36804714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

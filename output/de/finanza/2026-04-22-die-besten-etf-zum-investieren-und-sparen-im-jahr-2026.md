@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die besten ETFs für 2026 bieten eine ausgewogene Mischung aus Stabilität und Wachstumspotenzial. Von Aktien-ETFs über Anleihen bis hin zu thematischen Fond"
 tags: ["investieren", "sparen", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/26841237/pexels-photo-26841237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

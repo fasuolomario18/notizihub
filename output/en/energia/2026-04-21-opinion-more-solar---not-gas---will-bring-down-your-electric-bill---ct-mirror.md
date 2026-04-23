@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Solar panels offer superior long-term savings compared to gas infrastructure expansion. Discover how residential solar can reduce your electricity bill significantly while protecting against future energy costs."
 tags: ["electricity bill", "solar panels"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9799761/pexels-photo-9799761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

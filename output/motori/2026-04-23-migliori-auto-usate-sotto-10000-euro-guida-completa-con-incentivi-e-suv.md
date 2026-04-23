@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Nel 2026, il mercato delle auto usate sotto 10.000 euro offre opportunità interessanti, soprattutto con la crescente disponibilità di auto elettriche a pre"
 tags: ["auto elettrica", "SUV", "incentivi auto"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

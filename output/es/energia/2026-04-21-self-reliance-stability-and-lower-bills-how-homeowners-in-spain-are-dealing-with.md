@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Paneles solares reducen factura de luz en España. Guía completa: amortización, beneficios y subvenciones 2026."
 tags: ["factura de luz", "paneles solares"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545333/pexels-photo-7545333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Costo mensile di un gatto: cosa sapere prima"
 tags: ["perro", "gato", "veterinario"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/128662/pexels-photo-128662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

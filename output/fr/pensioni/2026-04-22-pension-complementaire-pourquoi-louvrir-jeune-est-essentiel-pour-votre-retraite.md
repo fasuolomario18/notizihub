@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez pourquoi ouvrir une pension complémentaire jeune est crucial pour votre retraite. Intérêt composé, avantages fiscaux et sécurité financière garantie."
 tags: ["retraite", "pension"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545296/pexels-photo-7545296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

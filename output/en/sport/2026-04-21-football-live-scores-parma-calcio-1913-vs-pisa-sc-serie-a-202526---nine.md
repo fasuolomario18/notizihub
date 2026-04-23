@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Parma vs Pisa Serie A 2025/26 live football scores. Get match updates, analysis and key details for this important Italian football fixture."
 tags: ["football", "NBA", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29719242/pexels-photo-29719242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

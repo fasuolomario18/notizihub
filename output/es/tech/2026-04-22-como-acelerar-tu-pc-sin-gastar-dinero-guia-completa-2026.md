@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Optimiza tu PC sin gastar dinero usando herramientas gratuitas, inteligencia artificial y software de código abierto. Descubre métodos probados para aceler"
 tags: ["inteligencia artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8108726/pexels-photo-8108726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "VPN: cos'è e perché usarla nel 2026"
 tags: ["intelligence artificielle", "smartphone", "logiciel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

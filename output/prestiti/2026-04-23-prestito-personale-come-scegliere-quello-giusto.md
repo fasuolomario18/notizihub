@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scegliere il prestito personale giusto significa valutare con attenzione tassi di interesse, commissioni, durata del finanziamento e affidabilità dell'isti"
 tags: ["prestito personale", "finanziamento"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3943729/pexels-photo-3943729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

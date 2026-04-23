@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Nel 2026, gli exchange crypto italiani offrono piattaforme sicure e regolamentate per acquistare Bitcoin ed Ethereum. Le migliori opzioni combinano bassi c"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911432/pexels-photo-14911432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

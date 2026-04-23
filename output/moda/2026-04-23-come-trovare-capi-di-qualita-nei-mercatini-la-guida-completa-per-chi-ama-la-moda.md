@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri come scegliere capi di qualità nei mercatini vintage e dell'usato, seguendo una guida pratica per riconoscere tessuti pregiati e stili senza tempo. "
 tags: ["moda", "tendenze", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30922974/pexels-photo-30922974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

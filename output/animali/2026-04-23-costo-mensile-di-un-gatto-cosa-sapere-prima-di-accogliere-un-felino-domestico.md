@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Il costo mensile di un gatto varia tra 50 e 150 euro, includendo cibo, lettiera e cure veterinarie. Prima di prendere un felino domestico, è fondamentale c"
 tags: ["cane", "gatto", "veterinario"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5909808/pexels-photo-5909808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

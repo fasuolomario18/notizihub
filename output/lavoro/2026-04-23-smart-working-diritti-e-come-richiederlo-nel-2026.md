@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Lo smart working è un diritto riconosciuto dal 2024 per molti lavoratori italiani, con benefici che incidono su stipendio e qualità della vita. La richiest"
 tags: ["smart working", "stipendio", "curriculum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5950690/pexels-photo-5950690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

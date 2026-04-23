@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Tax Day 2026: Advertencia final del IRS para declaración de renta. Conoce fechas límite, multas y cómo evitar penalidades en impuestos."
 tags: ["declaración de renta", "impuestos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863244/pexels-photo-6863244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

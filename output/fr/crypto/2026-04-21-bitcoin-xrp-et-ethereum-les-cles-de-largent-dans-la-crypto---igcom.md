@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Bitcoin, Ethereum et XRP définissent l'argent crypto en 2026. Découvrez leurs rôles distincts dans la finance décentralisée et les paiements numériques."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

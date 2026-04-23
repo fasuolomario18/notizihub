@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La SEC affronta pressioni crescenti per convertire le linee guida sulla DeFi in norme formali e vincolanti. Questa evoluzione normativa potrebbe impattare "
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5127352/pexels-photo-5127352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

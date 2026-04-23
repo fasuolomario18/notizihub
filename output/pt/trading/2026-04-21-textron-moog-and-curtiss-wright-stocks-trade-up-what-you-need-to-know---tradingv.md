@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra por que ações de Textron, Moog e Curtiss-Wright estão em alta. Analise gráficos em TradingView, entenda fatores de mercado e oportunidades de trading"
 tags: ["trading", "ações", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19891035/pexels-photo-19891035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "L'Antitrust italiano ha avviato un'inchiesta sui colossi della bellezza per verificare l'uso di baby-influencer nella promozione di prodotti skincare. L'in"
 tags: ["skincare", "trucco", "capelli"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5632404/pexels-photo-5632404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

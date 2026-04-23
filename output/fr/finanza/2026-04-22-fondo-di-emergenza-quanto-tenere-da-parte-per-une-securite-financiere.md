@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Un fonds d'urgence doit représenter 3 à 6 mois de dépenses essentielles. Cet argent doit rester facilement accessible tout en générant un rendement modeste"
 tags: ["investir", "épargne", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36458686/pexels-photo-36458686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

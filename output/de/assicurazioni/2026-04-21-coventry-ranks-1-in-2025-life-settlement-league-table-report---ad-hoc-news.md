@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Coventry führt 2025 Life Settlement Ranking an. Erfahren Sie mehr über Lebensversicherungen, Kfz-Versicherungen und die Position Coventrys in der Branche."
 tags: ["Kfz-Versicherung", "Lebensversicherung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7545413/pexels-photo-7545413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

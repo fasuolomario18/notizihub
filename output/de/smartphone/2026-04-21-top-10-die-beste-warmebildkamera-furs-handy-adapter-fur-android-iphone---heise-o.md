@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Top 10: Die beste Wärmebildkamera fürs Handy – Adapter für Android & iPhone - heise online"
 tags: ["iPhone", "Android", "App"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/21854468/pexels-photo-21854468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

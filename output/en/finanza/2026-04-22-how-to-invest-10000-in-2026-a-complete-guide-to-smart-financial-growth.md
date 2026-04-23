@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Invest €10,000 wisely in 2026 using ETFs, diversified savings, and strategic planning. Build lasting wealth through low-cost index investing"
 tags: ["investing", "savings", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33785780/pexels-photo-33785780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

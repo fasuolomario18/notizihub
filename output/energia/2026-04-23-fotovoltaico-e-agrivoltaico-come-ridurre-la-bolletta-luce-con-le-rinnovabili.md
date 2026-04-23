@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "L'agrivoltaico rappresenta il 50% dei progetti in autorizzazione per le energie rinnovabili in Italia, offrendo una soluzione innovativa che combina agrico"
 tags: ["bolletta luce", "fotovoltaico"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5906831/pexels-photo-5906831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

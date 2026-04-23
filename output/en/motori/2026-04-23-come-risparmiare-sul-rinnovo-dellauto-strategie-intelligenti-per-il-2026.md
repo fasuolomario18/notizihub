@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Scopri come risparmiare sul rinnovo dell'auto nel 2026: incentivi EV, SUV elettrici convenienti e strategie di finanziamento intelligenti per il tuo portafoglio."
 tags: ["electric car", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154614/pexels-photo-37154614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

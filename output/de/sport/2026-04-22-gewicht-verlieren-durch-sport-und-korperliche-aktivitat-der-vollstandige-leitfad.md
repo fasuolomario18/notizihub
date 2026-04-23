@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Come perdere peso con l'attività fisica"
 tags: ["Fußball", "Bundesliga", "Formel 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37107440/pexels-photo-37107440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

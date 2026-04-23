@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Novo Mercedes Classe C 2027 revelado com motor elétrico - fotos e detalhes - CAR.BLOG.BR"
 tags: ["carro elétrico", "SUV", "incentivos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18369291/pexels-photo-18369291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

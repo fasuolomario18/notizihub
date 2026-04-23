@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "A cessão do quinto é uma modalidade de empréstimo pessoal que permite ao trabalhador receber crédito com desconto direto na folha de pagamento. Oferece tax"
 tags: ["empréstimo pessoal", "crédito"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31730453/pexels-photo-31730453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

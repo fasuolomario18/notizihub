@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Hyundai präsentiert den neuen IONIQ 3, einen innovativen Aero-Hatchback, der Elektroauto-Standards neu definiert. Mit fortschrittlicher Aerodynamik, intell"
 tags: ["Elektroauto", "SUV", "Förderung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11952741/pexels-photo-11952741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

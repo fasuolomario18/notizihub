@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment débuter la course à pied avec notre programme d'8 semaines progressif. Du jogging léger à 5km continus, guide complet pour débutants."
 tags: ["football", "Ligue 1", "Formule 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8381741/pexels-photo-8381741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

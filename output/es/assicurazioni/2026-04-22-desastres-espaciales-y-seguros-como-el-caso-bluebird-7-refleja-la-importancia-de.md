@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "AST: BlueBird 7 placed in lower-than-planned orbit; satellite to be de-orbited, insurance to cover loss - TradingView"
 tags: ["seguro de coche", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27791225/pexels-photo-27791225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Desastres Espaciales y Seguros: Cómo el Caso BlueBird 7 Refleja la Importancia de la Cobertura Integral

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Complete guide to tenant rights and responsibilities in Italy covering rent, maintenance, renovations, and legal protections for renters in 2026."
 tags: ["mortgage", "rent", "renovation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31889397/pexels-photo-31889397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

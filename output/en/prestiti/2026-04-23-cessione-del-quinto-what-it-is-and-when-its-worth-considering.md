@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Cessione del quinto is an Italian personal loan for employees and pensioners, offering flexible borrowing up to one-fifth of monthly income. Learn when it benefits your credit score and finances."
 tags: ["personal loan", "credit score"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16695380/pexels-photo-16695380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

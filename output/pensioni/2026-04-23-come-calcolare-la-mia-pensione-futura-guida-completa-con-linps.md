@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Calcolare la propria pensione futura è essenziale per pianificare il futuro finanziario. L'INPS mette a disposizione strumenti online e sistemi di calcolo "
 tags: ["pensione", "INPS"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/221174/pexels-photo-221174.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

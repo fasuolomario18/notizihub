@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "En Italie, la taxation des cryptomonnaies comme le Bitcoin et l'Ethereum est réglementée par l'Agenzia delle Entrate. Les gains sont imposés à 26% et doive"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911432/pexels-photo-14911432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

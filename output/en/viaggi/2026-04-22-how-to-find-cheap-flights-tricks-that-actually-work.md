@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master finding cheap flights with proven strategies: timing, flexibility, comparison tools, and booking tactics that save hundreds on vacation airfare and hotel costs."
 tags: ["cheap flights", "hotel", "vacation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/793088/pexels-photo-793088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

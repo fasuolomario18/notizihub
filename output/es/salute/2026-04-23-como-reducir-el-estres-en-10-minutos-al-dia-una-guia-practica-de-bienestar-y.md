@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo reducir el estrés en solo 10 minutos diarios mediante técnicas simples de bienestar. Una rutina corta pero efectiva de prevención que mejora "
 tags: ["dieta", "bienestar", "prevención"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33689523/pexels-photo-33689523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

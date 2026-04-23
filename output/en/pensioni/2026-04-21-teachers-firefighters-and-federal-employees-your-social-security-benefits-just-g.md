@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Social Security benefits for teachers, firefighters, and federal employees increased in 2026. Learn how pension and retirement changes affect you."
 tags: ["pension", "retirement", "social security"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5965121/pexels-photo-5965121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

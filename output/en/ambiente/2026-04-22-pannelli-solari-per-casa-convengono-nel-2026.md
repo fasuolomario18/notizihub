@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Solar panels for homes in 2026 offer financial savings, sustainability benefits, and climate change mitigation. Discover why residential solar systems remain a worthwhile investment today."
 tags: ["sustainability", "climate change"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/100648/pexels-photo-100648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

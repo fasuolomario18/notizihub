@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Le scoperte scientifiche più importanti del 2026"
 tags: ["ciencia", "espacio", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8666430/pexels-photo-8666430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

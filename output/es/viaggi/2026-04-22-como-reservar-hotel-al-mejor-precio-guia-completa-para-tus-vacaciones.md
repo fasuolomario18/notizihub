@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Come prenotare hotel al miglior prezzo"
 tags: ["vuelos baratos", "hotel", "vacaciones"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10047588/pexels-photo-10047588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

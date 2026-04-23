@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Pannelli solari per casa: convengono nel 2026"
 tags: ["Nachhaltigkeit", "Klimawandel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32016346/pexels-photo-32016346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

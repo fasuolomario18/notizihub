@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Scopri a che età andare in pensione nel 2026: guida completa alle pensioni, social security e requisiti di contribuzione in Italia."
 tags: ["pension", "retirement", "social security"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11739273/pexels-photo-11739273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

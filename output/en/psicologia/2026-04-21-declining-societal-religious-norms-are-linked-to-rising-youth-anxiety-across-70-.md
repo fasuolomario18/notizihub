@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Study across 70 countries reveals declining religious norms linked to rising youth anxiety. Explore psychology insights on mental health and community support needs."
 tags: ["anxiety", "psychology", "mental health"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6870241/pexels-photo-6870241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

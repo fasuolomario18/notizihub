@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover where to watch free football, NBA, and Formula 1 streaming in 2026. Legal platforms for sports content without expensive subscriptions."
 tags: ["football", "NBA", "Formula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36766039/pexels-photo-36766039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

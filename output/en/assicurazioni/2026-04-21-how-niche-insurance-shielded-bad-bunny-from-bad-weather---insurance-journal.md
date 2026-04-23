@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Bad Bunny's niche car and life insurance protected him from severe weather damage. Specialized policies offer superior coverage compared to standard options."
 tags: ["car insurance", "life insurance"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7688374/pexels-photo-7688374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

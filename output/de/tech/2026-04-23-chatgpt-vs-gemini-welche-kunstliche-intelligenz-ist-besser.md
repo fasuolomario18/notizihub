@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "ChatGPT und Gemini sind die beiden führenden KI-Systeme im Jahr 2026, die sich in Funktionalität, Verfügbarkeit und Leistung unterscheiden. Welche künstlic"
 tags: ["künstliche Intelligenz", "Smartphone", "Software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17560575/pexels-photo-17560575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

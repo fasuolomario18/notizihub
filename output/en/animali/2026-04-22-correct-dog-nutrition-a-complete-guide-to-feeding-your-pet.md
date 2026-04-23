@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover proper dog nutrition essentials: proteins, portion control, life stages. Learn when to consult your vet and avoid toxic foods for optimal canine health."
 tags: ["dog", "cat", "vet"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8434633/pexels-photo-8434633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

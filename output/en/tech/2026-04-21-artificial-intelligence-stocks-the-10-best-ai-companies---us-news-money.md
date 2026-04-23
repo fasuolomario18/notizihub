@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover the 10 best artificial intelligence stocks for 2026. Analyze top AI companies driving innovation in smartphones, software, and enterprise solutions."
 tags: ["artificial intelligence", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16380906/pexels-photo-16380906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

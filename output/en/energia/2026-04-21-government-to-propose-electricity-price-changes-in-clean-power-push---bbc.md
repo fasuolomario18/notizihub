@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Government proposes electricity bill changes to incentivize clean energy adoption, making solar panels more attractive through reformed pricing and export tariffs."
 tags: ["electricity bill", "solar panels"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/259103/pexels-photo-259103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

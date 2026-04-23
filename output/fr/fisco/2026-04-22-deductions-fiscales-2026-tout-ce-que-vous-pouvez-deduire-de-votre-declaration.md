@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les déductions fiscales 2026 permettent de réduire significativement votre fiscalité en déclaration d'impôts. Découvrez toutes les charges déductibles, les"
 tags: ["déclaration d'impôts", "fiscalité"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863279/pexels-photo-6863279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

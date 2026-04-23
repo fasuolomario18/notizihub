@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "La póliza de salud integrativa complementa la cobertura pública ofreciendo acceso a servicios médicos privados, especialistas y medicamentos sin esperas. A"
 tags: ["seguro de coche", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7163953/pexels-photo-7163953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

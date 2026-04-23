@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "730 precompilato: come si compila"
 tags: ["declaração de imposto", "IR"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32531903/pexels-photo-32531903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

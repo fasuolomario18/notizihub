@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Obtenir une hypothèque en 2026 requiert une bonne préparation financière et une compréhension des conditions actuelles du marché. Cette guide complète vous"
 tags: ["hypothèque", "loyer", "rénovation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27695207/pexels-photo-27695207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

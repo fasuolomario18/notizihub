@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover 5 startup grants to launch your business. Learn about SBA programs, women entrepreneur grants, tech funding, and impact-focused opportunities on GrantWatch."
 tags: ["startup", "entrepreneurship"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

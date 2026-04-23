@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Kostenlose Elektrizität bei Sonnenschein im UK zeigt: Deutsche Biorario-Tarife sind veraltet. Erfahren Sie, wie moderne Stromrechnung Haushalte mit Solaranlage entlasten könnte."
 tags: ["Stromrechnung", "Solaranlage"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33459339/pexels-photo-33459339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

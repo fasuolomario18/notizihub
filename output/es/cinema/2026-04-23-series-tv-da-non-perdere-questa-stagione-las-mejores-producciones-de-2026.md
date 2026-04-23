@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre las mejores series TV de 2026 que no puedes perderte. Netflix y otras plataformas ofrecen dramas, thrillers y películas imprescindibles esta temporada."
 tags: ["películas", "series", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5202925/pexels-photo-5202925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

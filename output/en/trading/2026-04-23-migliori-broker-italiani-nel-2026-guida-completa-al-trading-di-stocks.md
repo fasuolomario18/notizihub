@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "I migliori broker italiani nel 2026 offrono piattaforme avanzate per il trading di stocks e accesso ai mercati globali. La scelta del broker giusto dipende"
 tags: ["trading", "stocks", "market"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7567444/pexels-photo-7567444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

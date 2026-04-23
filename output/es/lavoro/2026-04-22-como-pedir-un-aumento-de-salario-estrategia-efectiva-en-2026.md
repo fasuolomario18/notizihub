@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Aprende cómo pedir un aumento de salario efectivamente con estrategia, currículum actualizado y datos de mercado. Guía completa para 2026."
 tags: ["teletrabajo", "salario", "currículum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

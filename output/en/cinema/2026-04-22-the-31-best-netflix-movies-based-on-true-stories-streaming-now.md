@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Netflix's 31 best movies based on true stories offer inspiring dramas, crime thrillers, and historical epics. Discover authentic narratives streaming now."
 tags: ["movies", "TV shows", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

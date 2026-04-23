@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Freshworks, Procore Technologies e PubMatic registraram aumentos significativos nas suas cotações em 2026, impulsionadas por inovações em inteligência arti"
 tags: ["inteligência artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Bonus ristrutturazione 2026: scopri come funziona il sistema di detrazioni fiscali per renovations, mutui e immobili in affitto"
 tags: ["mortgage", "rent", "renovation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6102155/pexels-photo-6102155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Justin Sun declara Tron como blockchain más descentralizada tras congelación en Arbitrum. Analiza impacto en Bitcoin, Ethereum y DeFi en el debate de descentralización."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8369681/pexels-photo-8369681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

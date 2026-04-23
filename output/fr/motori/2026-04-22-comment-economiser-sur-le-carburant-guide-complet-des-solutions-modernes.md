@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Économisez sur le carburant en 2026 : découvrez les voitures électriques, SUV économes et subventions disponibles pour réduire vos dépenses énergétiques."
 tags: ["voiture électrique", "SUV", "subvention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

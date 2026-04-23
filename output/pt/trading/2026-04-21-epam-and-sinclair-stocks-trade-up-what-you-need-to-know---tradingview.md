@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Trading EPAM e Sinclair em alta em 2026. Saiba estratégias de trading, análise técnica em TradingView e como lucrar com ações em movimento altista"
 tags: ["trading", "ações", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11361902/pexels-photo-11361902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

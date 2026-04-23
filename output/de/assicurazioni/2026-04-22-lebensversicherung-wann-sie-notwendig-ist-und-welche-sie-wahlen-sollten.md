@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Assicurazione vita: quando serve e quale scegliere"
 tags: ["Kfz-Versicherung", "Lebensversicherung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35157025/pexels-photo-35157025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

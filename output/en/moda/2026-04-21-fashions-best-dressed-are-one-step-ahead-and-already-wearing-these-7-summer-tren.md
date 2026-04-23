@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Fashion's best dressed are already wearing these 7 summer trends in 2026. Discover bold color blocking, sustainable fabrics, and elevated outfits"
 tags: ["fashion", "trends", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32803086/pexels-photo-32803086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

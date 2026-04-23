@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Ridurre lo stress in soli 10 minuti al giorno è possibile grazie a tecniche scientificamente provate come la meditazione, la respirazione consapevole e l'a"
 tags: ["dieta", "benessere", "prevenzione"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33852291/pexels-photo-33852291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

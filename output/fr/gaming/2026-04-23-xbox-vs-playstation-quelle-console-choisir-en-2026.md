@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Xbox vs PlayStation 2026: Comparaison complète des consoles, exclusivités, services et prix. Découvrez quelle console choisir selon vos besoins."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5626726/pexels-photo-5626726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Smart working: diritti e come richiederlo"
 tags: ["teletrabajo", "salario", "currículum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5950690/pexels-photo-5950690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

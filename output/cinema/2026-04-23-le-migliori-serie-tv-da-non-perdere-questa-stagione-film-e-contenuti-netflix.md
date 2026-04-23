@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri le migliori serie TV della stagione 2026 su Netflix e altre piattaforme. Film e produzioni imperdibili da guardare ora."
 tags: ["film", "serie TV", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

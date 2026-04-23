@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Codes Netflix avril 2026 : la liste ultime des catégories cachées - 01net.com"
 tags: ["films", "séries", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33381191/pexels-photo-33381191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

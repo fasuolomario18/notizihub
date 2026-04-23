@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die PS5 bietet 2026 eine beeindruckende Auswahl an Spielen, die sowohl Einzelspieler als auch Multiplayer-Fans begeistern. Von exklusiven Sony-Titeln bis z"
 tags: ["PS5", "Xbox", "PC-Gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29028118/pexels-photo-29028118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

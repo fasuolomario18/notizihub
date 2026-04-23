@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "iPhone 18 Pro : Apple envisage d'adopter un coloris phare d'Android. Découvrez comment cette stratégie révolutionne le design des smartphones premium."
 tags: ["iPhone", "Android", "application"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16005007/pexels-photo-16005007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

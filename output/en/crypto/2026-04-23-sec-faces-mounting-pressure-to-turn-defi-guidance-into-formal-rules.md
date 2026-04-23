@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "SEC faces pressure to formalize DeFi rules from Bitcoin, Ethereum stakeholders and Congress demanding clear regulatory frameworks for decentralized finance sector."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5435844/pexels-photo-5435844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

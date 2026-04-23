@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Tariffe energia: come trovare quella più conveniente"
 tags: ["electricity bill", "solar panels"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8911414/pexels-photo-8911414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

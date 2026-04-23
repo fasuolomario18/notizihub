@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Find the best vets near Albany with Times Union's award-winning Capital Region vet clinics. Expert dog and cat care from top-rated veterinarians."
 tags: ["dog", "cat", "vet"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7474856/pexels-photo-7474856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

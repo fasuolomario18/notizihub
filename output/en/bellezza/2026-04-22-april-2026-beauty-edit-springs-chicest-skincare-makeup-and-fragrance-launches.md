@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "April 2026's chicest beauty launches featuring innovative skincare, makeup, and fragrance. Discover spring's must-have products for skincare, makeup, and hair."
 tags: ["skincare", "makeup", "hair"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/974197/pexels-photo-974197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

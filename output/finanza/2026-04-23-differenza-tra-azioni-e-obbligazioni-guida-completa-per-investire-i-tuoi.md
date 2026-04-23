@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Azioni e obbligazioni sono i due pilastri fondamentali per chi vuole investire i propri risparmi. Le azioni rappresentano una quota di proprietà aziendale "
 tags: ["investire", "risparmio", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16594724/pexels-photo-16594724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

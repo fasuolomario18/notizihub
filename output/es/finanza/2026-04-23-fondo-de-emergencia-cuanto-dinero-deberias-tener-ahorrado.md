@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Un fondo de emergencia debe cubrir entre 3 y 6 meses de gastos básicos. Puedes invertir el excedente en ETF para mejorar rentabilidad. El ahorro disciplina"
 tags: ["invertir", "ahorro", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34104793/pexels-photo-34104793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

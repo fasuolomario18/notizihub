@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Ricette veloci per la settimana: 5 pranzi in 30 minuti"
 tags: ["recetas", "cocina"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31064273/pexels-photo-31064273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

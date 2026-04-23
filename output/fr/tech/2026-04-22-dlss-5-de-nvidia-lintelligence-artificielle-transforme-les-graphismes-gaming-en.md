@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "La technologie DLSS 5 de Nvidia révolutionne les graphismes gaming en 2026 avec le soutien massif des éditeurs majeurs. Cette innovation basée sur l'intell"
 tags: ["intelligence artificielle", "smartphone", "logiciel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32713615/pexels-photo-32713615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

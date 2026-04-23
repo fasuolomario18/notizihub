@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo ahorrar en vuelos baratos y hoteles económicos para tus vacaciones estivales 2026. Guía completa con estrategias efectivas de ahorro."
 tags: ["vuelos baratos", "hotel", "vacaciones"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7235804/pexels-photo-7235804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

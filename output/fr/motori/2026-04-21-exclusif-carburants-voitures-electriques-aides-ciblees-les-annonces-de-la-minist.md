@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Plan gouvernemental d'envergure : subventions voitures électriques augmentées, malus SUV renforcé, aides ciblées. Voiture écologique accessible pour tous."
 tags: ["voiture électrique", "SUV", "subvention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154626/pexels-photo-37154626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

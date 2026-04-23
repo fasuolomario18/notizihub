@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Fotovoltaico domestico: quanto si risparmia davvero"
 tags: ["factura de luz", "paneles solares"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35273022/pexels-photo-35273022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

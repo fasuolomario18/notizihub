@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "La alimentación correcta es fundamental para la salud de tu perro, requiriendo proteínas de calidad, grasas esenciales y vitaminas equilibradas. Consulta c"
 tags: ["perro", "gato", "veterinario"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6568950/pexels-photo-6568950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

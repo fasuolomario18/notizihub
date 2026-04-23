@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Tariffe energia: come trovare quella più conveniente"
 tags: ["Stromrechnung", "Solaranlage"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6577930/pexels-photo-6577930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

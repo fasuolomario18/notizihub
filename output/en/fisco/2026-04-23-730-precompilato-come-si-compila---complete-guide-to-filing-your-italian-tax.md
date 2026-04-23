@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master how to compile the 730 precompilato tax return form. Learn step-by-step filing process, deductions, credits & common mistakes in this complete guide."
 tags: ["tax return", "IRS", "taxes"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34316932/pexels-photo-34316932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "El 730 precompilato es la declaración de renta pre-rellenada que simplifica significativamente la presentación de impuestos en Italia. Aprende cómo compila"
 tags: ["declaración de renta", "impuestos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35831874/pexels-photo-35831874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

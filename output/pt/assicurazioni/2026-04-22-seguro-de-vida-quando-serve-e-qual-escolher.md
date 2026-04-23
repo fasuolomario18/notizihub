@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O seguro de vida é essencial para proteger financeiramente a sua família em caso de morte. Existem diferentes tipos de apólices, cada uma com característic"
 tags: ["seguro de carro", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35647016/pexels-photo-35647016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

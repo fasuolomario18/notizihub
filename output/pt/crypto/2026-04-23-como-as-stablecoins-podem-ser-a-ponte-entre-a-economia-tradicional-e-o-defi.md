@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "As stablecoins funcionam como ponte crítica entre a economia tradicional e o universo do DeFi, oferecendo estabilidade de preço enquanto mantêm a eficiênci"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7267536/pexels-photo-7267536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

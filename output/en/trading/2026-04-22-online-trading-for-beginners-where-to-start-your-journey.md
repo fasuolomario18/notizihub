@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master online trading as a beginner: learn stocks, markets, brokers, and strategies. Start safely with education, demo accounts, and proper risk management today."
 tags: ["trading", "stocks", "market"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19825348/pexels-photo-19825348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

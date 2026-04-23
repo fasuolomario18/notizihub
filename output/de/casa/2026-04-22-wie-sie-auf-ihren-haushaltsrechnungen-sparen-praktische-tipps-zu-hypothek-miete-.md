@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Come risparmiare sulle bollette di casa"
 tags: ["Hypothek", "Miete", "Renovierung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/31837702/pexels-photo-31837702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

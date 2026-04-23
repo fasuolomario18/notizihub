@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Come migliorare l'autostima: consigli pratici"
 tags: ["Angst", "Psychologie"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6712683/pexels-photo-6712683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment la puce AMD Mix Vale révolutionne la PlayStation avec l'intelligence artificielle intégrée et ses applications gaming innovantes."
 tags: ["intelligence artificielle", "smartphone", "logiciel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

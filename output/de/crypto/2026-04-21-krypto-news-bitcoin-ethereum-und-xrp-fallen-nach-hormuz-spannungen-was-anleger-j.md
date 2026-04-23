@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen. Erfahren Sie, wie geopolitische Events die Kryptomärkte beeinflussen und was Anleger jetzt tun sollten."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911424/pexels-photo-14911424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

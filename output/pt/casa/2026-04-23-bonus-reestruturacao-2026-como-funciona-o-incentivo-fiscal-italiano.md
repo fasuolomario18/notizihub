@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O Bónus de Reestruturação 2026 é um incentivo fiscal italiano que permite deduzir custos de renovação do imóvel. O programa funciona tanto para proprietári"
 tags: ["hipoteca", "aluguel", "renovação"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36870515/pexels-photo-36870515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

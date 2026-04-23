@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover how artificial intelligence works through simple explanations relevant to science and space exploration. Learn how NASA uses AI technology in missions."
 tags: ["science", "space", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8439099/pexels-photo-8439099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

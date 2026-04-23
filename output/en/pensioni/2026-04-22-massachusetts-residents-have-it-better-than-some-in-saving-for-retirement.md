@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Massachusetts offers superior retirement security with pension protections, untaxed Social Security benefits, and comprehensive senior programs compared to many US states."
 tags: ["pension", "retirement", "social security"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27025774/pexels-photo-27025774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

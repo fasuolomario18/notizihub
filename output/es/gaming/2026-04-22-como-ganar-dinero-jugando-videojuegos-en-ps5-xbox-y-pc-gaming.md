@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Come guadagnare giocando ai videogiochi"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35826922/pexels-photo-35826922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

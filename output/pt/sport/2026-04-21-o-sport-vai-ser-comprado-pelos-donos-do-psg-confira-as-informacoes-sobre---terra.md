@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Sport pode ser comprado pelos donos do PSG em 2026. Confira informações sobre a aquisição milionária que pode transformar o Brasileirão e o futebol brasileiro completamente."
 tags: ["futebol", "Brasileirão", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30666160/pexels-photo-30666160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

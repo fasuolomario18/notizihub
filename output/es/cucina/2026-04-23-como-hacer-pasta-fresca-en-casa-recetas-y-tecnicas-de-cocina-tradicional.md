@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Aprender a hacer pasta fresca en casa es más sencillo de lo que parece. Con ingredientes básicos y técnica adecuada, puedes crear deliciosas pastas artesan"
 tags: ["recetas", "cocina"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4699965/pexels-photo-4699965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Come uscire dai debiti: piano pratico"
 tags: ["personal loan", "credit score"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12069518/pexels-photo-12069518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

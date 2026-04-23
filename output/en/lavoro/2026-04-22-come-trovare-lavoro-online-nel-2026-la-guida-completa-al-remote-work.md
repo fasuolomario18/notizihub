@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Find your ideal remote job in 2026 with our complete guide to online job searching, optimizing your resume, and understanding competitive salaries."
 tags: ["remote work", "salary", "resume"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5491062/pexels-photo-5491062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

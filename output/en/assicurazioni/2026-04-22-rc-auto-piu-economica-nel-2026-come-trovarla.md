@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Scopri come trovare l'RC auto più economica nel 2026. Confronta preventivi, sfrutta sconti e strategie per ridurre i costi della tua assicurazione auto."
 tags: ["car insurance", "life insurance"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6363047/pexels-photo-6363047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

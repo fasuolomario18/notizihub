@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Kiln annuncia un ricco roadmap di contenuti post-lancio per PS5, Xbox e PC, incluso Game Pass. Scopri quali nuove modalità, mappe e feature attendono i gio"
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/13189290/pexels-photo-13189290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

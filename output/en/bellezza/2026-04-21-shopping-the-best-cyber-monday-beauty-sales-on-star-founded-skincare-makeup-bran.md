@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover the best Cyber Monday beauty sales on celebrity-founded skincare, makeup, and hair brands. Shop premium formulations at incredible discounts"
 tags: ["skincare", "makeup", "hair"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5625005/pexels-photo-5625005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

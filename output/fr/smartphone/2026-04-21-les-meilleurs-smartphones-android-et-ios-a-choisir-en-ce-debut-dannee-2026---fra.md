@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez les meilleurs smartphones Android et iPhone 2026 : comparatif complet, prix et applications essentielles pour optimiser votre choix."
 tags: ["iPhone", "Android", "application"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33358389/pexels-photo-33358389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

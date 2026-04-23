@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "TotalEnergies Startup Challenge: A 4ª Edição Impulsiona o Empreendedorismo Inovador"
 tags: ["startup", "empreendedorismo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # TotalEnergies Startup Challenge: A 4ª Edição Impulsiona o Empreendedorismo Inovador

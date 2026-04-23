@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "La conservazione sicura di criptovalute come Bitcoin ed Ethereum richiede una strategia consapevole tra wallet hot e cold storage. Le soluzioni DeFi offron"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7267536/pexels-photo-7267536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Stromrechnung senken 2026: Erfahren Sie, wie Solaranlagen und intelligente Sparmaßnahmen Ihre Energiekosten um bis zu 40% reduzieren können."
 tags: ["Stromrechnung", "Solaranlage"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36605021/pexels-photo-36605021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

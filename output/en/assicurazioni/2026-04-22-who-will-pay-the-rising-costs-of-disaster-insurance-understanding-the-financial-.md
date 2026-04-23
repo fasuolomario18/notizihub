@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Rising disaster insurance costs force consumers, governments, and insurers to confront affordability crisis. Car insurance and life insurance premiums climb as climate risk reshapes the entire industry."
 tags: ["car insurance", "life insurance"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7621144/pexels-photo-7621144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

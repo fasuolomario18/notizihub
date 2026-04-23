@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Sortir des dettes en 2026 : stratégie complète avec prêt personnel et regroupement de crédits pour éliminer vos dettes."
 tags: ["prêt personnel", "crédit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3943726/pexels-photo-3943726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

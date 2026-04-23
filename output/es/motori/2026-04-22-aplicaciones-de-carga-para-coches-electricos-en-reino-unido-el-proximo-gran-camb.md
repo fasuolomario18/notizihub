@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Can Electric Vehicle Charging Apps Uk the Next Big Thing? - The Detroit Bureau"
 tags: ["coche eléctrico", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37154610/pexels-photo-37154610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

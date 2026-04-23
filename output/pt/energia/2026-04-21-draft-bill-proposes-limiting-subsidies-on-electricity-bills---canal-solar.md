@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Projeto de lei propõe limitar subsídios em contas de luz, afetando energia solar. Entenda como mudanças regulatórias impactarão suas despesas com energia."
 tags: ["conta de luz", "energia solar"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32218711/pexels-photo-32218711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Build a timeless capsule wardrobe with essential basics and neutral colors. Discover quality must-have pieces, fashion trends, and outfit ideas for any lifestyle."
 tags: ["fashion", "trends", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5705491/pexels-photo-5705491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

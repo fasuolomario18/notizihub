@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "China's electric car market surpasses petrol vehicles, with EVs dominating urban areas and government policy accelerating transition timelines across the automotive industry."
 tags: ["electric car", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36405842/pexels-photo-36405842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

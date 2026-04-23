@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "2026 space missions include NASA's Artemis program, Mars preparation, ISS research, commercial spaceflight advances, and deep space science discoveries."
 tags: ["science", "space", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

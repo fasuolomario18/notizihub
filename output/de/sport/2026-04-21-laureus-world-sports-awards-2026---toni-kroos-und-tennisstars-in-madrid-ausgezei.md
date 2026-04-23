@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Laureus World Sports Awards 2026: Toni Kroos und Tennisstars gefeiert in Madrid. Fußball-Legende erhält prestigeträchtigen Preis für außergewöhnliche Karriere."
 tags: ["Fußball", "Bundesliga", "Formel 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32247112/pexels-photo-32247112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

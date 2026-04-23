@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "DeFi (Finanzas Descentralizadas) permite acceder a servicios financieros sin intermediarios usando blockchain. Te explicamos cómo funcionan Bitcoin, Ethere"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8370349/pexels-photo-8370349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

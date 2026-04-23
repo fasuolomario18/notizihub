@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Perdeu o prazo da declaração de imposto de renda? Descubra as consequências, multas e as ações imediatas para regularizar sua situação junto à Receita Federal agora."
 tags: ["declaração de imposto", "IR"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/16285816/pexels-photo-16285816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

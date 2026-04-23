@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra como reduzir sua conta de luz em 2026 com energia solar e estratégias inteligentes. Guia completo com dicas práticas e incentivos governamentais."
 tags: ["conta de luz", "energia solar"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/24429536/pexels-photo-24429536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

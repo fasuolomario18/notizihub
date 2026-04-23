@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "NASA CSDA webinar April 29 featuring MDA Space expert vendor discussion on standardized space docking systems, commercial partnerships. Science and space technology"
 tags: ["science", "space", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33448471/pexels-photo-33448471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

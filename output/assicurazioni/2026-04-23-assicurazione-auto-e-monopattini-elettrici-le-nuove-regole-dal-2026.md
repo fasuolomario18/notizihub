@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Dal 17 maggio 2026 è obbligatorio esporre il contrassegno sui monopattini elettrici, mentre l'assicurazione Rc diventa obbligatoria dal 16 luglio 2026. Ecc"
 tags: ["assicurazione auto", "polizza"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37163499/pexels-photo-37163499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

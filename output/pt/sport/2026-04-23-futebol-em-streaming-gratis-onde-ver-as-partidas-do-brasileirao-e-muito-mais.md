@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra onde assistir futebol e Brasileirão em streaming gratis em 2026. Confira as melhores plataformas legais de transmissão ao vivo."
 tags: ["futebol", "Brasileirão", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32285137/pexels-photo-32285137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

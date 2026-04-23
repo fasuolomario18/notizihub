@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "En 2026, los mejores iPhones ofrecen una combinación excepcional de rendimiento, cámara y diseño. Desde el iPhone 16 hasta los modelos Pro, cada dispositiv"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18525573/pexels-photo-18525573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

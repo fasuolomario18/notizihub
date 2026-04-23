@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Das Jahr 2026 bringt spannende Weltraummissionen: Die NASA plant mehrere Missionen zum Mond und Mars, während private Raumfahrtunternehmen neue Meilenstein"
 tags: ["Wissenschaft", "Weltall", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

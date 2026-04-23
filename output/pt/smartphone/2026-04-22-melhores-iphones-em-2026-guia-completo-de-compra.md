@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Em 2026, a linha iPhone oferece modelos para todos os orçamentos com tecnologias revolucionárias. Se busca o melhor desempenho, câmera avançada ou bateria "
 tags: ["iPhone", "Android", "aplicativo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30639092/pexels-photo-30639092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

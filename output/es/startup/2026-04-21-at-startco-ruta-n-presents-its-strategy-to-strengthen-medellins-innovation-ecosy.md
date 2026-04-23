@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Ruta N presenta estrategia integral para fortalecer ecosistema de startup y emprendimiento en Medellín. Conoce programas de aceleración, financiamiento e iniciativas que consolidan a la ciudad como hub de innovación."
 tags: ["startup", "emprendimiento"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414216/pexels-photo-7414216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

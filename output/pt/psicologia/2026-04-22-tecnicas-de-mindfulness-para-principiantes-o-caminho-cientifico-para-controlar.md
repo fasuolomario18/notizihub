@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O mindfulness é uma técnica psicológica comprovada que reduz significativamente os sintomas de ansiedade através da meditação e presença no momento present"
 tags: ["ansiedade", "psicologia"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8407043/pexels-photo-8407043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

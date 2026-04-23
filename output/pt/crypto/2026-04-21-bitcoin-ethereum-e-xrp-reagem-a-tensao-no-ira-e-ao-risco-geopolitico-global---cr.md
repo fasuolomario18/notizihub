@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Bitcoin, Ethereum e XRP reagem a tensões no Irã. Saiba como crises geopolíticas impactam criptmoedas, DeFi e o mercado global de ativos digitais."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14911424/pexels-photo-14911424.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

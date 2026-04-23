@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra como encontrar a tarifa de energia mais conveniente comparando fornecedores e explorando energia solar. Reduza sua conta de luz significativamente em 2026."
 tags: ["conta de luz", "energia solar"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35008182/pexels-photo-35008182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

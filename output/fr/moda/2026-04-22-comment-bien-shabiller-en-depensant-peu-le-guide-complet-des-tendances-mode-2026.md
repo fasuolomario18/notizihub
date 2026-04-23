@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Apprenez à bien vous habiller sans dépenser fortune. Tendances 2026, conseils shopping et stratégies pour des tenues élégantes à petit budget."
 tags: ["mode", "tendances", "tenue"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33383271/pexels-photo-33383271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

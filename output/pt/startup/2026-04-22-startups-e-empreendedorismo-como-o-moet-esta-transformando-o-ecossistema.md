@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O MoET dos Emirados Árabes Unidos organiza mesas redondas estratégicas focadas em impulsionar o ecossistema de empreendedorismo e criar oportunidades para "
 tags: ["startup", "empreendedorismo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7413915/pexels-photo-7413915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

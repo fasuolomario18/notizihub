@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Neue Elektroauto-Förderplattform ab Mai 2026: Umweltministerin kündigt VISION mobility an. Bessere Förderung für E-SUVs und digitale Antragstellung."
 tags: ["Elektroauto", "SUV", "Förderung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9847436/pexels-photo-9847436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

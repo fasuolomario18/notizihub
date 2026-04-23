@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "A infraestrutura DeFi é fundamental para o crescimento do Bitcoin e Ethereum, mas seus construtores enfrentam riscos significativos. Proteções adequadas e "
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

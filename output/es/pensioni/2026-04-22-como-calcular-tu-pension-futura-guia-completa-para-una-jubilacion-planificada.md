@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Calcular tu pensión futura es fundamental para planificar adecuadamente tu jubilación. Existen varios métodos para estimar cuánto recibirás, considerando a"
 tags: ["pensión", "jubilación"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35977848/pexels-photo-35977848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

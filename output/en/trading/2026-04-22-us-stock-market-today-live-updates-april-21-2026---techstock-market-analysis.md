@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "US stock market live updates for April 21, 2026. Tech stocks lead gains amid strong earnings. Trading analysis, market trends, and investor insights for today's session."
 tags: ["trading", "stocks", "market"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10925674/pexels-photo-10925674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

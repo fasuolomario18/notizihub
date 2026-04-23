@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Mercado imobiliário da Flórida em alta: vendas fechadas e aluguel crescem em março 2026. Hipotecas competitivas e oportunidades de renovação."
 tags: ["hipoteca", "aluguel", "renovação"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36870513/pexels-photo-36870513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

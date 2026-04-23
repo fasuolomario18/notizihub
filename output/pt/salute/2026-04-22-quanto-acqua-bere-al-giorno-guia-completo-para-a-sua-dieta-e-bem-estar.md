@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "A hidratação adequada é essencial para o bem-estar geral, com recomendações variando entre 2 a 3 litros diários. A quantidade ideal de água depende de fato"
 tags: ["dieta", "bem-estar", "prevenção"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5778298/pexels-photo-5778298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

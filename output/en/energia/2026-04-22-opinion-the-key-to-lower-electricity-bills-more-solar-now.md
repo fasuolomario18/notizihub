@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Connecticut must accelerate solar panel adoption to reduce electricity bills and address energy costs. Solar power offers immediate, proven solutions for lower utility expenses and energy independence."
 tags: ["electricity bill", "solar panels"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/347226/pexels-photo-347226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "HOOPS AI hará que los datos CAD sean utilizables para modelos de IA en impresión y fabricación 3D - 3Druck.com"
 tags: ["inteligencia artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29667717/pexels-photo-29667717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

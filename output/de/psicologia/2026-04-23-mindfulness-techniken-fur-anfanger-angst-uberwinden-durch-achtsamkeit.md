@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Mindfulness-Techniken helfen Anfängern, Angst zu bewältigen und psychologische Belastungen zu reduzieren. Durch einfache Achtsamkeitsübungen können Sie Ihr"
 tags: ["Angst", "Psychologie"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7596870/pexels-photo-7596870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

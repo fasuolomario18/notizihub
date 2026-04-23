@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "USA Rare Earth stock surges April 20 on $2.8B Serra Verde acquisition. Strategic deal transforms rare earth trading landscape."
 tags: ["trading", "stocks", "market"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

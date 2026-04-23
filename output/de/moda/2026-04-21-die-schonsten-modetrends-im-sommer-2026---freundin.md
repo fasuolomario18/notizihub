@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die schönsten Modetrends im Sommer 2026: Nachhaltige Stoffe, leuchtende Farben und entspannte Silhouetten. Entdecke die besten Outfits für den Sommer!"
 tags: ["Mode", "Trends", "Outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36730643/pexels-photo-36730643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

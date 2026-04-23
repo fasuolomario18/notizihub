@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "El seguro de vida es fundamental para proteger el futuro financiero de tu familia ante imprevistos. Descubre cuándo es necesario contratarlo y cómo elegir "
 tags: ["seguro de coche", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15023791/pexels-photo-15023791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

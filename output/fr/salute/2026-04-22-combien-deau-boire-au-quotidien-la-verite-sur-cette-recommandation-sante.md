@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Boire la bonne quantité d'eau chaque jour est essentiel pour maintenir une santé optimale et prévenir de nombreux problèmes de bien-être. La recommandation"
 tags: ["régime", "bien-être", "prévention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6032816/pexels-photo-6032816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

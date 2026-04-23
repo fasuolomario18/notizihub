@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "En 2026, l'Ukraine accueille les visiteurs avec des règles d'entrée rénovées incluant des exigences de visa selon la nationalité et une couverture d'assura"
 tags: ["assurance auto", "assurance vie"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36043834/pexels-photo-36043834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Règles d'entrée en Ukraine 2026 : Visas, Documents et Assurances Expliqués

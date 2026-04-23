@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Scopri le migliori serie TV da non perdere questa stagione su Netflix e altre piattaforme. Drama, thriller, adattamenti letterari e produzioni internazionali imperdibili nel 2026."
 tags: ["movies", "TV shows", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/987586/pexels-photo-987586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

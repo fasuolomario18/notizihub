@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "La valeur totale bloquée en DeFi chute sur les 20 principales blockchains après le hack de KelpDAO"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6777564/pexels-photo-6777564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

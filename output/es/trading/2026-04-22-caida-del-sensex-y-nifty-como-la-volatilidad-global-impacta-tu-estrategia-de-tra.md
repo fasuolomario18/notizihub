@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Sensex falls nearly 500 points, Nifty dips by 142 as markets remain volatile amid global concerns - Mid-day"
 tags: ["trading", "acciones", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19891035/pexels-photo-19891035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

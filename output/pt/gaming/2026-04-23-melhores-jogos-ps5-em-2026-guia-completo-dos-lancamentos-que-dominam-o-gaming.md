@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra os melhores jogos PS5 em 2026. Exclusivos Ghost of Tsushima 2 e Final Fantasy VII Rebirth, além de títulos multiplataforma em Xbox e PC gaming."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33061113/pexels-photo-33061113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

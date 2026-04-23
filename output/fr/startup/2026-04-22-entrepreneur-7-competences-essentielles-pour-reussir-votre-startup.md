@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Entrepreneur : 7 Essential Skills for Success - Capmad.com"
 tags: ["startup", "entrepreneuriat"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9432947/pexels-photo-9432947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Entrepreneur : 7 Compétences Essentielles pour Réussir votre Startup

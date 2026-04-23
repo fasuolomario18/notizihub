@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Bundestag genehmigt rückwirkende Elektroauto-Förderung ab Januar 2026. Käufer von Elektrofahrzeugen und Elektro-SUVs können nun nachträglich Zuschüsse beantragen."
 tags: ["Elektroauto", "SUV", "Förderung"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35611192/pexels-photo-35611192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

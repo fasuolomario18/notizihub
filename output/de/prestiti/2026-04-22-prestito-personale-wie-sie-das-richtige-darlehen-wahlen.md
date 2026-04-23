@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Ein persönliches Darlehen kann die finanzielle Lösung für viele Lebenslagen sein. Die Wahl des richtigen Kredits hängt von Zinssätzen, Laufzeit und persönl"
 tags: ["Kredit", "Darlehen"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33175662/pexels-photo-33175662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

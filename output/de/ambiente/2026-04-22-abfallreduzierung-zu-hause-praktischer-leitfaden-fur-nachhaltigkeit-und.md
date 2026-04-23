@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die Abfallreduzierung zu Hause ist ein wichtiger Schritt zur Bekämpfung des Klimawandels und zur Förderung von Nachhaltigkeit. Mit praktischen Maßnahmen wi"
 tags: ["Nachhaltigkeit", "Klimawandel"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7281993/pexels-photo-7281993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

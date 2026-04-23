@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Zillow predicts home value changes for 2026. Learn how mortgage rates, rent vs. buy decisions, and renovation plans align with housing market forecasts."
 tags: ["mortgage", "rent", "renovation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33681189/pexels-photo-33681189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

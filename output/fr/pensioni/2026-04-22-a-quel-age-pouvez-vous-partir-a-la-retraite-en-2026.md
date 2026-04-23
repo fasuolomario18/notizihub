@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Âge retraite 2026 en France : 64 ans minimum avec 172 trimestres. Conditions, décote et dispositifs spéciaux expliqués pour bien planifier votre pension."
 tags: ["retraite", "pension"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20257355/pexels-photo-20257355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

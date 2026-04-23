@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre las 5 mejores películas para ver este fin de semana en Netflix y Prime Video. Recomendaciones de estrenos y clásicos con sinopsis y disponibilidad en plataformas de streaming."
 tags: ["películas", "series", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

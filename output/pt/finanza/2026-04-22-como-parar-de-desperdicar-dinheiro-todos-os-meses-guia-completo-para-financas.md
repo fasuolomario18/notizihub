@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Aprenda como deixar de desperdiçar dinheiro mensalmente. Guia prático com estratégias de poupança, investimento em ETF e redução de gastos impulsivos."
 tags: ["investir", "poupança", "ETF"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34722517/pexels-photo-34722517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

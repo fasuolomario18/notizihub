@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Android vs iPhone: guía completa 2026 para elegir el mejor smartphone. Compara ecosistema apps, características y precios entre ambas plataformas."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36680547/pexels-photo-36680547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

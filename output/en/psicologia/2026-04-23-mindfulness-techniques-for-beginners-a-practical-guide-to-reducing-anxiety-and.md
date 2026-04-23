@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Mindfulness techniques offer beginners a practical pathway to reducing anxiety and improving mental health through simple, evidence-based practices. These "
 tags: ["anxiety", "psychology", "mental health"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8711437/pexels-photo-8711437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "DeFi security crisis: $15B investor exodus sparks concerns about Ethereum and blockchain vulnerabilities. Analysis of latest hack impacts on crypto markets."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20548713/pexels-photo-20548713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

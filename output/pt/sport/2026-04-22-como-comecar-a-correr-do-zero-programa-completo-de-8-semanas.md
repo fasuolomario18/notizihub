@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Guia completo para começar a correr do zero com programa de 8 semanas. Estruturado, progressivo e seguro para iniciantes. Comece hoje!"
 tags: ["futebol", "Brasileirão", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33920554/pexels-photo-33920554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

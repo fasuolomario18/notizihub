@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Best budget smartphones 2026: Compare affordable iPhone and Android phones with excellent performance, cameras, and apps for any budget."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/27920041/pexels-photo-27920041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

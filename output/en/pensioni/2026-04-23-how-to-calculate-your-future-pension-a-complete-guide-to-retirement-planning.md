@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Calculate your future pension accurately with our complete guide covering social security, retirement age strategies, and contribution history. Plan your retirement income today."
 tags: ["pension", "retirement", "social security"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5466815/pexels-photo-5466815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover the 8 hottest summer 2026 fashion trends already worn by style insiders—from oversized silhouettes to bold color blocking. Read our trend guide now."
 tags: ["fashion", "trends", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28732416/pexels-photo-28732416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

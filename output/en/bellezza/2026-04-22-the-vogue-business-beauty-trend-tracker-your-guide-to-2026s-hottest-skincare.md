@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Vogue's Beauty Trend Tracker reveals 2026's hottest skincare, makeup, and hair trends shaping the industry with data-driven insights for informed choices."
 tags: ["skincare", "makeup", "hair"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35209679/pexels-photo-35209679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

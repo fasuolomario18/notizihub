@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master booking hotels at best prices: Compare platforms, time reservations strategically, bundle cheap flights, leverage loyalty programs, and book during off-season for maximum vacation savings."
 tags: ["cheap flights", "hotel", "vacation"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30615679/pexels-photo-30615679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

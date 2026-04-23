@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Migliori broker italiani nel 2026"
 tags: ["Trading", "Aktien", "Börse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19891035/pexels-photo-19891035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover how homegrown energy and solar panels are dramatically reducing electricity bills for millions of American households while providing energy independence and long-term savings."
 tags: ["electricity bill", "solar panels"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35254051/pexels-photo-35254051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

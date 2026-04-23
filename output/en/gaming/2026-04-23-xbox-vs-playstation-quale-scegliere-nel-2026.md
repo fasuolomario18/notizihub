@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Confronto Xbox vs PlayStation 2026: quale console gaming scegliere? Scopri differenze, esclusive, Game Pass e specifiche per la scelta perfetta."
 tags: ["PS5", "Xbox", "PC gaming"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12718848/pexels-photo-12718848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

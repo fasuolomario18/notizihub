@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "FEMA assistance available for Maui Kona Low residents. Learn how car insurance and life insurance coordinate with disaster relief for complete recovery support and financial protection."
 tags: ["car insurance", "life insurance"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5544753/pexels-photo-5544753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView"
 tags: ["Trading", "Aktien", "Börse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7887820/pexels-photo-7887820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

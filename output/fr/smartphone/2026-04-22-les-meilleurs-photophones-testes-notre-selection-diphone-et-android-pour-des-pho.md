@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez les meilleurs photophones testés par nos experts. Comparaison iPhone vs Android et meilleures apps de photographie 2026."
 tags: ["iPhone", "Android", "application"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28927517/pexels-photo-28927517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "UK Parliament launches inquiry into Treasury's role in environment and climate policy. MPs examine whether fiscal frameworks adequately support UK sustainability and net-zero climate goals."
 tags: ["sustainability", "climate change"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3071145/pexels-photo-3071145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

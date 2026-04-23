@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Una revolucionaria batería para vehículos eléctricos logra cargarse completamente en apenas seis minutos, transformando la experiencia del usuario. Esta te"
 tags: ["coche eléctrico", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37143229/pexels-photo-37143229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "GeminiMan Wellness Companion : libérez votre Galaxy Watch ! - Android MT"
 tags: ["régime", "bien-être", "prévention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6643401/pexels-photo-6643401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

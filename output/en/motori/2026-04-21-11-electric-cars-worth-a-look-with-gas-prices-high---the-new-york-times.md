@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover 11 electric cars worth considering as gas prices surge in 2026. Compare EVs and SUVs with detailed reviews, costs, and benefits."
 tags: ["electric car", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35736769/pexels-photo-35736769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

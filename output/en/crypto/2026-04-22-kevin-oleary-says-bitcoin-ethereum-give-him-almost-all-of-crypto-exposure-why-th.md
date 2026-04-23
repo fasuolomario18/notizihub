@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Kevin O'Leary cuts altcoins, concentrating crypto portfolio on Bitcoin and Ethereum for proven security, institutional adoption, and network effects while avoiding speculative DeFi alternatives"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/19856610/pexels-photo-19856610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

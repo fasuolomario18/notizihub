@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Netflix löscht im April 2026 viele Filme und Serien. Welche Titel verschwinden? Lesen Sie, welche Inhalte Sie noch schauen sollten."
 tags: ["Filme", "Serien", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/987586/pexels-photo-987586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

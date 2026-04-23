@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Aprende a usar dos apps a la vez en iPhone y Android. Descubre Split View, pantalla dividida y ventanas flotantes para multitarea efectiva"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1250453/pexels-photo-1250453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

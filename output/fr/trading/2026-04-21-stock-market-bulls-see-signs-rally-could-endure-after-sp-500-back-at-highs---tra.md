@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "S&P 500 au sommet en 2026 : découvrez les signaux haussiers, les stratégies de trading et l'analyse boursière pour des actions rentables."
 tags: ["trading", "actions", "bourse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

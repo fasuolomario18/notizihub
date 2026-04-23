@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "La privacy online nel 2026 richiede una strategia multilivello che combina software di protezione, consapevolezza dei rischi dell'intelligenza artificiale "
 tags: ["intelligenza artificiale", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6804547/pexels-photo-6804547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master meal prep with strategic recipes and cooking techniques. Learn efficient preparation methods to batch-cook proteins, vegetables, and grains for the entire week."
 tags: ["recipes", "cooking"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

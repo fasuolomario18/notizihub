@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Routine skincare minimalista che funziona davvero"
 tags: ["skincare", "maquiagem", "cabelo"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/10222458/pexels-photo-10222458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

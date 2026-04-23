@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Deutsche Börse AG (DE0005810055): Dominiert die Daten- & Börsenplattform? Trading-Aktie mit Wachstumspotential für Anleger 2026"
 tags: ["Trading", "Aktien", "Börse"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5833263/pexels-photo-5833263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

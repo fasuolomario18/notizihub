@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Economizar nas contas de casa é possível através de renovações inteligentes e melhorias na eficiência energética. Quer tenha hipoteca ou esteja de aluguel,"
 tags: ["hipoteca", "aluguel", "renovação"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36840829/pexels-photo-36840829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

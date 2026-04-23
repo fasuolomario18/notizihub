@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "ChatGPT vs Gemini: análisis completo de inteligencia artificial, software y disponibilidad en smartphone. Descubre cuál IA es mejor para ti en 2026."
 tags: ["inteligencia artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30869076/pexels-photo-30869076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

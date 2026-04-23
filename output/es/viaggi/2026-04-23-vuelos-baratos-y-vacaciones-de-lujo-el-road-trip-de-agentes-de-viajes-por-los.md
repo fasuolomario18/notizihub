@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo los agentes de viajes están revolucionando el turismo en los Balcanes con viajes organizados para promover Mijas. Encuentra vuelos baratos, h"
 tags: ["vuelos baratos", "hotel", "vacaciones"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36926895/pexels-photo-36926895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

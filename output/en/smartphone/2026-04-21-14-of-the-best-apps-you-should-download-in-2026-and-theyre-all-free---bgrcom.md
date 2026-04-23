@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "14 best free iPhone and Android apps for 2026 including productivity, entertainment, and utility tools available on all platforms"
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32767987/pexels-photo-32767987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

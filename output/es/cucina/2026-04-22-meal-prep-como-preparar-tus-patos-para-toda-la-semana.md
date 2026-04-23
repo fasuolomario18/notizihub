@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "El meal prep es una estrategia de cocina que consiste en preparar los alimentos para toda la semana de una sola vez. Esta práctica ahorra tiempo, dinero y "
 tags: ["recetas", "cocina"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30635716/pexels-photo-30635716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez comment préparer une délicieuse pasta fresca maison en suivant nos conseils d'experts. De la pâte basique aux remplissages sophistiqués, maîtrise"
 tags: ["recettes", "cuisine"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29145759/pexels-photo-29145759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

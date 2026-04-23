@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master the art of better sleep with our complete guide covering diet, wellness practices, and prevention. Discover science-backed strategies."
 tags: ["diet", "wellness", "prevention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7156582/pexels-photo-7156582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

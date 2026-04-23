@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Saiba como cortes de benefícios afetam sua declaração de imposto e IRS. Guia completo sobre reavaliações médicas e regularizações fiscais em 2026."
 tags: ["declaração de imposto", "IR"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6863183/pexels-photo-6863183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

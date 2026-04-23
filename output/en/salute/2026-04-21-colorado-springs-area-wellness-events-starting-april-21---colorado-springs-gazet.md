@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Colorado Springs wellness events begin April 21 featuring diet workshops, disease prevention seminars, and lifestyle programs focused on nutrition, prevention, and community health improvement."
 tags: ["diet", "wellness", "prevention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11573878/pexels-photo-11573878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Versement pension mai 2026 : consultez votre bulletin de paie en ligne, modalités de réception et dates de versement pour retraités italiens."
 tags: ["retraite", "pension"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36772730/pexels-photo-36772730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Netflix oferece melhores filmes e séries este fim de semana. Confira os novos lançamentos em diferentes géneros para disfrutar do seu tempo de lazer"
 tags: ["filmes", "séries", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991375/pexels-photo-7991375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

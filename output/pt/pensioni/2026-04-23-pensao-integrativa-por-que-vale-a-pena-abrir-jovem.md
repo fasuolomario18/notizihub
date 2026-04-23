@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra por que abrir uma pensão integrativa na juventude é crucial para garantir uma aposentadoria confortável. Conheça os benefícios da previdência complementar."
 tags: ["aposentadoria", "previdência"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/35345635/pexels-photo-35345635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

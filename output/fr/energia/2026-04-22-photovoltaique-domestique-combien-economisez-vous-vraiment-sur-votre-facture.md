@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Les panneaux solaires domestiques peuvent réduire votre facture d'électricité de 50 à 80% selon votre région et consommation. L'investissement initial se r"
 tags: ["facture d'électricité", "panneaux solaires"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9875421/pexels-photo-9875421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Italia ofrece un ecosistema emprendedor en expansión con incentivos fiscales, acceso a financiamiento y programas de aceleración. En 2026, abrir una startu"
 tags: ["startup", "emprendimiento"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9432947/pexels-photo-9432947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

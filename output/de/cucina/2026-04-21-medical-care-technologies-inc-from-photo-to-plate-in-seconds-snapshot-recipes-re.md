@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Snapshot Recipes revolutioniert Kochen mit KI: Fotos von Zutaten zu Rezepten in Sekunden. Erfahren Sie, wie Medical Care Tech Ihre Küche transformiert."
 tags: ["Rezepte", "Kochen"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/20373364/pexels-photo-20373364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

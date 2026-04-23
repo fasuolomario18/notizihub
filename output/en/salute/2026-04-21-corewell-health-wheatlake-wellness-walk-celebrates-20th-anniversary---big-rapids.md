@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Corewell Health Wheatlake Wellness Walk celebrates 20 years in Big Rapids with community health initiatives focused on diet, prevention, and wellness awareness."
 tags: ["diet", "wellness", "prevention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8151443/pexels-photo-8151443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

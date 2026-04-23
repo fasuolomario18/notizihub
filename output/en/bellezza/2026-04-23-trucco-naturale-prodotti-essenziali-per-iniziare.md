@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Natural makeup essentials guide: discover foundational skincare, minimal makeup products, and haircare tips for effortless, radiant everyday beauty."
 tags: ["skincare", "makeup", "hair"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6890277/pexels-photo-6890277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

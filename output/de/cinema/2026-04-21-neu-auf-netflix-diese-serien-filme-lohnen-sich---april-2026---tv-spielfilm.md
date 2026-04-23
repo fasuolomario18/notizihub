@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Netflix April 2026: Spannende neue Serien und Filme, die Sie schauen sollten. Hier sind die besten Highlights des Monats!"
 tags: ["Filme", "Serien", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/987586/pexels-photo-987586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

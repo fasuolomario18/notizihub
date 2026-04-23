@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Trading online per principianti: da dove partire"
 tags: ["trading", "ações", "bolsa"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/11361902/pexels-photo-11361902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

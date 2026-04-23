@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "XRP lidera ganancias semanales sobre Bitcoin y Ethereum con 15% de avance, pero volumen contenido limita ruptura técnica decisiva según análisis CoinDesk"
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7293787/pexels-photo-7293787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Réduire votre facture d'électricité en 2026 : panneaux solaires, optimisation d'appareils et aides gouvernementales pour économiser jusqu'à 80%."
 tags: ["facture d'électricité", "panneaux solaires"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6990580/pexels-photo-6990580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

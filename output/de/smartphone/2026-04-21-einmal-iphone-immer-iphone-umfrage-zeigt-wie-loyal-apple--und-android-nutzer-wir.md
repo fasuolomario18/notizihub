@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "iPhone-Nutzer sind deutlich loyaler: 83% bleiben beim iPhone, Android-Nutzer nur zu 62%. Erfahren Sie die Gründe: Ökosystem, Apps und mehr."
 tags: ["iPhone", "Android", "App"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36680547/pexels-photo-36680547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

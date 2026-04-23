@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Nel 2026 aprire una startup in Italia è diventato più accessibile grazie agli incentivi fiscali e alle piattaforme digitali. Scopri i passi fondamentali, i"
 tags: ["startup", "imprenditoria"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/9432947/pexels-photo-9432947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

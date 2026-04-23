@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Proteggi il tuo smartphone da hacker. Scopri come aggiornare, usare password forti, app sicure su iPhone e Android. Guida pratica 2026."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1334603/pexels-photo-1334603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

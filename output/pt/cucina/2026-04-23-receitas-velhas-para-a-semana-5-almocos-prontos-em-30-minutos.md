@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Descubra 5 receitas práticas e deliciosas prontas em apenas 30 minutos para facilitar seus almoços da semana. Estas culinária rápida combina sabor e pratic"
 tags: ["receitas", "culinária"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34314361/pexels-photo-34314361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

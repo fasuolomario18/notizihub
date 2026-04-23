@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Meal Prep ist die perfekte Methode, um gesund und zeitsparend die ganze Woche zu essen. Mit cleveren Rezepten und einfacher Planung bereitest du deine Mahl"
 tags: ["Rezepte", "Kochen"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/1640767/pexels-photo-1640767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Laufen von Null an: 8-Wochen-Anfängerprogramm mit Trainingsplan, Tipps zur Verletzungsprävention und häufig gestellten Fragen für optimale Ergebnisse."
 tags: ["Fußball", "Bundesliga", "Formel 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/34070712/pexels-photo-34070712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

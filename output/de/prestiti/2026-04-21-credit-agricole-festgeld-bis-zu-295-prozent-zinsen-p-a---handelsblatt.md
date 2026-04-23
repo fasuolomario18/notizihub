@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Crédit Agricole Festgeld – Attraktive Zinsen bis zu 2,95 Prozent p.a. für sichere Geldanlage"
 tags: ["Kredit", "Darlehen"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4911579/pexels-photo-4911579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

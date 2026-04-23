@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre las 13 marcas mexicanas de belleza más innovadoras en skincare, maquillaje y cuidado capilar. Productos de calidad profesional recomendados por experta."
 tags: ["skincare", "maquillaje", "cabello"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30690115/pexels-photo-30690115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Doble imposición IRPEF: guía completa sobre adiciones fiscales locales, impuestos municipales y estrategias para optimizar tu declaración de renta en Italia."
 tags: ["declaración de renta", "impuestos"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/28227728/pexels-photo-28227728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

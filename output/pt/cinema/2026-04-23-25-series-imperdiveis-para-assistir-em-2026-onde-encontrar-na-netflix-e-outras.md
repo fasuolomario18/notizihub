@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "2026 promete ser um ano espetacular para fãs de séries, com lançamentos aguardados em Netflix, Disney+ e outras plataformas. Confira nossa lista com 25 sér"
 tags: ["filmes", "séries", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7234240/pexels-photo-7234240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

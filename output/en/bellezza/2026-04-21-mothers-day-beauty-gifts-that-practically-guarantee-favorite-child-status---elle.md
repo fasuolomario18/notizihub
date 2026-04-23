@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Discover luxurious Mother's Day beauty gifts including skincare serums, premium makeup, and hair care products that guarantee favorite child status this 2026."
 tags: ["skincare", "makeup", "hair"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6955480/pexels-photo-6955480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

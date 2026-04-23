@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "2026 promete ser um ano extraordinário para a exploração espacial, com a NASA e agências internacionais lançando missões revolucionárias. Espera-se avanços"
 tags: ["ciência", "espaço", "NASA"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/32961166/pexels-photo-32961166.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

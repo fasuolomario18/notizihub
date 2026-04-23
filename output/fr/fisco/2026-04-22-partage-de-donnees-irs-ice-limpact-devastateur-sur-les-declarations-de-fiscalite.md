@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Le Partage des Données de l'IRS avec l'ICE Fait Chuter les Déclarations Fiscales des Immigrés, Coûtant des Milliards aux États-Unis - VisaHQ"
 tags: ["déclaration d'impôts", "fiscalité"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36620570/pexels-photo-36620570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

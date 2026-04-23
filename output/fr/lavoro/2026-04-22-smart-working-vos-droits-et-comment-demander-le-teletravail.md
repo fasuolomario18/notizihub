@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Smart working: diritti e come richiederlo"
 tags: ["télétravail", "salaire", "CV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/21939189/pexels-photo-21939189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

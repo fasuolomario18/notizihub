@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Eine zusätzliche Rentensicherung (Pensione integrativa) lohnt sich besonders, wenn man sie jung abschließt. Durch den langen Anlagezeitraum und Zinseszinse"
 tags: ["Rente", "Ruhestand"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5790832/pexels-photo-5790832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

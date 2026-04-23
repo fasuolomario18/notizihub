@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Eine Startup in Italien zu gründen erfordert 2026 eine solide Geschäftsidee, rechtliche Registrierung und Zugang zu Finanzierungsmöglichkeiten. Mit den ric"
 tags: ["Startup", "Unternehmertum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7413924/pexels-photo-7413924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

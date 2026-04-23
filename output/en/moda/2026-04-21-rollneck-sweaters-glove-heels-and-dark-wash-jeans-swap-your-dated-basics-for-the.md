@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Master spring fashion with rollneck sweaters, glove heels, and dark-wash jeans. Discover cool-girl outfit trends that define 2026's most coveted fashion essentials and styling tips."
 tags: ["fashion", "trends", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/14416460/pexels-photo-14416460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

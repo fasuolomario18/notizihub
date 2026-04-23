@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "iPhone und Android sind die dominierenden Betriebssysteme mit unterschiedlichen Stärken. iPhone bietet optimale Sicherheit und Nutzerfreundlichkeit, währen"
 tags: ["iPhone", "Android", "App"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/593321/pexels-photo-593321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

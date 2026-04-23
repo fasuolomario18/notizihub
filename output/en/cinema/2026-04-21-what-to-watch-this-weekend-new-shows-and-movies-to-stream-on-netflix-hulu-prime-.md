@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "New shows and movies streaming this weekend on Netflix, Hulu, Prime Video & Apple TV+. Find fresh releases, blockbusters & must-watch content."
 tags: ["movies", "TV shows", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991258/pexels-photo-7991258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

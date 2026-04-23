@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "A IA agencial promete revolucionar o desenvolvimento de software. Descubra como 98% dos profissionais acreditam que tecnologia transformará smartphones e aplicações."
 tags: ["inteligência artificial", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8386358/pexels-photo-8386358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

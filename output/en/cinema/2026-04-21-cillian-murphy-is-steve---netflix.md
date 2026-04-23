@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Cillian Murphy stars as Steve in Netflix's new prestige drama series, marking his major streaming debut following his Oscar-winning role in Oppenheimer."
 tags: ["movies", "TV shows", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8263352/pexels-photo-8263352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Forbes 2026 AI 50 list reveals top artificial intelligence companies transforming smartphone software and enterprise solutions. Discover industry leaders shaping the future."
 tags: ["artificial intelligence", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18069490/pexels-photo-18069490.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Forbes 2026 AI 50 List: Top Artificial Intelligence Companies Shaping the Future

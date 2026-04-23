@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Dividendo de IA transforma seguros de carro e vida em Nova York. Conheça como a automação afeta proteção financeira e quais adaptações o setor seguro prepara."
 tags: ["seguro de carro", "seguro de vida"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29713166/pexels-photo-29713166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Seguro de Carro e Seguro de Vida: Como o Dividendo de IA Pode Transformar a Proteção Financeira

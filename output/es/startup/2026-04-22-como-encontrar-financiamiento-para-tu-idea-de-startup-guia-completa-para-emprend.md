@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Come trovare finanziamenti per la tua idea"
 tags: ["startup", "emprendimiento"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7414310/pexels-photo-7414310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

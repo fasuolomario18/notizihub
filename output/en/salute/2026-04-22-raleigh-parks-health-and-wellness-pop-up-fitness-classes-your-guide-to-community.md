@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Raleigh Parks pop-up fitness classes offer free, accessible wellness programs combining exercise with diet and health education to support community disease prevention."
 tags: ["diet", "wellness", "prevention"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/30435314/pexels-photo-30435314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

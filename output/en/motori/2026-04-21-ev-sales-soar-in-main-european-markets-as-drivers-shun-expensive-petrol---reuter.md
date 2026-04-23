@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Electric car sales surge across Europe as expensive petrol drives consumers to EVs. Electric SUVs dominate market growth with superior range and affordable pricing."
 tags: ["electric car", "SUV", "EV"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29566904/pexels-photo-29566904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

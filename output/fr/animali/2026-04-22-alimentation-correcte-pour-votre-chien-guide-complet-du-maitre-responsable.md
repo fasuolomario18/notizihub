@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "L'alimentation correcte de votre chien est essentielle pour sa santé et son bien-être. Un régime équilibré adapté à l'âge, la taille et l'activité de votre"
 tags: ["chien", "chat", "vétérinaire"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8434769/pexels-photo-8434769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

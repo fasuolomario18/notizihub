@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Learn to switch from iPhone to Android or vice versa without losing data. Use Move to iOS, Switch to Android app, and cloud services for seamless migration."
 tags: ["iPhone", "Android", "app"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4523030/pexels-photo-4523030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

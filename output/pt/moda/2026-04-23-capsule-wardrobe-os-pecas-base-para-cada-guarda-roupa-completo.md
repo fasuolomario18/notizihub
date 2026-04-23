@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O guarda-roupa cápsula é uma estratégia de moda que consiste em peças essenciais versáteis que se combinam facilmente. Com peças básicas bem escolhidas, é "
 tags: ["moda", "tendências", "look"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/36730643/pexels-photo-36730643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Critics accuse Palantir of pushing technofascism through AI war doctrine, integrating smartphone surveillance and proprietary software for unprecedented military control systems."
 tags: ["artificial intelligence", "smartphone", "software"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/18799044/pexels-photo-18799044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

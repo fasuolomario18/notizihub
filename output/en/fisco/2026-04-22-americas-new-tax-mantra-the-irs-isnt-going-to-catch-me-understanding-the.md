@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "America's IRS enforcement crisis enables tax non-compliance as audit rates plummet. WSJ reports growing 'they won't catch me' mentality undermining voluntary tax system compliance nationwide."
 tags: ["tax return", "IRS", "taxes"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/15116664/pexels-photo-15116664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

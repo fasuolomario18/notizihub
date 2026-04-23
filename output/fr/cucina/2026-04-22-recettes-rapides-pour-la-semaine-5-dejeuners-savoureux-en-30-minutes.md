@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Découvrez 5 recettes rapides et délicieuses pour vos déjeuners de la semaine, réalisables en seulement 30 minutes. Des plats savoureux et équilibrés qui vo"
 tags: ["recettes", "cuisine"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5949924/pexels-photo-5949924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

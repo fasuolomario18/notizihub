@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Enphase Speicher senken die Stromrechnung erheblich. Erfahren Sie, wie Battery Storage mit Solaranlagen die Energieautarkie und Wirtschaftlichkeit optimiert."
 tags: ["Stromrechnung", "Solaranlage"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/29206488/pexels-photo-29206488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

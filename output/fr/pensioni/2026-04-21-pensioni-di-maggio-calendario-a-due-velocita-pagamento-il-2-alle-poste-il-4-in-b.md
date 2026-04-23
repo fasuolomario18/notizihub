@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Pensions mai 2026 : calendrier décalé avec versement Poste le 2 mai et virement bancaire le 4 mai. Explications et conseils pour retraités."
 tags: ["retraite", "pension"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/12476798/pexels-photo-12476798.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

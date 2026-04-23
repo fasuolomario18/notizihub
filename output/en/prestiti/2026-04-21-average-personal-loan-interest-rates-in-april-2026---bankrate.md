@@ -8,6 +8,7 @@ lang: "en"
 meta_description: "Average personal loan rates in April 2026 range from 6.5% to 36% based on credit score. Learn how your credit affects rates and compare today's offers from top lenders."
 tags: ["personal loan", "credit score"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/4386339/pexels-photo-4386339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

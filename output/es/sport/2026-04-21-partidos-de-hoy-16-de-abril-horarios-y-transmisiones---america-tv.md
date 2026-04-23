@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Partidos La Liga 16 abril horarios transmisión América TV, fútbol en vivo, Fórmula 1 fin de semana 2026"
 tags: ["fútbol", "La Liga", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/37107391/pexels-photo-37107391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

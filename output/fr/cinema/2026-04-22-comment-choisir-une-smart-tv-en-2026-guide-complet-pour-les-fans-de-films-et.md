@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Choisir une smart TV en 2026 demande de considérer la résolution, le système d'exploitation et les applications intégrées. Pour les amateurs de films et sé"
 tags: ["films", "séries", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991437/pexels-photo-7991437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

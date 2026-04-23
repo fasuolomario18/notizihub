@@ -8,6 +8,7 @@ lang: "fr"
 meta_description: "Économiser l'énergie à la maison est essentiel pour combattre le changement climatique et réduire vos factures. Des gestes simples comme isoler les fenêtre"
 tags: ["durabilité", "changement climatique"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5246111/pexels-photo-5246111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

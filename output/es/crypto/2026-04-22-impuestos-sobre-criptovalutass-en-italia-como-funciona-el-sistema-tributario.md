@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo funcionan los impuestos sobre Bitcoin, Ethereum y DeFi en Italia. Guía completa sobre tributación del 26%, obligaciones de declaración y sanciones."
 tags: ["bitcoin", "ethereum", "DeFi"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/6777564/pexels-photo-6777564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

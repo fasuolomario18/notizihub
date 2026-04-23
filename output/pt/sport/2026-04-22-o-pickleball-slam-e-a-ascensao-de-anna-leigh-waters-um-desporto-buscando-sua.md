@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O Pickleball Slam emerge como um torneio revolucionário que tenta estabelecer a identidade própria do pickleball, um esporte em crescimento acelerado que b"
 tags: ["futebol", "Brasileirão", "Fórmula 1"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/17299530/pexels-photo-17299530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

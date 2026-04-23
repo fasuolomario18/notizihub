@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "O custo mensal de um gato envolve muito mais do que apenas alimentação. Antes de trazer um felino para casa, é essencial conhecer as despesas com veterinár"
 tags: ["cachorro", "gato", "veterinário"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5938164/pexels-photo-5938164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

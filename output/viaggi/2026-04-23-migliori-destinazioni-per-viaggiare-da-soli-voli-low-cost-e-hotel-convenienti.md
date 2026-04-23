@@ -8,6 +8,7 @@ lang: "it"
 meta_description: "Scopri le migliori destinazioni per viaggiare da soli in 2026 con voli low cost e hotel convenienti. Dalla Spagna al Portogallo, dall'Italia alla Grecia, t"
 tags: ["voli low cost", "hotel", "vacanze"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/42108/pexels-photo-42108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Descubre cómo vestirte bien sin gastar una fortuna con nuestros consejos de moda inteligente. Aprende estrategias para crear outfits versátiles, seguir ten"
 tags: ["moda", "tendencias", "outfit"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/33324564/pexels-photo-33324564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

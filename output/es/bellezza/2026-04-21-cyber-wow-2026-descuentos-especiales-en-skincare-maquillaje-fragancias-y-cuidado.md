@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Cyber Wow 2026: descuentos hasta 70% en skincare, maquillaje y cuidado capilar. Encuentra marcas en tendencia con ofertas especiales en productos de belleza premium."
 tags: ["skincare", "maquillaje", "cabello"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/5475752/pexels-photo-5475752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

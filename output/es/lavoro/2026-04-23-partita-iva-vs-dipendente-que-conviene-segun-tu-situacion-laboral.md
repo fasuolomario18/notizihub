@@ -8,6 +8,7 @@ lang: "es"
 meta_description: "Elegir entre Partita IVA y ser dipendente depende de tu situación personal. Los empleados tienen salario fijo, beneficios sociales y estabilidad, mientras "
 tags: ["teletrabajo", "salario", "currículum"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8970305/pexels-photo-8970305.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

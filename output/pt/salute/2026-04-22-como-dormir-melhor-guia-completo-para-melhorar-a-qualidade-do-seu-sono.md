@@ -8,6 +8,7 @@ lang: "pt"
 meta_description: "Come dormire meglio: guida completa"
 tags: ["dieta", "bem-estar", "prevenção"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/3771069/pexels-photo-3771069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

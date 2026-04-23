@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Die TV-Saison 2026 bietet eine Fülle an hochwertigen Serien und Filmen auf Netflix und anderen Plattformen. Von spannenden Dramen bis zu unterhaltsamen Com"
 tags: ["Filme", "Serien", "Netflix"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/7991262/pexels-photo-7991262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

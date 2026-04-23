@@ -8,6 +8,7 @@ lang: "de"
 meta_description: "Ein moderner Lebenslauf im 2026 muss flexible Arbeitsmodelle wie Homeoffice hervorheben, relevante Fähigkeiten prägnant darstellen und Gehaltserwartungen s"
 tags: ["Homeoffice", "Gehalt", "Lebenslauf"]
 auto_generated: true
+image_url: "https://images.pexels.com/photos/8729810/pexels-photo-8729810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <!-- TLDR -->

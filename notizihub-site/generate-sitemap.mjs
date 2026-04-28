@@ -1,8 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { fileURLToPath } from 'url';
 
-const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const OUTPUT_DIR = path.join(__dirname, '..', 'output');
+const PUBLIC_DIR = path.join(__dirname, 'public');
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.notizihub.com';
 const LINGUE_IDS = ['en', 'es', 'de', 'fr', 'pt'];
 const ALL_LANGS = ['it', ...LINGUE_IDS];
@@ -23,16 +26,45 @@ function nicchiaAlternates(nicchia) {
     .concat([['x-default', `${SITE_URL}/nicchia/${nicchia}`]]);
 }
 
-function generateSitemap(nicchie, articoliIT, articoliLang) {
-  const staticPages = ['/chi-siamo', '/contattaci', '/privacy'];
+function readArticles(dir, prefix = {}) {
+  const result = [];
+  if (!fs.existsSync(dir)) return result;
+  const entries = fs.readdirSync(dir).filter(f =>
+    fs.statSync(path.join(dir, f)).isDirectory() && !f.startsWith('.')
+  );
+  for (const nicchia of entries) {
+    const nicchiaDir = path.join(dir, nicchia);
+    const files = fs.readdirSync(nicchiaDir).filter(f => f.endsWith('.md'));
+    for (const file of files) {
+      try {
+        const { data } = matter(fs.readFileSync(path.join(nicchiaDir, file), 'utf-8'));
+        if (data.slug) result.push({ nicchia, slug: data.slug, data: data.date || '', ...prefix });
+      } catch {}
+    }
+  }
+  return result;
+}
 
-  const homepageAlts = homepageAlternates();
+const articoliIT = readArticles(OUTPUT_DIR);
+const nicchie = fs.existsSync(OUTPUT_DIR)
+  ? fs.readdirSync(OUTPUT_DIR).filter(f =>
+      fs.statSync(path.join(OUTPUT_DIR, f)).isDirectory() &&
+      !f.startsWith('.') && !LINGUE_IDS.includes(f)
+    )
+  : [];
 
-  return `<?xml version="1.0" encoding="UTF-8"?>
+const articoliLang = [];
+for (const lang of LINGUE_IDS) {
+  articoliLang.push(...readArticles(path.join(OUTPUT_DIR, lang), { lang }));
+}
+
+const staticPages = ['/chi-siamo', '/contattaci', '/privacy'];
+const homepageAlts = homepageAlternates();
+
+const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- ── Homepage IT + tutte le lingue con hreflang ── -->
   <url>
     <loc>${SITE_URL}/</loc>
 ${hreflangLinks(homepageAlts)}
@@ -46,14 +78,12 @@ ${hreflangLinks(homepageAlts)}
     <priority>0.9</priority>
   </url>`).join('\n')}
 
-  <!-- ── Pagine statiche ── -->
 ${staticPages.map(p => `  <url>
     <loc>${SITE_URL}${p}</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>`).join('\n')}
 
-  <!-- ── Categorie IT + lingue con hreflang ── -->
 ${nicchie.map(n => {
   const alts = nicchiaAlternates(n);
   return [
@@ -62,7 +92,6 @@ ${nicchie.map(n => {
   ].join('\n');
 }).join('\n')}
 
-  <!-- ── Articoli IT ── -->
 ${articoliIT.map(a => `  <url>
     <loc>${SITE_URL}/${a.nicchia}/${a.slug}</loc>
     <xhtml:link rel="alternate" hreflang="it" href="${SITE_URL}/${a.nicchia}/${a.slug}" />
@@ -72,7 +101,6 @@ ${articoliIT.map(a => `  <url>
     <priority>0.7</priority>
   </url>`).join('\n')}
 
-  <!-- ── Articoli lingue straniere ── -->
 ${articoliLang.map(a => `  <url>
     <loc>${SITE_URL}/${a.lang}/${a.nicchia}/${a.slug}</loc>
     <xhtml:link rel="alternate" hreflang="${a.lang}" href="${SITE_URL}/${a.lang}/${a.nicchia}/${a.slug}" />
@@ -81,46 +109,6 @@ ${articoliLang.map(a => `  <url>
     <priority>0.7</priority>
   </url>`).join('\n')}
 </urlset>`;
-}
 
-function Sitemap() { return null; }
-
-function readArticles(dir, prefix = {}) {
-  const result = [];
-  if (!fs.existsSync(dir)) return result;
-  const entries = fs.readdirSync(dir).filter(f => fs.statSync(path.join(dir, f)).isDirectory() && !f.startsWith('.'));
-  for (const nicchia of entries) {
-    const nicchiaDir = path.join(dir, nicchia);
-    const files = fs.readdirSync(nicchiaDir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      const { data } = matter(fs.readFileSync(path.join(nicchiaDir, file), 'utf-8'));
-      if (data.slug) result.push({ nicchia, slug: data.slug, data: data.date || '', ...prefix });
-    }
-  }
-  return result;
-}
-
-export async function getServerSideProps({ res }) {
-  const articoliIT = readArticles(OUTPUT_DIR);
-
-  const nicchie = fs.existsSync(OUTPUT_DIR)
-    ? fs.readdirSync(OUTPUT_DIR).filter(f =>
-        fs.statSync(path.join(OUTPUT_DIR, f)).isDirectory() &&
-        !f.startsWith('.') &&
-        !LINGUE_IDS.includes(f)
-      )
-    : [];
-
-  const articoliLang = [];
-  for (const lang of LINGUE_IDS) {
-    const langDir = path.join(OUTPUT_DIR, lang);
-    articoliLang.push(...readArticles(langDir, { lang }));
-  }
-
-  res.setHeader('Content-Type', 'text/xml');
-  res.write(generateSitemap(nicchie, articoliIT, articoliLang));
-  res.end();
-  return { props: {} };
-}
-
-export default Sitemap;
+fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), xml, 'utf-8');
+console.log(`Sitemap generata: ${articoliIT.length} articoli IT, ${articoliLang.length} articoli multilingua, ${nicchie.length} categorie`);

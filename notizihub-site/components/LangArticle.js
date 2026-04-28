@@ -25,7 +25,7 @@ export default function LangArticle({ articolo, lang, nicchia, lingua }) {
   const faqSchema = articolo.faqs?.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: articolo.faqs.map(f => ({
+    mainEntity: articolo.faqs.filter(f => f.a && f.a.trim()).map(f => ({
       '@type': 'Question',
       name: f.q + '?',
       acceptedAnswer: { '@type': 'Answer', text: f.a },

@@ -71,22 +71,7 @@ export async function getLangHomeProps(lang) {
 }
 
 export async function getLangArticlePaths(lang) {
-  const paths = [];
-  const langDir = getLangDir(lang);
-  if (!fs.existsSync(langDir)) return { paths, fallback: 'blocking' };
-
-  const nicchie = fs.readdirSync(langDir).filter(f =>
-    fs.statSync(path.join(langDir, f)).isDirectory() && !f.startsWith('.')
-  );
-  for (const nicchia of nicchie) {
-    const dir = path.join(langDir, nicchia);
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      const { data } = matter(fs.readFileSync(path.join(dir, file), 'utf-8'));
-      if (data.slug) paths.push({ params: { nicchia, slug: data.slug } });
-    }
-  }
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 }
 
 function parseFaq(content) {
@@ -94,10 +79,11 @@ function parseFaq(content) {
   const faqMatch = content.match(sectionPattern);
   if (!faqMatch) return [];
   const faqs = [];
-  const re = /\*\*(Q|D|P|F):\s*(.*?)\*\*\s*\n(A|R):\s*(.*?)(?=\n\*\*|\n<!-- META|$)/gs;
+  const re = /\*\*(Q|D|P|F):\s*(.*?)\*\*\s*\n+(A|R):\s*(.*?)(?=\n+\*\*|\n<!-- META|$)/gs;
   let m;
   while ((m = re.exec(faqMatch[2])) !== null) {
-    faqs.push({ q: m[2].trim().replace(/\?$/, ''), a: m[4].trim() });
+    const a = m[4].trim();
+    if (a) faqs.push({ q: m[2].trim().replace(/\?$/, ''), a });
   }
   return faqs;
 }

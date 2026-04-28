@@ -61,17 +61,21 @@ export async function getStaticProps() {
     if (!fs.existsSync(dir)) continue;
     const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
     for (const file of files) {
-      const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
-      const { data } = matter(raw);
-      tutti.push({
-        titolo: data.title || '',
-        slug: data.slug || '',
-        nicchia: nicchia.id,
-        nicchia_nome: nicchia.nome,
-        data: data.date || '',
-        meta: data.meta_description || '',
-        image_url: data.image_url || '',
-      });
+      try {
+        const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
+        const { data } = matter(raw);
+        tutti.push({
+          titolo: data.title || '',
+          slug: data.slug || '',
+          nicchia: nicchia.id,
+          nicchia_nome: nicchia.nome,
+          data: data.date || '',
+          meta: data.meta_description || '',
+          image_url: data.image_url || '',
+        });
+      } catch (e) {
+        console.warn(`[index] YAML error in ${nicchia.id}/${file}: ${e.message}`);
+      }
     }
   }
 

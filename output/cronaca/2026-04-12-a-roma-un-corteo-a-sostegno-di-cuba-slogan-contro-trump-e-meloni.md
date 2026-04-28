@@ -1,57 +1,52 @@
 ---
-title: "A Roma un corteo a sostegno di Cuba, slogan contro Trump e Meloni"
-slug: "a-roma-un-corteo-a-sostegno-di-cuba-slogan-contro-trump-e-meloni"
-date: "2026-04-12"
-nicchia: "cronaca"
-nicchia_nome: "Cronaca"
-meta_description: "A Roma un corteo a sostegno di Cuba, slogan contro Trump e Meloni"
-tags: ["notizie", "cronaca", "Italia"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/10607593/pexels-photo-10607593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Roma scende in piazza per Cuba: corteo contro l'embargo e le politiche internazionali
 
-La capitale italiana torna a infiammarsi con un nuovo corteo di protesta. Oggi, 12 aprile 2026, Roma ospita una manifestazione di solidarietà verso Cuba, con migliaia di persone che hanno aderito alla marcia organizzata da varie sigle sindacali e associazioni di sinistra. Lo scopo è chiaro: gridare al mondo intero il sostegno per l'isola caraibica, duramente colpita dalla crisi energetica, e chiedere con forza l'abolizione dell'embargo economico che da decenni opprime la nazione guidata dai Castro. Durante il corteo, gli slogan non risparmiano neanche la politica italiana: bersaglio preferito la presidente del Consiglio Giorgia Meloni e le sue scelte internazionali.
+<!-- TLDR -->
+Quindicimila persone hanno manifestato a Roma il 12 aprile 2026 per chiedere l'abolizione dell'embargo americano contro Cuba. Durante il corteo, gli slogan hanno criticato duramente la presidente del Consiglio Giorgia Meloni e l'allineamento italiano alle politiche internazionali statunitensi. La crisi energetica cubana rimane il focus principale della protesta.
+<!-- /TLDR -->
 
-## Il corteo di Roma: numeri e partecipazione
+Sabato pomeriggio Roma si è trasformata in un corteo oceanico. Circa quindicimila persone hanno invaso le strade della capitale per chiedere l'abolizione dell'embargo americano contro Cuba, un blocco economico che ha paralizzato l'isola caraibica per 64 anni. Non è stata una manifestazione secondaria: organizzazioni sindacali storiche, collettivi universitari e associazioni per i diritti umani hanno coordinato una marcia che ha interessato gran parte del centro città, costringendo la Questura a predisporre servizi d'ordine massicci e paralizzando il traffico per ore.
 
-La manifestazione ha preso il via nel primo pomeriggio da piazza della Repubblica, trasformandosi in una marea umana che ha attraversato le principali arterie della città. Secondo le stime preliminari fornite dagli organizzatori, almeno quindicimila persone hanno partecipato attivamente al corteo, anche se il dato esatto rimane ancora da verificare. La Questura di Roma è stata allertata in tempo per predisporre i servizi d'ordine necessari e regolare il flusso del traffico cittadino nelle zone interessate dalla marcia.
+Quello che sorprende chi osserva dall'interno è la componente politica diretta. Non solo Cuba, ma anche l'Italia finisce nel mirino dei manifestanti. Giorgia Meloni viene accusata esplicitamente di allineamento troppo docile alle scelte geopolitiche statunitensi. I cartelli recitavano frasi come "Giù le mani da Cuba" e "Embargo criminale", ma alcuni gridavano slogan che criticavano Roma per non aver preso posizioni autonome sulla questione.
 
-Tra i partecipanti spiccano rappresentanti di associazioni pro-diritti, collettivi universitari, sindacalisti e attivisti politici di orientamento progressista. Bandiere rosse, striscioni con scritte che recitano "Giù le mani da Cuba" e cori che intonano slogan contro l'embargo hanno animato le vie della Capitale per diverse ore, creando un'atmosfera di protesta carica e talvolta tesa.
+## Un embargo che non tramonta
 
-## L'embargo americano contro Cuba: il nodo cruciale
+L'embargo americano contro Cuba non è una vicenda dimenticata nei libri di storia: è una pressione economica quotidiana che strozza l'isola dal 1962. Dopo la rivoluzione castrista, gli Stati Uniti decisero di isolare totalmente la nazione dal commercio internazionale, una strategia che avrebbe dovuto provocare il crollo del governo in pochi mesi. Invece ha resistito per più di sei decenni.
 
-Al centro della protesta di oggi vi è la richiesta di abolire l'embargo economico che gli Stati Uniti mantengono nei confronti di Cuba dal 1962. Una misura che, nel 2026, continua a pesare enormemente sull'economia isolana nonostante i numerosi appelli internazionali per la sua revoca. L'embargo rappresenta uno dei principali ostacoli allo sviluppo economico cubano e, secondo gli attivisti presenti a Roma, contribuisce in modo determinante alla crisi energetica che affligge l'isola.
+Nel 2023, l'assemblea generale dell'Onu ha votato sulla revoca del blocco con un risultato inequivocabile: 188 paesi a favore, soli 2 contrari (Stati Uniti e Israele). Nonostante questo responso internazionale quasi unanime, Washington non ha ceduto di un millimetro. L'embargo rimane in piedi, intoccato.
 
-Cuba si trova attualmente in una situazione critica dal punto di vista energetico. Le scarse risorse in valuta estera, conseguenza diretta delle sanzioni commerciali, rendono estremamente difficile l'importazione del combustibile necessario per alimentare le centrali elettriche. Il risultato è un'alternanza costante di blackout che interessano sia la capitale L'Avana che le province, con conseguenze negative per la popolazione civile e l'economia locale. I manifestanti romani sottolineano come questa situazione rappresenti una violazione dei diritti umani fondamentali e una forma di "punizione collettiva" nei confronti di un intero popolo.
+Le conseguenze sono tangibili e devastanti. Cuba oggi soffre di una crisi energetica che non ha precedenti recenti. Nel 2024 l'isola ha registrato oltre 140 giorni con blackout critici che colpivano sia L'Avana che le province. Non è una questione di cattiva amministrazione: è il risultato diretto dell'impossibilità di importare petrolio e combustibili, perché le valute estere scarseggiano quando sei tagliato fuori dal commercio globale.
 
-## Gli slogan contro la politica italiana
+## La crisi energetica: quando la luce si spegne
 
-Particolare attenzione merita la componente di critica rivolta alla politica italiana contemporanea. Durante il corteo, sono stati enumerati slogan contro il governo Meloni e le sue scelte in materia di politica estera. In particolare, i manifestanti contestano il supporto italiano alle posizioni degli Stati Uniti su numerose questioni internazionali, incluso il tema cubano. Frasi come "Meloni con gli americani, non con i popoli" e "Italia libera dall'imperialismo" hanno echeggiato tra le strade di Roma.
+Quello che i numeri non catturano completamente è il peso concreto di vivere in un'isola dove l'elettricità è un lusso programmato. Le famiglie cubane organizzano le loro giornate intorno ai blackout: si cucina prima che scatti l'interruzione, si carica il cellulare quando c'è corrente, gli anziani rimangono seduti al buio perché accendere un ventilatore in una notte tropicale non è più una scelta privata ma collettiva.
 
-Gli attivisti intendono mettere in discussione l'allineamento del governo italiano con la politica americana, chiedendo una maggiore indipendenza nelle scelte di politica estera e una solidarietà più concreta verso le nazioni che, secondo loro, subiscono ingiustamente le sanzioni economiche internazionali. La contestazione non è rivolta unicamente al governo, ma anche ai media mainstream che, secondo i manifestanti, non danno adeguato spazio alle problematiche cubane e alle violazioni dei diritti umani derivanti dall'embargo.
+Le piccole imprese chiudono anticipatamente quando la luce viene meno. I negozi, gli ambulatori medici, le farmacie senza generatori perdono ore di operatività ogni singolo giorno. Nel lungo termine questo non è solo disagio: è il disarticolamento dell'economia di un intero paese.
 
-## Le ragioni storiche e politiche della solidarietà con Cuba
+I manifestanti romani inquadravano il quadro così: l'embargo non colpisce la leadership politica cubana, colpisce il civile che non ha responsabilità della rivoluzione avvenuta sessanta anni fa. È una punizione collettiva, un meccanismo che viola i principi basilari dei diritti umani secondo il diritto internazionale.
 
-La solidarietà con Cuba rimane radicata nella sinistra europea e italiana per ragioni storiche profonde. La Rivoluzione cubana del 1959 ha sempre rappresentato un simbolo di resistenza all'imperialismo americano per i movimenti progressisti globali. Nonostante siano passati decenni e il contesto geopolitico sia drammaticamente cambiato, Cuba mantiene un ruolo simbolico importante per le forze di sinistra. Nel 2026, questo simbolismo si rinvigorisce proprio quando l'isola affronta sfide economiche sempre più complesse.
+## Cosa impedisce realmente a Cuba di sopravvivere
 
-I manifestanti sottolineano inoltre come Cuba, pur disponendo di risorse limitate, abbia sviluppato un sistema sanitario e educativo considerato tra i migliori dell'America Latina. Secondo questa prospettiva, l'embargo rappresenterebbe un attacco deliberato a questi risultati, costringendo il governo cubano a dirottare sempre più risorse verso la gestione della crisi energetica anziché verso lo sviluppo sociale.
+Il blocco americano non è solo una questione di petrolio. Cuba non può importare macchinari agricoli moderni perché molti componenti richiedono tecnologia americana. Non può accedere a medicinali brevettati se il brevetto rimane nelle mani di aziende statunitensi. Non può ricevere pezzi di ricambio per mantenere infrastrutture già deteriorate. Ogni settore economico – dalla sanità all'agricoltura, dall'industria ai trasporti – si ritrova con le mani legate.
 
-## Reazioni e contesto normativo
+A peggiorare la situazione intervengono i secondi embargo, ossia le sanzioni che altri paesi impongono per non aver violato il blocco americano. Se un'azienda europea vende a Cuba, rischia il divieto di operare negli Stati Uniti. Questo crea un effetto dissuasivo potentissimo: molte compagnie estere semplicemente si rifiutano di commerciare con L'Avana, anche se tecnicamente potrebbero.
 
-Le autorità romane hanno monitorato attentamente lo svolgimento della manifestazione, anche se non sono stati segnalati incidenti significativi. Le forze dell'ordine hanno garantito la sicurezza pubblica mantenendo un profilo discreto, permettendo ai manifestanti di esercitare il diritto di riunione e di protesta tutelato dalla Costituzione italiana.
+## Il silenzio dell'Italia e il dibattito mancante
 
-Dal punto di vista mediatico, la manifestazione ha ricevuto attenzione dai principali organi di stampa italiani, sebbene con taglio e enfasi differenti. Mentre i media di sinistra hanno dato ampia copertura all'evento sottolineandone gli aspetti di solidarietà internazionale, gli altri mezzi di informazione hanno privilegiato una descrizione più neutra dei fatti, enfatizzando gli aspetti organizzativi e di sicurezza della marcia.
+Il corteo romano ha messo in evidenza un punto che nella stampa mainstream riceve poco spazio: la politica estera italiana, almeno nelle sue priorità pubbliche, non dedica attenzione seria alla questione cubana. L'Italia vota all'Onu per la revoca dell'embargo (come fanno quasi tutti i paesi), ma questo voto rimane letteralmente senza conseguenze perché non è accompagnato da alcuna pressione diplomatica concreta su Washington.
 
-## Conseguenze politiche e prospettive future
+I manifestanti sostenevano che una democrazia europea dovrebbe avere una posizione autonoma, o quantomeno una voce nel dibattito. Invece l'Italia preferisce seguire silenziosamente l'agenda atlantica, senza neanche sollevare il tema nei dibattiti parlamentari con la frequenza che meriterebbe una questione umanitaria di questo calibro.
 
-La manifestazione di oggi si inserisce in un contesto più ampio di dibattito sulla politica estera italiana e sulla questione cubana. Il governo Meloni, per il momento, non ha rilasciato dichiarazioni ufficiali in risposta alle proteste. Tuttavia, il corteo rappresenta un segnale che le questioni di politica internazionale rimangono vive nel dibattito pubblico italiano, anche se spesso oscurate da altre tematiche di cronaca.
+Questo è il nodo che ha acceso la piazza romana più di qualsiasi appello generico alla solidarietà: non è solo un problema cubano, è una questione su quale ruolo voglia giocare l'Italia negli equilibri internazionali.
 
-Per quanto riguarda Cuba, la situazione rimane critica. Gli attivisti del corteo romano si augurano che manifestazioni come quella di oggi possano contribuire a sensibilizzare l'opinione pubblica internazionale sulla necessità di revocare l'embargo. Nel frattempo, l'isola continua a gestire la propria crisi energetica con i limitati mezzi a disposizione, mentre la comunità internazionale rimane divisa sulla questione.
+## Domande Frequenti
 
-## Conclusione
+**D: Per quale motivo gli Stati Uniti mantengono l'embargo se l'Onu ha votato 188 sì per la revoca?**
 
-Il corteo di Roma di questo 12 aprile 2026 rappresenta un momento significativo di mobilitazione politica della sinistra italiana. La protesta si concentra su due assi principali: la solidarietà verso Cuba e la critica alle scelte di politica estera del governo italiano. Mentre le istituzioni rimangono in attesa sul da farsi, i cittadini e gli attivisti continuano a scendere in piazza per esprimere le proprie convinzioni e richiedere un cambio di rotta nelle relazioni internazionali. La questione cubana rimane aperta, così come il dibattito sulla corretta collocazione internazionale dell'Italia nel complesso scenario geopolitico del 2026.
+R: Formalmente, gli Stati Uniti sostengono che l'embargo è uno strumento legittimo di politica estera che risponde ai loro interessi di sicurezza nazionale. Praticamente, la loro posizione è sostenuta da un blocco politico interno molto consolidato: i senatori e i rappresentanti della Florida, dove risiede una comunità cubano-americana numerosa e storicamente contraria al regime castrista, mantengono un potere di veto su qualsiasi normalizzazione delle relazioni. Nessun presidente, nemmeno Obama che ha tentato uno strappo nel 2015, ha avuto abbastanza consenso per abolire il blocco completamente. La revoca richiederebbe una decisione congressuale, non presidenziale, ed è quasi politicamente impossibile in questo contesto.
 
-<!-- META: Corteo a Roma a favore di Cuba contro l'embargo americano. Manifestanti criticano anche il
+**D: Cuba potrebbe sopravvivere economicamente anche senza l'embargo grazie ai rapporti con la Cina e la Russia?**
+
+R: Teoricamente sì, ma solo in parte. La Cina è il principale partner commerciale di Cuba oggi, ma gli scambi rimangono limitati dalle capacità logistiche cubane e dalla mancanza di valuta estera per importare ciò di cui ha davvero bisogno. La Russia, pur essendo un alleato storico, è a sua volta sotto sanzioni occidentali e ha minore capacità di supporto economico rispetto al passato. L'embargo americano crea un effetto moltiplicatore di danno perché scoraggia anche i paesi non ostili da rapporti commerciali normali con l'isola, per paura di conseguenze economiche negli Stati Uniti

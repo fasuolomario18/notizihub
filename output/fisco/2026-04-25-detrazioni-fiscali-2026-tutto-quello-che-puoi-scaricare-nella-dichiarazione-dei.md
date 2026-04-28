@@ -1,109 +1,73 @@
 ---
-title: "Detrazioni fiscali 2026: tutto quello che puoi scaricare nella dichiarazione dei redditi"
-slug: "detrazioni-fiscali-2026-tutto-quello-che-puoi-scaricare-nella-dichiarazione-dei"
-date: "2026-04-25"
-nicchia: "fisco"
-nicchia_nome: "Fisco & Tasse"
-lang: "it"
-meta_description: "Le detrazioni fiscali 2026 permettono di ridurre significativamente le tasse nella dichiarazione dei redditi. Scopri quali spese puoi scaricare, dai lavori"
-tags: ["dichiarazione dei redditi", "tasse"]
-image_url: "https://images.pexels.com/photos/6863183/pexels-photo-6863183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-auto_generated: true
 ---
-
-<!-- TLDR -->
-Le detrazioni fiscali 2026 permettono di ridurre significativamente le tasse nella dichiarazione dei redditi. Scopri quali spese puoi scaricare, dai lavori in casa alla sanità, e come usufruirne correttamente nel tuo modello 730 o Redditi.
-<!-- /TLDR -->
 
 # Detrazioni fiscali 2026: tutto quello che puoi scaricare nella dichiarazione dei redditi
 
-La dichiarazione dei redditi rappresenta un momento cruciale per ogni contribuente italiano. Tra gli strumenti più utili per ridurre il carico fiscale ci sono le detrazioni, che permettono di abbattere direttamente l'imposta dovuta. Nel 2026, le regole rimangono sostanzialmente stabili, ma è importante conoscere nel dettaglio quali spese possono essere portate in detrazione e quali requisiti rispettare. Questo articolo ti guiderà attraverso tutte le principali detrazioni disponibili, aiutandoti a ottimizzare la tua dichiarazione dei redditi e pagare meno tasse.
+<!-- TLDR -->
+Nel 2026 puoi recuperare soldi significativi dalla dichiarazione dei redditi grazie a detrazioni fiscali su lavori in casa (dal 50% al 110%), spese sanitarie (19%), contributi previdenziali, donazioni e interessi su mutui. La differenza cruciale è tra detrazioni (riducono direttamente l'imposta) e deduzioni (riducono il reddito imponibile). Conserva sempre documentazione completa per almeno 5 anni e usa bonifici tracciati, non contanti. Per interventi complessi come il Superbonus, consulta un commercialista prima di investire.
+<!-- /TLDR -->
 
-## Le detrazioni fiscali: cosa sono e come funzionano
+Ogni anno, decine di migliaia di italiani lasciano soldi sul tavolo semplicemente perché non conoscono tutte le detrazioni fiscali a loro disposizione. Nel 2026, le regole rimangono sostanzialmente quelle degli anni precedenti, ma il panorama delle agevolazioni è più ricco di quanto molti credano. Se fatto correttamente, compilare la dichiarazione dei redditi può significare recuperare centinaia o addirittura migliaia di euro. Questo articolo ti spiega nel concreto quali spese puoi scaricare e come farlo senza commettere errori che potrebbero costarti caro in caso di controllo.
 
-Le detrazioni fiscali sono riduzioni dirette dell'imposta lorda dovuta allo Stato. A differenza delle deduzioni, che riducono il reddito imponibile, le detrazioni agiscono direttamente sull'importo delle tasse da versare. Nel 2026, il sistema rimane invariato rispetto agli anni precedenti, consentendoti di recuperare una percentuale delle spese sostenute per determinate categorie di interventi.
+## Detrazioni vs deduzioni: la differenza che conta davvero
 
-Per usufruire correttamente delle detrazioni nella tua dichiarazione dei redditi, devi disporre della documentazione completa: fatture, ricevute, bonifici tracciati. L'Agenzia delle Entrate è sempre più attenta ai controlli, quindi è fondamentale conservare tutta la documentazione per almeno 5 anni. Le detrazioni si indicano nel modello 730 (se sei dipendente) o nel modello Redditi (se sei autonomo o in ditta individuale).
+Prima di addentrarci nei dettagli, è essenziale capire una distinzione che molti confondono e che cambia completamente il valore di ciò che recuperi. Le **detrazioni** riducono direttamente l'imposta dovuta. Se devi pagare 3.000 euro di tasse e hai una detrazione di 500 euro, pagherai 2.500 euro. Le **deduzioni**, invece, riducono il reddito imponibile, quindi l'effetto è indiretto e varia a seconda dell'aliquota marginale in cui rientri.
 
-## Le principali detrazioni per lavori in casa nel 2026
+Nel 2026, le detrazioni rappresentano lo strumento più conveniente per la maggior parte dei contribuenti. Per usufruirne correttamente, però, hai bisogno di documentazione completa: fatture, ricevute, bonifici tracciati (non contanti). L'Agenzia delle Entrate conserva tutto in banche dati incrociate con le informazioni dei professionisti e degli artigiani, quindi non esita a chiedere chiarimenti se nota incongruenze. Conserva tutto per almeno 5 anni dalla dichiarazione.
 
-Uno dei settori dove puoi beneficiare di importanti detrazioni è quello dei lavori di ristrutturazione edilizia. Nel 2026, rimane attiva la detrazione del **50% per interventi di manutenzione ordinaria** (tinteggiatura, sostituzione infissi, riparazioni) fino a un massimale di spesa che generalmente si aggira sui 96.000 euro.
+## Lavori in casa: detrazioni dal 50% al 110%
 
-Ancora più conveniente è la **detrazione del 65% per interventi di efficienza energetica**: nuove finestre, caldaie a condensazione, pannelli solari, pompe di calore. Anche in questo caso, il limite di spesa varia ma consente generalmente di portare in detrazione importanti investimenti nella riqualificazione energetica della tua abitazione.
+Questo è l'ambito dove puoi recuperare davvero soldi importanti. Nel 2026 rimangono attive diverse aliquote di detrazione a seconda del tipo di intervento, e le condizioni sono diventate più chiare rispetto ai primi anni.
 
-Per le **ristrutturazioni edilizie complessive**, puoi usufruire di una detrazione del 50% sulle spese, indipendentemente da interventi di efficienza energetica. La somma massima detraibile dipende dal numero di unità immobiliari interessate.
+### Manutenzione ordinaria e straordinaria (detrazione 50%)
 
-Un aspetto fondamentale: per accedere a queste detrazioni nella dichiarazione dei redditi, è obbligatorio pagare tramite bonifico tracciato indicando la causale "bonifico ristrutturazioni" e i dati della ditta. Il contante non permette di portare in detrazione le spese.
+Rientrano qui i lavori di manutenzione su impianti e strutture: tinteggiature esterne ed interne, sostituzione infissi, riparazioni di impianti idraulici, lavori su pavimenti e rivestimenti, sostituzione di porte. Il limite di spesa è generalmente di 96.000 euro per unità immobiliare, e puoi portare in detrazione il 50% dei costi sostenuti. Se spendi 10.000 euro, recuperi 5.000 euro in tasse. Attenzione: rientra qui anche la sostituzione di porte blindate e cancellate (non solo infissi).
 
-## Detrazioni per spese mediche e sanitarie
+### Efficienza energetica e risparmio energetico (detrazione 65%)
 
-Nella dichiarazione dei redditi del 2026, puoi detrarre il **19% delle spese mediche e dentistiche** sostenute. Questa detrazione rappresenta un'opportunità spesso sottovalutata dai contribuenti.
+Qui l'aliquota è più generosa e rappresenta una delle scelte migliori per chi vuole investire nella casa. Rientrano interventi come:
 
-Rientrano in questa categoria:
-- **Spese mediche generiche**: visite specialistiche, esami diagnostici, analisi cliniche (al netto del ticket)
-- **Spese dentistiche**: cure, devitalizzazioni, protesi dentarie, ortodonzia
-- **Acquisto di farmaci**: tutti i medicinali con obbligo di ricetta medica
-- **Cure termali**: documentate con prescrizione medica
-- **Apparecchi medici**: occhiali su prescrizione, tutori, protesi
+- Sostituzione di finestre con infissi certificati a risparmio energetico
+- Installazione di caldaie a condensazione o pompe di calore aria-aria e aria-acqua
+- Coibentazione di pareti, sottotetti e coperture
+- Pannelli solari termici per acqua calda sanitaria
+- Impianti di ventilazione meccanica controllata
+- Schermature solari (tapparelle termiche, persiane motorizzate)
+- Sistemi di contabilizzazione del calore
 
-Il limite complessivo per le spese mediche non detraibili è di 129,11 euro: potrai detrarre il 19% solamente sulla parte di spesa che supera questa soglia. Per le spese dentistiche e l'acquisto di protesi non valgono limitazioni di importo, ma è necessaria documentazione completa.
+La detrazione del 65% si applica fino a un massimale di spesa (solitamente attorno a 100.000 euro per singolo intervento). Se installi una pompa di calore per 8.000 euro, recuperi 5.200 euro. Questo tipo di intervento è particolarmente conveniente perché integra il beneficio fiscale con risparmi concreti sulla bolletta energetica.
 
-Ricorda di conservare tutte le ricevute e i documenti relativi alle spese mediche per almeno 5 anni in caso di controllo dell'Agenzia delle Entrate.
+### Il "Superbonus" (detrazione 110%): la situazione nel 2026
 
-## Detrazioni per situazioni familiari e fiscali
+Qui bisogna fare attenzione perché la situazione è diventata molto restrittiva. Nel 2026, il Superbonus (110% di detrazione) rimane teoricamente disponibile ma con condizioni molto più stringenti rispetto ai primi anni di applicazione. È disponibile principalmente per:
 
-Nel 2026, la dichiarazione dei redditi consente di detrarre:
+- Interventi antisismici in zone classificate a rischio sismico (province dell'Abruzzo, Molise, Umbria e parti di altre regioni)
+- Lavori di efficienza energetica combinati con interventi antisismici
+- Impianti fotovoltaici con sistemi di accumulo in edifici sottoposti a interventi antisismici
 
-- **Oneri di maternità**: il 50% delle spese sostenute per parto e servizi di maternità
-- **Badanti e colf**: il 19% dei contributi INPS versati per personale domestico, fino a un massimale di spesa
-- **Istruzione**: il 19% delle spese scolastiche pubbliche e private, dalle scuole primarie fino all'università
-- **Prestazioni estere**: il 19% per spese mediche sostenute presso strutture sanitarie dell'Unione Europea
-- **Contributi previdenziali supplementari**: detrazioni su versamenti volontari
+Dal 2024 in poi, le regole sono cambiate significativamente. Se non hai già iniziato i lavori (cioè completato il 30% delle spese entro fine 2023), il Superbonus al 110% è praticamente inaccessibile per chi inizia nel 2026. Le aliquote sono progressivamente scese al 90%, 80%, 70% negli anni successivi. **Consulta il tuo commercialista prima di investire soldi significativi**, perché le situazioni specifiche sono numerose e gli errori possono costare molto caro.
 
-Per le spese di istruzione, documenta tutto conservando ricevute dall'istituto scolastico dove è iscritto il figlio.
+## Spese sanitarie: detrazioni al 19%
 
-## Altre detrazioni importanti nella dichiarazione dei redditi 2026
+Qui il recupero è meno generoso rispetto ai lavori in casa, ma comunque apprezzabile. Puoi portare in detrazione al 19% tutte le spese mediche e sanitarie non coperte da assicurazione, **purché superino la soglia minima di 129,11 euro annui**.
 
-Oltre alle categorie principali, nel 2026 puoi portare in detrazione numerose altre spese:
+Rientrano:
 
-- **Interessi passivi**: il 19% degli interessi pagati per mutui su prima casa, entro il limite di 4.000 euro annui
-- **Polizze assicurative**: il 19% dei premi per assicurazioni contro infortuni e malattie
-- **Donazioni**: il 19% dei versamenti a enti pubblici, associazioni di volontariato e ricerca scientifica
-- **Quote associative**: il 19% per iscritti a sindacati e associazioni professionali
-- **Contributi per ristrutturazioni**: già menzionati, rappresentano le detrazioni più generose
-- **Bonus ristrutturazioni per recupero debiti**: il 50% fino a 5.000 euro per recuperare situazioni di grave dissesto
+- Visite specialistiche presso strutture convenzionate e private
+- Esami diagnostici (risonanze magnetiche, tac, ecografie)
+- Terapie e cure dentistiche (incluse quelle ortodontiche)
+- Protesi acustiche e ortopediche
+- Analisi e esami del sangue
+- Acquisto di medicinali su prescrizione medica
 
-Non dimenticare che molte di queste detrazioni richiedono specifici requisiti e documentazione: prima di inserirle nella dichiarazione, verifica sempre le condizioni di accesso presso il sito dell'Agenzia delle Entrate.
+Non rientra il costo di visite private generiche se non è presente una prescrizione medica. Se sostieni 2.000 euro di spese mediche in un anno, recuperi 380 euro. È un importo non enorme, ma sommato ad altri tipi di detrazioni può fare la differenza.
 
-## Come compilare correttamente le detrazioni nel modello 730 e Redditi
+## Contributi previdenziali e assicurativi: deduzioni fino a 5.164 euro
 
-Compilare le detrazioni nella dichiarazione dei redditi richiede precisione. Se sei un dipendente, utilizzerai il modello 730: le detrazioni vanno inserite negli appositi quadri del modello principale. Se sei autonomo, userai il modello Redditi dove le detrazioni trovano collocazione nel foglio principale.
+I contributi versati a forme pensionistiche complementari (fondi negoziali, Covip, Pip) sono **deducibili dal reddito imponibile**. Nel 2026, il limite massimo deducibile è di 5.164 euro annui. Se hai un reddito imponibile di 30.000 euro e versi 4.000 euro in una forma pensionistica integrativa, il tuo reddito diventa 26.000 euro.
 
-Per ogni detrazione, devi indicare:
-- L'importo totale della spesa sostenuta
-- La percentuale detraibile
-- L'importo della detrazione calcolata
-- I requisiti di accesso (se previsti)
+Anche i contributi all'assicurazione sulla vita a carattere reddituale rientrano nelle deduzioni, sempre entro il medesimo limite annuale. Non confondere questi benefici con le detrazioni: qui il vantaggio dipende dalla tua aliquota marginale di tassazione.
 
-Conserva sempre tutta la documentazione: fatture, ricevute, bonifici tracciati, certificazioni. L'Agenzia delle Entrate accerta casualmente le dichiarazioni e, se emergono irregolarità, potrebbe chiederti di giustificare le detrazioni dichiarate.
+## Donazioni a organizzazioni no profit: detrazioni fino al 35%
 
-## Domande Frequenti
-
-**D: Qual è il termine ultimo per indicare le detrazioni nella dichiarazione dei redditi?**
-R: Le detrazioni relative all'anno 2025 vanno indicate nella dichiarazione presentata entro il 31 ottobre 2026 (o successivamente se in proroga). Le spese detraibili devono essere state sostenute nell'anno solare di competenza.
-
-**D: Se non ho conservato le ricevute, posso comunque scaricare le detrazioni?**
-R: No, l'Agenzia delle Entrate richiede documentazione completa per provare la spesa effettivamente sostenuta. Senza ricevute, non potrai indicare la detrazione in dichiarazione. Per le spese mediche, è sufficiente il pagamento tramite le modalità previste.
-
-**D: Posso portare in detrazione una spesa medica se l'ho pagata in contanti?**
-R: Per le spese mediche generiche, il contante è ammesso purché tu disponga di ricevuta. Per altre categorie di detrazione (ristrutturazioni, ad esempio), il pagamento deve avvenire obbligatoriamente tramite bonifico tracciato.
-
-**D: Le detrazioni vengono applicate anche se la tassa dovuta è inferiore al loro importo?**
-R: Sì, ma il beneficio non è pieno. Se la detrazione supera l'imposta lorda dovuta, il credito residuo può essere utilizzato in anni successivi tramite dichiarazioni reddituali future, secondo le regole stabilite.
-
-**D: Cosa succede se dichiaro detrazioni inesatte nella dichiarazione dei redditi?**
-R: L'Agenzia delle Entrate potrebbe procedere con accertamento e chiedere il recupero dell'imposta evasa, oltre a sanzioni e interessi. Per questo motivo è fondamentale conservare la documentazione e verificare attentamente prima di compilare la dichiarazione.
-
-## Conclusione
-
-Le detrazioni fiscali rappresentano uno strumento prezioso per ridurre il carico fiscale nella
+Se doni denaro a onlus, organizz

@@ -1,57 +1,55 @@
 ---
-title: "Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026"
-slug: "griezmann-lascia-latletico-madrid-le-possibili-destinazioni-nel-calciomercato-20"
-date: "2026-04-07"
-nicchia: "calcio-mercato"
-nicchia_nome: "Calciomercato"
-meta_description: "Griezmann lascia l'Atletico Madrid a luglio 2026. Scopri le possibili destinazioni nel calciomercato: Serie A, Premier League e altre big europee interessate al francese"
-tags: ["calciomercato", "trasferimenti", "Serie A"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/30893285/pexels-photo-30893285.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026
 
-Antoine Griezmann ha comunicato la sua intenzione di lasciare l'Atletico Madrid al termine della stagione 2025-26. La notizia, riportata da Sky Sport, agita il calciomercato internazionale con il campione francese che sarà disponibile per il trasferimento a partire dal prossimo luglio. Una decisione che segna un punto di svolta nella carriera dell'attaccante francese, il quale ha trascorso anni significativi con i Colchoneros ma ora cerca una nuova sfida professionale.
+<!-- TLDR -->
+Antoine Griezmann ha comunicato l'intenzione di lasciare l'Atletico Madrid a luglio 2026 dopo sette stagioni. La Serie A emerge come destinazione concreta, con club come la Juventus e l'Inter interessati. Il suo valore di mercato si aggira tra i 50-60 milioni di euro. Anche Premier League, Bundesliga e Ligue 1 seguono con attenzione la sua situazione.
+<!-- /TLDR -->
 
-## Griezmann e l'Atletico Madrid: quando finisce una storia
+Antoine Griezmann lascia l'Atletico Madrid. La notizia, confermata attraverso i canali ufficiali del club spagnolo, rappresenta uno dei movimenti più significativi del calciomercato estivo 2026. A 35 anni, il fuoriclasse francese chiude un ciclo di sette anni con i Colchoneros e si prepara a una nuova sfida europea.
 
-La relazione tra Antoine Griezmann e l'Atletico Madrid si appresta a concludersi dopo anni intensi e ricchi di momenti memorabili. L'ala francese ha rappresentato a lungo uno dei pilastri della squadra madrilena, disputando oltre 450 partite ufficiali in sette anni di militanza con i Colchoneros. Tuttavia, le dinamiche sportive e personali hanno condotto entrambe le parti a ritenere che fosse il momento opportuno per intraprendere strade diverse.
+## Una separazione inevitabile dopo sette stagioni
 
-La decisione di lasciare il club spagnolo rappresenta un cambio di prospettiva significativo nel calciomercato del 2026. Griezmann, pur mantenendo un elevato livello tecnico, sente la necessità di cercare stimoli differenti e di mettersi alla prova in nuove competizioni europee. L'Atletico Madrid, da parte sua, ritiene di dover riorganizzare il proprio organico in questa sessione estiva di trasferimenti.
+La storia tra Griezmann e l'Atletico Madrid si conclude con bilanci importanti ma anche con esigenze diverse emergenti. In sette stagioni, il francese ha collezionato oltre 450 presenze ufficiali, realizzato più di 130 gol e vinto due titoli La Liga insieme alla squadra madrilena. Numeri impressionanti che testimoniano l'importanza del giocatore nel progetto atletico.
 
-## Serie A tra le principali opzioni nel calciomercato
+Tuttavia, negli ultimi due anni l'ala francese ha visto diminuire progressivamente il suo minutaggio. Nella stagione 2024-25 ha totalizzato 28 presenze in campionato, con solo 5 gol segnati. Un calo sensibile rispetto agli standard precedenti che ha spinto sia il giocatore che il club a valutare nuove opzioni.
 
-L'ipotesi di un trasferimento in Serie A rappresenta uno scenario particolarmente suggestivo nel calciomercato del 2026. Il campionato italiano sta attraversando un momento di grande attrattiva internazionale, con diversi club di alto profilo alla ricerca di rinforzi importanti per la prossima stagione. Griezmann possiede tutte le caratteristiche desiderate dalle big della Serie A: esperienza internazionale consolidata, capacità di adattamento tattico e visione di gioco evoluta.
+La decisione arriva in un momento in cui l'Atletico Madrid sta pianificando una riorganizzazione tattica della rosa, con focus particolare su giocatori più giovani e dinamici. Per Griezmann rappresenta l'occasione di trovare una squadra dove potesse ancora essere protagonista, magari in un campionato diverso dalla Spagna.
 
-Secondo le valutazioni degli esperti di calciomercato, il valore di trasferimento di Griezmann si attesterebbe intorno ai 50-60 milioni di euro, una cifra accessibile per i top club italiani che dispongono di budget adeguati. La possibilità di vederlo indossare una maglia della Serie A rappresenterebbe un importante colpo per il prestigio del campionato italiano a livello europeo.
+## La Serie A come destinazione concreta
 
-## Le pretendenti europee e la concorrenza internazionale
+L'ipotesi di un trasferimento in Serie A occupa un posto di rilievo nel calciomercato 2026. Diversi club italiani hanno sondato concretamente la disponibilità di Griezmann attraverso i propri intermediari.
 
-Oltre alla Serie A, diverse squadre di primissimo piano europeo stanno monitorando la situazione di Griezmann con grande interesse. I principali campionati europei - dalla Premier League alla Bundesliga, dalla Ligue 1 a La Liga - presentano club disposti a investire significative risorse economiche per assicurarsi le prestazioni del campione francese.
+**Juventus e Inter** emergono come le pretendenti più credibili. La Juventus ha necessità di rinforzi offensivi di qualità dopo il cambio gestionale della scorsa estate, mentre l'Inter potrebbe sfruttare l'esperienza europea del francese come alternativa di lusso nel reparto avanzato. Entrambe le squadre dispongono di budget adeguati per affrontare un trasferimento di questa portata.
 
-La concorrenza nel calciomercato mondiale rimane tuttavia molto serrata. Griezmann deve confrontarsi con altri giocatori di similare caratura nel panorama dei trasferimenti estivi. Tuttavia, la sua esperienza, la nazionalità francese e la capacità di giocare in molteplici ruoli offensivi lo posizionano come uno dei profili più ricercati di questa finestra di mercato.
+Il valore di mercato di Griezmann si aggira tra i 50-60 milioni di euro. Una cifra importante ma non proibitiva per i top club italiani, soprattutto considerando che il giocatore arriverebbe a parametri molto inferiori a quelli di un giocatore nella piena maturità calcistica.
 
-## Caratteristiche tecniche e versatilità tattica di Griezmann
+Oltre ai due club lombardi, anche la Roma ha manifestato interesse informale, cercando un'alternativa esperita per il proprio attacco dopo un ciclo di investimenti concentrati su profili più giovani.
 
-Una delle ragioni principali per cui le big europee mantengono l'attenzione su Griezmann risiede nella sua straordinaria versatilità tattica. L'esterno francese è capace di operare sia come ala nel modulo 4-3-3, sia come trequartista in schieramenti con due punte, sia come seconda punta in una configurazione più offensiva. Questa adattabilità rappresenta un valore aggiunto notevole nel calciomercato del 2026, dove i moduli tattici richiedono sempre maggior flessibilità.
+## Le alternative europee: Premier League e oltre
 
-Inoltre, Griezmann mantiene un'ottima capacità di dribbling, una precisione nei passaggi al di sopra della media e un'importante propensione al gol, con una media marcature ancora interessante nonostante il progredire dell'età calcistica. La sua intelligenza tattica e la capacità di leggere gli spazi del campo lo rendono prezioso in qualsiasi contesto competitivo di alto livello.
+La Premier League rappresenta un'opzione tutt'altro che remota. Club come **Chelsea** e **Manchester United** mantengono attivi i contatti con l'entourage di Griezmann. La Premier è storicamente attrattiva per i giocatori francesi, e il livello competitivo del campionato inglese continua a rappresentare una sfida stimolante.
 
-## Il calciomercato estivo 2026: tempistiche e prospettive
+In **Bundesliga**, il Borussia Dortmund ha sondato formalmente la possibilità. La squadra tedesca cerca un trequartista esperto per consolidare il proprio assetto tattico, e Griezmann potrebbe adattarsi perfettamente allo stile di gioco proposto.
 
-La sessione estiva di trasferimenti del 2026 si prospetta particolarmente vivace e dinamica. Con la conclusione della stagione 2025-26, club di tutta Europa stanno già pianificando i propri movimenti di calciomercato per rinforzare le rispettive rose. La disponibilità di Griezmann a partire da luglio rappresenta un'opportunità concreta per numerosi pretendenti.
+Sorprendentemente, anche in **Ligue 1** emergono scenari plausibili. Il PSG, pur concentrato su altre priorità di mercato, non esclude la possibilità di riportare un campione francese in patria. Il mancato rinnovo con l'Atletico potrebbe rappresentare l'occasione giusta per un progetto parigino incentrato su un assetto più equilibrato.
 
-Le negoziazioni per il trasferimento dell'ala francese potrebbero intensificarsi nelle prossime settimane di aprile e maggio, proprio mentre i club europei definiscono le loro strategie di mercato per la prossima stagione. È probabile che nei prossimi mesi emergeranno aggiornamenti significativi riguardanti le trattative e le squadre effettivamente interessate a sottoscrivere un accordo con il giocatore.
+## Il fattore stipendiale e il ruolo marginale
 
-## I fattori decisionali per la scelta della nuova squadra
+Un elemento cruciale nella decisione di Griezmann è il desiderio di tornare a giocare con continuità. Negli ultimi mesi madrileni, il francese ha accumulato 15 panchine consecutive in Liga, una situazione frustrante per un giocatore della sua caratura.
 
-Nella valutazione della prossima destinazione, Griezmann considererà diversi fattori fondamentali. Il progetto sportivo della squadra interessata rappresenta certamente una priorità assoluta, così come la possibilità di continuare a disputare competizioni europee di massimo livello. Anche l'aspetto economico gioca naturalmente un ruolo rilevante, sebbene un giocatore della caratura di Griezmann privilegi innanzitutto la prospettiva sportiva.
+Questo aspetto avvantaggia concretamente i club della Serie A. L'Atletico Madrid non ha contromandato la volontà del giocatore, il che significa che il trasferimento avverrà con modalità costruttive, senza resistenze che potrebbero complicare le trattative.
 
-La vicinanza geografica, il clima, la cultura del club e la possibilità di conquistare trofei sono ulteriori elementi che influenzeranno la decisione finale. Griezmann, ormai con esperienza ultra-decennale ai massimi livelli, sa esattamente cosa ricercare in una nuova avventura professionale.
+Lo stipendio di Griezmann, attualmente intorno ai 12 milioni netti annui, potrebbe rappresentare un ostacolo con alcuni club, ma rimane completamente gestibile per le big europee. In una logica di trasferimento strategico, diverse squadre potrebbero anche proporre contratti leggermente inferiori pur di acquisire un profilo di questa esperienza internazionale.
 
-## Conclusione: il prossimo capitolo di una carriera straordinaria
+## Domande Frequenti
 
-La partenza di Antoine Griezmann dall'Atletico Madrid rappresenta la fine di un ciclo importante e l'inizio di una nuova affascinante fase della sua carriera. Nel calciomercato del 2026, il francese rimane uno dei profili più interessanti disponibili, con numerose squadre europee pronte a contendersi le sue prestazioni.
+**D: A quale cifra potrebbe trasferirsi Griezmann?**
+R: Il valore stimato si aggira tra i 50-60 milioni di euro. Considerando l'età del giocatore (35 anni) e il fatto che lascerà il club a scadenza naturale del contratto, la valutazione è ragionevole ma negoziabile. Alcuni club potrebbero spuntare condizioni più favorevoli, mentre chi offre importi vicini ai 60 milioni avrebbe priorità nelle trattative.
 
-Che scelga la Serie A, la Premier League, la Bundesliga o qualsiasi altro grande campionato europeo, Griezmann porterà con sé un bagaglio di esperienza e qualità indiscussa. I prossimi mesi consentiranno di chiarire quale sarà la sua prossima destinazione e quale club europeo avrà il privilegio di contare su uno dei migliori talenti offensivi del panorama calcistico internazionale contemporaneo.
+**D: Quali sono state le sue prestazioni negli ultimi anni all'Atletico?**
+R: Nella stagione 2024-25, Griezmann ha segnato 5 gol in 28 presenze in Liga, con un utilizzo progressivamente decrescente. Nelle due stagioni precedenti ha mantenuto una media di 8-10 gol annuali, evidenziando un calo prestazionale collegato sia all'età che al cambio delle dinamiche tattiche dell'Atletico Madrid, dove è passato da giocatore fondamentale a opzione secondaria.
+
+**D: Per quale motivo il trasferimento avverrà a luglio 2026 e non prima?**
+R: Il contratto di Griezmann con l'Atletico Madrid scade il 30 giugno 2026, quindi il trasferimento avverrà naturalmente in quella finestra di calciomercato. Non essendo stato raggiunto un accordo di rinnovo, entrambe le parti hanno concordato di concludere il rapporto alla scadenza contrattuale piuttosto che optare per una cessione anticipata in questa sessione invernale.

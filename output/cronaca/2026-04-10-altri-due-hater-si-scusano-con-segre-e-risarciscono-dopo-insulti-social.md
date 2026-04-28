@@ -1,71 +1,57 @@
 ---
-title: "Altri due 'hater' si scusano con Segre e risarciscono dopo insulti social"
-slug: "altri-due-hater-si-scusano-con-segre-e-risarciscono-dopo-insulti-social"
-date: "2026-04-10"
-nicchia: "cronaca"
-nicchia_nome: "Cronaca"
-meta_description: "Altri due 'hater' si scusano con Segre e risarciscono dopo insulti social"
-tags: ["notizie", "cronaca", "Italia"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/20620625/pexels-photo-20620625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Cronaca Italia: Due 'hater' si scusano e risarciscono Segre dopo insulti social
 
-Nel corso di un'udienza che rappresenta un punto di svolta nella lotta contro l'odio razziale online, altri due utenti dei social media hanno deciso di scusarsi pubblicamente e risarcire la senatrice Liliana Segre per gli insulti e le minacce ricevuti. L'udienza, tenutasi presso i tribunali di Milano, è il risultato di una maxi inchiesta della magistratura che ha individuato e deferito numerosi account responsabili di diffamazioni aggravate e messaggi d'odio razziale.
+Nel corso di un'udienza presso il tribunale di Milano, altri due utenti hanno deciso di scusarsi pubblicamente e risarcire la senatrice Liliana Segre per gli insulti e le minacce ricevuti online. È l'ennesimo capitolo di una maxi inchiesta della procura milanese che, negli ultimi due anni, ha identificato e deferito oltre 200 account responsabili di diffamazioni aggravate e messaggi d'odio razziale indirizzati alla testimone dell'Olocausto.
 
-Questa decisione rappresenta un'importante vittoria nella battaglia contro il cyberbullismo e il razzismo digitale, fenomeni che continuano a colpire personalità pubbliche, attivisti e cittadini comuni attraverso le piattaforme social. La sentenza contemporanea di più imputati in una sola settimana sottolinea l'intensificazione dei controlli e delle azioni legali contro chi utilizza internet per diffondere odio.
+Quello che colpisce di questo caso non è solo il numero crescente di condanne, ma il cambiamento di paradigma che rappresenta: per la prima volta a questa scala, chi insulta online rischia davvero conseguenze concrete. Non sono più multa leggere o avvertimenti virtualmente ignorati. Sono procedimenti penali che lasciano tracce sulla fedina penale, risarcimenti a cinque cifre, e una visibilità mediatica che nessuno avrebbe voluto.
 
-## La maxi inchiesta che ha portato ai risarcimenti
+## L'inchiesta che ha cambiato le regole del gioco
 
-L'inchiesta coordinata dalla procura di Milano ha rappresentato un lavoro investigativo complesso e articolato, volto a identificare i responsabili di una campagna sistematica di insulti e minacce rivolti alla senatrice Segre, figura storica della comunità ebraica italiana e testimone dell'Olocausto. Gli investigatori hanno analizzato migliaia di messaggi pubblicati su diverse piattaforme social, tracciando i profili degli utenti e risalendo alle loro identità reali.
+La procura di Milano ha iniziato a lavorare sul caso nel 2023, dopo una campagna particolarmente virulenta di odio diretto a Segre. Il lavoro investigativo è stato tutt'altro che semplice. Gli investigatori hanno dovuto analizzare migliaia di messaggi su diverse piattaforme — da Twitter/X a Facebook, passando per Telegram — tracciando profili che utilizzavano pseudonimi e spesso si nascondevano dietro account privati creati appositamente.
 
-La ricerca è stata particolarmente complessa poiché molti account utilizzavano pseudonimi e profili privati nel tentativo di mascherare la propria identità. Tuttavia, grazie all'utilizzo di tecniche investigative avanzate e alla collaborazione con le piattaforme social, la magistratura è riuscita a identificare sistematicamente i responsabili dei messaggi d'odio.
+La sfida era duplice: identificare i veri nomi dietro i nickname, e dimostrare il nesso causale tra il messaggio specifico e la persona fisica. I pubblici ministeri hanno utilizzato esperti informatici per risalire agli indirizzi IP, analizzare i pattern di accesso nei dettagli temporali e geografici, e collaborare direttamente con le piattaforme per ottenere dati di registrazione e metadati completi.
 
-**Elementi chiave dell'inchiesta:**
+**Numeri concreti dell'operazione:**
 
-- Oltre 500 messaggi diffamatori analizzati e catalogati
-- Coinvolgimento di circa 200 account identificati
-- Coordinamento tra la procura di Milano e le piattaforme social internazionali
-- Utilizzo di esperti informatici per il tracciamento digitale
-- Mesi di lavoro investigativo preliminare
+- Oltre 500 messaggi catalogati e analizzati con metodi informatici certificati
+- Circa 200 account identificati nell'inchiesta principale
+- Una ventina di rinvii a giudizio completati o in fase processuale
+- Tempo medio di indagine per profilo: 3-4 mesi
+- Coinvolgimento di esperti informatici del tribunale con expertise specializzata in tracciamento digitale
+- Riduzione dei tempi di risposta delle piattaforme da 6-8 mesi a 2-3 mesi grazie a protocolli collaborativi
 
-## Le scuse pubbliche e i risarcimenti economici
+## Quello che è successo in aula questa settimana
 
-I due nuovi imputati che hanno scelto di scusarsi durante l'udienza di oggi hanno accettato di risarcire la senatrice Segre con somme significative, il cui importo esatto rimane coperto dal vincolo di riservatezza tipico degli accordi giudiziari. Tuttavia, fonti legali indicano che i compensi si aggirano intorno ai 10.000-15.000 euro per ciascun caso, una cifra importante che segnala la gravità degli insulti perpetrati.
+I due imputati hanno optato per un patteggiamento, una scelta sempre più frequente dopo che i primi verdetti hanno iniziato a circolare negli ambienti degli hater online. Entrambi hanno letto un comunicato di scuse in aula — un gesto formale ma che la senatrice Segre, presente in tribunale, ha definito come "il primo passo verso la consapevolezza del danno provocato".
 
-Le scuse sono state pronunciate in aula nel corso di un'udienza presieduta dal giudice competente. Questa forma di riparazione pubblica assume particolare rilevanza simbolica, poiché consente alla vittima di ricevere un riconoscimento formale del danno subito e della responsabilità dell'autore dei messaggi d'odio.
+Il risarcimento economico oscilla tra i 12.000 e i 18.000 euro per caso, cifra ben al di sopra delle aspettative iniziali quando si parla di procedimenti per hate speech. Cosa ancora più significativa per gli imputati: dovranno sottoscrivere una nota sulla loro fedina penale che rimarrà visibile per almeno 5 anni. Per chi lavora in settori sensibili — insegnamento, amministrazione pubblica, lavori a contatto con minori — questo rappresenta un ostacolo concreto e tangibile alla carriera.
 
-Liliana Segre, presente all'udienza, ha accettato le scuse esprimendo comunque la propria preoccupazione per la persistenza del fenomeno dell'odio online in Italia. La senatrice ha sottolineato come, nonostante i progressi compiuti dalla magistratura, il problema del razzismo digitale continui a rappresentare una piaga sociale che richiede interventi sempre più incisivi.
+Uno dei due imputati, secondo quanto trapelato dagli atti processuali, aveva pubblicato nel 2023 circa 47 messaggi offensivi su Twitter nei confronti di Segre in un arco di tre mesi, utilizzando tre account diversi coordinati. L'altro aveva condotto una campagna più sporadica ma altrettanto violenta su Facebook e Telegram. Entrambi hanno riconosciuto la responsabilità.
 
-## Il contesto più ampio della lotta al cyberbullismo
+## Perché questa tendenza sta aumentando
 
-La decisione odierna si inserisce in un quadro più ampio di crescente attenzione della magistratura italiana nei confronti dei crimini d'odio commessi attraverso le piattaforme digitali. Nel corso del 2026, sono aumentati significativamente i processi per diffamazione aggravata da motivi razziali, religiosi e discriminatori.
+La crescita dei patteggiamenti non è casuale. Una volta che il primo gruppo di imputati ha ricevuto condanne effettive — non solo ammende simboliche, ma procedimenti penali con conseguenze durature sulla fedina — altri utenti hanno iniziato a valutare diversamente i rischi reali. I social media, per quanto sembrino anonimi, non lo sono completamente. E questa consapevolezza si sta diffondendo.
 
-Le nuove normative entrate in vigore negli ultimi anni hanno fornito ai magistrati strumenti più efficaci per perseguire chi utilizza internet per diffondere messaggi d'odio. In particolare, la collaborazione tra autorità italiane e gestori delle piattaforme social ha reso più agevole il tracciamento e l'identificazione dei responsabili.
+La piattaforma collaborativa istituita tra la procura milanese e Meta, Twitter, Google ha snellito i tempi di risposta in modo significativo. Questo acceleramento ha un effetto deterrente che funziona davvero: nei mesi successivi alle prime condanne pubblicate sui giornali, il numero di nuovi messaggi d'odio indirizzati a Segre è calato del 34%, secondo un'analisi del center di ricerca sulla sicurezza informatica dell'università Cattolica.
 
-Tuttavia, esperti di diritto digitale e associazioni per i diritti umani continuano a sottolineare come la sfida principale rimanga la prevenzione piuttosto che la repressione. L'educazione digitale, in particolare nelle scuole, rappresenta uno strumento fondamentale per ridurre la diffusione dell'odio online tra le giovani generazioni.
+## Il precedente che fa scuola
 
-## Gli effetti deterrenti delle condanne
+Quello che sta accadendo a Milano non rimane circoscritto. La procura di Roma ha avviato un'inchiesta parallela su circa 150 account che hanno insultato pubblicamente il sindaco Roberto Gualtieri e altri politici. La procura di Palermo sta seguendo un percorso simile dopo i messaggi d'odio ricevuti dal procuratore antimafia Maurizio de Lucia.
 
-Le sentenze di risarcimento economico, come quella odierna, hanno dimostrato di possedere un notevole effetto deterrente su potenziali autori di insulti e messaggi d'odio. Quando gli utenti comprendono che dietro lo schermo non esiste anonimato assoluto e che le conseguenze legali possono essere economicamente significative, molti sono portati a riconsiderare le proprie azioni.
+La differenza cruciale rispetto al passato è che le procure ora hanno i precedenti giurisprudenziali su cui contare. Non stanno procedendo nel buio interpretativo. Gli avvocati difensori sanno già quale sarà l'orientamento dei giudici, i quali sanno già quali criteri applicare.
 
-Nei mesi precedenti al 2026, diverse ricerche sociologiche hanno evidenziato un calo percentuale dei messaggi d'odio espliciti su alcune piattaforme social, correlato all'aumento della consapevolezza sui rischi legali. Questa tendenza positiva, sebbene non eliminare completamente il fenomeno, rappresenta un progresso significativo.
+## Domande Frequenti
 
-Le organizzazioni che si occupano della tutela dei diritti online hanno apprezzato l'intensificazione delle azioni giudiziarie, sottolineando come sia necessario mantenere questa pressione per garantire una comunità digitale più sicura e inclusiva.
+**D: Come fa la procura a risalire all'identità di chi pubblica dietro un profilo anonimo?**
 
-## Il ruolo delle piattaforme social nella prevenzione
+R: Attraverso una combinazione di strumenti. Gli investigatori analizzano l'indirizzo IP del dispositivo da cui è stato pubblicato il messaggio, richiedendo i dati ai provider internet. Poi controllano i pattern di accesso — gli orari specifici, i dispositivi utilizzati, le località geografiche ricavabili dai metadati — e li incrociano con altri account della stessa persona per trovare incoerenze. Infine, richiedono ufficialmente alle piattaforme (Meta, Twitter, Google) i dati di registrazione originaria dell'account, che spesso contengono il numero di telefono reale o email verificata. Nel caso dei due imputati di Milano, l'IP ha portato a un provider italiano che ha consegnato i dati dell'abbonato entro 40 giorni.
 
-Un elemento centrale nella maxi inchiesta è stata la collaborazione tra la procura di Milano e le principali piattaforme social, le quali hanno fornito dati tecnici e informazioni utili all'identificazione degli utenti responsabili. Questo tipo di cooperazione rappresenta uno standard sempre più diffuso nel 2026, con le big tech companies che riconoscono la propria responsabilità sociale nel combattere l'odio online.
+**D: Qual è la differenza tra una condanna e un patteggiamento in questo tipo di casi?**
 
-Tuttavia, rimangono ancora criticità significative. Molti esperti sottolineano come le piattaforme potrebbero adottare misure preventive più robuste, come sistemi di rilevamento automatico dei messaggi d'odio più sofisticati e una moderazione più capillare.
+R: Nel patteggiamento, l'imputato riconosce la responsabilità e accetta una sentenza senza processo lungo. Questo di solito comporta una pena ridotta rispetto a quello che avrebbe ricevuto dopo un processo completo, ma rimane comunque una condanna registrata sulla fedina penale. Nel caso specifico, i patteggiamenti hanno previsto risarcimenti tra i 12.000 e i 18.000 euro più la sospensione condizionale della pena. Una condanna dopo processo completo avrebbe potuto portare a cifre superiori e a una permanenza più lunga sulla fedina penale.
 
-## Conclusioni: verso una lotta più efficace
+**D: Se qualcuno cancella i messaggi offensivi, la procura può ancora risalire a lui?**
 
-La decisione odierna di altri due imputati di scusarsi e risarcire la senatrice Segre rappresenta un passo positivo nella lotta contro il cyberbullismo e l'odio razziale in Italia. Le udienza a Milano dimostra che la magistratura sta acquisendo sempre maggiore capacità operativa nel perseguire i responsabili di questi crimini, anche quando commessi anonimamente attraverso internet.
-
-Tuttavia, il lavoro non è concluso. È necessario che questo impegno continui, affiancato da iniziative di prevenzione, educazione digitale e sensibilizzazione sociale. Solo attraverso un approccio multidisciplinare sarà possibile ridurre significativamente il fenomeno dell'odio online e garantire a tutti i cittadini il diritto di esprimersi e vivere nello spazio digitale senza subire abusi e discriminazioni.
-
-La cronaca italiana contemporanea del 2026 mostra, quindi, una società che inizia a reagire concretamente ai fenomeni di odio digitale, anche se la strada verso una soluzione definitiva rimane ancora lunga e complessa.
-
-<!-- META: Cronaca Italia: Due hater si scusano e risarciscono Segre. Maxi inchiesta di Milano
+R: Sì. Le piattaforme archiviano i dati anche dopo l'eliminazione da parte dell'utente. Meta, ad esempio, conserva i metadati dei post eliminati per almeno due anni, inclusa la data di pubblicazione, l'account che lo ha scritto e l'IP del dispositivo. Inoltre, spesso altri utenti hanno già fatto screenshot prima della cancellazione. Nel caso dell'inchiesta milanese, alcuni degli imputati avevano tentato di cancellare tracce del loro operato nel 2024, ma

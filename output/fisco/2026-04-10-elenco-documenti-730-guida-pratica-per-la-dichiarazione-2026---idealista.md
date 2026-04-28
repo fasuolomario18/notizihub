@@ -1,100 +1,83 @@
 ---
-title: "Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari"
-slug: "dichiarazione-dei-redditi-730-2026-guida-completa-ai-documenti-necessari"
-date: "2026-04-10"
-nicchia: "fisco"
-nicchia_nome: "Fisco & Tasse"
-meta_description: "Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari"
-tags: ["dichiarazione dei redditi", "730", "partita IVA"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/6863281/pexels-photo-6863281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Dichiarazione dei Redditi 730 2026: Guida Completa ai Documenti Necessari
 
-La scadenza per la presentazione della dichiarazione dei redditi 2026 si avvicina e molti contribuenti si trovano di fronte a dubbi e incertezze riguardo ai documenti da preparare. La compilazione del **730** rappresenta uno dei momenti cruciali dell'anno fiscale italiano, richiedendo attenzione e organizzazione per evitare errori che potrebbero comportare sanzioni. In questa guida pratica, analizziamo nel dettaglio quali sono i documenti indispensabili per chi presenta la dichiarazione dei redditi tramite il modello 730 nel 2026, fornendo indicazioni utili sia per i lavoratori dipendenti che per chi possiede una partita IVA.
+La scadenza per presentare il 730 nel 2026 coincide con quella degli ultimi anni: fine maggio per chi si affida a un intermediario, fine giugno per chi lo trasmette direttamente. Se non siete organizzati, questi due mesi possono trasformarsi in un incubo burocratico. La realtà è che la maggior parte dei contribuenti italiani non sa esattamente quale documentazione conservare, e spesso scopre lacune importanti solo quando inizia a compilare il modulo. Questa guida si propone di chiarire esattamente cosa serve, evitandovi sorprese sgradite e, soprattutto, controlli dell'Agenzia delle Entrate.
 
-## Che cos'è il 730 e Chi deve Presentarlo
+## Che cos'è il 730 e Chi Deve Presentarlo Davvero
 
-Il modello 730 è la dichiarazione dei redditi semplificata riservata principalmente a lavoratori dipendenti, pensionati e professionisti che rispettano determinati requisiti di reddito. Nella dichiarazione 2026, possono utilizzare questo modello coloro che hanno percepito redditi da lavoro dipendente, assimilati, pensioni e altri redditi soggetti a tassazione ordinaria, senza superare specifici limiti di imponibile.
+Il modello 730 è la dichiarazione dei redditi semplificata pensata per lavoratori dipendenti, pensionati e, in certi casi, professionisti con partita IVA. Nel 2026, lo possono usare coloro che hanno redditi da lavoro dipendente, pensioni e redditi assimilati, senza superare i 75mila euro lordi annui.
 
-Chi possiede una **partita IVA** e svolge attività di lavoro autonomo o d'impresa può comunque presentare il 730, purché il reddito sia stato determinato in modo semplificato e non abbia superato determinati threshold stabiliti dall'Agenzia delle Entrate. Tuttavia, molti lavoratori autonomi trovano più conveniente ricorrere al modello Redditi (ex Unico), che offre maggiore flessibilità nella gestione dei costi e delle deduzioni.
+Un dettaglio che molti sottovalutano: **se possedete una partita IVA e fatturate oltre 65mila euro annui, non potete più usare il 730**, anche se siete tentati. Dovete obbligatoriamente ricorrere al modello Redditi ordinario. Questo vincolo esiste perché il 730 è pensato per redditi semplici, dove le spese sono deducibili in modo standardizzato, mentre il modello Redditi offre flessibilità per chi ha costi complessi da documentare.
 
-## Documenti Essenziali per la Dichiarazione dei Redditi 2026
+Se siete dipendenti con una piccola partita IVA secondaria (per attività saltuarie), potete ancora usare il 730 nella maggior parte dei casi, ma dovete inserire il reddito del secondo lavoro all'interno della stessa dichiarazione.
 
-### Certificazione Unica (CU) e Documenti del Datore di Lavoro
+## La Certificazione Unica (CU): Il Documento Fondamentale
 
-La **Certificazione Unica**, comunemente denominata CU, rappresenta il documento fondamentale per chi lavora in regime di dipendenza. Questo documento, che il datore di lavoro o l'ente pagatore deve fornire entro il 28 febbraio 2026, contiene i dati relativi ai redditi erogati, alle ritenute effettuate e ai contributi previdenziali versati. È indispensabile che il contribuente lo riceva tempestivamente, poiché i dati in esso contenuti devono corrispondere esattamente a quelli inseriti nella dichiarazione del 730.
+Il primo documento che dovete attendere è la **Certificazione Unica**, che il vostro datore di lavoro, l'INPS o la banca vi devono consegnare entro il **28 febbraio 2026**. Non è semplice carta: contiene ogni dettaglio dei vostri redditi 2025 e dei versamenti fiscali già effettuati.
 
-Oltre alla CU, è opportuno conservare:
+### Cosa Controllare sulla CU
 
-- **Buste paga mensili**: offrono una verifica puntuale degli importi trattenuti e versati
-- **Certificati di contributi previdenziali**: emessi da INPS e casse professionali
-- **Documentazione relativa a periodi di astensione dal lavoro**: maternità, malattia, cassa integrazione
-- **Certificazioni di reddito da pensione**: se il contribuente percepisce una pensione
+- **Importo lordo**: deve corrispondere esattamente alle buste paga cumulative
+- **Ritenute IRPEF**: verificate che non siano state applicate ritenute errate (calcolo mensile vs. annuale)
+- **Contributi previdenziali**: la somma versata a INPS/casse professionali deve essere coerente con i cedolini
+- **Dati anagrafici**: cognome, nome, codice fiscale (errori qui causano rigetti automatici del 730)
+- **Redditi esteri o da fabbricati**: se applicabili al vostro caso
 
-### Documenti Fiscali per Detrazioni e Deduzioni
+**Consiglio pratico**: se ricevete la CU via PEC (ormai lo standard), stampatela subito. Non affidatevi solo alla copia digitale sul sito dell'Agenzia delle Entrate, perché il sistema può avere ritardi di sincronizzazione. Stampate due copie: una per voi, una da allegare ai documenti del 730.
 
-Per beneficiare delle detrazioni d'imposta previste dalla normativa vigente nel 2026, è essenziale raccogliere la documentazione comprovante le spese sostenute:
+Se notate errori sulla CU, contattate l'emittente subito. Le correzioni devono essere comunicate tramite "denuncia di variazione" entro il 20 marzo 2026.
 
-**Spese Sanitarie e Mediche:**
-- Ricevute mediche e visite specialistiche
-- Fatture per acquisto farmaci e presidi medici
-- Documentazione relativa a cure dentistiche e oculistiche
+## Documenti Necessari per Spese Mediche e Sanitarie
 
-**Istruzione:**
-- Ricevute di pagamento tasse universitarie
-- Documentazione di rette scolastiche e corsi di formazione
+Qui iniziano i problemi veri. Secondo l'Agenzia delle Entrate, potete detrarre il 19% delle spese mediche e sanitarie. La soglia di deduzione è di 129,11 euro annui: significa che detraete solo la parte che eccede questa cifra.
 
-**Affitto e Abitazione:**
-- Contratto di locazione registrato
-- Ricevute di pagamento dell'affitto
-- Certificazione della destinazione della casa (principale residenza)
+### Cosa Conservare
 
-**Altre Detrazioni:**
-- Documentazione per bonus casa (ristrutturazioni, efficientamento energetico)
-- Ricevute di contributi sindacali
-- Documentazione relativa a spese di assicurazione sulla vita
+- **Ricevute e fatture da medici privati**: devono recare il numero di partita IVA del professionista e la descrizione della prestazione
+- **Fatture farmaceutiche**: devono specificare il codice ATC del farmaco (la classificazione terapeutica obbligatoria dal 2019)
+- **Documentazione odontoiatrica**: per interventi, protesi, impianti e apparecchiature (invisalign, bite, ecc.)
+- **Ricevute di laboratori analisi privati**: anche quelle di controllo routine e screening
+- **Documentazione per protesi e apparecchi medici**: pacemaker, protesi d'anca, occhiali correttivi (solo con prescrizione)
+- **Ricevute di ricoveri ospedalieri privati**: ticket e quote a carico del paziente
 
-### Documenti Specifici per Partita IVA
+**Punto critico**: le ricevute di medici che non emettono fattura regolare (solo ricevuta manuale) sono detraibili solo se contengono numero di partita IVA e dati identificativi completi. Una ricevuta anonima vi costerà caro in caso di controllo.
 
-I contribuenti con **partita IVA** che ricorrono al 730 devono conservare documentazione aggiuntiva:
+Per i farmaci, dal 2023 è obbligatorio conservare lo scontrino che riporti il codice ATC. Se non ce l'avete, la detrazione non vi sarà riconosciuta. Molti cittadini perdono 200-300 euro di detrazioni semplicemente perché non hanno conservato gli scontrini farmaceutici corretti.
 
-- **Dichiarazione IVA**: il riepilogo annuale delle operazioni imponibili
-- **Dichiarazione dei redditi precedente**: se compilata tramite modello semplificato
-- **Registro dei corrispettivi**: per chi ha l'obbligo di tenuta
-- **Fatture emesse e ricevute**: almeno in versione sintetica per verificare i ricavi
-- **Documentazione delle spese professionali**: fornitori, materie prime, utenze
-- **Contributi versati**: documentazione INPS, casse professionali, assicurazioni
+## Detrazioni per Immobili e Interessi Mutui
 
-La gestione di questi documenti è particolarmente rilevante nel 2026, dato che l'Agenzia delle Entrate ha potenziato i controlli su coloro che presentano discrepanze tra i dati dichiarati e quelli risultanti dalle banche dati amministrative.
+Se possedete una casa con mutuo, potete detrarre il 19% degli interessi pagati nel 2025 (non la quota capitale). L'importo massimo detraibile è di 4.000 euro annui per unità immobiliare.
 
-## Organizzazione e Conservazione dei Documenti
+### Documentazione Necessaria
 
-Un elemento spesso sottovalutato riguarda l'**organizzazione materiale** dei documenti. Nel 2026, sebbene sia possibile avere copie digitali, è consigliabile mantenere l'archivio ben strutturato:
+- **Estratti conto bancari** dell'anno 2025 che mostrino i versamenti mensili
+- **Comunicazione dell'istituto di credito** con il prospetto dettagliato di interessi e capitale pagati
+- **Contratto di mutuo** (almeno una copia per i vostri archivi)
+- **Atto notarile di acquisto** (se richiesto dall'Agenzia)
 
-- Suddividere i documenti per categoria (redditi, spese mediche, istruzione, abitazione)
-- Conservare i documenti originali per almeno 5 anni (periodo di prescrizione)
-- Mantenere una copia digitale scansionata per sicurezza
-- Creare un foglio di riepilogo con i totali di detrazioni e deduzioni
-- Verificare che i dati inseriti nel 730 corrispondano esattamente a quanto documentato
+**Nota importante**: se il mutuo è cointestato tra coniugi (o conviventi), potete ripartire la detrazione secondo come decidete, ma deve essere coerente anno per anno. Se decidete di assegnare la detrazione tutta a uno dei due, non potete cambiarla l'anno successivo senza motivo.
 
-Questa organizzazione preventiva facilita notevolmente il lavoro del commercialista o del consultente, accelerando i tempi di compilazione e riducendo il rischio di errori.
+## Contributi Previdenziali e Assicurativi
 
-## Verifiche Preliminari Prima dell'Invio
+Se versate contributi a fondi pensione integrativi, a casse professionali, o avete sottoscritto polizze assicurative specifiche, potete detrarre il 19%.
 
-Prima di finalizzare la dichiarazione dei redditi 2026, è fondamentale eseguire una serie di controlli:
+Documenti da raccogliere:
 
-- **Coerenza anagrafica**: verificare che i dati personali siano corretti e completi
-- **Correttezza dei redditi**: confrontare i dati della CU con quelli inseriti nel 730
-- **Completezza delle detrazioni**: assicurarsi di non aver tralasciato detrazioni a cui si ha diritto
-- **Legittimità della scelta del modello**: verificare che il contribuente sia effettivamente idoneo a presentare il 730
-- **Coerenza tra anni**: se possibile, confrontare la dichiarazione con quella dell'anno precedente per individuare variazioni significative
+- **Certificati di versamento** rilasciati da fondi pensione o casse professionali
+- **Ricevute di pagamento polizze assicurative** (malattia, invalidità, infortuni)
+- **Rendiconti annuali** del fondo pensione (arrivano solitamente a febbraio)
 
-Queste verifiche, sebbene richiedano tempo, permettono di evitare problematiche successive con il Fisco.
+Per i versamenti al fondo pensione, il limite di detraibilità è di 5.164,57 euro annui. Se superate questo importo, solo la parte entro il limite è detraibile.
 
-## Conclusioni
+## Spese Scolastiche e Universitarie
 
-La preparazione della **dichiarazione dei redditi 2026** tramite il modello 730 richiede un'adeguata raccolta e organizzazione della documentazione necessaria. Che si tratti di un semplice lavoratore dipendente o di un professionista con partita IVA, disporre di tutti i documenti in ordine è fondamentale per garantire una dichiarazione accurata e conforme alle norme vigenti.
+Se avete figli che frequentano scuole private paritarie, potete detrarre il 19% delle rette pagate, fino a un massimo di 800 euro per figlio.
 
-L'Agenzia delle Entrate nel 2026 continua a implementare controlli sempre più stringenti, pertanto la diligenza nella documentazione rappresenta un investimento che protegge il contribuente da sanzioni e problematiche future. Non esitate a richiedere supporto a un commercialista qualificato nel caso di situazioni complesse o particolari, soprattutto se
+Per l'università (anche pubblica), la detrazione riguarda solo le tasse universitarie, non le spese accessorie. Il massimo è di 1.000 euro per studente.
+
+### Documentazione
+
+- **Ricevute e fatture delle rette scolastiche** intestate al genitore
+- **Certificato di

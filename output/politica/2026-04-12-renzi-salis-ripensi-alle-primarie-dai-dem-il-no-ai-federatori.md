@@ -1,53 +1,53 @@
 ---
-title: "Renzi: 'Salis ripensi alle primarie'. Dai dem il 'no' ai federatori"
-slug: "renzi-salis-ripensi-alle-primarie-dai-dem-il-no-ai-federatori"
-date: "2026-04-12"
-nicchia: "politica"
-nicchia_nome: "Politica"
-meta_description: "Renzi sfida Salis sulle primarie mentre M5S e Pd cercano l'unità. Italia Viva costruisce alleanze programmatiche con i riformisti. Analisi delle tensioni nel centrosinistra 2026."
-tags: ["governo", "parlamento", "elezioni"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/4604641/pexels-photo-4604641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
-# Governo e Parlamento: le tensioni sulle elezioni dividono il centrosinistra
+# Renzi: 'Salis ripensi alle primarie'. Dai dem il 'no' ai federatori
 
-La situazione politica italiana si complica ulteriormente in questo aprile 2026, con tensioni crescenti all'interno della coalizione di centrosinistra riguardo alle strategie elettorali e alla scelta dei candidati. Matteo Renzi torna a far sentire la sua voce, criticando le posizioni di altri esponenti e rivendicando un ruolo centrale per Italia Viva nel dibattito politico nazionale. Nel frattempo, il Movimento 5 Stelle e il Partito Democratico cercano di gestire le divergenze interne, mentre si profila uno scenario complesso per le prossime competizioni elettorali.
+La tensione nel centrosinistra italiano raggiunge nuovi livelli in questo aprile 2026. Matteo Renzi rompe il silenzio tattico e sfida direttamente Ilaria Salis sulla questione delle primarie, mentre il Pd irrigidisce la linea contro quello che viene bollato come tentativo di "federalismo" delle coalizioni. È lo scontro tra due visioni diverse di centrosinistra: quella renziana dei veti incrociati e quella pentastellata di una coalizione compatta.
 
-## Renzi sfida Salis sulle primarie: la posizione di Italia Viva
+## Renzi accelera su Salis: il messaggio nascosto di Italia Viva
 
-Matteo Renzi accende il dibattito interno alla sinistra italiana con una dichiarazione che mette in discussione le modalità di scelta dei candidati. Il leader di Italia Viva sostiene che Ilaria Salis dovrebbe riconsiderare il suo approccio alle primarie, segnalando una divergenza strategica all'interno dell'alleanza di centrosinistra. Questo intervento di Renzi non è casuale, ma riflette la volontà di Italia Viva di pesare nelle decisioni che riguarderanno il governo e il parlamento nei prossimi mesi.
+Matteo Renzi non attacca direttamente. Sceglie la forma della "riflessione consigliata" — il "ripensi alle primarie" indirizzato a Ilaria Salis è in realtà un ultimatum mascherato. Cosa significa realmente? Che Renzi vuole che le candidature passino attraverso meccanismi controllabili, non attraverso scelte imposte da altre forze.
 
-La critica di Renzi alle modalità di selezione dei candidati si inserisce in un dibattito più ampio sugli assetti interni alla coalizione. Italia Viva ha sempre sostenuto l'importanza di processi inclusivi e partecipati, ma al contempo rivendica un ruolo da protagonista nelle decisioni strategiche. La posizione del leader renziano appare come un tentativo di riprendere centralità politica in un momento in cui gli equilibri della coalizione sono sottoposti a pressioni significative.
+Italia Viva rappresenta il 2-3% dell'elettorato di centrosinistra, ma con una particolarità: controlla fette importanti di amministratori locali e reti territoriali. Nel sistema proporzionale che caratterizzerà le prossime competizioni, questo peso specifico torna rilevante. Quando Renzi chiede a Salis di "riconsiderare", in realtà sta dicendo: "Voglio sedere al tavolo quando si decidono i nomi".
 
-## Il Movimento 5 Stelle frena: Conte respinge i nomi in discussione
+La mosse renziana ha una logica precisa. Nel 2023, Italia Viva è rimasta fuori dalle liste Pd alle europee e ne ha pagato il prezzo in voti (fermandosi sotto il 2%). Stavolta Renzi non intende fare la stessa fine. Per questo costruisce una narrazione alternativa — quella dei "riformisti" contrapposti ai "radicali" — per giustificare una presenza autonoma in coalizione che abbia peso contrattuale.
 
-Giuseppe Conte, leader del Movimento 5 Stelle, interviene nel dibattito con una posizione che enfatizza l'unità della coalizione. Il presidente pentastellato sottolinea come parlare pubblicamente di nomi specifici per le candidature alimenta divisioni e indebolisce la compattezza necessaria per affrontare le sfide future in parlamento e governo. Questo approccio riflette la linea del M5S di ricercare una convergenza di più ampio respiro sul piano programmatico.
+## Il Pd dice 'no' al federalismo: Schlein traccia il perimetro
 
-Conte rappresenta una visione del centrosinistra incentrata sul programma piuttosto che su conflitti personalistici. In questo momento storico, quando il governo italiano e l'assetto parlamentare sono in evoluzione, il leader pentastellato ritiene prioritario concentrare l'attenzione sugli obiettivi comuni e sui contenuti delle politiche da perseguire. L'appello implicito di Conte è verso una maturazione della discussione politica, che superi le logiche di correntismo interno.
+Elly Schlein risponde con una mossa ancora più netta rispetto a Renzi. Il messaggio dem ai "federatori" (termine usato in senso negativo per indicare chi vuole ridisegnare gli equilibri) è cristallino: **no a logiche di piccoli partiti che pretendono veti sulle candidature**. 
 
-## Italia Viva costruisce alleanze programmatiche nel Pd
+Il Pd si muove su due binari simultaneamente. Verso l'interno, mantiene coerenza: le primarie rimangono lo strumento designato. Verso l'esterno, comunica che i partner di coalizione devono accettare il risultato delle primarie senza mettere veti paralleli. È una linea che protegge il Pd da due lati: da una parte evita che il centrosinistra si frantumi in logiche piccoloborghesi di contrattazione, dall'altra indebolisce il potere contrattuale di player come Renzi.
 
-Italia Viva, pur nella complessità del momento, non resta passiva. Renzi e il suo partito stanno costruendo attivamente una piattaforma programmatica che coinvolga le ali riformiste del Partito Democratico. Questa iniziativa rappresenta un tentativo di creare una rete di forze comuni attorno a una visione liberale e riformista della politica italiana, capace di influenzare le scelte future del governo e della maggioranza parlamentare.
+Schlein sa che Renzi oggi non può permettersi di uscire dalla coalizione di centrosinistra — rappresenterebbe un suicidio politico. Per questo la risposta dem è dura. Il Pd controlla il 30% circa dell'elettorato di centrosinistra. Italia Viva ne controlla il 3-4%. La matematica della forza è evidente.
 
-La proposta di Italia Viva di una piattaforma programmatica con i riformisti del Pd rappresenta una strategia sofisticata di posizionamento politico. Anziché cercare di prevalere su altri partiti della coalizione, Renzi punta a sedimentare consensi attorno a contenuti specifici: riforme amministrative, efficienza della pubblica amministrazione, sviluppo economico in chiave liberal-progressista. Questo approccio programmatico potrebbe rivelarsi decisivo sia nel governo che in futili assetti parlamentari.
+## Conte rimane neutrale, ma pesante
 
-## Il Pd respinge i "federatori": la trasformazione della coalizione
+Giuseppe Conte, leader del M5S, non entra direttamente nello scontro Renzi-Schlein. Tuttavia, la sua comunicazione è tutt'altro che equidistante. Quando dice che "parlare di nomi alimenta divisioni", sta di fatto supportando la posizione dem: il meccanismo delle primarie deve restare blindato, senza interferenze esterne.
 
-Dalla parte del Partito Democratico arriva un chiaro segnale di chiusura rispetto ai "federatori" della coalizione. Con questa espressione si intendono coloro che tentano di giocare un ruolo arbitrale tra i diversi partiti. Il Pd evidentemente intende affermare l'autonomia della propria linea politica e la propria centralità nella coalizione, rifiutando di farsi mediare da soggetti esterni.
+Il M5S rappresenta il 12-15% dell'elettorato, la seconda forza del centrosinistra. Conte sa che schierarsi esplicitamente contro Renzi potrebbe alimentare narrative sulla "sinistra incartata nei veti". Preferisce delegittimare il metodo (parlare pubblicamente di nomi) piuttosto che il merito. Ma il risultato è identico: Renzi viene isolato.
 
-Questo atteggiamento del principale partito del centrosinistra segnala un cambio tattico importante. Il Pd non vuole essere il centro di una coalizione disordinata, ma piuttosto uno dei protagonisti di una alleanza basata su accordi specifici e su visioni programmatiche condivise. Il rifiuto dei "federatori" rappresenta anche una risposta implicita alle ambizioni di altri leader di stare al centro della dinamica politica.
+## Il vero tema: il potere locale di Italia Viva
 
-## Le implicazioni per il governo e il parlamento nel 2026
+Ciò che sfugge nelle cronache è il vero problema. Non si tratta di primarie astratte. Si tratta di candidature in lista, collegi uninominali, posizionamenti negli elenchi. Italia Viva controlla amministratori che potrebbero creare fratture territoriali se esclusi dalla partita. 
 
-Le tensioni attuali in seno al centrosinistra riflettono sfide più ampie che il governo italiano deve affrontare. Con elezioni che potrebbero interessare diverse cariche istituzionali nel corso dell'anno, la coalizione di centrosinistra si trova nella necessità di trovare equilibri nuovi e sostenibili. I differenti progetti di Renzi, le preoccupazioni di Conte, e la determinazione del Pd di mantenersi autonomo creano uno scenario fluido ma potenzialmente ricco di innovazione.
+In Emilia-Romagna, Toscana e Lazio, le reti di sindaci e assessori renziani sono ancora robuste. Se il Pd li esclude completamente dalle candidature, rischia problemi nella campagna elettorale a livello locale. Renzi lo sa e usa questa leva — non sempre apertamente, ma in background.
 
-Per il governo italiano e per il funzionamento del parlamento, queste dinamiche interne alla coalizione hanno conseguenze concrete. Se l'alleanza non riesce a trovare punti di sintesi credibili, il rischio è di una progressiva indebolimento della capacità di governare e di portare avanti un'agenda legislativa coerente. Al contrario, se queste tensioni verranno canalizzate in una competizione virtuosa sulle idee e i programmi, potrebbero generare proposte politiche più innovative e capaci di rispondere alle esigenze del paese.
+Il Pd, però, ha deciso di correre il rischio. La lezione del 2023 è stata: meglio perdere il 2% a Italia Viva che fractture interne per i veti di Renzi. La matematica che conta ora è quella fra il consenso perso con Renzi e quello potenzialmente guadagnato da una coalizione coerente. Schlein ha scelto di puntare sulla seconda opzione.
 
-## Prospettive future: consenso attraverso il programma
+## Domande Frequenti
 
-Tutti gli attori coinvolti nel dibattito sembrano convenire su un punto: la necessità di una coalizione di centrosinistra forte e credibile. Le divergenze riguardano principalmente i metodi e le gerarchie interne. Se Italia Viva insiste sulla necessità di dialogo costante sulle decisioni strategiche, il M5S richiama all'unità e il Pd afferma la propria autonomia, il denominatore comune resta la ricerca di un accordo su visioni condivise.
+**D: Cosa chiedono veramente i 'federatori' come li chiama il Pd?**
 
-In questo contesto, la piattaforma programmatica di Italia Viva con i riformisti del Pd potrebbe rappresentare un primo passo verso una coalizione costruita su basi più solide. Allo stesso tempo, l'appello di Conte a evitare divisioni pubbliche rispecchia una consapevolezza condivisa: in uno scenario politico complesso come quello italiano nel 2026, la coalizione di centrosinistra ha bisogno di compattezza per affrontare le sfide che provengono dall'opposizione e dalle difficoltà economiche e sociali del paese.
+R: Con "federatori" il Pd intende quei leader (principalmente Renzi, ma anche alcuni dem di area riformista) che vogliono un centrosinistra costruito come alleanza di partiti con veti reciproci sulle candidature, anziché come una coalizione unita dove il Pd propone candidati attraverso le primarie. Renzi specialmente rivendica il diritto di Italia Viva di bloccare candidature ritenute troppo radicali o non coerenti con la visione renziana. È una visione più "federale" del centrosinistra, da cui il nome.
 
-Le prossime settimane saranno decisive per capire se questi attori politici riusciranno a trasformare la competizione interna in costruzione di un progetto condiviso, capace di incidere sul governo e sulla maggioranza parlamentare italiana.
+**D: Perché le primarie sono così importanti per il Pd in questo momento?**
+
+R: Le primarie servono a tre obiettivi contemporaneamente per Schlein. Primo, consentono al Pd di controllare completamente il processo di selezione senza interferenze di alleati minori. Secondo, permettono al Pd di rivendicare candidati della "società civile" non necessariamente iscritti al partito, ampliando così la base elettorale. Terzo, blindano il processo da accuse di accordi sottobanco, mantenendo una narrativa di trasparenza che il Pd vuole comunicare all'elettorato moderato.
+
+**D: Italia Viva può veramente danneggiare il Pd se esclusa dalle candidature?**
+
+R: Sì, ma con limiti precisi. In cinque-sei collegi uninominali (principalmente in Toscana e Lazio), sindaci e amministratori renziani potrebbero creare problemi organizzativi o non mobilitarsi pienamente per il Pd se esclusi. Però il danno reale non sarebbe enorme: il Pd ha riserve di consenso moderato altrove. Renzi sa di avere potere contrattuale limitato, ecco perché alza i toni — per ottenere il massimo possibile (candidature) prima che la sua leva si esaurisca completamente.
+
+<!-- TLDR -->
+Matteo Renzi sfida Ilaria Salis sulla questione delle primarie, rivendicando un peso maggiore per Italia Viva nelle scelte dei candidati del centrosinistra. Il Pd, con a capo Elly Schlein, respinge i cosiddetti "federatori" che vogliono veti paralleli sulle candidature, mantenendo il controllo del processo attraverso le primarie. Giuseppe Conte e il M5S supportano implicitamente questa linea senza entrare esplicitamente nello scontro. La tensione riflette due visioni diverse: una centrata sulla logica partitocratica tradizionale (Renzi) e una sulla coesione del fronte r

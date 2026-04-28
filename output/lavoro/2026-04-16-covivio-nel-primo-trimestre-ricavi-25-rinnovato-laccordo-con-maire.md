@@ -1,80 +1,77 @@
 ---
-title: "Covivio, nel primo trimestre ricavi +2,5%, rinnovato l'accordo con Maire"
-slug: "covivio-nel-primo-trimestre-ricavi-25-rinnovato-laccordo-con-maire"
-date: "2026-04-16"
-nicchia: "lavoro"
-nicchia_nome: "Lavoro & Carriera"
-meta_description: "Covivio, nel primo trimestre ricavi +2,5%, rinnovato l'accordo con Maire"
-tags: ["smart working", "stipendio", "curriculum"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/15392937/pexels-photo-15392937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Smart Working e Stipendi nel 2026: Come le Aziende Come Covivio Trasformano i Contratti di Lavoro
 
-Nel panorama lavorativo italiano del 2026, le grandi aziende immobiliari continuano a rimodellare le condizioni di lavoro. Covivio, il colosso francese della gestione immobiliare, ha annunciato risultati solidi nel primo trimestre dell'anno con ricavi in crescita del 2,5% e il rinnovamento dell'importante accordo con Maire. Contemporaneamente, a Milano, l'acquisizione di un portafoglio di hotel a 4 stelle rappresenta una trasformazione strategica che avrà ripercussioni significative sul mercato del lavoro e sulle opportunità di carriera nel settore hospitality e immobiliare. Questo articolo esplora come queste dinamiche influenzano lo smart working, gli stipendi e i requisiti del curriculum per chi desidera lavorare in questi settori.
+Nel panorama lavorativo italiano del 2026, le mosse strategiche delle grandi aziende immobiliari dettano il ritmo delle opportunità di carriera. Covivio, il gruppo francese con 22 miliardi di euro di asset under management, ha chiuso il primo trimestre 2024 con ricavi in crescita del 2,5% e ha consolidato la partnership con Maire, contractor internazionale specializzato in grandi progetti infrastrutturali. Queste due notizie non sono solo numeri: indicano dove fluisce il denaro, dove nascono i cantieri, e soprattutto dove le aziende assumono personale stabile.
 
-## L'Impatto di Covivio sulla Trasformazione del Lavoro nel 2026
+L'acquisizione di un portafoglio di hotel 4 stelle nel centro di Milano rappresenta un segnale concreto: dopo gli anni di contrazione post-pandemia, il settore hospitality ricostruisce. Per chi lavora nel real estate, nella gestione operativa o nei servizi hospitality, significa una cosa semplice: nuove posizioni aperte e la possibilità di contratti a tempo indeterminato.
 
-Covivio rappresenta uno dei principali attori nel settore della gestione immobiliare europea. I dati del primo trimestre 2026 mostrano una crescita consistente dei ricavi, segnale che l'azienda sta espandendo le sue operazioni in Italia e in tutta Europa. L'acquisizione del portafoglio di hotel a 4 stelle a Milano è particolarmente significativa: questa mossa strategica non solo rafforza la posizione dell'azienda nel segmento lusso, ma apre nuove opportunità di impiego per professionisti qualificati.
+## Cosa Significa la Crescita di Covivio per Chi Cerca Lavoro
 
-Con l'accordo rinnovato con Maire, uno dei principali contractor internazionali, Covivio dimostra di voler mantenere partnership stabili e costruire progetti di lungo termine. Questo tipo di stabilità contrattuale è fondamentale per i dipendenti, che possono contare su una maggiore sicurezza occupazionale e su prospettive di carriera più prevedibili. Nel contesto del 2026, dove il mercato del lavoro rimane dinamico e competitivo, questa continuità rappresenta un vantaggio significativo.
+Una crescita del 2,5% in questo contesto economico fragmentato non è banale. Covivio opera in 7 paesi europei gestendo immobili strategici nel segmento terziario, residenziale e hospitality. In Italia, il gruppo controlla portfolio significativi a Milano, Roma e altre città principali.
 
-## Smart Working: La Nuova Normalità nelle Aziende Immobiliari
+Quando un'azienda di questa dimensione registra crescita e rinnova accordi pluriennali con partner come Maire, il messaggio è univoco:
 
-Dopo gli anni di consolidamento dello smart working che abbiamo visto negli anni precedenti, nel 2026 il lavoro ibrido si è trasformato in una prassi consolidata anche nel settore immobiliare e hospitality. Covivio, come molte aziende di grandi dimensioni, ha implementato modelli di lavoro flessibile che combinano giorni in ufficio e remotanza.
+- Visibilità sui prossimi 18-36 mesi di attività operative
+- Capacità di investire in team stabili, non solo risorse temporanee
+- Ricerca attiva di professionisti per gestire nuovi asset e progetti
+- Possibilità di tracciare percorsi di carriera prevedibili
 
-Le aziende che operano nel settore della gestione immobiliare hanno scoperto che lo smart working:
+Nel 2024-2025, Covivio ha aperto posizioni specifiche in Italia per project manager, facility manager, analisti di valorizzazione immobiliare e specialisti di hospitality management. Gli stipendi offerti rispecchiano questa crescita: un project manager con 3-5 anni di esperienza guadagna tra i 32 e i 42 mila euro lordi annui, con bonus variabili legati alle performance.
 
-- **Aumenta la produttività**: gli analisti e i gestori di progetto possono lavorare con maggiore concentrazione da casa
-- **Riduce i costi operativi**: meno spazi fisici necessari nelle sedi centrali
-- **Migliora la retention del personale**: i dipendenti apprezzano la flessibilità oraria e geografica
-- **Facilita il reclutamento globale**: non è più necessario vivere fisicamente presso la sede aziendale
-- **Supporta l'equilibrio vita-lavoro**: cruciale per attirare talenti nel 2026
+## Smart Working nel Real Estate: La Realtà del 2026
 
-Nel caso specifico di Covivio, il rinnovamento dell'accordo con Maire prevede probabilmente clausole relative al lavoro remoto e ai criteri di presenza fisica. I project manager che supervisionano la gestione dei nuovi hotel a Milano dovranno essere presenti sul posto almeno due o tre giorni alla settimana, mentre il resto del tempo potranno operare da remoto. Questa flessibilità è diventata un elemento chiave nei pacchetti retributivi moderni.
+Lo smart working nel settore immobiliare non segue le stesse regole di una software house. Non puoi gestire un sopralluogo da casa, ma puoi coordinare i dati, analizzare il mercato e partecipare a riunioni strategiche da remoto.
 
-## Gli Stipendi nel Settore Immobiliare e Hospitality nel 2026
+Nel 2026, le aziende come Covivio hanno strutturato modelli ibridi specifici per profilo:
 
-L'acquisizione di hotel a 4 stelle rappresenta un aumento significativo della domanda di personale qualificato. Secondo i dati del mercato del lavoro italiano nel 2026, gli stipendi nel settore immobiliare rimangono competitivi, anche se variano considerevolmente in base al ruolo e all'esperienza.
+**Ruoli operativi** (facility manager, responsabili on-site)
+- Presenza 5 giorni a settimana presso la proprietà
+- Possibilità di smart working solo per documentazione amministrativa
 
-**Per ruoli chiave nell'acquisizione di Covivio:**
+**Ruoli progettuali** (architect, project manager)
+- 2-3 giorni in ufficio per sopralluoghi e meeting decisionali
+- 2-3 giorni in remoto per progettazione e coordinamento
 
-- **General Manager hotel**: 45.000-65.000 euro annui
-- **Property Manager**: 35.000-50.000 euro annui
-- **Responsabile Operazioni**: 40.000-55.000 euro annui
-- **Responsabile Risorse Umane**: 38.000-52.000 euro annui
-- **Analista Immobiliare**: 28.000-40.000 euro annui
+**Ruoli analitici** (market analyst, valuator, controllista)
+- Smart working 80-90% del tempo
+- 1 riunione settimanale o bisettimanale in presenza
 
-Questi importi includono solitamente un bonus annuale variabile tra il 10% e il 30% dello stipendio base, in base ai risultati aziendali. Nel 2026, è divenuta prassi comune anche l'inclusione di benefit aggiuntivi: assicurazioni sanitarie private, contributi ai fondi pensione, ticket restaurant, e in alcuni casi, stock option per i dirigenti.
+**Ruoli amministrativi** (hr, accounting, buyer)
+- Totalmente remoto con riunioni mensili in sede
 
-L'espansione di Covivio a Milano significa che questi stipendi potrebbero aumentare ulteriormente per attrarre talenti in una città dove il costo della vita è significativo. Le aziende utilizzano spesso i benefici e la flessibilità lavorativa come leve per compensare stipendi che potrebbero risultare inferiori rispetto ad altre opportunità.
+Questa flessibilità ha impatto diretto sulla contrattazione stipendiale. Un analista di mercato che accetta di lavorare da Bologna per una società con sede a Milano può partire da 26-32 mila euro. Lo stesso ruolo a Milano, in ufficio 3 giorni a settimana, parte da 30-36 mila. La differenza geografica è reale: il costo della vita del capoluogo lombardo incide circa il 12-15% sulla cifra.
 
-## Requisiti del Curriculum: Cosa Cercano le Grandi Aziende nel 2026
+Per i ruoli senior, lo smart working è quasi una commodity. Un senior project manager o un direttore di portfolio lavora in remoto 4 giorni a settimana e percepisce stipendi tra i 55 e i 75 mila euro lordi, con benefit come auto aziendale, piano pensionistico integrativo e buoni pasto anche in remoto.
 
-Stando alle opportunità create da acquisizioni come quella di Covivio a Milano, le grandi aziende immobiliari ricercano candidati con profili ben definiti. Un curriculum competitivo nel 2026 deve includere:
+## Il Rinnovo Strategico con Maire: Cosa Significa per i Dipendenti
 
-**Competenze tecniche essenziali:**
-- Esperienza in gestione immobiliare o hospitality management
-- Conoscenza di software di property management (OPERA, FIDELIO)
-- Competenze in analisi finanziaria e budgeting
-- Esperienza con stakeholder management e contrattualistica
-- Certificazioni internazionali (PMP, IREM, AHLA)
+L'accordo tra Covivio e Maire prevede la gestione congiunta di nuovi cantieri e riqualificazioni immobiliari in Italia. Questo trasferisce rischi e opportunità anche ai dipendenti. I contractor internazionali come Maire hanno spesso stipendi più alti e carriere più dinamiche, ma anche ritmi più intensi.
 
-**Soft skills fondamentali:**
-- Capacità di gestire equipe multiculturali (Covivio opera a livello europeo)
-- Problem-solving veloce e orientamento ai risultati
-- Eccellenti competenze comunicative in inglese e italiano
-- Agilità nel lavoro remoto e uso di strumenti di collaboration
-- Predisposizione all'innovazione e all'adattamento al cambiamento
+Chi entra in un progetto Covivio-Maire come coordinatore o specialista tecnico ha prospettive interessanti:
 
-**Esperienza professionale richiesta:**
-Per posizioni senior, almeno 5-7 anni di esperienza nel settore immobiliare o hospitality. Per ruoli entry-level, stage o esperienze universitarie in settori correlati possono essere sufficienti se accompagnate da forte motivazione e propensione al learning continuo.
+- Possibilità di trasferte per grandi cantieri (compensate con indennità aggiuntive, generalmente 50-100 euro al giorno)
+- Sviluppo di competenze su progetti di scala internazionale
+- Accesso a network di professionisti d'elite del settore europeo
+- Stipendi più alti di 10-15% rispetto alla media del settore
 
-Nel 2026, i recruiter prestano particolare attenzione ai candidati che hanno dimostrato capacità di adattamento durante la transizione verso lo smart working. Evidenziare sul curriculum come avete gestito progetti complessi in modalità remota è fondamentale.
+Un coordinatore di cantiere con 5 anni di esperienza, inserito in una commessa Covivio-Maire, guadagna tra i 38 e i 48 mila euro, con possibilità di bonus fino al 15% se il progetto rispetta i target di tempistica e budget.
 
-## Opportunità di Carriera con l'Espansione di Covivio
+## Benefit e Contrattazione nel 2026
 
-L'acquisizione di un portafoglio di hotel a 4 stelle a Milano rappresenta un'importante finestra di opportunità. Covivio avrà bisogno di personale a vari livelli: dalla gestione operativa quotidiana alla supervisione strategica. Nel 2026, il settore hospitality rimane uno dei più dinamici del mercato del lavoro italiano, con crescita costante della domanda di professionisti qualificati.
+Oltre allo stipendio base, le aziende come Covivio offrono package articolati. Non è più solo stipendio cash: conta il totale della retribuzione.
 
-I percorsi di carriera in aziende come Covivio sono generalmente più strutturati rispetto alle PMI. Ci sono chiare linee di progressione: analista → senior analyst → manager → senior manager → direttore. Questa strutturazione consente una pianificazione di carriera più prevedibile, che molti professionisti apprezzano particolarmente nel contesto
+I benefit standard includono: fondo pensione (contributo aziendale 3-4%), assicurazione sanitaria integrativa, ticket restaurant (11-12 euro al giorno), permessi studio, corsi di formazione continua. Alcuni ruoli ricevono anche: auto aziendale (da 400 a 600 euro mensili), abbonamento trasporto pubblico, flexible benefits (scelta tra vari servizi).
+
+Nel negoziare un'offerta nel 2026, considera che lo stipendio lordo rappresenta l'80-85% del valore totale. Il resto sono benefit. Se l'azienda offre 35 mila euro lordi senza benefit, il valore reale è inferiore a un'offerta di 32 mila con fondo pensione, sanità integrativa e ticket restaurant per 260 giorni lavorativi (circa 2.800 euro lordi equivalenti all'anno).
+
+## Domande Frequenti
+
+**D: Nel 2026, un giovane laureato in Economia Immobiliare ha concrete possibilità di entrare in Covivio o competitor?**
+R: Sì, ma non come analista junior direttamente. Le grandi aziende immobiliari preferiscono stage di 6-12 mesi, retribuiti tra i 500 e 700 euro mensili, per poi trasformare in contratto entry-level a 22-26 mila euro lordi. Covivio e competitor come Inmobiliario e Prelios assumono regolarmente: controlla le loro pagine LinkedIn e il sito Careers. Il periodo migliore è febbraio-maggio.
+
+**D: Vale la pena accettare uno stipendio inferiore per lavorare in smart working totale in una grande azienda immobiliare?**
+R: Dipende dal tuo profilo. Se sei junior, lavorare in ufficio ti dà visibilità e networking cruciali. Se sei senior (più di 7 anni di esperienza), il lavoro da remoto è quasi un diritto acquisito e puoi negoziare salario equivalente o superiore. Nel 2026, pretendere smart working al 100% come junior è rischioso: rischi di essere considerato meno "presente" nelle decisioni di carriera.
+
+**D

@@ -1,56 +1,63 @@
 ---
-title: "Pensione 2026: Quota 97,6 e le nuove opportunità per uscire dal lavoro prima dei 62 anni"
-slug: "pensione-2026-quota-976-e-le-nuove-opportunita-per-uscire-dal-lavoro-prima-dei-6"
-date: "2026-04-09"
-nicchia: "pensioni"
-nicchia_nome: "Pensioni"
-meta_description: "Quota 97,6 2026: accesso alla pensione anticipata prima dei 62 anni. Scopri come presentare domanda INPS e i requisiti richiesti."
-tags: ["pensione", "INPS", "quota 103"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/7545307/pexels-photo-7545307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # Pensione 2026: Quota 97,6 e le nuove opportunità per uscire dal lavoro prima dei 62 anni
 
-Sono aperte ufficialmente le domande per accedere a Quota 97,6, la misura previdenziale che consente ai lavoratori italiani di andare in pensione anticipata prima del compimento dei 62 anni. L'INPS ha diffuso la circolare ufficiale che regola le modalità di presentazione delle richieste, aprendo così una finestra importante per chi desidera lasciare il lavoro in anticipo nel 2026. Questa opportunità si affianca alle altre misure di pensionamento anticipato attualmente disponibili, tra cui la discussa Quota 103, rappresentando un'importante opzione per molti contribuenti italiani.
+A partire da gennaio 2026, l'INPS ha ufficialmente aperto i termini per presentare le domande di accesso a Quota 97,6, la misura che consente ai lavoratori italiani di andare in pensione anticipata prima del compimento dei 62 anni. La circolare ufficiale INPS/2026 ha chiarito i meccanismi operativi, offrendo una via alternativa alle altre misure di pensionamento anticipato come Quota 103. Per migliaia di lavoratori che hanno iniziato a versare contributi in giovane età, questa rappresenta un'opportunità concreta per lasciare il lavoro diversi anni prima della pensione ordinaria.
 
-## Cos'è Quota 97,6 e come funziona
+## Come funziona Quota 97,6: il sistema a sommatoria
 
-Quota 97,6 è una misura pensionistica che consente il pensionamento anticipato combinando l'età anagrafica con gli anni di contributi versati. Il sistema si basa su un calcolo sommatoria: per accedere alla misura, è necessario raggiungere un'età più bassa rispetto a quella ordinaria purché il totale tra anni di vita e anni di versamenti raggiunge la quota prestabilita di 97,6. Questa formula permette maggiore flessibilità rispetto ai tradizionali requisiti rigidi, offrendo una seconda chance a chi magari ha iniziato a lavorare più tardi ma ha accumulato una buona anzianità contributiva.
+A differenza delle misure rigide basate solo sull'età anagrafica, Quota 97,6 funziona secondo un principio di sommatoria semplice ma efficace. Il valore 97,6 rappresenta il totale ottenuto sommando l'età del lavoratore con gli anni di contributi versati. Quando questa somma raggiunge 97,6, è possibile accedere alla pensione anticipata.
 
-A differenza di Quota 103, che richiede 62 anni di età e 41 anni di contributi, Quota 97,6 consente combinazioni diverse. Ad esempio, un lavoratore di 60 anni con 37,6 anni di contributi, oppure uno di 59 anni con 38,6 anni di contributi, potrebbe già accedere a questa misura. La circolare INPS del 2026 specifica che i contributi devono essere versati presso gestioni previdenziali obbligatorie, ed è possibile conteggiare periodi di accredito figurativo in specifiche circostanze.
+**Qualche esempio pratico:**
+- Un lavoratore di 60 anni con 37 anni e 6 mesi di contributi (60 + 37,6 = 97,6)
+- Un lavoratore di 59 anni con 38 anni e 6 mesi di contributi (59 + 38,6 = 97,6)
+- Un lavoratore di 58 anni con 39 anni e 6 mesi di contributi (58 + 39,6 = 97,6)
 
-## I requisiti richiesti dall'INPS nel 2026
+Questa flessibilità rappresenta un elemento cruciale rispetto a Quota 103, che rimane rigida su 62 anni di età e 41 anni di contributi. Quota 97,6 consente invece combinazioni diverse a seconda del percorso lavorativo individuale di ciascuno.
 
-La circolare INPS che regola Quota 97,6 nel 2026 fissa requisiti chiari e precisi per l'accesso alla misura. Innanzitutto, è necessario aver raggiunto il compimento del 55° anno di età anagrafica, anche se come anticipato la quota sommatoria di 97,6 consente uscite ben prima dei 62 anni ordinari. L'anzianità contributiva minima, da conteggiare secondo le regole della gestione previdenziale di riferimento, rappresenta il secondo pilastro fondamentale.
+## I requisiti specifici richiesti nel 2026
 
-Un elemento cruciale riguarda la gestione del calcolo dei contributi: questi devono essere stati effettivamente versati, e il riconoscimento di periodi figurativi è subordinato a specifiche condizioni previste dalla normativa vigente. La circolare INPS fornisce indicazioni dettagliate su quali periodi possono essere conteggiati, distinguendo tra diverse tipologie di lavoro e gestioni previdenziali.
+L'accesso a Quota 97,6 nel 2026 è subordinato a requisiti ben definiti dalla circolare INPS:
 
-Non sono previste limitazioni legate al genere, sebbene le donne continuino a beneficiare, dove applicabile, di vantaggi legati alla maternità nel computo contributivo. La misura si applica a dipendenti privati, iscritti a casse professionali, autonomi e agricoli, con specifiche modalità di calcolo per ogni categoria.
+**Età minima:** È necessario aver compiuto almeno 55 anni. Questo significa che non si può accedere a questa misura prima di questa soglia, anche se in teoria la sommatoria potrebbe raggiungersi.
 
-## Come presentare la domanda all'INPS
+**Anzianità contributiva:** Il computo dei contributi segue regole precise che variano a seconda della gestione previdenziale di appartenenza. Per i lavoratori iscritti all'INPS Fondo Generale (dipendenti privati), il calcolo considera tutti i versamenti effettuati presso gestioni obbligatorie. I contributi figurativi — come quelli relativi a periodi di disoccupazione, malattia o maternità — vengono conteggiati solo se ricorrono specifiche condizioni normative.
 
-Le domande per accedere a Quota 97,6 possono essere presentate esclusivamente in via telematica attraverso i canali ufficiali messi a disposizione dall'INPS. Nel 2026, la procedura avviene principalmente tramite:
+**Assenza di blocchi di legge:** Non deve sussistere alcuna causa ostativa al pensionamento. Ad esempio, alcuni lavoratori in specifici settori (come il pubblico impiego) potrebbero avere vincoli particolari. È consigliabile verificare con l'INPS prima di presentare la domanda.
 
-- **Portale INPS**: Accedendo con le credenziali SPID, CIE o CNS, è possibile compilare il modulo di richiesta direttamente dal sito www.inps.it
-- **Contact Center**: Telefonando al numero verde dell'istituto, operatori specializzati assisteranno nella compilazione della pratica
-- **Patronati e intermediari**: Gli uffici associati a sindacati e studi professionali offrono assistenza gratuita nella presentazione
-- **Sportelli territoriali**: I centri INPS presenti sul territorio forniscono supporto in presenza previa prenotazione
+**Data di decorrenza:** L'INPS nel 2026 ha specificato che la pensione decorre il primo giorno del mese successivo a quello in cui vengono verificati contemporaneamente tutti i requisiti. Se un lavoratore compie 55 anni il 15 marzo e ha già 42,6 anni di contributi, potrà presentare domanda e la pensione avrà decorrenza dal 1° aprile.
 
-La compilazione della domanda richiede la fornitura di documentazione specifica relativa alla storia contributiva, ai periodi di lavoro, e a eventuali periodi di accredito figurativo. L'INPS mette a disposizione il modulo ufficiale aggiornato al 2026, con istruzioni dettagliate per ogni campo.
+## Come presentare la domanda INPS
 
-## Differenze tra Quota 97,6 e Quota 103
+La procedura per richiedere Quota 97,6 è ormai completamente digitalizzata. I canali disponibili includono:
 
-Sebbene entrambe siano misure di pensionamento anticipato, Quota 97,6 e Quota 103 presentano caratteristiche diverse. Quota 103, la misura introdotta nel biennio precedente, richiede come requisito fisso 62 anni di età e 41 anni di contributi, offrendo un accesso più prevedibile ma meno flessibile. Quota 97,6, invece, permette combinazioni variabili tra età e anzianità contributiva, consentendo a chi ha iniziato a lavorare più tardi di andare comunque in pensione prima dei 62 anni.
+**Portale INPS online:** Accedendo a www.inps.it con le proprie credenziali (SPID, CIE o CNS), è possibile compilare la domanda direttamente. Il sistema guida il richiedente attraverso i passaggi necessari e fornisce un numero di protocollo.
 
-Un altro aspetto rilevante riguarda l'assegno pensionistico: entrambe le misure applicano il sistema di calcolo contributivo per la determinazione dell'importo mensile, garantendo trasparenza nel computo. Tuttavia, a parità di contributi versati, chi accede con Quota 97,6 a un'età inferiore potrebbe ricevere un assegno leggermente inferiore rispetto a chi attende Quota 103, a causa della maggiore longevità della prestazione.
+**Contact center INPS:** Telefonando al numero 803 164 da telefono fisso (gratuito) oppure al 06 164 164 da telefono mobile, è possibile ottenere assistenza nella compilazione della domanda o chiarimenti su requisiti specifici.
 
-## Vantaggi e considerazioni importanti
+**Patronati e CAF:** Le organizzazioni sindacali e i Centri di Assistenza Fiscale continuano a offrire supporto gratuito per la presentazione delle domande. Questa opzione rimane particolarmente utile per i lavoratori meno avvezzi alla tecnologia.
 
-L'accesso a Quota 97,6 rappresenta un'opportunità significativa per molti lavoratori nel 2026. I vantaggi principali includono la possibilità di uscire dal mercato del lavoro prima dei 62 anni, recuperando anni di vita professionale investiti, e la riduzione dello stress fisico e psicologico associato al prolungamento della carriera lavorativa, soprattutto per chi svolge mestieri gravosi.
+Nel modulo di domanda è necessario indicare esattamente tutti i periodi lavorativi e contributivi, allegando eventuale documentazione a supporto qualora si intenda conteggiare contributi versati presso gestioni diverse.
 
-Tuttavia, è essenziale considerare le implicazioni economiche: uscire anticipatamente comporta un assegno mensile ridotto rispetto a chi attende l'età pensionabile ordinaria, poiché il montante contributivo viene distribuito su un periodo più lungo. Pertanto, è consigliabile effettuare una valutazione personale, possibilmente con il supporto di consulenti specializzati, per comprendere se il sacrificio economico sia sostenibile nel proprio progetto di vita.
+## Differenza con Quota 103 e altre misure
 
-## Conclusione
+Quota 103, ancora disponibile nel 2026, rimane una misura più rigida: richiede infatti il raggiungimento contemporaneo di 62 anni di età e 41 anni di contributi. Per chi non raggiunge questi parametri ma ha una storia contributiva più lunga e un'età inferiore ai 62 anni, Quota 97,6 rappresenta un'alternativa concreta.
 
-Quota 97,6 rappresenta nel 2026 una delle misure più interessanti per chi desidera lasciare il lavoro in anticipo, offrendo una flessibilità che manca ad altre soluzioni. Con la circolare ufficiale dell'INPS ora disponibile, le domande sono aperte e i lavoratori interessati dovrebbero valutare attentamente se questa opzione corrisponde alle proprie esigenze economiche e personali. È fondamentale contattare l'INPS, un patronato o un consulente previdenziale per ricevere indicazioni personalizzate basate sulla propria storia contributiva specifica.
+Rispetto alla pensione ordinaria a 67 anni (con 20 anni di contributi), sia Quota 103 che Quota 97,6 permettono uscite anticipate significative. Tuttavia, l'assegno pensionistico calcolato secondo il sistema contributivo (come avviene per chi accede a queste misure) può risultare inferiore rispetto a chi aspetta il raggiungimento dei requisiti ordinari, poiché il montante contributivo viene diviso per un coefficiente di trasformazione inferiore.
+
+## Un elemento spesso trascurato: il calcolo dell'assegno
+
+Qui emerge un punto critico che molti articoli evitano di affrontare chiaramente. Quando si accede a Quota 97,6 prima dei 67 anni, l'assegno viene calcolato secondo il metodo contributivo, indipendentemente da quando si è iniziato a lavorare. Questo significa che il totale dei contributi versati viene diviso per un coefficiente di trasformazione stabilito per l'età di accesso. 
+
+Un lavoratore che accede a 60 anni avrà un coefficiente attorno a 4,186, mentre uno che aspetta a 67 anni avrà un coefficiente attorno a 5,574. Questa differenza si traduce in una riduzione dell'assegno del 25-30% rispetto a chi aspetta l'età ordinaria. È fondamentale fare una valutazione personalizzata, considerando anche fattori come l'aspettativa di vita e i flussi di cassa personali, prima di scegliere di anticipare il pensionamento.
+
+## Domande Frequenti
+
+**D: Se ho 58 anni e 39,7 anni di contributi, posso accedere a Quota 97,6 nel 2026?**
+
+R: No, perché la sommatoria 58 + 39,7 = 97,7, che supera il limite previsto. Tuttavia, se compi 59 anni durante l'anno, a quel punto 59 + 39,7 = 98,7 e potrai presentare domanda. La verifica precisa deve considerare la data esatta di compimento degli anni e il conteggio certificato dei contributi presso l'INPS.
+
+**D: I periodi di disoccupazione possono essere conteggiati in Quota 97,6?**
+
+R: Solo in determinate circostanze. La circolare INPS del 2026 specifica che i periodi di disoccupazione indennizzata (NASpI o Disoccupazione Ordinaria) possono essere conteggiati come contributi figurativi esclusivamente se seguono immediatamente un periodo di attività lavorativa e se il lavor

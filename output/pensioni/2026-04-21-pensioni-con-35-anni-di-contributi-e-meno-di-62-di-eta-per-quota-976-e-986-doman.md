@@ -1,91 +1,75 @@
 ---
-title: "Pensione INPS con 35 anni di contributi: le nuove opzioni di Quota 97,6 e Quota 98,6"
-slug: "pensione-inps-con-35-anni-di-contributi-le-nuove-opzioni-di-quota-976-e-quota-98"
-date: "2026-04-21"
-nicchia: "pensioni"
-nicchia_nome: "Pensioni"
-lang: "it"
-meta_description: "Quota 97,6 e 98,6: pensione INPS con 35 anni contributi senza 62 anni. Domanda entro 1° maggio 2026"
-tags: ["pensione", "INPS"]
-auto_generated: true
-image_url: "https://images.pexels.com/photos/5790832/pexels-photo-5790832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
-
-<!-- TLDR -->
-L'INPS ha comunicato che i lavoratori con 35 anni di contributi possono richiedere la pensione con Quota 97,6 e Quota 98,6 entro il 1° maggio 2026, senza necessità di raggiungere i 62 anni di età. La domanda deve essere presentata tempestivamente presso gli uffici INPS o tramite i servizi online per non perdere questa opportunità.
-<!-- /TLDR -->
 
 # Pensione INPS con 35 anni di contributi: le nuove opzioni di Quota 97,6 e Quota 98,6
 
-La questione delle pensioni in Italia torna a fare notizia con importanti novità per chi ha accumulato almeno 35 anni di contributi. L'INPS ha reso noto che esiste una finestra temporale cruciale entro il 1° maggio 2026 per presentare la domanda di pensione secondo le regole di Quota 97,6 e Quota 98,6, indipendentemente dal raggiungimento del limite anagrafico dei 62 anni. Si tratta di un'opportunità significativa per molti lavoratori che potrebbero accedere prima al trattamento pensionistico rispetto ai criteri standard. Scopriamo insieme tutti i dettagli di questa importante iniziativa.
+La questione delle pensioni in Italia torna al centro dell'attenzione con una finestra temporale cruciale per chi ha accumulato almeno 35 anni di contributi. L'INPS ha comunicato che entro il 1° maggio 2026 è possibile presentare domanda di pensione secondo le regole di Quota 97,6 e Quota 98,6, senza attendere il raggiungimento dei 62 anni di età. Per molti lavoratori che hanno iniziato a versare contributi giovani, questa rappresenta un'opportunità concreta di anticipare il pensionamento rispetto ai tempi standard. Vediamo come funziona e chi può beneficiarne.
 
-## Che cosa sono Quota 97,6 e Quota 98,6
+## Come funzionano Quota 97,6 e Quota 98,6
 
-Quota 97,6 e Quota 98,6 rappresentano una modalità di accesso alla pensione alternativa al sistema tradizionale basato esclusivamente sull'età anagrafica. Queste quote si basano sul principio della "somma" tra l'età e gli anni di contributi versati: la lettera indica l'anno (97 per il 2024, 98 per il 2025 e così via), mentre il numero decimale rappresenta il requisito minimo da raggiungere.
+Quota 97,6 e Quota 98,6 non sono sistemi pensionistici completamente nuovi, ma rappresentano un meccanismo flessibile basato sulla somma tra l'età anagrafica e gli anni di contributi versati.
 
-Con Quota 97,6, ad esempio, un lavoratore potrebbe andare in pensione sommando i propri anni di vita e anni di lavoro fino a raggiungere 97,6 punti. Con Quota 98,6 il requisito aumenta leggermente. Questo sistema è stato ideato proprio per dare flessibilità a chi ha accumulato una lunga carriera lavorativa ma non ha ancora raggiunto l'età pensionabile tradizionale.
+Il funzionamento è semplice: se hai 57 anni e 40,6 anni di contributi, raggiungi esattamente 97,6 punti e puoi accedere alla pensione con Quota 97,6. Con Quota 98,6 il requisito è leggermente più stringente: stessa persona dovrebbe avere 58,6 anni di contributi per una somma pari a 98,6.
 
-L'elemento particolarmente vantaggioso è che per questa finestra temporale l'INPS non richiede il raggiungimento dei 62 anni di età, rendendo l'accesso più democratico e inclusivo per chi ha lavorato da giovane con continuità.
+Ciò che rende queste quote particolarmente interessanti rispetto al sistema ordinario è l'assenza di un vincolo anagrafico minimo. Nel regime standard, sei costretto ad aspettare i 67 anni (età legale attuale). Con Quota 97,6, teoricamente potrebbe andare in pensione anche a 52-53 anni, purché abbia accumulato i contributi necessari. Naturalmente, nella pratica, il requisito combinato rende questa opportunità realistica soprattutto per chi ha lavorato senza interruzioni dalla giovane età.
 
-## I requisiti essenziali per accedere alla pensione
+## I requisiti indispensabili per la domanda
 
-Per poter accedere alla pensione con Quota 97,6 o Quota 98,6 entro il 1° maggio 2026, è necessario possedere specifici requisiti che l'INPS ha chiaramente definito:
+Per accedere a questa finestra entro il 1° maggio 2026, devi possedere specifici criteri che l'INPS monitora rigorosamente:
 
-- **35 anni di contributi versati**: questo è il requisito minimo e indispensabile per l'accesso a questi trattamenti
-- **Somma di età e anni di contributi**: il totale deve raggiungere almeno 97,6 punti (per Quota 97,6) o 98,6 punti (per Quota 98,6)
-- **Nessun vincolo di età minima**: contrariamente ai sistemi precedenti, non è richiesto il raggiungimento dei 62 anni
-- **Versamento dei contributi all'INPS**: i periodi contributivi devono essere regolarmente registrati nel sistema
-- **Cittadinanza italiana o equiparata**: in linea con la normativa vigente
-- **Non aver raggiunto l'età per la pensione di vecchiaia**: la domanda deve essere presentata prima di accedere automaticamente alla pensione per limite di età
+**Requisiti contributivi**
+- Almeno 35 anni di contributi versati all'INPS
+- I periodi devono essere regolarmente registrati e certificabili
+- Sono inclusi periodi di maternità, disoccupazione (se riconosciuti), malattia e altri accreditamenti figurativi secondo le norme vigenti
 
-## La scadenza del 1° maggio 2026 e l'importanza di agire tempestivamente
+**Requisiti demografici e anagrafici**
+- Somma di età e anni di contributi che raggiunge almeno 97,6 punti (o 98,6 per la quota successiva)
+- Nessun vincolo di età minima assoluta, a differenza dei sistemi tradizionali
+- La domanda deve essere presentata prima del 1° maggio 2026, data di scadenza della finestra
 
-La data del 1° maggio 2026 rappresenta un punto di non ritorno per questa opportunità. Dopo tale data, i criteri potrebbero cambiare significativamente, le quote potrebbero essere riviste al rialzo, oppure questa finestra potrebbe chiudersi completamente. Per questo motivo, l'INPS sottolinea l'importanza di presentare la domanda entro il termine stabilito.
+**Aspetto fiscale e amministrativo**
+- Cittadinanza italiana o equiparata secondo la normativa dell'UE
+- Regolarità della posizione contributiva presso l'INPS
+- Nessun conflitto con altri benefici pensionistici già in corso
 
-Chi ritiene di possedere i requisiti dovrebbe verificare immediatamente la propria posizione contributiva e procedere con la richiesta formale. Non existe proroga e non sarà possibile recuperare successivamente una domanda non presentata entro il 1° maggio. L'INPS consiglia ai lavoratori di non rimandare questa decisione importante.
+Un dettaglio spesso sottovalutato: anche i periodi di contribuzione versati presso altre casse professionali (Cassa Forense, Cassa Ragionieri, ecc.) possono essere riscattati e unificati presso l'INPS, permettendo a professionisti e liberi professionisti di raggiungere il requisito dei 35 anni.
 
-## Come presentare la domanda di pensione INPS
+## Come presentare la domanda entro il 1° maggio 2026
 
-Esistono diverse modalità per presentare la domanda di pensione all'INPS, tutte ugualmente valide e riconosciute:
+La domanda deve essere presentata tempestivamente, poiché il 1° maggio 2026 rappresenta il termine perentorio. Esistono tre canali principali:
 
-- **Portale INPS online**: accedendo al sito www.inps.it con le proprie credenziali (SPID, CIE o CNS) è possibile compilare e inviare la domanda direttamente da casa
-- **Telefono**: contattando il numero verde 803-164 (da rete fissa) o 06-164164 (da cellulare) per ricevere assistenza telefonica
-- **Sportelli INPS territoriali**: recarsi personalmente presso l'ufficio INPS più vicino con la documentazione necessaria
-- **Intermediari**: affidarsi a patronati, CAF o altri soggetti autorizzati che possono presentare la domanda per conto del richiedente
-- **Istituti di credito convenzionati**: alcuni sportelli bancari offrono il servizio di compilazione e trasmissione della domanda
+**Canale digitale tramite il portale INPS**
+Accedi al sito www.inps.it con SPID o Carta d'Identità Elettronica, seleziona "Pensione" nella sezione "Servizi" e compila il modello di richiesta online. Questo è il metodo più veloce: la pratica viene registrata istantaneamente con data e ora certa.
 
-La modalità online rappresenta la scelta più veloce ed efficace, permettendo di inviare la domanda in pochi minuti e ricevere una conferma immediata di ricezione.
+**Tramite Patronato o CAF**
+I Patronati sindacali (INCA, CGIL; ACLI; LEGAL, CISL; ENAIP, UIL) presentano gratuitamente la domanda per gli iscritti. Un operatore verifica direttamente i tuoi dati e si assicura che tutto sia completo. Questo è consigliato se hai dubbi sulla tua posizione contributiva.
 
-## Documentazione necessaria per la domanda
+**Contact center telefonico INPS**
+Chiama il numero 803 164 (da rete fissa) o 06 164 164 (da cellulare). Gli operatori verificheranno i tuoi requisiti e potranno avviare la procedura diretta. I tempi di attesa possono essere lunghi, soprattutto nei mesi di aprile e maggio.
 
-Prima di presentare la domanda, è importante raccogliere la documentazione richiesta dall'INPS:
+## L'importanza della verifica preventiva della posizione
 
-- **Documento di identità valido**: carta di identità, passaporto o patente
-- **Codice fiscale**: sia in formato tessera che in copia
-- **Estratto conto contributivo**: disponibile sul portale INPS personale, mostra i contributi versati
-- **Certificato di residenza**: rilasciato dal Comune di residenza
-- **Dichiarazione dei redditi**: ultimi tre anni (modello 730 o Unico)
-- **Stato di famiglia**: documento rilasciato dal Comune
-- **Informazioni bancarie**: coordinate IBAN per l'accredito della pensione
-- **Eventuale documentazione relativa a periodi all'estero**: se applicabile
+Prima di presentare la domanda è fondamentale verificare personalmente la tua posizione contributiva presso l'INPS. Accedi al tuo account personale o richiedi un estratto conto contributivo agli uffici: controlla che gli anni di versamento siano correttamente registrati e che non manchino periodi dovuti.
+
+Chi ha cambiato lavoro frequentemente, ha avuto periodi di disoccupazione non riconosciuti o ha cessato l'attività professionale deve fare particolare attenzione. Scoperture contributive anche brevi possono impedire il raggiungimento dei 35 anni necessari. In alcuni casi è possibile riscattare periodi di studio universitario o riconoscere contribuzione volontaria, ma queste operazioni richiedono tempo.
+
+## Il calcolo dell'assegno pensionistico
+
+Un aspetto che preoccupa molti candidati riguarda il metodo di calcolo della pensione. Con la pensione anticipata tramite Quota 97,6 o 98,6, l'INPS applica il sistema di calcolo vigente al momento della presentazione della domanda. Per la maggior parte dei lavoratori iscritti dopo il 1996, si usa il metodo contributivo, che considera:
+
+- L'ammontare totale dei contributi versati
+- L'età al momento del pensionamento (più giovane = minore assegno)
+- I coefficienti di trasformazione dell'ISTAT relativi all'anno di decorrenza
+
+Un lavoratore che va in pensione a 55 anni riceverà un assegno inferiore rispetto a chi attende i 67 anni, anche a parità di contributi versati. La riduzione può oscillare tra il 15% e il 35% a seconda dell'età effettiva di pensionamento. Non è uno sconto arbitrario, ma una conseguenza statistica: se cominci a prelevare la pensione a 55 anni per 35-40 anni di vita media, i fondi devono coprire un periodo più lungo.
+
+## Una prospettiva: cosa accadrà dopo il 1° maggio 2026
+
+Questo articolo è scritto con la data di riferimento del 2026. È realistico aspettarsi che il governo italiano, come già avvenuto in passato, estenda o modifichi queste quote anche per gli anni successivi, probabilmente passando a Quota 99 o 100. Tuttavia, le nuove quote comporteranno requisiti progressivamente più alti.
+
+Chi ha oggi l'opportunità di accedere entro questa finestra dovrebbe valutarla seriamente: rimandare di anno in anno sperando in condizioni migliori potrebbe non rivelarsi conveniente, poiché le future quote saranno più stringenti e comunque soggette a rischi di variazione legislativa.
 
 ## Domande Frequenti
 
-**D: Se non raggiungo i 62 anni, posso comunque accedere alla pensione con Quota 97,6?**
-R: Sì, questa è proprio la particolarità di questa finestra temporale. A differenza di altri sistemi, Quota 97,6 e Quota 98,6 non richiedono il raggiungimento dei 62 anni, ma solo che la somma tra età e contributi raggiunga il requisito indicato.
-
-**D: Cosa accade se presento la domanda il 2 maggio 2026, dopo la scadenza?**
-R: Dopo il 1° maggio 2026, la domanda non sarà accettata secondo i criteri di Quota 97,6 e 98,6. Sarà necessario attendere il prossimo ciclo di quote oppure verificare se si rientri in altri sistemi pensionistici disponibili.
-
-**D: Se ho 35 anni di contributi ma ho solo 45 anni di età, posso fare domanda?**
-R: No, la somma tra 45 anni di età e 35 anni di contributi è pari a 80, ben inferiore ai 97,6 richiesti. È necessario che la somma ragga almeno il requisito minimo stabilito.
-
-**D: L'INPS mi contatterà dopo la presentazione della domanda?**
-R: Sì, l'INPS contatterà il richiedente per eventuali verifiche o richieste di documentazione integrativa. Nel frattempo, è possibile monitorare lo stato della pratica dal portale personale INPS.
-
-**D: Conviene aspettare o presentare subito la domanda?**
-R: Considerando che la scadenza è prossima e che le quote potrebbero cambiare, è consigliabile presentare la domanda senza indugi se si rientrano nei requisiti. Non ci sono vantaggi nell'aspettare e rischi significativi nel rimandare.
-
-## Conclusione
-
-L'opportunità offerta da Quota 97,6 e Quota 98,6 rappresenta una finestra importante per chi ha cumulato almeno 35 anni di contributi lavorativi. L'assenza del requisito anagrafico minimo rende questa opzione particolarmente interessante per lavoratori che hanno iniziato la carriera giovani. Tuttavia, la scadenza del 1° maggio 2026 è imminente e non ammette proroga. Chi ritiene di possedere i requisiti dovrebbe verificare immediatamente la propria posizione presso l'INPS e procedere con la domanda senza attendere ulteriormente. Ricordiamo che un'informazione tempestiva e una decisione consapevole sono essenziali per non perdere questa opportunità pensionistica.
+**D: Se presento la domanda il 30 aprile 2026 e viene accettata a giugno, è comunque valida?**
+R: Sì, ciò che conta è la data di presentazione della domanda, non la

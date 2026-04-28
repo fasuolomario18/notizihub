@@ -1,4 +1,12 @@
 ---
+title: "Come Risparmiare Energia in Casa per la Sostenibilità e il Clima"
+slug: "come-risparmiare-energia-in-casa-per-la-sostenibilita-e-il-clima"
+date: "2026-04-25"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Come Risparmiare Energia in Casa per la Sostenibilità e il Clima"
+auto_generated: true
 ---
 
 <!-- TLDR -->

@@ -1,4 +1,12 @@
 ---
+title: "Cedolino Pensione di Aprile 2026: Tutte le Novità INPS e Quota 103"
+slug: "cedolino-pensione-di-aprile-2026-tutte-le-novita-inps-e-quota-103"
+date: "2026-04-12"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Cedolino Pensione di Aprile 2026: Tutte le Novità INPS e Quota 103"
+auto_generated: true
 ---
 
 # Cedolino Pensione di Aprile 2026: Tutte le Novità INPS e Quota 103

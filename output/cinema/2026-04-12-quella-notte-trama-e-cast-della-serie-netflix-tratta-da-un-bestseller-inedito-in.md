@@ -1,4 +1,12 @@
 ---
+title: "'Quella Notte': La Nuova Serie Netflix che Conquista gli Spettatori nel 2026"
+slug: "quella-notte-la-nuova-serie-netflix-che-conquista-gli-spettatori-nel-2026"
+date: "2026-04-12"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "'Quella Notte': La Nuova Serie Netflix che Conquista gli Spettatori nel 2026"
+auto_generated: true
 ---
 
 # "Quella Notte": La Nuova Serie Netflix che Conquista gli Spettatori nel 2026

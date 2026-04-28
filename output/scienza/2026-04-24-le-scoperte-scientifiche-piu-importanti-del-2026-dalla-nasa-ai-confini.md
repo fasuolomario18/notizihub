@@ -1,4 +1,12 @@
 ---
+title: "Le scoperte scientifiche più importanti del 2026: dalla NASA ai confini dell'universo"
+slug: "le-scoperte-scientifiche-piu-importanti-del-2026-dalla-nasa-ai-confini-dellunive"
+date: "2026-04-24"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Le scoperte scientifiche più importanti del 2026: dalla NASA ai confini dell'universo"
+auto_generated: true
 ---
 
 # Le scoperte scientifiche più importanti del 2026: dalla NASA ai confini dell'universo

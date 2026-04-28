@@ -1,4 +1,12 @@
 ---
+title: "ChatGPT vs Gemini: ¿Cuál es la mejor inteligencia artificial en 2026?"
+slug: "chatgpt-vs-gemini-cual-es-la-mejor-inteligencia-artificial-en-2026"
+date: "2026-04-23"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "es"
+meta_description: "ChatGPT vs Gemini: ¿Cuál es la mejor inteligencia artificial en 2026?"
+auto_generated: true
 ---
 
 # ChatGPT vs Gemini: ¿Cuál es la mejor inteligencia artificial en 2026?

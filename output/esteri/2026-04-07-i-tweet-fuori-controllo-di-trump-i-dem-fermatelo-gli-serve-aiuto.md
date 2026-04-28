@@ -1,4 +1,12 @@
 ---
+title: "Trump e la tempesta di tweet di Pasqua 2026: la crisi diplomatica che scuote gli USA"
+slug: "trump-e-la-tempesta-di-tweet-di-pasqua-2026-la-crisi-diplomatica-che-scuote-gli-"
+date: "2026-04-07"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Trump e la tempesta di tweet di Pasqua 2026: la crisi diplomatica che scuote gli USA"
+auto_generated: true
 ---
 
 # Trump e la tempesta di tweet di Pasqua 2026: la crisi diplomatica che scuote gli USA

@@ -1,4 +1,12 @@
 ---
+title: "Smart Working e Stipendi nel Settore Vinicolo: Come il Boom dell'Export Trasforma il Mercato del Lavoro"
+slug: "smart-working-e-stipendi-nel-settore-vinicolo-come-il-boom-dellexport-trasforma-"
+date: "2026-04-09"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working e Stipendi nel Settore Vinicolo: Come il Boom dell'Export Trasforma il Mercato del Lavoro"
+auto_generated: true
 ---
 
 # Smart Working e Stipendi nel Settore Vinicolo: Come il Boom dell'Export Trasforma il Mercato del Lavoro

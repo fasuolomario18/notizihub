@@ -1,4 +1,12 @@
 ---
+title: "Serie A oggi: il calendario e gli orari della 33ª giornata su Sky Sport"
+slug: "serie-a-oggi-il-calendario-e-gli-orari-della-33-giornata-su-sky-sport"
+date: "2026-04-21"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A oggi: il calendario e gli orari della 33ª giornata su Sky Sport"
+auto_generated: true
 ---
 
 # Serie A oggi: il calendario e gli orari della 33ª giornata su Sky Sport

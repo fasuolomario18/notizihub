@@ -1,4 +1,12 @@
 ---
+title: "Startup e AI: Come un Freelance Diventa un One-Person Unicorn"
+slug: "startup-e-ai-come-un-freelance-diventa-un-one-person-unicorn"
+date: "2026-04-21"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "it"
+meta_description: "Startup e AI: Come un Freelance Diventa un One-Person Unicorn"
+auto_generated: true
 ---
 
 # Startup e AI: Come un Freelance Diventa un One-Person Unicorn

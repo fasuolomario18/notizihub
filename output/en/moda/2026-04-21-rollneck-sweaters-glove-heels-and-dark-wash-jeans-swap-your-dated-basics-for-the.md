@@ -1,4 +1,12 @@
 ---
+title: "Rollneck Sweaters, Glove Heels, and Dark-Wash Jeans: Spring Fashion Trends That Define Cool-Girl Style"
+slug: "rollneck-sweaters-glove-heels-and-dark-wash-jeans-spring-fashion-trends-that-def"
+date: "2026-04-21"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "en"
+meta_description: "Rollneck Sweaters, Glove Heels, and Dark-Wash Jeans: Spring Fashion Trends That Define Cool-Girl Style"
+auto_generated: true
 ---
 
 # Rollneck Sweaters, Glove Heels, and Dark-Wash Jeans: Spring Fashion Trends That Define Cool-Girl Style

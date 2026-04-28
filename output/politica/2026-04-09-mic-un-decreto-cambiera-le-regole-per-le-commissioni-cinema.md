@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: Le Nuove Regole per le Commissioni Cinema nel 2026"
+slug: "governo-e-parlamento-le-nuove-regole-per-le-commissioni-cinema-nel-2026"
+date: "2026-04-09"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: Le Nuove Regole per le Commissioni Cinema nel 2026"
+auto_generated: true
 ---
 
 # Governo e Parlamento: Le Nuove Regole per le Commissioni Cinema nel 2026

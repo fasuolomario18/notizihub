@@ -1,4 +1,12 @@
 ---
+title: "Novo Mercedes Classe C 2027 Revelado com Motor Elétrico: Conheça Todos os Detalhes"
+slug: "novo-mercedes-classe-c-2027-revelado-com-motor-eletrico-conheca-todos-os-detalhe"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "Novo Mercedes Classe C 2027 Revelado com Motor Elétrico: Conheça Todos os Detalhes"
+auto_generated: true
 ---
 
 # Novo Mercedes Classe C 2027 Revelado com Motor Elétrico: Conheça Todos os Detalhes

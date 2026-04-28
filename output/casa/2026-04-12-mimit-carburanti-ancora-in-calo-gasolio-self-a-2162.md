@@ -1,4 +1,12 @@
 ---
+title: "Carburanti in Calo ad Aprile 2026: Come Risparmiare su Mutuo, Affitto e Bonus Ristrutturazione"
+slug: "carburanti-in-calo-ad-aprile-2026-come-risparmiare-su-mutuo-affitto-e-bonus-rist"
+date: "2026-04-12"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Carburanti in Calo ad Aprile 2026: Come Risparmiare su Mutuo, Affitto e Bonus Ristrutturazione"
+auto_generated: true
 ---
 
 # Carburanti in Calo ad Aprile 2026: Come Risparmiare su Mutuo, Affitto e Bonus Ristrutturazione

@@ -1,4 +1,12 @@
 ---
+title: "Android vs. iPhone: Welches Betriebssystem passt wirklich zu dir?"
+slug: "android-vs-iphone-welches-betriebssystem-passt-wirklich-zu-dir"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "de"
+meta_description: "Android vs. iPhone: Welches Betriebssystem passt wirklich zu dir?"
+auto_generated: true
 ---
 
 # Android vs. iPhone: Welches Betriebssystem passt wirklich zu dir?

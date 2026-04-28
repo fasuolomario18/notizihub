@@ -1,4 +1,12 @@
 ---
+title: "Caso Pierina, l'alibi di Dassilva si incrina in aula: le domande cruciali su orario e movimenti"
+slug: "caso-pierina-lalibi-di-dassilva-si-incrina-in-aula-le-domande-cruciali-su-orario"
+date: "2026-04-20"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Caso Pierina, l'alibi di Dassilva si incrina in aula: le domande cruciali su orario e movimenti"
+auto_generated: true
 ---
 
 # Caso Pierina, l'alibi di Dassilva si incrina in aula: le domande cruciali su orario e movimenti

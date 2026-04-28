@@ -1,4 +1,12 @@
 ---
+title: "30 film da guardare su Netflix – Le novità di aprile 2026"
+slug: "30-film-da-guardare-su-netflix-le-novita-di-aprile-2026"
+date: "2026-04-07"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "30 film da guardare su Netflix – Le novità di aprile 2026"
+auto_generated: true
 ---
 
 # 30 film da guardare su Netflix – Le novità di aprile 2026

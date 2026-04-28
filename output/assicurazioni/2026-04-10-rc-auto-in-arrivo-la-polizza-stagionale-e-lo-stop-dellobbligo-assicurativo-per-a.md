@@ -1,4 +1,12 @@
 ---
+title: "RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo"
+slug: "rc-auto-2026-polizza-stagionale-e-novita-sullobbligo-assicurativo"
+date: "2026-04-10"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo"
+auto_generated: true
 ---
 
 # RC Auto 2026: Polizza Stagionale e Novità sull'Obbligo Assicurativo

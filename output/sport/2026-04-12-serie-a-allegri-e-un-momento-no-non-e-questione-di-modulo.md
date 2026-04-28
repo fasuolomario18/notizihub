@@ -1,4 +1,12 @@
 ---
+title: "Allegri e il Milan in crisi: 'Momento no, servono ordine e lucidità' - Serie A 2026"
+slug: "allegri-e-il-milan-in-crisi-momento-no-servono-ordine-e-lucidita---serie-a-2026"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Allegri e il Milan in crisi: 'Momento no, servono ordine e lucidità' - Serie A 2026"
+auto_generated: true
 ---
 
 # Allegri e il Milan in crisi: "Momento no, servono ordine e lucidità" - Serie A 2026

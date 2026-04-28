@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV da non perdere ad aprile 2026: la guida completa tra cinema e streaming"
+slug: "film-e-serie-tv-da-non-perdere-ad-aprile-2026-la-guida-completa-tra-cinema-e-str"
+date: "2026-04-12"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV da non perdere ad aprile 2026: la guida completa tra cinema e streaming"
+auto_generated: true
 ---
 
 # Film e Serie TV da non perdere ad aprile 2026: la guida completa tra cinema e streaming

@@ -1,4 +1,12 @@
 ---
+title: "Chico Buarque torna a Cuba dopo 34 anni: un incontro di solidarietà contro la guerra con Silvio Rodríguez"
+slug: "chico-buarque-torna-a-cuba-dopo-34-anni-un-incontro-di-solidarieta-contro-la-gue"
+date: "2026-04-09"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Chico Buarque torna a Cuba dopo 34 anni: un incontro di solidarietà contro la guerra con Silvio Rodríguez"
+auto_generated: true
 ---
 
 # Chico Buarque torna a Cuba dopo 34 anni: un incontro di solidarietà contro la guerra con Silvio Rodríguez

@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale e Smartphone: Come le Tecnologie Ridisegnano l'Umano nel 2026"
+slug: "intelligenza-artificiale-e-smartphone-come-le-tecnologie-ridisegnano-lumano-nel-"
+date: "2026-04-07"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale e Smartphone: Come le Tecnologie Ridisegnano l'Umano nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale e Smartphone: Come le Tecnologie Ridisegnano l'Umano nel 2026

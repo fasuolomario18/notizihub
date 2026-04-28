@@ -1,4 +1,12 @@
 ---
+title: "SEC Faces Mounting Pressure to Turn DeFi Guidance Into Formal Rules"
+slug: "sec-faces-mounting-pressure-to-turn-defi-guidance-into-formal-rules"
+date: "2026-04-23"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "en"
+meta_description: "SEC Faces Mounting Pressure to Turn DeFi Guidance Into Formal Rules"
+auto_generated: true
 ---
 
 # SEC Faces Mounting Pressure to Turn DeFi Guidance Into Formal Rules

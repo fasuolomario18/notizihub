@@ -1,4 +1,12 @@
 ---
+title: "Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza"
+slug: "scienza-in-orbita-lavventura-umana-oltre-latmosfera-a-citta-della-scienza"
+date: "2026-04-11"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza"
+auto_generated: true
 ---
 
 # Scienza in Orbita: L'Avventura Umana Oltre l'Atmosfera a Città della Scienza

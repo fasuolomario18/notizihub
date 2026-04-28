@@ -1,4 +1,12 @@
 ---
+title: "Tecniche di Mindfulness per Principianti: Come Combattere l'Ansia con la Consapevolezza"
+slug: "tecniche-di-mindfulness-per-principianti-come-combattere-lansia-con-la-consapevo"
+date: "2026-04-23"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "it"
+meta_description: "Tecniche di Mindfulness per Principianti: Come Combattere l'Ansia con la Consapevolezza"
+auto_generated: true
 ---
 
 # Tecniche di Mindfulness per Principianti: Come Combattere l'Ansia con la Consapevolezza

@@ -1,4 +1,12 @@
 ---
+title: "Cómo Funciona la Inteligencia Artificial Explicado de Forma Simple: Una Perspectiva Científica"
+slug: "como-funciona-la-inteligencia-artificial-explicado-de-forma-simple-una-perspecti"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "es"
+meta_description: "Cómo Funciona la Inteligencia Artificial Explicado de Forma Simple: Una Perspectiva Científica"
+auto_generated: true
 ---
 
 # Cómo Funciona la Inteligencia Artificial Explicado de Forma Simple: Una Perspectiva Científica

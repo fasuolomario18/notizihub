@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale"
+slug: "intelligenza-artificiale-e-umanocentrismo-come-ripensare-i-processi-lavorativi-n"
+date: "2026-04-13"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale e Umanocentrismo: Come Ripensare i Processi Lavorativi nell'Era Digitale

@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026"
+slug: "assicurazione-auto-e-rc-auto-monopattini-elettrici-equiparati-ai-motorini-da-mag"
+date: "2026-04-12"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto e RC Auto: Monopattini Elettrici Equiparati ai Motorini da Maggio 2026

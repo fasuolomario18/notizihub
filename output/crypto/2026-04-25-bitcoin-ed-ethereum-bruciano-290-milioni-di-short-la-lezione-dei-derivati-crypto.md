@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin ed Ethereum Bruciano 290 Milioni di Short: La Lezione dei Derivati Crypto"
+slug: "bitcoin-ed-ethereum-bruciano-290-milioni-di-short-la-lezione-dei-derivati-crypto"
+date: "2026-04-25"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin ed Ethereum Bruciano 290 Milioni di Short: La Lezione dei Derivati Crypto"
+auto_generated: true
 ---
 
 # Bitcoin ed Ethereum Bruciano 290 Milioni di Short: La Lezione dei Derivati Crypto

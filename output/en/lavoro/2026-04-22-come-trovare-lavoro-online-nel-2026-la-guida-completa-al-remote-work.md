@@ -1,4 +1,12 @@
 ---
+title: "Come trovare lavoro online nel 2026: La guida completa al remote work"
+slug: "come-trovare-lavoro-online-nel-2026-la-guida-completa-al-remote-work"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "en"
+meta_description: "Come trovare lavoro online nel 2026: La guida completa al remote work"
+auto_generated: true
 ---
 
 # Come trovare lavoro online nel 2026: La guida completa al remote work

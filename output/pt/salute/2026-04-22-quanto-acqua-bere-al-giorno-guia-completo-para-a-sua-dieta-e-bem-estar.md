@@ -1,4 +1,12 @@
 ---
+title: "Quanto Acqua Bere al Giorno: Guida Completa per la Tua Dieta e Benessere"
+slug: "quanto-acqua-bere-al-giorno-guida-completa-per-la-tua-dieta-e-benessere"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "pt"
+meta_description: "Quanto Acqua Bere al Giorno: Guida Completa per la Tua Dieta e Benessere"
+auto_generated: true
 ---
 
 # Quanto Acqua Bere al Giorno: Guida Completa per la Tua Dieta e Benessere

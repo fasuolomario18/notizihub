@@ -1,4 +1,12 @@
 ---
+title: "Uncharted 4: Fine di un Ladro Rimane un Capolavoro nel 2026 su PS5, Xbox e PC Gaming"
+slug: "uncharted-4-fine-di-un-ladro-rimane-un-capolavoro-nel-2026-su-ps5-xbox-e-pc-gami"
+date: "2026-04-16"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Uncharted 4: Fine di un Ladro Rimane un Capolavoro nel 2026 su PS5, Xbox e PC Gaming"
+auto_generated: true
 ---
 
 # Uncharted 4: Fine di un Ladro Rimane un Capolavoro nel 2026 su PS5, Xbox e PC Gaming

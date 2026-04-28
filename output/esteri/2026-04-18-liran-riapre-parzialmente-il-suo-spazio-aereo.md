@@ -1,4 +1,12 @@
 ---
+title: "Iran riapre lo spazio aereo ai voli internazionali: le implicazioni geopolitiche per USA ed Europa"
+slug: "iran-riapre-lo-spazio-aereo-ai-voli-internazionali-le-implicazioni-geopolitiche-"
+date: "2026-04-18"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Iran riapre lo spazio aereo ai voli internazionali: le implicazioni geopolitiche per USA ed Europa"
+auto_generated: true
 ---
 
 # Iran riapre lo spazio aereo ai voli internazionali: le implicazioni geopolitiche per USA ed Europa

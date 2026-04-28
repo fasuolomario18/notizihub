@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV: Netflix avvia le riprese del Gundam con Sydney Sweeney"
+slug: "film-e-serie-tv-netflix-avvia-le-riprese-del-gundam-con-sydney-sweeney"
+date: "2026-04-22"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV: Netflix avvia le riprese del Gundam con Sydney Sweeney"
+auto_generated: true
 ---
 
 # Film e Serie TV: Netflix avvia le riprese del Gundam con Sydney Sweeney

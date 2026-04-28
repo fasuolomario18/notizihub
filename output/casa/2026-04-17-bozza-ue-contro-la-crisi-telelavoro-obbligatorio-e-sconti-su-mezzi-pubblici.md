@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto: Come il Piano Ue 'Accelerate Eu' Cambia le Regole del Mercato Immobiliare nel 2026"
+slug: "mutuo-e-affitto-come-il-piano-ue-accelerate-eu-cambia-le-regole-del-mercato-immo"
+date: "2026-04-17"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto: Come il Piano Ue 'Accelerate Eu' Cambia le Regole del Mercato Immobiliare nel 2026"
+auto_generated: true
 ---
 
 # Mutuo e Affitto: Come il Piano Ue "Accelerate Eu" Cambia le Regole del Mercato Immobiliare nel 2026

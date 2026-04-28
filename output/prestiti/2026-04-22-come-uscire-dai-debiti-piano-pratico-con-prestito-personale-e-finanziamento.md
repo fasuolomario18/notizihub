@@ -1,4 +1,12 @@
 ---
+title: "Come uscire dai debiti: piano pratico con prestito personale e finanziamento"
+slug: "come-uscire-dai-debiti-piano-pratico-con-prestito-personale-e-finanziamento"
+date: "2026-04-22"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "it"
+meta_description: "Come uscire dai debiti: piano pratico con prestito personale e finanziamento"
+auto_generated: true
 ---
 
 # Come uscire dai debiti: piano pratico con prestito personale e finanziamento

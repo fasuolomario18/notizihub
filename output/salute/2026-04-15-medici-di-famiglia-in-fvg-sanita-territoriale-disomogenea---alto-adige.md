@@ -1,4 +1,12 @@
 ---
+title: "Dieta e Alimentazione: Come la Sanità Territoriale Influisce sul Benessere in Friuli Venezia Giulia nel 2026"
+slug: "dieta-e-alimentazione-come-la-sanita-territoriale-influisce-sul-benessere-in-fri"
+date: "2026-04-15"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Dieta e Alimentazione: Come la Sanità Territoriale Influisce sul Benessere in Friuli Venezia Giulia nel 2026"
+auto_generated: true
 ---
 
 # Dieta e Alimentazione: Come la Sanità Territoriale Influisce sul Benessere in Friuli Venezia Giulia nel 2026

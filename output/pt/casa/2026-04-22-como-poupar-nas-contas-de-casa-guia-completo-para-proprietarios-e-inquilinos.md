@@ -1,4 +1,12 @@
 ---
+title: "Como Poupar nas Contas de Casa: Guia Completo para Proprietários e Inquilinos"
+slug: "como-poupar-nas-contas-de-casa-guia-completo-para-proprietarios-e-inquilinos"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "pt"
+meta_description: "Como Poupar nas Contas de Casa: Guia Completo para Proprietários e Inquilinos"
+auto_generated: true
 ---
 
 # Como Poupar nas Contas de Casa: Guia Completo para Proprietários e Inquilinos

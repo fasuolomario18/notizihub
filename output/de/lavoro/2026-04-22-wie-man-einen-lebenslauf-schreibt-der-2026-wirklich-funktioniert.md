@@ -1,4 +1,12 @@
 ---
+title: "Wie man einen Lebenslauf schreibt, der 2026 wirklich funktioniert"
+slug: "wie-man-einen-lebenslauf-schreibt-der-2026-wirklich-funktioniert"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "de"
+meta_description: "Wie man einen Lebenslauf schreibt, der 2026 wirklich funktioniert"
+auto_generated: true
 ---
 
 # Wie man einen Lebenslauf schreibt, der 2026 wirklich funktioniert

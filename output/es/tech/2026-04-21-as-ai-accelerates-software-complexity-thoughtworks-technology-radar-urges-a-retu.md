@@ -1,4 +1,12 @@
 ---
+title: "Inteligencia Artificial y Complejidad del Software: Por Qué los Fundamentos de Ingeniería Son Más Importantes Que Nunca"
+slug: "inteligencia-artificial-y-complejidad-del-software-por-que-los-fundamentos-de-in"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "es"
+meta_description: "Inteligencia Artificial y Complejidad del Software: Por Qué los Fundamentos de Ingeniería Son Más Importantes Que Nunca"
+auto_generated: true
 ---
 
 # Inteligencia Artificial y Complejidad del Software: Por Qué los Fundamentos de Ingeniería Son Más Importantes Que Nunca

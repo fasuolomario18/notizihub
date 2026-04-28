@@ -1,4 +1,12 @@
 ---
+title: "ChatGPT vs Gemini: Welche künstliche Intelligenz ist besser?"
+slug: "chatgpt-vs-gemini-welche-kunstliche-intelligenz-ist-besser"
+date: "2026-04-23"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "de"
+meta_description: "ChatGPT vs Gemini: Welche künstliche Intelligenz ist besser?"
+auto_generated: true
 ---
 
 # ChatGPT vs Gemini: Welche künstliche Intelligenz ist besser?

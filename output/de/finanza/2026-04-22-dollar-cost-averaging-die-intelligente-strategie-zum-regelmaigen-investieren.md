@@ -1,4 +1,12 @@
 ---
+title: "Dollar Cost Averaging: Die intelligente Strategie zum regelmäßigen Investieren"
+slug: "dollar-cost-averaging-die-intelligente-strategie-zum-regelmaigen-investieren"
+date: "2026-04-22"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "de"
+meta_description: "Dollar Cost Averaging: Die intelligente Strategie zum regelmäßigen Investieren"
+auto_generated: true
 ---
 
 # Dollar Cost Averaging: Die intelligente Strategie zum regelmäßigen Investieren

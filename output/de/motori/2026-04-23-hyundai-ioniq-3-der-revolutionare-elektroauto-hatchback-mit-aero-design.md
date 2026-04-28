@@ -1,4 +1,12 @@
 ---
+title: "Hyundai IONIQ 3: Der revolutionäre Elektroauto-Hatchback mit Aero-Design"
+slug: "hyundai-ioniq-3-der-revolutionare-elektroauto-hatchback-mit-aero-design"
+date: "2026-04-23"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "de"
+meta_description: "Hyundai IONIQ 3: Der revolutionäre Elektroauto-Hatchback mit Aero-Design"
+auto_generated: true
 ---
 
 # Hyundai IONIQ 3: Der revolutionäre Elektroauto-Hatchback mit Aero-Design

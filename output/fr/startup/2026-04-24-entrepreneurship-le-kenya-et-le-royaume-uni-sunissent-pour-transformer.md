@@ -1,4 +1,12 @@
 ---
+title: "Entrepreneurship: Le Kenya et le Royaume-Uni s'unissent pour transformer l'écosystème des startups"
+slug: "entrepreneurship-le-kenya-et-le-royaume-uni-sunissent-pour-transformer-lecosyste"
+date: "2026-04-24"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "fr"
+meta_description: "Entrepreneurship: Le Kenya et le Royaume-Uni s'unissent pour transformer l'écosystème des startups"
+auto_generated: true
 ---
 
 # Entrepreneurship: Le Kenya et le Royaume-Uni s'unissent pour transformer l'écosystème des startups

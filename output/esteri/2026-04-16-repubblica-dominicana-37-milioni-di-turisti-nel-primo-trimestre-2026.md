@@ -1,4 +1,12 @@
 ---
+title: "Repubblica Dominicana: 3,7 Milioni di Turisti nel Primo Trimestre 2026, un Record Storico Mentre Guerra e Tensioni Geopolitiche Spingono i Viaggiatori verso Mete Sicure"
+slug: "repubblica-dominicana-37-milioni-di-turisti-nel-primo-trimestre-2026-un-record-s"
+date: "2026-04-16"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Repubblica Dominicana: 3,7 Milioni di Turisti nel Primo Trimestre 2026, un Record Storico Mentre Guerra e Tensioni Geopolitiche Spingono i Viaggiatori vers"
+auto_generated: true
 ---
 
 # Repubblica Dominicana: 3,7 Milioni di Turisti nel Primo Trimestre 2026, un Record Storico Mentre Guerra e Tensioni Geopolitiche Spingono i Viaggiatori verso Mete Sicure

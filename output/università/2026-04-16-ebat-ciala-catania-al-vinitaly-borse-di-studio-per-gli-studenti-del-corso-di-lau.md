@@ -1,4 +1,12 @@
 ---
+title: "Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura"
+slug: "ebat-ciala-catania-al-vinitaly-borse-di-studio-per-studenti-universitari-di-viti"
+date: "2026-04-16"
+nicchia: "università"
+nicchia_nome: "Università"
+lang: "it"
+meta_description: "Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura"
+auto_generated: true
 ---
 
 # Ebat Ciala Catania al Vinitaly: borse di studio per studenti universitari di Viticoltura

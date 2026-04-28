@@ -1,4 +1,12 @@
 ---
+title: "Top 10: Die beste Wärmebildkamera fürs Handy – Adapter für Android & iPhone"
+slug: "top-10-die-beste-warmebildkamera-furs-handy-adapter-fur-android-iphone"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "de"
+meta_description: "Top 10: Die beste Wärmebildkamera fürs Handy – Adapter für Android & iPhone"
+auto_generated: true
 ---
 
 # Top 10: Die beste Wärmebildkamera fürs Handy – Adapter für Android & iPhone

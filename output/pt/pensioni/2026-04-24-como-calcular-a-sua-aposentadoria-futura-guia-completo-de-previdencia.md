@@ -1,4 +1,12 @@
 ---
+title: "Como Calcular a Sua Aposentadoria Futura: Guia Completo de Previdência"
+slug: "como-calcular-a-sua-aposentadoria-futura-guia-completo-de-previdencia"
+date: "2026-04-24"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "pt"
+meta_description: "Como Calcular a Sua Aposentadoria Futura: Guia Completo de Previdência"
+auto_generated: true
 ---
 
 # Como Calcular a Sua Aposentadoria Futura: Guia Completo de Previdência

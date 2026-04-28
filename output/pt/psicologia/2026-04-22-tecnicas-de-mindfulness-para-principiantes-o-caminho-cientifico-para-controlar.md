@@ -1,4 +1,12 @@
 ---
+title: "Técnicas de Mindfulness para Principiantes: O Caminho Científico para Controlar a Ansiedade"
+slug: "tecnicas-de-mindfulness-para-principiantes-o-caminho-cientifico-para-controlar-a"
+date: "2026-04-22"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "pt"
+meta_description: "Técnicas de Mindfulness para Principiantes: O Caminho Científico para Controlar a Ansiedade"
+auto_generated: true
 ---
 
 # Técnicas de Mindfulness para Principiantes: O Caminho Científico para Controlar a Ansiedade

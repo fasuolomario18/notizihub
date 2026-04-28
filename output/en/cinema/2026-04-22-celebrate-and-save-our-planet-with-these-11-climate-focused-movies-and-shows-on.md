@@ -1,4 +1,12 @@
 ---
+title: "Celebrate (and Save) Our Planet with These 11 Climate-Focused Movies and Shows on Netflix"
+slug: "celebrate-and-save-our-planet-with-these-11-climate-focused-movies-and-shows-on-"
+date: "2026-04-22"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "en"
+meta_description: "Celebrate (and Save) Our Planet with These 11 Climate-Focused Movies and Shows on Netflix"
+auto_generated: true
 ---
 
 # Celebrate (and Save) Our Planet with These 11 Climate-Focused Movies and Shows on Netflix

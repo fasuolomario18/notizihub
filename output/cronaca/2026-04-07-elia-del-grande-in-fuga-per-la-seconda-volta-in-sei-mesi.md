@@ -1,4 +1,12 @@
 ---
+title: "Elia Del Grande in fuga per la seconda volta in sei mesi: il detenuto scompare da Alba"
+slug: "elia-del-grande-in-fuga-per-la-seconda-volta-in-sei-mesi-il-detenuto-scompare-da"
+date: "2026-04-07"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Elia Del Grande in fuga per la seconda volta in sei mesi: il detenuto scompare da Alba"
+auto_generated: true
 ---
 
 # Elia Del Grande in fuga per la seconda volta in sei mesi: il detenuto scompare da Alba

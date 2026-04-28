@@ -1,4 +1,12 @@
 ---
+title: "April 2026 Beauty Edit: Spring's Chicest Skincare, Makeup, and Fragrance Launches"
+slug: "april-2026-beauty-edit-springs-chicest-skincare-makeup-and-fragrance-launches"
+date: "2026-04-22"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "en"
+meta_description: "April 2026 Beauty Edit: Spring's Chicest Skincare, Makeup, and Fragrance Launches"
+auto_generated: true
 ---
 
 # April 2026 Beauty Edit: Spring's Chicest Skincare, Makeup, and Fragrance Launches

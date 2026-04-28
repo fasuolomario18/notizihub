@@ -1,4 +1,12 @@
 ---
+title: "Díaz-Canel alla NBC: 'Non mi dimetterò sotto pressione degli USA'"
+slug: "diaz-canel-alla-nbc-non-mi-dimettero-sotto-pressione-degli-usa"
+date: "2026-04-10"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Díaz-Canel alla NBC: 'Non mi dimetterò sotto pressione degli USA'"
+auto_generated: true
 ---
 
 # Díaz-Canel alla NBC: "Non mi dimetterò sotto pressione degli USA"

@@ -1,4 +1,12 @@
 ---
+title: "Andrey Rublev vs Arthur Fils en direct - Barcelone Men's Singles 19 avril 2026 : Résultats et Scores Détaillés"
+slug: "andrey-rublev-vs-arthur-fils-en-direct---barcelone-mens-singles-19-avril-2026-re"
+date: "2026-04-21"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "fr"
+meta_description: "Andrey Rublev vs Arthur Fils en direct - Barcelone Men's Singles 19 avril 2026 : Résultats et Scores Détaillés"
+auto_generated: true
 ---
 
 # Andrey Rublev vs Arthur Fils en direct - Barcelone Men's Singles 19 avril 2026 : Résultats et Scores Détaillés

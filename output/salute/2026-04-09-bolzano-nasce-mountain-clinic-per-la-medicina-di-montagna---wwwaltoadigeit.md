@@ -1,4 +1,12 @@
 ---
+title: "Medicina di Montagna e Alimentazione: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere"
+slug: "medicina-di-montagna-e-alimentazione-la-nuova-mountain-clinic-di-bolzano-rivoluz"
+date: "2026-04-09"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Medicina di Montagna e Alimentazione: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere"
+auto_generated: true
 ---
 
 # Medicina di Montagna e Alimentazione: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere

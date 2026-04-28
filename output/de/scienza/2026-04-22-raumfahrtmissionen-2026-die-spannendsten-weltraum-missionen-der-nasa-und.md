@@ -1,4 +1,12 @@
 ---
+title: "Raumfahrtmissionen 2026: Die spannendsten Weltraum-Missionen der NASA und internationaler Wissenschaft"
+slug: "raumfahrtmissionen-2026-die-spannendsten-weltraum-missionen-der-nasa-und-interna"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "de"
+meta_description: "Raumfahrtmissionen 2026: Die spannendsten Weltraum-Missionen der NASA und internationaler Wissenschaft"
+auto_generated: true
 ---
 
 # Raumfahrtmissionen 2026: Die spannendsten Weltraum-Missionen der NASA und internationaler Wissenschaft

@@ -1,4 +1,12 @@
 ---
+title: "Bolletta Luce più Leggera con il Fotovoltaico nelle Cave Abbandonate della Campania"
+slug: "bolletta-luce-piu-leggera-con-il-fotovoltaico-nelle-cave-abbandonate-della-campa"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Bolletta Luce più Leggera con il Fotovoltaico nelle Cave Abbandonate della Campania"
+auto_generated: true
 ---
 
 # Bolletta Luce più Leggera con il Fotovoltaico nelle Cave Abbandonate della Campania

@@ -1,4 +1,12 @@
 ---
+title: "Costo Mensual de un Gato: Qué Debes Saber Antes de Adoptar"
+slug: "costo-mensual-de-un-gato-que-debes-saber-antes-de-adoptar"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "es"
+meta_description: "Costo Mensual de un Gato: Qué Debes Saber Antes de Adoptar"
+auto_generated: true
 ---
 
 # Costo Mensual de un Gato: Qué Debes Saber Antes de Adoptar

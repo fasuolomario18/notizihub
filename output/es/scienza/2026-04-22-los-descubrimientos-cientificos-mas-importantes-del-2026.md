@@ -1,4 +1,12 @@
 ---
+title: "Los Descubrimientos Científicos Más Importantes del 2026"
+slug: "los-descubrimientos-cientificos-mas-importantes-del-2026"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "es"
+meta_description: "Los Descubrimientos Científicos Más Importantes del 2026"
+auto_generated: true
 ---
 
 # Los Descubrimientos Científicos Más Importantes del 2026

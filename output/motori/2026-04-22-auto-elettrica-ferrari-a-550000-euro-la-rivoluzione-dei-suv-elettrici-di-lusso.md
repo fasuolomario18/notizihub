@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica Ferrari a 550.000 Euro: La Rivoluzione dei SUV Elettrici di Lusso"
+slug: "auto-elettrica-ferrari-a-550000-euro-la-rivoluzione-dei-suv-elettrici-di-lusso"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica Ferrari a 550.000 Euro: La Rivoluzione dei SUV Elettrici di Lusso"
+auto_generated: true
 ---
 
 # Auto Elettrica Ferrari a 550.000 Euro: La Rivoluzione dei SUV Elettrici di Lusso

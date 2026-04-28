@@ -1,4 +1,12 @@
 ---
+title: "Cómo adoptar un perro: guía completa para nuevos dueños"
+slug: "como-adoptar-un-perro-guia-completa-para-nuevos-duenos"
+date: "2026-04-24"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "es"
+meta_description: "Cómo adoptar un perro: guía completa para nuevos dueños"
+auto_generated: true
 ---
 
 # Cómo adoptar un perro: guía completa para nuevos dueños

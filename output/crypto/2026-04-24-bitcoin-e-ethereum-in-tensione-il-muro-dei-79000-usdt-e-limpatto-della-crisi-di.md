@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin e Ethereum in tensione: il muro dei 79.000 USDT e l'impatto della crisi di Hormuz"
+slug: "bitcoin-e-ethereum-in-tensione-il-muro-dei-79000-usdt-e-limpatto-della-crisi-di-"
+date: "2026-04-24"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin e Ethereum in tensione: il muro dei 79.000 USDT e l'impatto della crisi di Hormuz"
+auto_generated: true
 ---
 
 # Bitcoin e Ethereum in tensione: il muro dei 79.000 USDT e l'impatto della crisi di Hormuz

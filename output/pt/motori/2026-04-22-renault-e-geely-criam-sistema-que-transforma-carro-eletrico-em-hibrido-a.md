@@ -1,4 +1,12 @@
 ---
+title: "Renault e Geely criam sistema que transforma carro elétrico em híbrido: A revolução da mobilidade"
+slug: "renault-e-geely-criam-sistema-que-transforma-carro-eletrico-em-hibrido-a-revoluc"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "Renault e Geely criam sistema que transforma carro elétrico em híbrido: A revolução da mobilidade"
+auto_generated: true
 ---
 
 # Renault e Geely criam sistema que transforma carro elétrico em híbrido: A revolução da mobilidade

@@ -1,4 +1,12 @@
 ---
+title: "Investors Pull $15 Billion from DeFi as Latest Hack Sparks Security Fears"
+slug: "investors-pull-15-billion-from-defi-as-latest-hack-sparks-security-fears"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "en"
+meta_description: "Investors Pull $15 Billion from DeFi as Latest Hack Sparks Security Fears"
+auto_generated: true
 ---
 
 # Investors Pull $15 Billion from DeFi as Latest Hack Sparks Security Fears

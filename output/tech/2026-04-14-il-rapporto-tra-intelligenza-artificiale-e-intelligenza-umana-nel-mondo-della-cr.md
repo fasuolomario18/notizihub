@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale e Creatività Umana: Come MIR Rimette la Persona al Centro nel 2026"
+slug: "intelligenza-artificiale-e-creativita-umana-come-mir-rimette-la-persona-al-centr"
+date: "2026-04-14"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale e Creatività Umana: Come MIR Rimette la Persona al Centro nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale e Creatività Umana: Come MIR Rimette la Persona al Centro nel 2026

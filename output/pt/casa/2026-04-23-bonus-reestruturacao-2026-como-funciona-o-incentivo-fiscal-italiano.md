@@ -1,4 +1,12 @@
 ---
+title: "Bónus Reestruturação 2026: Como Funciona o Incentivo Fiscal Italiano"
+slug: "bonus-reestruturacao-2026-como-funciona-o-incentivo-fiscal-italiano"
+date: "2026-04-23"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "pt"
+meta_description: "Bónus Reestruturação 2026: Como Funciona o Incentivo Fiscal Italiano"
+auto_generated: true
 ---
 
 # Bónus Reestruturação 2026: Como Funciona o Incentivo Fiscal Italiano

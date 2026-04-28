@@ -1,4 +1,12 @@
 ---
+title: "Social Security Rule Change Could Mean an Extra $1,000 a Month for Some Beneficiaries"
+slug: "social-security-rule-change-could-mean-an-extra-1000-a-month-for-some-beneficiar"
+date: "2026-04-24"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "en"
+meta_description: "Social Security Rule Change Could Mean an Extra $1,000 a Month for Some Beneficiaries"
+auto_generated: true
 ---
 
 # Social Security Rule Change Could Mean an Extra $1,000 a Month for Some Beneficiaries

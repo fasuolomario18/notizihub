@@ -1,4 +1,12 @@
 ---
+title: "Kfz-Versicherung und Lebensversicherung: Finanzkommission empfiehlt Änderungen bei Cannabisblüten-Versicherungsdeckung"
+slug: "kfz-versicherung-und-lebensversicherung-finanzkommission-empfiehlt-anderungen-be"
+date: "2026-04-21"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "de"
+meta_description: "Kfz-Versicherung und Lebensversicherung: Finanzkommission empfiehlt Änderungen bei Cannabisblüten-Versicherungsdeckung"
+auto_generated: true
 ---
 
 # Kfz-Versicherung und Lebensversicherung: Finanzkommission empfiehlt Änderungen bei Cannabisblüten-Versicherungsdeckung

@@ -1,4 +1,12 @@
 ---
+title: "Netflix : Le top 20 des séries les plus vues sur la plateforme en 2026"
+slug: "netflix-le-top-20-des-series-les-plus-vues-sur-la-plateforme-en-2026"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Netflix : Le top 20 des séries les plus vues sur la plateforme en 2026"
+auto_generated: true
 ---
 
 # Netflix : Le top 20 des séries les plus vues sur la plateforme en 2026

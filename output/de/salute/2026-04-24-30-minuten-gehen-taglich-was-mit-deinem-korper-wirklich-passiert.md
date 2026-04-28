@@ -1,4 +1,12 @@
 ---
+title: "30 Minuten Gehen täglich: Was mit deinem Körper wirklich passiert"
+slug: "30-minuten-gehen-taglich-was-mit-deinem-korper-wirklich-passiert"
+date: "2026-04-24"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "de"
+meta_description: "30 Minuten Gehen täglich: Was mit deinem Körper wirklich passiert"
+auto_generated: true
 ---
 
 # 30 Minuten Gehen täglich: Was mit deinem Körper wirklich passiert

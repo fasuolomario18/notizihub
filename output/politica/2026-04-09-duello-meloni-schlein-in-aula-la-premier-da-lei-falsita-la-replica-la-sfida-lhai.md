@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: il duro scontro tra Meloni e Schlein nell'Aula della Camera"
+slug: "governo-e-parlamento-il-duro-scontro-tra-meloni-e-schlein-nellaula-della-camera"
+date: "2026-04-09"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: il duro scontro tra Meloni e Schlein nell'Aula della Camera"
+auto_generated: true
 ---
 
 # Governo e Parlamento: il duro scontro tra Meloni e Schlein nell'Aula della Camera

@@ -1,4 +1,12 @@
 ---
+title: "Minore arrestato per propaganda neonazista e terrorismo in Abruzzo: sequestrati manuali per armi 3D"
+slug: "minore-arrestato-per-propaganda-neonazista-e-terrorismo-in-abruzzo-sequestrati-m"
+date: "2026-04-13"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Minore arrestato per propaganda neonazista e terrorismo in Abruzzo: sequestrati manuali per armi 3D"
+auto_generated: true
 ---
 
 # Minore arrestato per propaganda neonazista e terrorismo in Abruzzo: sequestrati manuali per armi 3D

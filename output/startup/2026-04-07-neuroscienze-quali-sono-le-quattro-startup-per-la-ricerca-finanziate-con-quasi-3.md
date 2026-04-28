@@ -1,4 +1,12 @@
 ---
+title: "Neuroscienze e Startup: Mnesys Finanzia 4 Progetti con 2,5 Milioni di Euro nel 2026"
+slug: "neuroscienze-e-startup-mnesys-finanzia-4-progetti-con-25-milioni-di-euro-nel-202"
+date: "2026-04-07"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "it"
+meta_description: "Neuroscienze e Startup: Mnesys Finanzia 4 Progetti con 2,5 Milioni di Euro nel 2026"
+auto_generated: true
 ---
 
 # Neuroscienze e Startup: Mnesys Finanzia 4 Progetti con 2,5 Milioni di Euro nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Coventry führt 2025 Life Settlement League Table an: Spitzenposition in der Lebensversicherungsbranche"
+slug: "coventry-fuhrt-2025-life-settlement-league-table-an-spitzenposition-in-der-leben"
+date: "2026-04-21"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "de"
+meta_description: "Coventry führt 2025 Life Settlement League Table an: Spitzenposition in der Lebensversicherungsbranche"
+auto_generated: true
 ---
 
 # Coventry führt 2025 Life Settlement League Table an: Spitzenposition in der Lebensversicherungsbranche

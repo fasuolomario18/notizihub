@@ -1,4 +1,12 @@
 ---
+title: "Partita IVA vs Dipendente: Qué Conviene Según tu Situación Laboral"
+slug: "partita-iva-vs-dipendente-que-conviene-segun-tu-situacion-laboral"
+date: "2026-04-23"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "es"
+meta_description: "Partita IVA vs Dipendente: Qué Conviene Según tu Situación Laboral"
+auto_generated: true
 ---
 
 # Partita IVA vs Dipendente: Qué Conviene Según tu Situación Laboral

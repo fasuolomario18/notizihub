@@ -1,4 +1,12 @@
 ---
+title: "Sostenibilità e Empatia: Come il Cinema di Rocco Papaleo Insegna a Vivere Insieme in Armonia con il Pianeta"
+slug: "sostenibilita-e-empatia-come-il-cinema-di-rocco-papaleo-insegna-a-vivere-insieme"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Sostenibilità e Empatia: Come il Cinema di Rocco Papaleo Insegna a Vivere Insieme in Armonia con il Pianeta"
+auto_generated: true
 ---
 
 # Sostenibilità e Empatia: Come il Cinema di Rocco Papaleo Insegna a Vivere Insieme in Armonia con il Pianeta

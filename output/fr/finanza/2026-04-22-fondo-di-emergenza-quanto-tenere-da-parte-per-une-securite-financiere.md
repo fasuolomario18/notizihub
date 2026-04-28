@@ -1,4 +1,12 @@
 ---
+title: "Fondo di emergenza: quanto tenere da parte per une sécurité financière"
+slug: "fondo-di-emergenza-quanto-tenere-da-parte-per-une-securite-financiere"
+date: "2026-04-22"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "fr"
+meta_description: "Fondo di emergenza: quanto tenere da parte per une sécurité financière"
+auto_generated: true
 ---
 
 # Fondo di emergenza: quanto tenere da parte per une sécurité financière

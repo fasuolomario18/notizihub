@@ -1,4 +1,12 @@
 ---
+title: "Alcaraz e la sfida di Barcellona 2026: il cammino verso il numero 1 mondiale"
+slug: "alcaraz-e-la-sfida-di-barcellona-2026-il-cammino-verso-il-numero-1-mondiale"
+date: "2026-04-14"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Alcaraz e la sfida di Barcellona 2026: il cammino verso il numero 1 mondiale"
+auto_generated: true
 ---
 
 # Alcaraz e la sfida di Barcellona 2026: il cammino verso il numero 1 mondiale

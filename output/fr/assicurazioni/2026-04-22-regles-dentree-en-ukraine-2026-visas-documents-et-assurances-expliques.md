@@ -1,4 +1,12 @@
 ---
+title: "Règles d'entrée en Ukraine 2026 : Visas, Documents et Assurances Expliqués"
+slug: "regles-dentree-en-ukraine-2026-visas-documents-et-assurances-expliques"
+date: "2026-04-22"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "fr"
+meta_description: "Règles d'entrée en Ukraine 2026 : Visas, Documents et Assurances Expliqués"
+auto_generated: true
 ---
 
 # Règles d'entrée en Ukraine 2026 : Visas, Documents et Assurances Expliqués

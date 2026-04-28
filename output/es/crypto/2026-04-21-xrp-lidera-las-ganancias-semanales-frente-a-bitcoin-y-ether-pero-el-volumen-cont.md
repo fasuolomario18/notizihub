@@ -1,4 +1,12 @@
 ---
+title: "XRP Lidera Ganancias Semanales: Bitcoin y Ethereum se Quedan Atrás en el Análisis de Mercado Cripto"
+slug: "xrp-lidera-ganancias-semanales-bitcoin-y-ethereum-se-quedan-atras-en-el-analisis"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "es"
+meta_description: "XRP Lidera Ganancias Semanales: Bitcoin y Ethereum se Quedan Atrás en el Análisis de Mercado Cripto"
+auto_generated: true
 ---
 
 # XRP Lidera Ganancias Semanales: Bitcoin y Ethereum se Quedan Atrás en el Análisis de Mercado Cripto

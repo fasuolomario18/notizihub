@@ -1,4 +1,12 @@
 ---
+title: "Crimson Desert: Finalmente Svelata la Data di Uscita del Prossimo Capolavoro su PS5, Xbox e PC Gaming"
+slug: "crimson-desert-finalmente-svelata-la-data-di-uscita-del-prossimo-capolavoro-su-p"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Crimson Desert: Finalmente Svelata la Data di Uscita del Prossimo Capolavoro su PS5, Xbox e PC Gaming"
+auto_generated: true
 ---
 
 # Crimson Desert: Finalmente Svelata la Data di Uscita del Prossimo Capolavoro su PS5, Xbox e PC Gaming

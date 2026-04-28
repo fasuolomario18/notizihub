@@ -1,4 +1,12 @@
 ---
+title: "Facebook Instant Articles: le notizie di cronaca in Italia si leggono senza uscire dal social"
+slug: "facebook-instant-articles-le-notizie-di-cronaca-in-italia-si-leggono-senza-uscir"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Facebook Instant Articles: le notizie di cronaca in Italia si leggono senza uscire dal social"
+auto_generated: true
 ---
 
 # Facebook Instant Articles: le notizie di cronaca in Italia si leggono senza uscire dal social

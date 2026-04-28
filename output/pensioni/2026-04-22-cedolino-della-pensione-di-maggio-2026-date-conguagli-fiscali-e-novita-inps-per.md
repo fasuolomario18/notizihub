@@ -1,4 +1,12 @@
 ---
+title: "Cedolino della pensione di maggio 2026: date, conguagli fiscali e novità INPS per i pensionati"
+slug: "cedolino-della-pensione-di-maggio-2026-date-conguagli-fiscali-e-novita-inps-per-"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Cedolino della pensione di maggio 2026: date, conguagli fiscali e novità INPS per i pensionati"
+auto_generated: true
 ---
 
 # Cedolino della pensione di maggio 2026: date, conguagli fiscali e novità INPS per i pensionati

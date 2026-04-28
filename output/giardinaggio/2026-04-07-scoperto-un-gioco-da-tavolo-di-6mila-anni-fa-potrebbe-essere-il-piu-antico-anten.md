@@ -1,4 +1,12 @@
 ---
+title: "Scoperto un gioco da tavolo di 6mila anni fa: potrebbe essere il più antico antenato degli scacchi"
+slug: "scoperto-un-gioco-da-tavolo-di-6mila-anni-fa-potrebbe-essere-il-piu-antico-anten"
+date: "2026-04-07"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "Scoperto un gioco da tavolo di 6mila anni fa: potrebbe essere il più antico antenato degli scacchi"
+auto_generated: true
 ---
 
 # Scoperto un gioco da tavolo di 6mila anni fa: potrebbe essere il più antico antenato degli scacchi

@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento affrontano nuove sfide sulle libertà civili: tensioni nel Veronese per manifestazione"
+slug: "governo-e-parlamento-affrontano-nuove-sfide-sulle-liberta-civili-tensioni-nel-ve"
+date: "2026-04-11"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento affrontano nuove sfide sulle libertà civili: tensioni nel Veronese per manifestazione"
+auto_generated: true
 ---
 
 # Governo e Parlamento affrontano nuove sfide sulle libertà civili: tensioni nel Veronese per manifestazione

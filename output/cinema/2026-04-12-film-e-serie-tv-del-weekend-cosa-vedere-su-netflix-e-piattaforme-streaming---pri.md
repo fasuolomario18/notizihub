@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV del Weekend: Cosa Vedere su Netflix e Piattaforme Streaming ad Aprile 2026"
+slug: "film-e-serie-tv-del-weekend-cosa-vedere-su-netflix-e-piattaforme-streaming-ad-ap"
+date: "2026-04-12"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV del Weekend: Cosa Vedere su Netflix e Piattaforme Streaming ad Aprile 2026"
+auto_generated: true
 ---
 
 # Film e Serie TV del Weekend: Cosa Vedere su Netflix e Piattaforme Streaming ad Aprile 2026

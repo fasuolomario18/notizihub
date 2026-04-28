@@ -1,4 +1,12 @@
 ---
+title: "De Laurentiis e il secondo scudetto del Napoli: quando il calcio diventa un thriller come la Formula 1"
+slug: "de-laurentiis-e-il-secondo-scudetto-del-napoli-quando-il-calcio-diventa-un-thril"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "De Laurentiis e il secondo scudetto del Napoli: quando il calcio diventa un thriller come la Formula 1"
+auto_generated: true
 ---
 
 # De Laurentiis e il secondo scudetto del Napoli: quando il calcio diventa un thriller come la Formula 1

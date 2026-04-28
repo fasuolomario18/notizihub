@@ -1,4 +1,12 @@
 ---
+title: "Trump e il Blocco dello Stretto di Hormuz: Guerra Commerciale e Tensioni Globali nel 2026"
+slug: "trump-e-il-blocco-dello-stretto-di-hormuz-guerra-commerciale-e-tensioni-globali-"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Trump e il Blocco dello Stretto di Hormuz: Guerra Commerciale e Tensioni Globali nel 2026"
+auto_generated: true
 ---
 
 # Trump e il Blocco dello Stretto di Hormuz: Guerra Commerciale e Tensioni Globali nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "La Digue accueille un projet de 12 logements abordables : une solution d'hypothèque et de loyer accessible"
+slug: "la-digue-accueille-un-projet-de-12-logements-abordables-une-solution-dhypotheque"
+date: "2026-04-21"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "fr"
+meta_description: "La Digue accueille un projet de 12 logements abordables : une solution d'hypothèque et de loyer accessible"
+auto_generated: true
 ---
 
 <!-- TLDR -->

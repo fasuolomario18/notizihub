@@ -1,4 +1,12 @@
 ---
+title: "Come combattere l'ansia senza farmaci: strategie psicologiche efficaci"
+slug: "come-combattere-lansia-senza-farmaci-strategie-psicologiche-efficaci"
+date: "2026-04-22"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "it"
+meta_description: "Come combattere l'ansia senza farmaci: strategie psicologiche efficaci"
+auto_generated: true
 ---
 
 # Come combattere l'ansia senza farmaci: strategie psicologiche efficaci

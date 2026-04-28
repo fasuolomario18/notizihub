@@ -1,4 +1,12 @@
 ---
+title: "Cronaca Italia: Uomo Muore in Ospedale dopo Aggressione nel Centro di Barletta"
+slug: "cronaca-italia-uomo-muore-in-ospedale-dopo-aggressione-nel-centro-di-barletta"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Cronaca Italia: Uomo Muore in Ospedale dopo Aggressione nel Centro di Barletta"
+auto_generated: true
 ---
 
 # Cronaca Italia: Uomo Muore in Ospedale dopo Aggressione nel Centro di Barletta

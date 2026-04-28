@@ -1,4 +1,12 @@
 ---
+title: "Alex Karp: il filosofo che controlla i dati della guerra tra USA ed Europa nel 2026"
+slug: "alex-karp-il-filosofo-che-controlla-i-dati-della-guerra-tra-usa-ed-europa-nel-20"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Alex Karp: il filosofo che controlla i dati della guerra tra USA ed Europa nel 2026"
+auto_generated: true
 ---
 
 # Alex Karp: il filosofo che controlla i dati della guerra tra USA ed Europa nel 2026

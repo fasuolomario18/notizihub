@@ -1,4 +1,12 @@
 ---
+title: "Vacanze in Italia: il boom del turismo dal Medio Oriente grazie ai voli low cost"
+slug: "vacanze-in-italia-il-boom-del-turismo-dal-medio-oriente-grazie-ai-voli-low-cost"
+date: "2026-04-08"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Vacanze in Italia: il boom del turismo dal Medio Oriente grazie ai voli low cost"
+auto_generated: true
 ---
 
 # Vacanze in Italia: il boom del turismo dal Medio Oriente grazie ai voli low cost

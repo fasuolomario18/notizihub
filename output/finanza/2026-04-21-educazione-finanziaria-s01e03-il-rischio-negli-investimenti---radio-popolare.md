@@ -1,4 +1,12 @@
 ---
+title: "Investire consapevolmente: come gestire il rischio negli investimenti"
+slug: "investire-consapevolmente-come-gestire-il-rischio-negli-investimenti"
+date: "2026-04-21"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Investire consapevolmente: come gestire il rischio negli investimenti"
+auto_generated: true
 ---
 
 # Investire consapevolmente: come gestire il rischio negli investimenti

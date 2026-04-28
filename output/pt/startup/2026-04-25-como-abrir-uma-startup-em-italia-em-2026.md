@@ -1,4 +1,12 @@
 ---
+title: "Como Abrir uma Startup em Itália em 2026"
+slug: "como-abrir-uma-startup-em-italia-em-2026"
+date: "2026-04-25"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "pt"
+meta_description: "Como Abrir uma Startup em Itália em 2026"
+auto_generated: true
 ---
 
 # Como Abrir uma Startup em Itália em 2026

@@ -1,4 +1,12 @@
 ---
+title: "Make Any iPhone or Android Senior Friendly With Larger Text Accessibility and Simple Layouts"
+slug: "make-any-iphone-or-android-senior-friendly-with-larger-text-accessibility-and-si"
+date: "2026-04-23"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "en"
+meta_description: "Make Any iPhone or Android Senior Friendly With Larger Text Accessibility and Simple Layouts"
+auto_generated: true
 ---
 
 # Make Any iPhone or Android Senior Friendly With Larger Text Accessibility and Simple Layouts

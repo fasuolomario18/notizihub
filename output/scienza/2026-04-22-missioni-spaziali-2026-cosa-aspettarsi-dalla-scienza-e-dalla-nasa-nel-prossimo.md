@@ -1,4 +1,12 @@
 ---
+title: "Missioni Spaziali 2026: Cosa Aspettarsi dalla Scienza e dalla NASA nel Prossimo Decennio"
+slug: "missioni-spaziali-2026-cosa-aspettarsi-dalla-scienza-e-dalla-nasa-nel-prossimo-d"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Missioni Spaziali 2026: Cosa Aspettarsi dalla Scienza e dalla NASA nel Prossimo Decennio"
+auto_generated: true
 ---
 
 # Missioni Spaziali 2026: Cosa Aspettarsi dalla Scienza e dalla NASA nel Prossimo Decennio

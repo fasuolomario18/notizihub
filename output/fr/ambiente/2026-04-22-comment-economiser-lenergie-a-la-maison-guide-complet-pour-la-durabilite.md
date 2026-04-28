@@ -1,4 +1,12 @@
 ---
+title: "Comment économiser l'énergie à la maison : Guide complet pour la durabilité"
+slug: "comment-economiser-lenergie-a-la-maison-guide-complet-pour-la-durabilite"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "fr"
+meta_description: "Comment économiser l'énergie à la maison : Guide complet pour la durabilité"
+auto_generated: true
 ---
 
 # Comment économiser l'énergie à la maison : Guide complet pour la durabilité

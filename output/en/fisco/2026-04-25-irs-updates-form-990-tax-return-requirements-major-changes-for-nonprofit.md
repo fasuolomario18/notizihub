@@ -1,4 +1,12 @@
 ---
+title: "IRS Updates Form 990 Tax Return Requirements: Major Changes for Nonprofit Transparency"
+slug: "irs-updates-form-990-tax-return-requirements-major-changes-for-nonprofit-transpa"
+date: "2026-04-25"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "en"
+meta_description: "IRS Updates Form 990 Tax Return Requirements: Major Changes for Nonprofit Transparency"
+auto_generated: true
 ---
 
 # IRS Updates Form 990 Tax Return Requirements: Major Changes for Nonprofit Transparency

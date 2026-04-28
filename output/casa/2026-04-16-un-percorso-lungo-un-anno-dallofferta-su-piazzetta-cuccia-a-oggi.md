@@ -1,4 +1,12 @@
 ---
+title: "Mutuo, Affitto e Bonus Ristrutturazione: Il Percorso della Banca Senese su Piazzetta Cuccia"
+slug: "mutuo-affitto-e-bonus-ristrutturazione-il-percorso-della-banca-senese-su-piazzet"
+date: "2026-04-16"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo, Affitto e Bonus Ristrutturazione: Il Percorso della Banca Senese su Piazzetta Cuccia"
+auto_generated: true
 ---
 
 # Mutuo, Affitto e Bonus Ristrutturazione: Il Percorso della Banca Senese su Piazzetta Cuccia

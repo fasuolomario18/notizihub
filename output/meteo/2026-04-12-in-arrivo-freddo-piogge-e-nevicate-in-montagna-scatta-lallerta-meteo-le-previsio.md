@@ -1,4 +1,12 @@
 ---
+title: "Meteo: In Arrivo Freddo, Piogge e Nevicate in Montagna. Scatta l'Allerta Meteo"
+slug: "meteo-in-arrivo-freddo-piogge-e-nevicate-in-montagna-scatta-lallerta-meteo"
+date: "2026-04-12"
+nicchia: "meteo"
+nicchia_nome: "Meteo"
+lang: "it"
+meta_description: "Meteo: In Arrivo Freddo, Piogge e Nevicate in Montagna. Scatta l'Allerta Meteo"
+auto_generated: true
 ---
 
 # Meteo: In Arrivo Freddo, Piogge e Nevicate in Montagna. Scatta l'Allerta Meteo

@@ -1,4 +1,12 @@
 ---
+title: "Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026"
+slug: "casting-netflix-in-toscana-la-nuova-opportunita-per-attori-e-attrici-nel-2026"
+date: "2026-04-11"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026"
+auto_generated: true
 ---
 
 # Casting Netflix in Toscana: La Nuova Opportunità per Attori e Attrici nel 2026

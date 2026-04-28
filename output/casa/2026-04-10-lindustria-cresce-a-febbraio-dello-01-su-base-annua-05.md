@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto: Come la Crisi Produttiva di Aprile 2026 Impatta il Mercato Immobiliare"
+slug: "mutuo-e-affitto-come-la-crisi-produttiva-di-aprile-2026-impatta-il-mercato-immob"
+date: "2026-04-10"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto: Come la Crisi Produttiva di Aprile 2026 Impatta il Mercato Immobiliare"
+auto_generated: true
 ---
 
 # Mutuo e Affitto: Come la Crisi Produttiva di Aprile 2026 Impatta il Mercato Immobiliare

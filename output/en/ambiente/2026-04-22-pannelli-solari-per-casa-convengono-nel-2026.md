@@ -1,4 +1,12 @@
 ---
+title: "Pannelli Solari per Casa: Convengono nel 2026"
+slug: "pannelli-solari-per-casa-convengono-nel-2026"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "en"
+meta_description: "Pannelli Solari per Casa: Convengono nel 2026"
+auto_generated: true
 ---
 
 # Pannelli Solari per Casa: Convengono nel 2026

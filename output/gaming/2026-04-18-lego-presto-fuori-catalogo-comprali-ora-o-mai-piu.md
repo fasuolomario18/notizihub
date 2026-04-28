@@ -1,4 +1,12 @@
 ---
+title: "Set LEGO in Uscita dal Catalogo: La Guida Completa per Gamer su PS5, Xbox e PC Gaming nel 2026"
+slug: "set-lego-in-uscita-dal-catalogo-la-guida-completa-per-gamer-su-ps5-xbox-e-pc-gam"
+date: "2026-04-18"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Set LEGO in Uscita dal Catalogo: La Guida Completa per Gamer su PS5, Xbox e PC Gaming nel 2026"
+auto_generated: true
 ---
 
 # Set LEGO in Uscita dal Catalogo: La Guida Completa per Gamer su PS5, Xbox e PC Gaming nel 2026

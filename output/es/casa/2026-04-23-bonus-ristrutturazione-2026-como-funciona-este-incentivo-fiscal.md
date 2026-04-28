@@ -1,4 +1,12 @@
 ---
+title: "Bonus Ristrutturazione 2026: Cómo Funciona Este Incentivo Fiscal"
+slug: "bonus-ristrutturazione-2026-como-funciona-este-incentivo-fiscal"
+date: "2026-04-23"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "es"
+meta_description: "Bonus Ristrutturazione 2026: Cómo Funciona Este Incentivo Fiscal"
+auto_generated: true
 ---
 
 # Bonus Ristrutturazione 2026: Cómo Funciona Este Incentivo Fiscal

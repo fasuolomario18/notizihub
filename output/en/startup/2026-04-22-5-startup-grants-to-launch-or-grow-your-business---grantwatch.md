@@ -1,4 +1,12 @@
 ---
+title: "5 Startup Grants to Launch or Grow Your Business - GrantWatch"
+slug: "5-startup-grants-to-launch-or-grow-your-business---grantwatch"
+date: "2026-04-22"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "en"
+meta_description: "5 Startup Grants to Launch or Grow Your Business - GrantWatch"
+auto_generated: true
 ---
 
 # 5 Startup Grants to Launch or Grow Your Business - GrantWatch

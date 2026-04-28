@@ -1,4 +1,12 @@
 ---
+title: "Bonus ristrutturazione 2026: come funziona e come richiederlo"
+slug: "bonus-ristrutturazione-2026-come-funziona-e-come-richiederlo"
+date: "2026-04-24"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Bonus ristrutturazione 2026: come funziona e come richiederlo"
+auto_generated: true
 ---
 
 # Bonus ristrutturazione 2026: come funziona e come richiederlo

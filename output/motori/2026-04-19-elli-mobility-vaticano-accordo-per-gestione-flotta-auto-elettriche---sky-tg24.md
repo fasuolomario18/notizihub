@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica: L'Accordo tra Elli Mobility e il Vaticano Segna Una Nuova Era della Mobilità Sostenibile"
+slug: "auto-elettrica-laccordo-tra-elli-mobility-e-il-vaticano-segna-una-nuova-era-dell"
+date: "2026-04-19"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica: L'Accordo tra Elli Mobility e il Vaticano Segna Una Nuova Era della Mobilità Sostenibile"
+auto_generated: true
 ---
 
 # Auto Elettrica: L'Accordo tra Elli Mobility e il Vaticano Segna Una Nuova Era della Mobilità Sostenibile

@@ -1,4 +1,12 @@
 ---
+title: "Tragedia negli Orti del Forlivese: Agricoltore Muore dopo Incidente con Trattore"
+slug: "tragedia-negli-orti-del-forlivese-agricoltore-muore-dopo-incidente-con-trattore"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Tragedia negli Orti del Forlivese: Agricoltore Muore dopo Incidente con Trattore"
+auto_generated: true
 ---
 
 # Tragedia negli Orti del Forlivese: Agricoltore Muore dopo Incidente con Trattore

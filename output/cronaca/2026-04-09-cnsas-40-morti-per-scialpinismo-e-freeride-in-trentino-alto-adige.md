@@ -1,4 +1,12 @@
 ---
+title: "Scialpinismo e Freeride in Trentino Alto Adige: 40 Morti e 250 Soccorsi, l'Allarme del Cnsas"
+slug: "scialpinismo-e-freeride-in-trentino-alto-adige-40-morti-e-250-soccorsi-lallarme-"
+date: "2026-04-09"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Scialpinismo e Freeride in Trentino Alto Adige: 40 Morti e 250 Soccorsi, l'Allarme del Cnsas"
+auto_generated: true
 ---
 
 # Scialpinismo e Freeride in Trentino Alto Adige: 40 Morti e 250 Soccorsi, l'Allarme del Cnsas

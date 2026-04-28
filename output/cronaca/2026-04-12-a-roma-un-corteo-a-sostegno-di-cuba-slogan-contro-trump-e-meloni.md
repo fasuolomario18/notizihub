@@ -1,4 +1,12 @@
 ---
+title: "Roma scende in piazza per Cuba: corteo contro l'embargo e le politiche internazionali"
+slug: "roma-scende-in-piazza-per-cuba-corteo-contro-lembargo-e-le-politiche-internazion"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Roma scende in piazza per Cuba: corteo contro l'embargo e le politiche internazionali"
+auto_generated: true
 ---
 
 # Roma scende in piazza per Cuba: corteo contro l'embargo e le politiche internazionali

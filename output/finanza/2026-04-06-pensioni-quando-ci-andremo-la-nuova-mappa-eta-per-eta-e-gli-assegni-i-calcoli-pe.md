@@ -1,4 +1,12 @@
 ---
+title: "Investire per la Pensione: Guida Completa alle Età e agli Assegni in Italia"
+slug: "investire-per-la-pensione-guida-completa-alle-eta-e-agli-assegni-in-italia"
+date: "2026-04-06"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Investire per la Pensione: Guida Completa alle Età e agli Assegni in Italia"
+auto_generated: true
 ---
 
 # Investire per la Pensione: Guida Completa alle Età e agli Assegni in Italia

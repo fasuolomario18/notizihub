@@ -1,4 +1,12 @@
 ---
+title: "Guide : Quel est le meilleur smartphone ? Avril 2026"
+slug: "guide-quel-est-le-meilleur-smartphone-avril-2026"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "Guide : Quel est le meilleur smartphone ? Avril 2026"
+auto_generated: true
 ---
 
 # Guide : Quel est le meilleur smartphone ? Avril 2026

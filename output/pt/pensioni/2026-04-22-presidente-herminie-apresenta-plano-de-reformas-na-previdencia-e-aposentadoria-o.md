@@ -1,4 +1,12 @@
 ---
+title: "Presidente Herminie Apresenta Plano de Reformas na Previdência e Aposentadoria: O Que Muda Para Os Cidadãos"
+slug: "presidente-herminie-apresenta-plano-de-reformas-na-previdencia-e-aposentadoria-o"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "pt"
+meta_description: "Presidente Herminie Apresenta Plano de Reformas na Previdência e Aposentadoria: O Que Muda Para Os Cidadãos"
+auto_generated: true
 ---
 
 # Presidente Herminie Apresenta Plano de Reformas na Previdência e Aposentadoria: O Que Muda Para Os Cidadãos

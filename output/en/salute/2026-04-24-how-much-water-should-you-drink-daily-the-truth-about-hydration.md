@@ -1,4 +1,12 @@
 ---
+title: "How Much Water Should You Drink Daily: The Truth About Hydration"
+slug: "how-much-water-should-you-drink-daily-the-truth-about-hydration"
+date: "2026-04-24"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "en"
+meta_description: "How Much Water Should You Drink Daily: The Truth About Hydration"
+auto_generated: true
 ---
 
 # How Much Water Should You Drink Daily: The Truth About Hydration

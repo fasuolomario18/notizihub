@@ -1,4 +1,12 @@
 ---
+title: "Xbox Game Pass: i migliori giochi di dicembre 2025 per PS5, Xbox e PC gaming"
+slug: "xbox-game-pass-i-migliori-giochi-di-dicembre-2025-per-ps5-xbox-e-pc-gaming"
+date: "2026-04-22"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Xbox Game Pass: i migliori giochi di dicembre 2025 per PS5, Xbox e PC gaming"
+auto_generated: true
 ---
 
 # Xbox Game Pass: i migliori giochi di dicembre 2025 per PS5, Xbox e PC gaming

@@ -1,4 +1,12 @@
 ---
+title: "Dieta Mediterranea: Benefici e Menu Settimanale per il Tuo Benessere"
+slug: "dieta-mediterranea-benefici-e-menu-settimanale-per-il-tuo-benessere"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Dieta Mediterranea: Benefici e Menu Settimanale per il Tuo Benessere"
+auto_generated: true
 ---
 
 # Dieta Mediterranea: Benefici e Menu Settimanale per il Tuo Benessere

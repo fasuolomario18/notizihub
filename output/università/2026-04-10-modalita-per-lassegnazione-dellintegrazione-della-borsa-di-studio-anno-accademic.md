@@ -1,4 +1,12 @@
 ---
+title: "Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari"
+slug: "borse-di-studio-universita-le-nuove-modalita-di-assegnazione-dellintegrazione-er"
+date: "2026-04-10"
+nicchia: "università"
+nicchia_nome: "Università"
+lang: "it"
+meta_description: "Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari"
+auto_generated: true
 ---
 
 # Borse di Studio Università: Le Nuove Modalità di Assegnazione dell'Integrazione ERSU Cagliari

@@ -1,4 +1,12 @@
 ---
+title: "Piano Accumulo Capitale: come investire poco e crescere nel tempo"
+slug: "piano-accumulo-capitale-come-investire-poco-e-crescere-nel-tempo"
+date: "2026-04-08"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Piano Accumulo Capitale: come investire poco e crescere nel tempo"
+auto_generated: true
 ---
 
 # Piano Accumulo Capitale: come investire poco e crescere nel tempo

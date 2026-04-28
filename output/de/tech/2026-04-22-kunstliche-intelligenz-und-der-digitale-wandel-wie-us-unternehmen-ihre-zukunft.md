@@ -1,4 +1,12 @@
 ---
+title: "Künstliche Intelligenz und der digitale Wandel: Wie US-Unternehmen ihre Zukunft neu definieren"
+slug: "kunstliche-intelligenz-und-der-digitale-wandel-wie-us-unternehmen-ihre-zukunft-n"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "de"
+meta_description: "Künstliche Intelligenz und der digitale Wandel: Wie US-Unternehmen ihre Zukunft neu definieren"
+auto_generated: true
 ---
 
 # Künstliche Intelligenz und der digitale Wandel: Wie US-Unternehmen ihre Zukunft neu definieren

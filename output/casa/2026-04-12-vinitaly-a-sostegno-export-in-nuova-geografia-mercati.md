@@ -1,4 +1,12 @@
 ---
+title: "Vinitaly a sostegno export in nuova geografia mercati"
+slug: "vinitaly-a-sostegno-export-in-nuova-geografia-mercati"
+date: "2026-04-12"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Vinitaly a sostegno export in nuova geografia mercati"
+auto_generated: true
 ---
 
 # Vinitaly a sostegno export in nuova geografia mercati

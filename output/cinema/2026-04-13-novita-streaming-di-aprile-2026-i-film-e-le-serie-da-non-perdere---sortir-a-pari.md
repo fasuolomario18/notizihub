@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV da non perdere su Netflix ad Aprile 2026"
+slug: "film-e-serie-tv-da-non-perdere-su-netflix-ad-aprile-2026"
+date: "2026-04-13"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV da non perdere su Netflix ad Aprile 2026"
+auto_generated: true
 ---
 
 # Film e Serie TV da non perdere su Netflix ad Aprile 2026

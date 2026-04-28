@@ -1,4 +1,12 @@
 ---
+title: "Cessione del Quinto: What It Is and When It's Worth Considering"
+slug: "cessione-del-quinto-what-it-is-and-when-its-worth-considering"
+date: "2026-04-23"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "en"
+meta_description: "Cessione del Quinto: What It Is and When It's Worth Considering"
+auto_generated: true
 ---
 
 # Cessione del Quinto: What It Is and When It's Worth Considering

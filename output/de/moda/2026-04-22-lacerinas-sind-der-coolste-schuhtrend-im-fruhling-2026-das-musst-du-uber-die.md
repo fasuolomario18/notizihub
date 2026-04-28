@@ -1,4 +1,12 @@
 ---
+title: "Lacerinas sind der coolste Schuhtrend im Frühling 2026 – Das musst du über die neuen Trend-Schuhe wissen"
+slug: "lacerinas-sind-der-coolste-schuhtrend-im-fruhling-2026-das-musst-du-uber-die-neu"
+date: "2026-04-22"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "de"
+meta_description: "Lacerinas sind der coolste Schuhtrend im Frühling 2026 – Das musst du über die neuen Trend-Schuhe wissen"
+auto_generated: true
 ---
 
 # Lacerinas sind der coolste Schuhtrend im Frühling 2026 – Das musst du über die neuen Trend-Schuhe wissen

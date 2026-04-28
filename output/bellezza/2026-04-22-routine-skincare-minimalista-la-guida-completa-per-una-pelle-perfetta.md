@@ -1,4 +1,12 @@
 ---
+title: "Routine Skincare Minimalista: La Guida Completa per una Pelle Perfetta"
+slug: "routine-skincare-minimalista-la-guida-completa-per-una-pelle-perfetta"
+date: "2026-04-22"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "it"
+meta_description: "Routine Skincare Minimalista: La Guida Completa per una Pelle Perfetta"
+auto_generated: true
 ---
 
 # Routine Skincare Minimalista: La Guida Completa per una Pelle Perfetta

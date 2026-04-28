@@ -1,4 +1,12 @@
 ---
+title: "Business plan: come scriverlo passo passo per la tua startup"
+slug: "business-plan-come-scriverlo-passo-passo-per-la-tua-startup"
+date: "2026-04-25"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "it"
+meta_description: "Business plan: come scriverlo passo passo per la tua startup"
+auto_generated: true
 ---
 
 # Business plan: come scriverlo passo passo per la tua startup

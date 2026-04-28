@@ -1,4 +1,12 @@
 ---
+title: "Le migliori serie Netflix del 2026, finora: i must-watch dell'anno"
+slug: "le-migliori-serie-netflix-del-2026-finora-i-must-watch-dellanno"
+date: "2026-04-25"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Le migliori serie Netflix del 2026, finora: i must-watch dell'anno"
+auto_generated: true
 ---
 
 # Le migliori serie Netflix del 2026, finora: i must-watch dell'anno

@@ -1,4 +1,12 @@
 ---
+title: "Reiseversicherung: Wann Sie diese wirklich brauchen"
+slug: "reiseversicherung-wann-sie-diese-wirklich-brauchen"
+date: "2026-04-23"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "de"
+meta_description: "Reiseversicherung: Wann Sie diese wirklich brauchen"
+auto_generated: true
 ---
 
 # Reiseversicherung: Wann Sie diese wirklich brauchen

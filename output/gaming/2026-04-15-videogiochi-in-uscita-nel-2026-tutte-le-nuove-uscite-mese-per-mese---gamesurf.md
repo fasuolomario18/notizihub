@@ -1,4 +1,12 @@
 ---
+title: "Videogiochi in uscita nel 2026: il calendario completo per PS5, Xbox e PC Gaming"
+slug: "videogiochi-in-uscita-nel-2026-il-calendario-completo-per-ps5-xbox-e-pc-gaming"
+date: "2026-04-15"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Videogiochi in uscita nel 2026: il calendario completo per PS5, Xbox e PC Gaming"
+auto_generated: true
 ---
 
 # Videogiochi in uscita nel 2026: il calendario completo per PS5, Xbox e PC Gaming

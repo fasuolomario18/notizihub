@@ -1,4 +1,12 @@
 ---
+title: "DLSS 5 de Nvidia : L'Intelligence Artificielle Transforme les Graphismes Gaming en 2026"
+slug: "dlss-5-de-nvidia-lintelligence-artificielle-transforme-les-graphismes-gaming-en-"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "fr"
+meta_description: "DLSS 5 de Nvidia : L'Intelligence Artificielle Transforme les Graphismes Gaming en 2026"
+auto_generated: true
 ---
 
 # DLSS 5 de Nvidia : L'Intelligence Artificielle Transforme les Graphismes Gaming en 2026

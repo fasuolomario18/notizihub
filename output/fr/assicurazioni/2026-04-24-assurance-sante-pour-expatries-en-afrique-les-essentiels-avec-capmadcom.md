@@ -1,4 +1,12 @@
 ---
+title: "Assurance santé pour expatriés en Afrique : les essentiels avec Capmad.com"
+slug: "assurance-sante-pour-expatries-en-afrique-les-essentiels-avec-capmadcom"
+date: "2026-04-24"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "fr"
+meta_description: "Assurance santé pour expatriés en Afrique : les essentiels avec Capmad.com"
+auto_generated: true
 ---
 
 # Assurance santé pour expatriés en Afrique : les essentiels avec Capmad.com

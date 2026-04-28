@@ -1,4 +1,12 @@
 ---
+title: "Avvelenate con la ricina: interrogatorio fiume per padre e figlia nel caso che scuote l'Italia"
+slug: "avvelenate-con-la-ricina-interrogatorio-fiume-per-padre-e-figlia-nel-caso-che-sc"
+date: "2026-04-09"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Avvelenate con la ricina: interrogatorio fiume per padre e figlia nel caso che scuote l'Italia"
+auto_generated: true
 ---
 
 # Avvelenate con la ricina: interrogatorio fiume per padre e figlia nel caso che scuote l'Italia

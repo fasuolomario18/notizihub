@@ -1,4 +1,12 @@
 ---
+title: "Codes Netflix avril 2026 : la liste ultime des catégories cachées"
+slug: "codes-netflix-avril-2026-la-liste-ultime-des-categories-cachees"
+date: "2026-04-22"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Codes Netflix avril 2026 : la liste ultime des catégories cachées"
+auto_generated: true
 ---
 
 # Codes Netflix avril 2026 : la liste ultime des catégories cachées

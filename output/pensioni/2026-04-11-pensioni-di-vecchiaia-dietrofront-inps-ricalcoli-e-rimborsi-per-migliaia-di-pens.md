@@ -1,4 +1,12 @@
 ---
+title: "Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati"
+slug: "pensioni-di-vecchiaia-dietrofront-inps-con-ricalcoli-e-rimborsi-per-migliaia-di-"
+date: "2026-04-11"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati"
+auto_generated: true
 ---
 
 # Pensioni di Vecchiaia: Dietrofront INPS con Ricalcoli e Rimborsi per Migliaia di Pensionati

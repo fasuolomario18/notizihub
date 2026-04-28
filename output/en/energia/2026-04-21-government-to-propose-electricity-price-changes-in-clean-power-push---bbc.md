@@ -1,4 +1,12 @@
 ---
+title: "Government Electricity Bill Changes Explained: Solar Panels and Clean Power Reforms"
+slug: "government-electricity-bill-changes-explained-solar-panels-and-clean-power-refor"
+date: "2026-04-21"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "en"
+meta_description: "Government Electricity Bill Changes Explained: Solar Panels and Clean Power Reforms"
+auto_generated: true
 ---
 
 # Government Electricity Bill Changes Explained: Solar Panels and Clean Power Reforms

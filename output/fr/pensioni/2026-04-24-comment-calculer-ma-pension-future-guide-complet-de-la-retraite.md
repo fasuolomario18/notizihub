@@ -1,4 +1,12 @@
 ---
+title: "Comment Calculer Ma Pension Future : Guide Complet de la Retraite"
+slug: "comment-calculer-ma-pension-future-guide-complet-de-la-retraite"
+date: "2026-04-24"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "fr"
+meta_description: "Comment Calculer Ma Pension Future : Guide Complet de la Retraite"
+auto_generated: true
 ---
 
 # Comment Calculer Ma Pension Future : Guide Complet de la Retraite

@@ -1,4 +1,12 @@
 ---
+title: "Capsule Wardrobe: Os Peças Base para Cada Guarda-roupa Completo"
+slug: "capsule-wardrobe-os-pecas-base-para-cada-guarda-roupa-completo"
+date: "2026-04-23"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "pt"
+meta_description: "Capsule Wardrobe: Os Peças Base para Cada Guarda-roupa Completo"
+auto_generated: true
 ---
 
 # Capsule Wardrobe: Os Peças Base para Cada Guarda-roupa Completo

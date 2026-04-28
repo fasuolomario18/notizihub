@@ -1,4 +1,12 @@
 ---
+title: "HOOPS AI: La Inteligencia Artificial que Transforma Datos CAD para Impresión y Fabricación 3D"
+slug: "hoops-ai-la-inteligencia-artificial-que-transforma-datos-cad-para-impresion-y-fa"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "es"
+meta_description: "HOOPS AI: La Inteligencia Artificial que Transforma Datos CAD para Impresión y Fabricación 3D"
+auto_generated: true
 ---
 
 # HOOPS AI: La Inteligencia Artificial que Transforma Datos CAD para Impresión y Fabricación 3D

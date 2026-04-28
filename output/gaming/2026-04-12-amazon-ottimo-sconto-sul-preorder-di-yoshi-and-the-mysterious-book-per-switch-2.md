@@ -1,4 +1,12 @@
 ---
+title: "Yoshi and the Mysterious Book su Amazon: Lo Sconto Imperdibile per Switch 2 nel 2026"
+slug: "yoshi-and-the-mysterious-book-su-amazon-lo-sconto-imperdibile-per-switch-2-nel-2"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Yoshi and the Mysterious Book su Amazon: Lo Sconto Imperdibile per Switch 2 nel 2026"
+auto_generated: true
 ---
 
 # Yoshi and the Mysterious Book su Amazon: Lo Sconto Imperdibile per Switch 2 nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Como Funciona a Inteligência Artificial Explicado de Forma Simples"
+slug: "como-funciona-a-inteligencia-artificial-explicado-de-forma-simples"
+date: "2026-04-23"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "pt"
+meta_description: "Como Funciona a Inteligência Artificial Explicado de Forma Simples"
+auto_generated: true
 ---
 
 # Como Funciona a Inteligência Artificial Explicado de Forma Simples

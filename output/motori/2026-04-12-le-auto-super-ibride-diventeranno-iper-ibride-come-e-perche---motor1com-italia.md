@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica: Le Super Ibride Diventano Iper Ibride nel 2026"
+slug: "auto-elettrica-le-super-ibride-diventano-iper-ibride-nel-2026"
+date: "2026-04-12"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica: Le Super Ibride Diventano Iper Ibride nel 2026"
+auto_generated: true
 ---
 
 # Auto Elettrica: Le Super Ibride Diventano Iper Ibride nel 2026

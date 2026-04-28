@@ -1,4 +1,12 @@
 ---
+title: "Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: Why These Cryptocurrencies Dominate"
+slug: "kevin-oleary-says-bitcoin-ethereum-give-him-almost-all-of-crypto-exposure-why-th"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "en"
+meta_description: "Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: Why These Cryptocurrencies Dominate"
+auto_generated: true
 ---
 
 # Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: Why These Cryptocurrencies Dominate

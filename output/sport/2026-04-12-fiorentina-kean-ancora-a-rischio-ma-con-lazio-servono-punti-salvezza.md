@@ -1,4 +1,12 @@
 ---
+title: "Fiorentina: Kean ancora a rischio, ma con la Lazio servono i punti della salvezza"
+slug: "fiorentina-kean-ancora-a-rischio-ma-con-la-lazio-servono-i-punti-della-salvezza"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Fiorentina: Kean ancora a rischio, ma con la Lazio servono i punti della salvezza"
+auto_generated: true
 ---
 
 # Fiorentina: Kean ancora a rischio, ma con la Lazio servono i punti della salvezza

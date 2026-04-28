@@ -1,4 +1,12 @@
 ---
+title: "Sinner-Alcaraz a Montecarlo: il duello per il numero uno mondiale"
+slug: "sinner-alcaraz-a-montecarlo-il-duello-per-il-numero-uno-mondiale"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Sinner-Alcaraz a Montecarlo: il duello per il numero uno mondiale"
+auto_generated: true
 ---
 
 # Sinner-Alcaraz a Montecarlo: il duello per il numero uno mondiale

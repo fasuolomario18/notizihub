@@ -1,4 +1,12 @@
 ---
+title: "Cosa Guardare su Netflix: Il Catalogo Aggiornato ad Aprile 2026"
+slug: "cosa-guardare-su-netflix-il-catalogo-aggiornato-ad-aprile-2026"
+date: "2026-04-09"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Cosa Guardare su Netflix: Il Catalogo Aggiornato ad Aprile 2026"
+auto_generated: true
 ---
 
 # Cosa Guardare su Netflix: Il Catalogo Aggiornato ad Aprile 2026

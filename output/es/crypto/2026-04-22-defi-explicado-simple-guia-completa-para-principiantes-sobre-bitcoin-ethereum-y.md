@@ -1,4 +1,12 @@
 ---
+title: "DeFi explicado simple: guía completa para principiantes sobre Bitcoin, Ethereum y finanzas descentralizadas"
+slug: "defi-explicado-simple-guia-completa-para-principiantes-sobre-bitcoin-ethereum-y-"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "es"
+meta_description: "DeFi explicado simple: guía completa para principiantes sobre Bitcoin, Ethereum y finanzas descentralizadas"
+auto_generated: true
 ---
 
 # DeFi explicado simple: guía completa para principiantes sobre Bitcoin, Ethereum y finanzas descentralizadas

@@ -1,4 +1,12 @@
 ---
+title: "Come Calcolare la Mia Pensione Futura: Guida Completa con l'INPS"
+slug: "come-calcolare-la-mia-pensione-futura-guida-completa-con-linps"
+date: "2026-04-23"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Come Calcolare la Mia Pensione Futura: Guida Completa con l'INPS"
+auto_generated: true
 ---
 
 # Come Calcolare la Mia Pensione Futura: Guida Completa con l'INPS

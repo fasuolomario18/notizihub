@@ -1,4 +1,12 @@
 ---
+title: "Drop in Immigrant Tax Filings May Cost Government Billions as IRS Shares Data with ICE"
+slug: "drop-in-immigrant-tax-filings-may-cost-government-billions-as-irs-shares-data-wi"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "en"
+meta_description: "Drop in Immigrant Tax Filings May Cost Government Billions as IRS Shares Data with ICE"
+auto_generated: true
 ---
 
 # Drop in Immigrant Tax Filings May Cost Government Billions as IRS Shares Data with ICE

@@ -1,4 +1,12 @@
 ---
+title: "Moda Primavera 2026: Vestirsi come a Versailles è la Tendenza del Momento"
+slug: "moda-primavera-2026-vestirsi-come-a-versailles-e-la-tendenza-del-momento"
+date: "2026-04-22"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "it"
+meta_description: "Moda Primavera 2026: Vestirsi come a Versailles è la Tendenza del Momento"
+auto_generated: true
 ---
 
 # Moda Primavera 2026: Vestirsi come a Versailles è la Tendenza del Momento

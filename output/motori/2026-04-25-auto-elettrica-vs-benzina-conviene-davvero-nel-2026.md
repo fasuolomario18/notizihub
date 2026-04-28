@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica vs Benzina: Conviene Davvero nel 2026"
+slug: "auto-elettrica-vs-benzina-conviene-davvero-nel-2026"
+date: "2026-04-25"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica vs Benzina: Conviene Davvero nel 2026"
+auto_generated: true
 ---
 
 # Auto Elettrica vs Benzina: Conviene Davvero nel 2026

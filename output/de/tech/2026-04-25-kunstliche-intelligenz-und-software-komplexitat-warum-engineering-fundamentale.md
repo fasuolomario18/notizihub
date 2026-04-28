@@ -1,4 +1,12 @@
 ---
+title: "ML-Engineering in Deutschland: Warum viele KI-Projekte scheitern und wie man es besser macht"
+slug: "ml-engineering-in-deutschland-warum-viele-ki-projekte-scheitern-und-wie-man-es-b"
+date: "2026-04-25"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "de"
+meta_description: "ML-Engineering in Deutschland: Warum viele KI-Projekte scheitern und wie man es besser macht"
+auto_generated: true
 ---
 
 # ML-Engineering in Deutschland: Warum viele KI-Projekte scheitern und wie man es besser macht

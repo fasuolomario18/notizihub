@@ -1,4 +1,12 @@
 ---
+title: "Natural Makeup: Essential Products to Get Started"
+slug: "natural-makeup-essential-products-to-get-started"
+date: "2026-04-23"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "en"
+meta_description: "Natural Makeup: Essential Products to Get Started"
+auto_generated: true
 ---
 
 # Natural Makeup: Essential Products to Get Started

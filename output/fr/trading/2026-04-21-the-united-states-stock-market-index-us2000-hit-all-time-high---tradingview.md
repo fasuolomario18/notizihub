@@ -1,4 +1,12 @@
 ---
+title: "L'indice boursier US2000 atteint un sommet historique : analyse du trading et opportunités d'investissement"
+slug: "lindice-boursier-us2000-atteint-un-sommet-historique-analyse-du-trading-et-oppor"
+date: "2026-04-21"
+nicchia: "trading"
+nicchia_nome: "Trading"
+lang: "fr"
+meta_description: "L'indice boursier US2000 atteint un sommet historique : analyse du trading et opportunités d'investissement"
+auto_generated: true
 ---
 
 # L'indice boursier US2000 atteint un sommet historique : analyse du trading et opportunités d'investissement

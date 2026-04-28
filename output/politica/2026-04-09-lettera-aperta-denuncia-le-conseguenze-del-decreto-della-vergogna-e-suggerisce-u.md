@@ -1,4 +1,12 @@
 ---
+title: "Governo italiano sotto pressione: la lettera aperta accusa il 'Decreto della Vergogna'"
+slug: "governo-italiano-sotto-pressione-la-lettera-aperta-accusa-il-decreto-della-vergo"
+date: "2026-04-09"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo italiano sotto pressione: la lettera aperta accusa il 'Decreto della Vergogna'"
+auto_generated: true
 ---
 
 # Governo italiano sotto pressione: la lettera aperta accusa il "Decreto della Vergogna"

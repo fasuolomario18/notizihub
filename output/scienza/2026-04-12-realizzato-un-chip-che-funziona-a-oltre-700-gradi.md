@@ -1,4 +1,12 @@
 ---
+title: "Chip Grafene Supera 700 Gradi: La Rivoluzione Tecnologica del 2026"
+slug: "chip-grafene-supera-700-gradi-la-rivoluzione-tecnologica-del-2026"
+date: "2026-04-12"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Chip Grafene Supera 700 Gradi: La Rivoluzione Tecnologica del 2026"
+auto_generated: true
 ---
 
 # Chip Grafene Supera 700 Gradi: La Rivoluzione Tecnologica del 2026

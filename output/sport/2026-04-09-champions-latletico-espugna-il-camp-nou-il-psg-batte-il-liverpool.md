@@ -1,4 +1,12 @@
 ---
+title: "Champions League 2026: Atletico e PSG domano gli avversari nei quarti di finale"
+slug: "champions-league-2026-atletico-e-psg-domano-gli-avversari-nei-quarti-di-finale"
+date: "2026-04-09"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Champions League 2026: Atletico e PSG domano gli avversari nei quarti di finale"
+auto_generated: true
 ---
 
 # Champions League 2026: Atletico e PSG domano gli avversari nei quarti di finale

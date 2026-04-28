@@ -1,4 +1,12 @@
 ---
+title: "Rezepte aus Fotos: Wie KI-Technologie das Kochen revolutioniert"
+slug: "rezepte-aus-fotos-wie-ki-technologie-das-kochen-revolutioniert"
+date: "2026-04-21"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "de"
+meta_description: "Rezepte aus Fotos: Wie KI-Technologie das Kochen revolutioniert"
+auto_generated: true
 ---
 
 # Rezepte aus Fotos: Wie KI-Technologie das Kochen revolutioniert

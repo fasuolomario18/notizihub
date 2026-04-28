@@ -1,4 +1,12 @@
 ---
+title: "DeFi Education Fund Pushes SEC for Clear Broker Guidance to Protect Crypto Innovation"
+slug: "defi-education-fund-pushes-sec-for-clear-broker-guidance-to-protect-crypto-innov"
+date: "2026-04-25"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "en"
+meta_description: "DeFi Education Fund Pushes SEC for Clear Broker Guidance to Protect Crypto Innovation"
+auto_generated: true
 ---
 
 # DeFi Education Fund Pushes SEC for Clear Broker Guidance to Protect Crypto Innovation

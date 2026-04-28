@@ -1,4 +1,12 @@
 ---
+title: "Die besten Netflix Filme und Serien, die du 2026 sehen musst"
+slug: "die-besten-netflix-filme-und-serien-die-du-2026-sehen-musst"
+date: "2026-04-22"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "de"
+meta_description: "Die besten Netflix Filme und Serien, die du 2026 sehen musst"
+auto_generated: true
 ---
 
 # Die besten Netflix Filme und Serien, die du 2026 sehen musst

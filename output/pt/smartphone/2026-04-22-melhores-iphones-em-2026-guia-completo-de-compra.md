@@ -1,4 +1,12 @@
 ---
+title: "Melhores iPhones em 2026: Guia Completo de Compra"
+slug: "melhores-iphones-em-2026-guia-completo-de-compra"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "pt"
+meta_description: "Melhores iPhones em 2026: Guia Completo de Compra"
+auto_generated: true
 ---
 
 # Melhores iPhones em 2026: Guia Completo de Compra

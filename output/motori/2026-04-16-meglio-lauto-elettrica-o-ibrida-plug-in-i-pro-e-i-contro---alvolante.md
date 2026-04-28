@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica o SUV Ibrido Plug-in: Come Scegliere nel 2026"
+slug: "auto-elettrica-o-suv-ibrido-plug-in-come-scegliere-nel-2026"
+date: "2026-04-16"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica o SUV Ibrido Plug-in: Come Scegliere nel 2026"
+auto_generated: true
 ---
 
 # Auto Elettrica o SUV Ibrido Plug-in: Come Scegliere nel 2026

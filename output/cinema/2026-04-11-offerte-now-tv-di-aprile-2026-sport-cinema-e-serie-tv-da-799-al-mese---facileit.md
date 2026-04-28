@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV su NOW TV ad Aprile 2026: Le Migliori Offerte da 7,99€ al Mese"
+slug: "film-e-serie-tv-su-now-tv-ad-aprile-2026-le-migliori-offerte-da-799-al-mese"
+date: "2026-04-11"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV su NOW TV ad Aprile 2026: Le Migliori Offerte da 7,99€ al Mese"
+auto_generated: true
 ---
 
 # Film e Serie TV su NOW TV ad Aprile 2026: Le Migliori Offerte da 7,99€ al Mese

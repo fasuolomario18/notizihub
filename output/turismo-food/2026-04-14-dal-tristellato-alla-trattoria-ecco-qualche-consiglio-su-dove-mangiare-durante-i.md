@@ -1,4 +1,12 @@
 ---
+title: "Dove Mangiare durante il Vinitaly 2026: dalla Stella Michelin alla Trattoria Autentica"
+slug: "dove-mangiare-durante-il-vinitaly-2026-dalla-stella-michelin-alla-trattoria-aute"
+date: "2026-04-14"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "Dove Mangiare durante il Vinitaly 2026: dalla Stella Michelin alla Trattoria Autentica"
+auto_generated: true
 ---
 
 # Dove Mangiare durante il Vinitaly 2026: dalla Stella Michelin alla Trattoria Autentica

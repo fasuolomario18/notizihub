@@ -1,4 +1,12 @@
 ---
+title: "Declining Religious Norms and Rising Youth Anxiety: What Psychology Reveals About Mental Health in Modern Society"
+slug: "declining-religious-norms-and-rising-youth-anxiety-what-psychology-reveals-about"
+date: "2026-04-21"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "en"
+meta_description: "Declining Religious Norms and Rising Youth Anxiety: What Psychology Reveals About Mental Health in Modern Society"
+auto_generated: true
 ---
 
 # Declining Religious Norms and Rising Youth Anxiety: What Psychology Reveals About Mental Health in Modern Society

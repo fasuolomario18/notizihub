@@ -1,4 +1,12 @@
 ---
+title: "Futuro Gravina: cosa può succedere nelle prossime ore in FIGC"
+slug: "futuro-gravina-cosa-puo-succedere-nelle-prossime-ore-in-figc"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Futuro Gravina: cosa può succedere nelle prossime ore in FIGC"
+auto_generated: true
 ---
 
 # Futuro Gravina: cosa può succedere nelle prossime ore in FIGC

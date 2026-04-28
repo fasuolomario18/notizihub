@@ -1,4 +1,12 @@
 ---
+title: "Detrações Fiscais 2026: Tudo Aquilo que Pode Descarregar no IR"
+slug: "detracoes-fiscais-2026-tudo-aquilo-que-pode-descarregar-no-ir"
+date: "2026-04-25"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "pt"
+meta_description: "Detrações Fiscais 2026: Tudo Aquilo que Pode Descarregar no IR"
+auto_generated: true
 ---
 
 # Detrações Fiscais 2026: Tudo Aquilo que Pode Descarregar no IR

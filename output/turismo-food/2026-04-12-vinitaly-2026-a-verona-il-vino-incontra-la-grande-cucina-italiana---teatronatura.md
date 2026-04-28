@@ -1,4 +1,12 @@
 ---
+title: "Vinitaly 2026: quando il vino incontra la grande cucina italiana a Verona"
+slug: "vinitaly-2026-quando-il-vino-incontra-la-grande-cucina-italiana-a-verona"
+date: "2026-04-12"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "Vinitaly 2026: quando il vino incontra la grande cucina italiana a Verona"
+auto_generated: true
 ---
 
 # Vinitaly 2026: quando il vino incontra la grande cucina italiana a Verona

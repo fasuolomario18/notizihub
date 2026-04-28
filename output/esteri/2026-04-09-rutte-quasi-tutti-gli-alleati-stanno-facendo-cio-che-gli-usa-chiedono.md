@@ -1,4 +1,12 @@
 ---
+title: "La pressione americana spinge l'Europa verso nuovi impegni militari nel 2026"
+slug: "la-pressione-americana-spinge-leuropa-verso-nuovi-impegni-militari-nel-2026"
+date: "2026-04-09"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "La pressione americana spinge l'Europa verso nuovi impegni militari nel 2026"
+auto_generated: true
 ---
 
 # La pressione americana spinge l'Europa verso nuovi impegni militari nel 2026

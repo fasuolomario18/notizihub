@@ -1,4 +1,12 @@
 ---
+title: "Inter: il piano recupero degli infortunati, Bastoni primo a rientrare"
+slug: "inter-il-piano-recupero-degli-infortunati-bastoni-primo-a-rientrare"
+date: "2026-04-06"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Inter: il piano recupero degli infortunati, Bastoni primo a rientrare"
+auto_generated: true
 ---
 
 # Inter: il piano recupero degli infortunati, Bastoni primo a rientrare

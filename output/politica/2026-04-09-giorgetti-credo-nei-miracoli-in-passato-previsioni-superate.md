@@ -1,4 +1,12 @@
 ---
+title: "Giorgetti e le prospettive economiche del governo nel 2026: cosa cambia per l'Italia"
+slug: "giorgetti-e-le-prospettive-economiche-del-governo-nel-2026-cosa-cambia-per-lital"
+date: "2026-04-09"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Giorgetti e le prospettive economiche del governo nel 2026: cosa cambia per l'Italia"
+auto_generated: true
 ---
 
 # Giorgetti e le prospettive economiche del governo nel 2026: cosa cambia per l'Italia

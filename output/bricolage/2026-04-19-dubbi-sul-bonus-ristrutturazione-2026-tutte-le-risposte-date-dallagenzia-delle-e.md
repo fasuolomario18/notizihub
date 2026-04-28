@@ -1,4 +1,12 @@
 ---
+title: "Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica"
+slug: "bonus-ristrutturazione-2026-guida-completa-al-fai-da-te-e-ai-lavori-di-idraulica"
+date: "2026-04-19"
+nicchia: "bricolage"
+nicchia_nome: "Bricolage"
+lang: "it"
+meta_description: "Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica"
+auto_generated: true
 ---
 
 # Bonus Ristrutturazione 2026: Guida Completa al Fai da Te e ai Lavori di Idraulica

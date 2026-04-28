@@ -1,4 +1,12 @@
 ---
+title: "Montella e il peso di Calhanoglu: come un'assenza cambia la Serie A nel 2026"
+slug: "montella-e-il-peso-di-calhanoglu-come-unassenza-cambia-la-serie-a-nel-2026"
+date: "2026-04-20"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Montella e il peso di Calhanoglu: come un'assenza cambia la Serie A nel 2026"
+auto_generated: true
 ---
 
 # Montella e il peso di Calhanoglu: come un'assenza cambia la Serie A nel 2026

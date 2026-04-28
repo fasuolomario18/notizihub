@@ -1,4 +1,12 @@
 ---
+title: "Combien d'eau boire au quotidien : la vérité sur cette recommandation santé"
+slug: "combien-deau-boire-au-quotidien-la-verite-sur-cette-recommandation-sante"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "fr"
+meta_description: "Combien d'eau boire au quotidien : la vérité sur cette recommandation santé"
+auto_generated: true
 ---
 
 # Combien d'eau boire au quotidien : la vérité sur cette recommandation santé

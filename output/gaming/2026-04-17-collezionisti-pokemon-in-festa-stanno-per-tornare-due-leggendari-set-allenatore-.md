@@ -1,4 +1,12 @@
 ---
+title: "Collezionisti Pokémon in festa: stanno per tornare due leggendari Set Allenatore Fuoriclasse"
+slug: "collezionisti-pokemon-in-festa-stanno-per-tornare-due-leggendari-set-allenatore-"
+date: "2026-04-17"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Collezionisti Pokémon in festa: stanno per tornare due leggendari Set Allenatore Fuoriclasse"
+auto_generated: true
 ---
 
 # Collezionisti Pokémon in festa: stanno per tornare due leggendari Set Allenatore Fuoriclasse

@@ -1,4 +1,12 @@
 ---
+title: "How to Choose the Right Personal Loan: A Complete Guide to Understanding Credit Score Impact"
+slug: "how-to-choose-the-right-personal-loan-a-complete-guide-to-understanding-credit-s"
+date: "2026-04-24"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "en"
+meta_description: "How to Choose the Right Personal Loan: A Complete Guide to Understanding Credit Score Impact"
+auto_generated: true
 ---
 
 # How to Choose the Right Personal Loan: A Complete Guide to Understanding Credit Score Impact

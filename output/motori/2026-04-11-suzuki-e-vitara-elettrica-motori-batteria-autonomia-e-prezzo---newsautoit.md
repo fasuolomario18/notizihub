@@ -1,4 +1,12 @@
 ---
+title: "Suzuki Vitara Elettrica 2026: Motori, Batteria, Autonomia e Prezzo Scontati"
+slug: "suzuki-vitara-elettrica-2026-motori-batteria-autonomia-e-prezzo-scontati"
+date: "2026-04-11"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Suzuki Vitara Elettrica 2026: Motori, Batteria, Autonomia e Prezzo Scontati"
+auto_generated: true
 ---
 
 # Suzuki Vitara Elettrica 2026: Motori, Batteria, Autonomia e Prezzo Scontati

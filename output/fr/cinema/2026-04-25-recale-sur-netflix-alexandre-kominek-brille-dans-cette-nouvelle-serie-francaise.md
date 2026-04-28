@@ -1,4 +1,12 @@
 ---
+title: "Recalé sur Netflix : Alexandre Kominek brille dans cette nouvelle série française à regarder absolument"
+slug: "recale-sur-netflix-alexandre-kominek-brille-dans-cette-nouvelle-serie-francaise-"
+date: "2026-04-25"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Recalé sur Netflix : Alexandre Kominek brille dans cette nouvelle série française à regarder absolument"
+auto_generated: true
 ---
 
 # Recalé sur Netflix : Alexandre Kominek brille dans cette nouvelle série française à regarder absolument

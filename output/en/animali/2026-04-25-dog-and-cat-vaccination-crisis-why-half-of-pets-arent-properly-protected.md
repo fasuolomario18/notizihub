@@ -1,4 +1,12 @@
 ---
+title: "Dog and Cat Vaccination Crisis: Why Half of Pets Aren't Properly Protected"
+slug: "dog-and-cat-vaccination-crisis-why-half-of-pets-arent-properly-protected"
+date: "2026-04-25"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "en"
+meta_description: "Dog and Cat Vaccination Crisis: Why Half of Pets Aren't Properly Protected"
+auto_generated: true
 ---
 
 # Dog and Cat Vaccination Crisis: Why Half of Pets Aren't Properly Protected

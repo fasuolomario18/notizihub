@@ -1,4 +1,12 @@
 ---
+title: "Comment faire la pasta fresca en casa : Guide complet des recettes traditionnelles"
+slug: "comment-faire-la-pasta-fresca-en-casa-guide-complet-des-recettes-traditionnelles"
+date: "2026-04-23"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "fr"
+meta_description: "Comment faire la pasta fresca en casa : Guide complet des recettes traditionnelles"
+auto_generated: true
 ---
 
 # Comment faire la pasta fresca en casa : Guide complet des recettes traditionnelles

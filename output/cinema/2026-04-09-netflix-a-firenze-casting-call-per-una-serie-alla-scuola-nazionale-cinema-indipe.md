@@ -1,4 +1,12 @@
 ---
+title: "Netflix Firenze: Casting Call per una Serie alla Scuola Nazionale Cinema Indipendente"
+slug: "netflix-firenze-casting-call-per-una-serie-alla-scuola-nazionale-cinema-indipend"
+date: "2026-04-09"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Netflix Firenze: Casting Call per una Serie alla Scuola Nazionale Cinema Indipendente"
+auto_generated: true
 ---
 
 # Netflix Firenze: Casting Call per una Serie alla Scuola Nazionale Cinema Indipendente

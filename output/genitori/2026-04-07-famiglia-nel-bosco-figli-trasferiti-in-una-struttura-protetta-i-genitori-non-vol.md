@@ -1,4 +1,12 @@
 ---
+title: "Educazione Figli: Quando l'Unschooling Diventa un Problema Legale"
+slug: "educazione-figli-quando-lunschooling-diventa-un-problema-legale"
+date: "2026-04-07"
+nicchia: "genitori"
+nicchia_nome: "Genitori"
+lang: "it"
+meta_description: "Educazione Figli: Quando l'Unschooling Diventa un Problema Legale"
+auto_generated: true
 ---
 
 # Educazione Figli: Quando l'Unschooling Diventa un Problema Legale

@@ -1,4 +1,12 @@
 ---
+title: "Via libera Ue a Mef e Retelit per l'acquisizione di Sparkle da Tim"
+slug: "via-libera-ue-a-mef-e-retelit-per-lacquisizione-di-sparkle-da-tim"
+date: "2026-04-11"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Via libera Ue a Mef e Retelit per l'acquisizione di Sparkle da Tim"
+auto_generated: true
 ---
 
 # Via libera Ue a Mef e Retelit per l'acquisizione di Sparkle da Tim

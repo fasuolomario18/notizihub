@@ -1,4 +1,12 @@
 ---
+title: "Pixel 10 e il Gaming Android: Come Google Sfida iPhone (e le Console)"
+slug: "pixel-10-e-il-gaming-android-come-google-sfida-iphone-e-le-console"
+date: "2026-04-07"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "Pixel 10 e il Gaming Android: Come Google Sfida iPhone (e le Console)"
+auto_generated: true
 ---
 
 # Pixel 10 e il Gaming Android: Come Google Sfida iPhone (e le Console)

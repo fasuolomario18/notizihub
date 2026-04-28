@@ -1,4 +1,12 @@
 ---
+title: "La guerra di Milei contro gli ambientalisti: il conflitto sulla riforma della legge sui ghiacciai dilaga in USA e Europa"
+slug: "la-guerra-di-milei-contro-gli-ambientalisti-il-conflitto-sulla-riforma-della-leg"
+date: "2026-04-09"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "La guerra di Milei contro gli ambientalisti: il conflitto sulla riforma della legge sui ghiacciai dilaga in USA e Europa"
+auto_generated: true
 ---
 
 # La guerra di Milei contro gli ambientalisti: il conflitto sulla riforma della legge sui ghiacciai dilaga in USA e Europa

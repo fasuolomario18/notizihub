@@ -1,4 +1,12 @@
 ---
+title: "Starfield alla Gamescom 2026: Il Nuovo Trailer Rivoluziona PS5, Xbox e PC Gaming"
+slug: "starfield-alla-gamescom-2026-il-nuovo-trailer-rivoluziona-ps5-xbox-e-pc-gaming"
+date: "2026-04-13"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Starfield alla Gamescom 2026: Il Nuovo Trailer Rivoluziona PS5, Xbox e PC Gaming"
+auto_generated: true
 ---
 
 # Starfield alla Gamescom 2026: Il Nuovo Trailer Rivoluziona PS5, Xbox e PC Gaming

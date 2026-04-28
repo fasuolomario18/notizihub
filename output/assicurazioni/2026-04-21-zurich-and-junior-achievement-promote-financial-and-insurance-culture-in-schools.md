@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e Cultura Finanziaria: Come Zurich Educa i Giovani nelle Scuole"
+slug: "assicurazione-auto-e-cultura-finanziaria-come-zurich-educa-i-giovani-nelle-scuol"
+date: "2026-04-21"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e Cultura Finanziaria: Come Zurich Educa i Giovani nelle Scuole"
+auto_generated: true
 ---
 
 # Assicurazione Auto e Cultura Finanziaria: Come Zurich Educa i Giovani nelle Scuole

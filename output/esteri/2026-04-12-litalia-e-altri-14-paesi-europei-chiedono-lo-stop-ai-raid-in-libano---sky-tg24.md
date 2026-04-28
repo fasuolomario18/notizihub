@@ -1,4 +1,12 @@
 ---
+title: "Crisi in Libano: l'Italia e 14 Paesi europei chiedono lo stop ai raid mentre la guerra si intensifica"
+slug: "crisi-in-libano-litalia-e-14-paesi-europei-chiedono-lo-stop-ai-raid-mentre-la-gu"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Crisi in Libano: l'Italia e 14 Paesi europei chiedono lo stop ai raid mentre la guerra si intensifica"
+auto_generated: true
 ---
 
 # Crisi in Libano: l'Italia e 14 Paesi europei chiedono lo stop ai raid mentre la guerra si intensifica

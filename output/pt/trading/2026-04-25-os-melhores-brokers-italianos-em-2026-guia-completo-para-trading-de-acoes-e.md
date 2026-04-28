@@ -1,4 +1,12 @@
 ---
+title: "Os Melhores Brokers Italianos em 2026: Guia Completo para Trading de Ações e Bolsa"
+slug: "os-melhores-brokers-italianos-em-2026-guia-completo-para-trading-de-acoes-e-bols"
+date: "2026-04-25"
+nicchia: "trading"
+nicchia_nome: "Trading"
+lang: "pt"
+meta_description: "Os Melhores Brokers Italianos em 2026: Guia Completo para Trading de Ações e Bolsa"
+auto_generated: true
 ---
 
 # Os Melhores Brokers Italianos em 2026: Guia Completo para Trading de Ações e Bolsa

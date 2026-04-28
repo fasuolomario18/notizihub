@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza artificiale e sovranismo digitale: quando l'idiozia tecnologica compromette il futuro"
+slug: "intelligenza-artificiale-e-sovranismo-digitale-quando-lidiozia-tecnologica-compr"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza artificiale e sovranismo digitale: quando l'idiozia tecnologica compromette il futuro"
+auto_generated: true
 ---
 
 # Intelligenza artificiale e sovranismo digitale: quando l'idiozia tecnologica compromette il futuro

@@ -1,4 +1,12 @@
 ---
+title: "Investire con la strategia All Weather di Ray Dalio: il nuovo servizio Vivid per le piccole imprese"
+slug: "investire-con-la-strategia-all-weather-di-ray-dalio-il-nuovo-servizio-vivid-per-"
+date: "2026-04-16"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Investire con la strategia All Weather di Ray Dalio: il nuovo servizio Vivid per le piccole imprese"
+auto_generated: true
 ---
 
 # Investire con la strategia All Weather di Ray Dalio: il nuovo servizio Vivid per le piccole imprese

@@ -1,4 +1,12 @@
 ---
+title: "Doppi Turni e Stress: Come la Salute dei Lavoratori Impatta sulla Sicurezza dei Pazienti"
+slug: "doppi-turni-e-stress-come-la-salute-dei-lavoratori-impatta-sulla-sicurezza-dei-p"
+date: "2026-04-11"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Doppi Turni e Stress: Come la Salute dei Lavoratori Impatta sulla Sicurezza dei Pazienti"
+auto_generated: true
 ---
 
 # Doppi Turni e Stress: Come la Salute dei Lavoratori Impatta sulla Sicurezza dei Pazienti

@@ -1,4 +1,12 @@
 ---
+title: "Resident Evil Requiem su PS5, Xbox e PC Gaming: il nuovo capolavoro horror di Capcom"
+slug: "resident-evil-requiem-su-ps5-xbox-e-pc-gaming-il-nuovo-capolavoro-horror-di-capc"
+date: "2026-04-21"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Resident Evil Requiem su PS5, Xbox e PC Gaming: il nuovo capolavoro horror di Capcom"
+auto_generated: true
 ---
 
 # Resident Evil Requiem su PS5, Xbox e PC Gaming: il nuovo capolavoro horror di Capcom

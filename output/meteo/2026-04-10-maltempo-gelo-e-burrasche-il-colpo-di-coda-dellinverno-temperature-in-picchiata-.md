@@ -1,4 +1,12 @@
 ---
+title: "Maltempo Aprile 2026: Gelo e Burrasche, il Colpo di Coda dell'Inverno sulle Previsioni Meteo"
+slug: "maltempo-aprile-2026-gelo-e-burrasche-il-colpo-di-coda-dellinverno-sulle-previsi"
+date: "2026-04-10"
+nicchia: "meteo"
+nicchia_nome: "Meteo"
+lang: "it"
+meta_description: "Maltempo Aprile 2026: Gelo e Burrasche, il Colpo di Coda dell'Inverno sulle Previsioni Meteo"
+auto_generated: true
 ---
 
 # Maltempo Aprile 2026: Gelo e Burrasche, il Colpo di Coda dell'Inverno sulle Previsioni Meteo

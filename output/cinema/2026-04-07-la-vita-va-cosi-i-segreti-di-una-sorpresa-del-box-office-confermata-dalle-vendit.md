@@ -1,4 +1,12 @@
 ---
+title: "Film e Serie TV: 'La vita va così' conquista anche l'home video dopo il successo al box-office"
+slug: "film-e-serie-tv-la-vita-va-cosi-conquista-anche-lhome-video-dopo-il-successo-al-"
+date: "2026-04-07"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Film e Serie TV: 'La vita va così' conquista anche l'home video dopo il successo al box-office"
+auto_generated: true
 ---
 
 # Film e Serie TV: "La vita va così" conquista anche l'home video dopo il successo al box-office

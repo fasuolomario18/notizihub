@@ -1,4 +1,12 @@
 ---
+title: "Como Pedir um Aumento de Salário: Guia Completo para Profissionais"
+slug: "como-pedir-um-aumento-de-salario-guia-completo-para-profissionais"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "pt"
+meta_description: "Como Pedir um Aumento de Salário: Guia Completo para Profissionais"
+auto_generated: true
 ---
 
 # Como Pedir um Aumento de Salário: Guia Completo para Profissionais

@@ -1,4 +1,12 @@
 ---
+title: "La sfida dell'Iran a Trump sul nucleare: conflitto globale e tensioni tra USA e Europa nel 2026"
+slug: "la-sfida-delliran-a-trump-sul-nucleare-conflitto-globale-e-tensioni-tra-usa-e-eu"
+date: "2026-04-19"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "La sfida dell'Iran a Trump sul nucleare: conflitto globale e tensioni tra USA e Europa nel 2026"
+auto_generated: true
 ---
 
 # La sfida dell'Iran a Trump sul nucleare: conflitto globale e tensioni tra USA e Europa nel 2026

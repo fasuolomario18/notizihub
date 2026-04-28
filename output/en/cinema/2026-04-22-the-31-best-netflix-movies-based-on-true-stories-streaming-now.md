@@ -1,4 +1,12 @@
 ---
+title: "The 31 Best Netflix Movies Based on True Stories Streaming Now"
+slug: "the-31-best-netflix-movies-based-on-true-stories-streaming-now"
+date: "2026-04-22"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "en"
+meta_description: "The 31 Best Netflix Movies Based on True Stories Streaming Now"
+auto_generated: true
 ---
 
 # The 31 Best Netflix Movies Based on True Stories Streaming Now

@@ -1,4 +1,12 @@
 ---
+title: "Sciopero dei giornalisti oggi per il rinnovo del contratto nazionale"
+slug: "sciopero-dei-giornalisti-oggi-per-il-rinnovo-del-contratto-nazionale"
+date: "2026-04-17"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Sciopero dei giornalisti oggi per il rinnovo del contratto nazionale"
+auto_generated: true
 ---
 
 # Sciopero dei giornalisti oggi per il rinnovo del contratto nazionale

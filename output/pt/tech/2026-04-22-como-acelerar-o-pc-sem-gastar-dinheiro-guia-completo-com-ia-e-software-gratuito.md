@@ -1,4 +1,12 @@
 ---
+title: "Como Acelerar o PC Sem Gastar Dinheiro: Guia Completo com IA e Software Gratuito"
+slug: "como-acelerar-o-pc-sem-gastar-dinheiro-guia-completo-com-ia-e-software-gratuito"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "pt"
+meta_description: "Como Acelerar o PC Sem Gastar Dinheiro: Guia Completo com IA e Software Gratuito"
+auto_generated: true
 ---
 
 # Como Acelerar o PC Sem Gastar Dinheiro: Guia Completo com IA e Software Gratuito

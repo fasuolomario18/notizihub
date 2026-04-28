@@ -1,4 +1,12 @@
 ---
+title: "Xbox Game Pass 2026: I Titoli Più Attesi Inclusi Nell'Abbonamento"
+slug: "xbox-game-pass-2026-i-titoli-piu-attesi-inclusi-nellabbonamento"
+date: "2026-04-08"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Xbox Game Pass 2026: I Titoli Più Attesi Inclusi Nell'Abbonamento"
+auto_generated: true
 ---
 
 # Xbox Game Pass 2026: I Titoli Più Attesi Inclusi Nell'Abbonamento

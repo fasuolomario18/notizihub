@@ -1,4 +1,12 @@
 ---
+title: "Truffe agli anziani nel Biellese: due arresti dopo inseguimento spettacolare"
+slug: "truffe-agli-anziani-nel-biellese-due-arresti-dopo-inseguimento-spettacolare"
+date: "2026-04-19"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Truffe agli anziani nel Biellese: due arresti dopo inseguimento spettacolare"
+auto_generated: true
 ---
 
 # Truffe agli anziani nel Biellese: due arresti dopo inseguimento spettacolare

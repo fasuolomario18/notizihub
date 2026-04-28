@@ -1,4 +1,12 @@
 ---
+title: "How to Protect Your Smartphone From Hackers"
+slug: "how-to-protect-your-smartphone-from-hackers"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "en"
+meta_description: "How to Protect Your Smartphone From Hackers"
+auto_generated: true
 ---
 
 # How to Protect Your Smartphone From Hackers

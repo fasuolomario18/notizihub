@@ -1,4 +1,12 @@
 ---
+title: "Gatti Obesi e Pericoli Domestici: Come Proteggere il Tuo Animale nel 2026"
+slug: "gatti-obesi-e-pericoli-domestici-come-proteggere-il-tuo-animale-nel-2026"
+date: "2026-04-08"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Gatti Obesi e Pericoli Domestici: Come Proteggere il Tuo Animale nel 2026"
+auto_generated: true
 ---
 
 # Gatti Obesi e Pericoli Domestici: Come Proteggere il Tuo Animale nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Custo Mensal de um Gato: O Que Saber Antes de Adotar"
+slug: "custo-mensal-de-um-gato-o-que-saber-antes-de-adotar"
+date: "2026-04-23"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "pt"
+meta_description: "Custo Mensal de um Gato: O Que Saber Antes de Adotar"
+auto_generated: true
 ---
 
 # Custo Mensal de um Gato: O Que Saber Antes de Adotar

@@ -1,4 +1,12 @@
 ---
+title: "Bolletta luce: come trovare la tariffa energia più conveniente"
+slug: "bolletta-luce-come-trovare-la-tariffa-energia-piu-conveniente"
+date: "2026-04-24"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Bolletta luce: come trovare la tariffa energia più conveniente"
+auto_generated: true
 ---
 
 # Bolletta luce: come trovare la tariffa energia più conveniente

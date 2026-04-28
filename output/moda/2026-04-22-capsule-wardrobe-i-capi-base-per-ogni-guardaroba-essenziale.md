@@ -1,4 +1,12 @@
 ---
+title: "Capsule Wardrobe: i Capi Base per Ogni Guardaroba Essenziale"
+slug: "capsule-wardrobe-i-capi-base-per-ogni-guardaroba-essenziale"
+date: "2026-04-22"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "it"
+meta_description: "Capsule Wardrobe: i Capi Base per Ogni Guardaroba Essenziale"
+auto_generated: true
 ---
 
 # Capsule Wardrobe: i Capi Base per Ogni Guardaroba Essenziale

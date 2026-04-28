@@ -1,4 +1,12 @@
 ---
+title: "L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici"
+slug: "lintelligenza-artificiale-trasforma-lesercito-italiano-tra-tecnologia-e-valori-e"
+date: "2026-04-12"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici"
+auto_generated: true
 ---
 
 # L'Intelligenza Artificiale Trasforma l'Esercito Italiano: Tra Tecnologia e Valori Etici

@@ -1,4 +1,12 @@
 ---
+title: "Android-Fan wechselt nach 15 Jahren zum iPhone: Ein ehrlicher Bericht über die Umstiegshürden"
+slug: "android-fan-wechselt-nach-15-jahren-zum-iphone-ein-ehrlicher-bericht-uber-die-um"
+date: "2026-04-24"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "de"
+meta_description: "Android-Fan wechselt nach 15 Jahren zum iPhone: Ein ehrlicher Bericht über die Umstiegshürden"
+auto_generated: true
 ---
 
 # Android-Fan wechselt nach 15 Jahren zum iPhone: Ein ehrlicher Bericht über die Umstiegshürden

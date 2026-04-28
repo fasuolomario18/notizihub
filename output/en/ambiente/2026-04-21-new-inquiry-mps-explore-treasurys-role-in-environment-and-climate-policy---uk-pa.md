@@ -1,4 +1,12 @@
 ---
+title: "MPs Launch Parliamentary Inquiry Into Treasury's Role in Environment and Climate Policy"
+slug: "mps-launch-parliamentary-inquiry-into-treasurys-role-in-environment-and-climate-"
+date: "2026-04-21"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "en"
+meta_description: "MPs Launch Parliamentary Inquiry Into Treasury's Role in Environment and Climate Policy"
+auto_generated: true
 ---
 
 # MPs Launch Parliamentary Inquiry Into Treasury's Role in Environment and Climate Policy

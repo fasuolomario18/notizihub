@@ -1,4 +1,12 @@
 ---
+title: "Armatori siciliani, verso blocco dello Stretto di Messina il 1 maggio"
+slug: "armatori-siciliani-verso-blocco-dello-stretto-di-messina-il-1-maggio"
+date: "2026-04-20"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Armatori siciliani, verso blocco dello Stretto di Messina il 1 maggio"
+auto_generated: true
 ---
 
 # Armatori siciliani, verso blocco dello Stretto di Messina il 1 maggio

@@ -1,4 +1,12 @@
 ---
+title: "Marte rivela i suoi segreti: la scoperta delle ceneri vulcaniche in Utopia Planitia"
+slug: "marte-rivela-i-suoi-segreti-la-scoperta-delle-ceneri-vulcaniche-in-utopia-planit"
+date: "2026-04-17"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Marte rivela i suoi segreti: la scoperta delle ceneri vulcaniche in Utopia Planitia"
+auto_generated: true
 ---
 
 # Marte rivela i suoi segreti: la scoperta delle ceneri vulcaniche in Utopia Planitia

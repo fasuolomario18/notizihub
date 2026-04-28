@@ -1,4 +1,12 @@
 ---
+title: "Startup Weekend: Como Jovens Empreendedores Transformam Ideias em Negócios Reais"
+slug: "startup-weekend-como-jovens-empreendedores-transformam-ideias-em-negocios-reais"
+date: "2026-04-21"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "pt"
+meta_description: "Startup Weekend: Como Jovens Empreendedores Transformam Ideias em Negócios Reais"
+auto_generated: true
 ---
 
 # Startup Weekend: Como Jovens Empreendedores Transformam Ideias em Negócios Reais

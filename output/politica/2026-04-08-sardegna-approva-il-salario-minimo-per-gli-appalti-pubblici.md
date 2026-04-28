@@ -1,4 +1,12 @@
 ---
+title: "Sardegna approva il salario minimo per gli appalti pubblici: una battaglia politica che infiamma il dibattito nazionale"
+slug: "sardegna-approva-il-salario-minimo-per-gli-appalti-pubblici-una-battaglia-politi"
+date: "2026-04-08"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Sardegna approva il salario minimo per gli appalti pubblici: una battaglia politica che infiamma il dibattito nazionale"
+auto_generated: true
 ---
 
 # Sardegna approva il salario minimo per gli appalti pubblici: una battaglia politica che infiamma il dibattito nazionale

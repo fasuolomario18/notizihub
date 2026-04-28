@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica e SUV: Analisi del Calo Vendite Volvo nel Q1 2026 e il Ruolo degli Incentivi"
+slug: "auto-elettrica-e-suv-analisi-del-calo-vendite-volvo-nel-q1-2026-e-il-ruolo-degli"
+date: "2026-04-09"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica e SUV: Analisi del Calo Vendite Volvo nel Q1 2026 e il Ruolo degli Incentivi"
+auto_generated: true
 ---
 
 # Auto Elettrica e SUV: Analisi del Calo Vendite Volvo nel Q1 2026 e il Ruolo degli Incentivi

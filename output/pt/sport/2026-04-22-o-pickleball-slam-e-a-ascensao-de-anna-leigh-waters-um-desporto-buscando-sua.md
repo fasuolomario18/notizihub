@@ -1,4 +1,12 @@
 ---
+title: "O Pickleball Slam e a Ascensão de Anna Leigh Waters: Um Desporto Buscando Sua Própria Identidade"
+slug: "o-pickleball-slam-e-a-ascensao-de-anna-leigh-waters-um-desporto-buscando-sua-pro"
+date: "2026-04-22"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "pt"
+meta_description: "O Pickleball Slam e a Ascensão de Anna Leigh Waters: Um Desporto Buscando Sua Própria Identidade"
+auto_generated: true
 ---
 
 # O Pickleball Slam e a Ascensão de Anna Leigh Waters: Um Desporto Buscando Sua Própria Identidade

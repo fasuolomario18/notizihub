@@ -1,4 +1,12 @@
 ---
+title: "La crisi abitativa italiana nel 2026: quando la casa diventa un lusso"
+slug: "la-crisi-abitativa-italiana-nel-2026-quando-la-casa-diventa-un-lusso"
+date: "2026-04-10"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "La crisi abitativa italiana nel 2026: quando la casa diventa un lusso"
+auto_generated: true
 ---
 
 # La crisi abitativa italiana nel 2026: quando la casa diventa un lusso

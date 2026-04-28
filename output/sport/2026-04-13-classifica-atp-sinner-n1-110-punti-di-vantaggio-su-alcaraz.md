@@ -1,4 +1,12 @@
 ---
+title: "Classifica ATP 2026: Sinner domina con 110 punti di vantaggio su Alcaraz"
+slug: "classifica-atp-2026-sinner-domina-con-110-punti-di-vantaggio-su-alcaraz"
+date: "2026-04-13"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Classifica ATP 2026: Sinner domina con 110 punti di vantaggio su Alcaraz"
+auto_generated: true
 ---
 
 # Classifica ATP 2026: Sinner domina con 110 punti di vantaggio su Alcaraz

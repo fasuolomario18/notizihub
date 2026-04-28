@@ -1,4 +1,12 @@
 ---
+title: "How to Switch from iPhone to Android (and Android to iPhone) Without Losing Data"
+slug: "how-to-switch-from-iphone-to-android-and-android-to-iphone-without-losing-data"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "en"
+meta_description: "How to Switch from iPhone to Android (and Android to iPhone) Without Losing Data"
+auto_generated: true
 ---
 
 # How to Switch from iPhone to Android (and Android to iPhone) Without Losing Data

@@ -1,4 +1,12 @@
 ---
+title: "Cómo Ahorrar Energía en Casa: Guía Práctica para Combatir el Cambio Climático"
+slug: "como-ahorrar-energia-en-casa-guia-practica-para-combatir-el-cambio-climatico"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "es"
+meta_description: "Cómo Ahorrar Energía en Casa: Guía Práctica para Combatir el Cambio Climático"
+auto_generated: true
 ---
 
 # Cómo Ahorrar Energía en Casa: Guía Práctica para Combatir el Cambio Climático

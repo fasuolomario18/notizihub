@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum e DeFi: Protegendo os Construtores da Infraestrutura Descentralizada"
+slug: "bitcoin-ethereum-e-defi-protegendo-os-construtores-da-infraestrutura-descentrali"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "pt"
+meta_description: "Bitcoin, Ethereum e DeFi: Protegendo os Construtores da Infraestrutura Descentralizada"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum e DeFi: Protegendo os Construtores da Infraestrutura Descentralizada

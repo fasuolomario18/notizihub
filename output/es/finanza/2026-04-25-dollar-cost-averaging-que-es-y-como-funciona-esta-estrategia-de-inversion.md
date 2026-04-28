@@ -1,4 +1,12 @@
 ---
+title: "Dollar Cost Averaging: Qué es y cómo funciona esta estrategia de inversión"
+slug: "dollar-cost-averaging-que-es-y-como-funciona-esta-estrategia-de-inversion"
+date: "2026-04-25"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "es"
+meta_description: "Dollar Cost Averaging: Qué es y cómo funciona esta estrategia de inversión"
+auto_generated: true
 ---
 
 # Dollar Cost Averaging: Qué es y cómo funciona esta estrategia de inversión

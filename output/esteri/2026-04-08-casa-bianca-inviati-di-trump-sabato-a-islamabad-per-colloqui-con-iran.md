@@ -1,4 +1,12 @@
 ---
+title: "USA verso la diplomazia: Trump invia delegazione a Islamabad per negoziati con l'Iran"
+slug: "usa-verso-la-diplomazia-trump-invia-delegazione-a-islamabad-per-negoziati-con-li"
+date: "2026-04-08"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "USA verso la diplomazia: Trump invia delegazione a Islamabad per negoziati con l'Iran"
+auto_generated: true
 ---
 
 # USA verso la diplomazia: Trump invia delegazione a Islamabad per negoziati con l'Iran

@@ -1,4 +1,12 @@
 ---
+title: "Cómo elegir una Smart TV en 2026: Guía completa para cine y series"
+slug: "como-elegir-una-smart-tv-en-2026-guia-completa-para-cine-y-series"
+date: "2026-04-25"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "es"
+meta_description: "Cómo elegir una Smart TV en 2026: Guía completa para cine y series"
+auto_generated: true
 ---
 
 # Cómo elegir una Smart TV en 2026: Guía completa para cine y series

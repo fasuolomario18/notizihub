@@ -1,4 +1,12 @@
 ---
+title: "Petrolio Oltre 100 Dollari: Come i Rincari Energetici Impattano su Mutuo, Affitto e Bonus Ristrutturazione nel 2026"
+slug: "petrolio-oltre-100-dollari-come-i-rincari-energetici-impattano-su-mutuo-affitto-"
+date: "2026-04-09"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Petrolio Oltre 100 Dollari: Come i Rincari Energetici Impattano su Mutuo, Affitto e Bonus Ristrutturazione nel 2026"
+auto_generated: true
 ---
 
 # Petrolio Oltre 100 Dollari: Come i Rincari Energetici Impattano su Mutuo, Affitto e Bonus Ristrutturazione nel 2026

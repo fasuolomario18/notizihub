@@ -1,4 +1,12 @@
 ---
+title: "Sarah Toscano debutta nel cinema con 'Non abbiam bisogno di parole' su Netflix: l'intervista esclusiva"
+slug: "sarah-toscano-debutta-nel-cinema-con-non-abbiam-bisogno-di-parole-su-netflix-lin"
+date: "2026-04-09"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Sarah Toscano debutta nel cinema con 'Non abbiam bisogno di parole' su Netflix: l'intervista esclusiva"
+auto_generated: true
 ---
 
 # Sarah Toscano debutta nel cinema con "Non abbiam bisogno di parole" su Netflix: l'intervista esclusiva

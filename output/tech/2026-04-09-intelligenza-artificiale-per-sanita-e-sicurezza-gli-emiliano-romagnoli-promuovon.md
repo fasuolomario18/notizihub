@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale per sanità e sicurezza: l'Emilia-Romagna accelera con il controllo pubblico"
+slug: "intelligenza-artificiale-per-sanita-e-sicurezza-lemilia-romagna-accelera-con-il-"
+date: "2026-04-09"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale per sanità e sicurezza: l'Emilia-Romagna accelera con il controllo pubblico"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale per sanità e sicurezza: l'Emilia-Romagna accelera con il controllo pubblico

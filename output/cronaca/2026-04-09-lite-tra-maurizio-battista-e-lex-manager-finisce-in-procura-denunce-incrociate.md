@@ -1,4 +1,12 @@
 ---
+title: "Lite tra Maurizio Battista e l'ex manager: denunce incrociate in Procura"
+slug: "lite-tra-maurizio-battista-e-lex-manager-denunce-incrociate-in-procura"
+date: "2026-04-09"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Lite tra Maurizio Battista e l'ex manager: denunce incrociate in Procura"
+auto_generated: true
 ---
 
 # Lite tra Maurizio Battista e l'ex manager: denunce incrociate in Procura

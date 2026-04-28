@@ -1,4 +1,12 @@
 ---
+title: "Governo e Elezioni: Conte Riunisce il Campo Largo, le Primarie Non Saranno Divisive"
+slug: "governo-e-elezioni-conte-riunisce-il-campo-largo-le-primarie-non-saranno-divisiv"
+date: "2026-04-16"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Elezioni: Conte Riunisce il Campo Largo, le Primarie Non Saranno Divisive"
+auto_generated: true
 ---
 
 # Governo e Elezioni: Conte Riunisce il Campo Largo, le Primarie Non Saranno Divisive

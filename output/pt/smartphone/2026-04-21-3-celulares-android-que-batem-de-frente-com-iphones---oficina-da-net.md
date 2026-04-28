@@ -1,4 +1,12 @@
 ---
+title: "3 Celulares Android que Batem de Frente com iPhones"
+slug: "3-celulares-android-que-batem-de-frente-com-iphones"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "pt"
+meta_description: "3 Celulares Android que Batem de Frente com iPhones"
+auto_generated: true
 ---
 
 # 3 Celulares Android que Batem de Frente com iPhones

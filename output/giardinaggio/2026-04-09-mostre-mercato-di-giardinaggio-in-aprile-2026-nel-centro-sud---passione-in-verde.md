@@ -1,4 +1,12 @@
 ---
+title: "Mostre Mercato di Giardinaggio in Aprile 2026: la Passione per le Piante Sboccia nel Centro-Sud"
+slug: "mostre-mercato-di-giardinaggio-in-aprile-2026-la-passione-per-le-piante-sboccia-"
+date: "2026-04-09"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "Mostre Mercato di Giardinaggio in Aprile 2026: la Passione per le Piante Sboccia nel Centro-Sud"
+auto_generated: true
 ---
 
 # Mostre Mercato di Giardinaggio in Aprile 2026: la Passione per le Piante Sboccia nel Centro-Sud

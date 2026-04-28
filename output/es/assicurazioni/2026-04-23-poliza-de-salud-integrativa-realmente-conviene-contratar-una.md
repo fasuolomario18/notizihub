@@ -1,4 +1,12 @@
 ---
+title: "Póliza de Salud Integrativa: ¿Realmente Conviene Contratar una?"
+slug: "poliza-de-salud-integrativa-realmente-conviene-contratar-una"
+date: "2026-04-23"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "es"
+meta_description: "Póliza de Salud Integrativa: ¿Realmente Conviene Contratar una?"
+auto_generated: true
 ---
 
 # Póliza de Salud Integrativa: ¿Realmente Conviene Contratar una?

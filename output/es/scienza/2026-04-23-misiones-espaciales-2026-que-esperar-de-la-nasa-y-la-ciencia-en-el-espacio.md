@@ -1,4 +1,12 @@
 ---
+title: "Misiones Espaciales 2026: Qué Esperar de la NASA y la Ciencia en el Espacio"
+slug: "misiones-espaciales-2026-que-esperar-de-la-nasa-y-la-ciencia-en-el-espacio"
+date: "2026-04-23"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "es"
+meta_description: "Misiones Espaciales 2026: Qué Esperar de la NASA y la Ciencia en el Espacio"
+auto_generated: true
 ---
 
 # Misiones Espaciales 2026: Qué Esperar de la NASA y la Ciencia en el Espacio

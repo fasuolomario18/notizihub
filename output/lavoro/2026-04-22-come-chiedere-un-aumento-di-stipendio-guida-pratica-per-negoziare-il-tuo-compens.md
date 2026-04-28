@@ -1,4 +1,12 @@
 ---
+title: "Come chiedere un aumento di stipendio: Guida pratica per negoziare il tuo compenso"
+slug: "come-chiedere-un-aumento-di-stipendio-guida-pratica-per-negoziare-il-tuo-compens"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Come chiedere un aumento di stipendio: Guida pratica per negoziare il tuo compenso"
+auto_generated: true
 ---
 
 # Come chiedere un aumento di stipendio: Guida pratica per negoziare il tuo compenso

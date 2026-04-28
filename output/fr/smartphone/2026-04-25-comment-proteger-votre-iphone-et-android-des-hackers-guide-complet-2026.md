@@ -1,4 +1,12 @@
 ---
+title: "Comment protéger votre iPhone et Android des hackers : Guide complet 2026"
+slug: "comment-proteger-votre-iphone-et-android-des-hackers-guide-complet-2026"
+date: "2026-04-25"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "Comment protéger votre iPhone et Android des hackers : Guide complet 2026"
+auto_generated: true
 ---
 
 # Comment protéger votre iPhone et Android des hackers : Guide complet 2026

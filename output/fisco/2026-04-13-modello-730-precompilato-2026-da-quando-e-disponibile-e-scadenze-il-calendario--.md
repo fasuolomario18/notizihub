@@ -1,4 +1,12 @@
 ---
+title: "Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale"
+slug: "modello-730-precompilato-2026-disponibilita-scadenze-e-calendario-fiscale"
+date: "2026-04-13"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "it"
+meta_description: "Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale"
+auto_generated: true
 ---
 
 # Modello 730 precompilato 2026: disponibilità, scadenze e calendario fiscale

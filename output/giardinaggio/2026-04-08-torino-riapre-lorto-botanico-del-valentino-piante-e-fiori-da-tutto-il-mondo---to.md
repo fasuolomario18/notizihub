@@ -1,4 +1,12 @@
 ---
+title: "L'Orto Botanico del Valentino di Torino riapre: un giardino straordinario con piante e fiori da tutto il mondo"
+slug: "lorto-botanico-del-valentino-di-torino-riapre-un-giardino-straordinario-con-pian"
+date: "2026-04-08"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "L'Orto Botanico del Valentino di Torino riapre: un giardino straordinario con piante e fiori da tutto il mondo"
+auto_generated: true
 ---
 
 # L'Orto Botanico del Valentino di Torino riapre: un giardino straordinario con piante e fiori da tutto il mondo

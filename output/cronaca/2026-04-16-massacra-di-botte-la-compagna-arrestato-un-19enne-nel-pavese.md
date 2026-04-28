@@ -1,4 +1,12 @@
 ---
+title: "Violenza in casa nel Pavese: Arrestato 19enne per Aggressione alla Compagna"
+slug: "violenza-in-casa-nel-pavese-arrestato-19enne-per-aggressione-alla-compagna"
+date: "2026-04-16"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Violenza in casa nel Pavese: Arrestato 19enne per Aggressione alla Compagna"
+auto_generated: true
 ---
 
 # Violenza in casa nel Pavese: Arrestato 19enne per Aggressione alla Compagna

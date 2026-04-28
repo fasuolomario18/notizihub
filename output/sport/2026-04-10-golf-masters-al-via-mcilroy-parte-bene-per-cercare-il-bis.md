@@ -1,4 +1,12 @@
 ---
+title: "Masters 2026: McIlroy insegue il bis ad Augusta, sfida tra campioni nel primo major della stagione"
+slug: "masters-2026-mcilroy-insegue-il-bis-ad-augusta-sfida-tra-campioni-nel-primo-majo"
+date: "2026-04-10"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Masters 2026: McIlroy insegue il bis ad Augusta, sfida tra campioni nel primo major della stagione"
+auto_generated: true
 ---
 
 # Masters 2026: McIlroy insegue il bis ad Augusta, sfida tra campioni nel primo major della stagione

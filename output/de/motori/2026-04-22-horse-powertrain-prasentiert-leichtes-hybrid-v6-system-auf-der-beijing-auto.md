@@ -1,4 +1,12 @@
 ---
+title: "Horse Powertrain präsentiert leichtes Hybrid-V6-System auf der Beijing Auto Show 2026 – Die Zukunft der Antriebstechnologie"
+slug: "horse-powertrain-prasentiert-leichtes-hybrid-v6-system-auf-der-beijing-auto-show"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "de"
+meta_description: "Horse Powertrain präsentiert leichtes Hybrid-V6-System auf der Beijing Auto Show 2026 – Die Zukunft der Antriebstechnologie"
+auto_generated: true
 ---
 
 # Horse Powertrain präsentiert leichtes Hybrid-V6-System auf der Beijing Auto Show 2026 – Die Zukunft der Antriebstechnologie

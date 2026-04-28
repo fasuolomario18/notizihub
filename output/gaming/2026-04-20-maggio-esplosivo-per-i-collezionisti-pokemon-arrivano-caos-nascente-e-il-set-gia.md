@@ -1,4 +1,12 @@
 ---
+title: "Maggio esplosivo per i collezionisti Pokémon: arrivano Caos Nascente e il set giapponese di Darkrai"
+slug: "maggio-esplosivo-per-i-collezionisti-pokemon-arrivano-caos-nascente-e-il-set-gia"
+date: "2026-04-20"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Maggio esplosivo per i collezionisti Pokémon: arrivano Caos Nascente e il set giapponese di Darkrai"
+auto_generated: true
 ---
 
 # Maggio esplosivo per i collezionisti Pokémon: arrivano Caos Nascente e il set giapponese di Darkrai

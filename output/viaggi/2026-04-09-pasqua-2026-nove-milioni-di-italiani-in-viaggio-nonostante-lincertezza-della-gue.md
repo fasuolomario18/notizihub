@@ -1,4 +1,12 @@
 ---
+title: "Pasqua 2026: Nove Milioni di Italiani in Viaggio Nonostante le Incertezze Globali"
+slug: "pasqua-2026-nove-milioni-di-italiani-in-viaggio-nonostante-le-incertezze-globali"
+date: "2026-04-09"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Pasqua 2026: Nove Milioni di Italiani in Viaggio Nonostante le Incertezze Globali"
+auto_generated: true
 ---
 
 # Pasqua 2026: Nove Milioni di Italiani in Viaggio Nonostante le Incertezze Globali

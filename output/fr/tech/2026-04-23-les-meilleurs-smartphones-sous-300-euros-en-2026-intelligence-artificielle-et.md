@@ -1,4 +1,12 @@
 ---
+title: "Les Meilleurs Smartphones Sous 300 Euros en 2026 : Intelligence Artificielle et Performances"
+slug: "les-meilleurs-smartphones-sous-300-euros-en-2026-intelligence-artificielle-et-pe"
+date: "2026-04-23"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "fr"
+meta_description: "Les Meilleurs Smartphones Sous 300 Euros en 2026 : Intelligence Artificielle et Performances"
+auto_generated: true
 ---
 
 # Les Meilleurs Smartphones Sous 300 Euros en 2026 : Intelligence Artificielle et Performances

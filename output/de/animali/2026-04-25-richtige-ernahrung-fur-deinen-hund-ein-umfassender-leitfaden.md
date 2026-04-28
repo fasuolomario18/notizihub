@@ -1,4 +1,12 @@
 ---
+title: "Richtige Ernährung für deinen Hund: Ein umfassender Leitfaden"
+slug: "richtige-ernahrung-fur-deinen-hund-ein-umfassender-leitfaden"
+date: "2026-04-25"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "de"
+meta_description: "Richtige Ernährung für deinen Hund: Ein umfassender Leitfaden"
+auto_generated: true
 ---
 
 # Richtige Ernährung für deinen Hund: Ein umfassender Leitfaden

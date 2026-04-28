@@ -1,4 +1,12 @@
 ---
+title: "Cómo Reducir los Residuos en Casa: Guía Práctica para la Sostenibilidad"
+slug: "como-reducir-los-residuos-en-casa-guia-practica-para-la-sostenibilidad"
+date: "2026-04-24"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "es"
+meta_description: "Cómo Reducir los Residuos en Casa: Guía Práctica para la Sostenibilidad"
+auto_generated: true
 ---
 
 # Cómo Reducir los Residuos en Casa: Guía Práctica para la Sostenibilidad

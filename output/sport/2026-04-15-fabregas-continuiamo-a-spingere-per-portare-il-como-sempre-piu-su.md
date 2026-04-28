@@ -1,4 +1,12 @@
 ---
+title: "Fabregas e il Como: l'ambizione di un allenatore che sogna in grande nella Serie A 2026"
+slug: "fabregas-e-il-como-lambizione-di-un-allenatore-che-sogna-in-grande-nella-serie-a"
+date: "2026-04-15"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Fabregas e il Como: l'ambizione di un allenatore che sogna in grande nella Serie A 2026"
+auto_generated: true
 ---
 
 # Fabregas e il Como: l'ambizione di un allenatore che sogna in grande nella Serie A 2026

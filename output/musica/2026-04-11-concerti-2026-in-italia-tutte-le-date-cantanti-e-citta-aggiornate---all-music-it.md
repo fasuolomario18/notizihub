@@ -1,4 +1,12 @@
 ---
+title: "Concerti 2026 in Italia: Le Date, i Cantanti e le Città Imperdibili dell'Anno"
+slug: "concerti-2026-in-italia-le-date-i-cantanti-e-le-citta-imperdibili-dellanno"
+date: "2026-04-11"
+nicchia: "musica"
+nicchia_nome: "Musica"
+lang: "it"
+meta_description: "Concerti 2026 in Italia: Le Date, i Cantanti e le Città Imperdibili dell'Anno"
+auto_generated: true
 ---
 
 # Concerti 2026 in Italia: Le Date, i Cantanti e le Città Imperdibili dell'Anno

@@ -1,4 +1,12 @@
 ---
+title: "Quick Recipes for the Week: 5 Lunches in 30 Minutes"
+slug: "quick-recipes-for-the-week-5-lunches-in-30-minutes"
+date: "2026-04-23"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "en"
+meta_description: "Quick Recipes for the Week: 5 Lunches in 30 Minutes"
+auto_generated: true
 ---
 
 # Quick Recipes for the Week: 5 Lunches in 30 Minutes

@@ -1,4 +1,12 @@
 ---
+title: "Alimentation Correcte pour Votre Chien : Guide Complet du Maître Responsable"
+slug: "alimentation-correcte-pour-votre-chien-guide-complet-du-maitre-responsable"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "fr"
+meta_description: "Alimentation Correcte pour Votre Chien : Guide Complet du Maître Responsable"
+auto_generated: true
 ---
 
 # Alimentation Correcte pour Votre Chien : Guide Complet du Maître Responsable

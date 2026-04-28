@@ -1,4 +1,12 @@
 ---
+title: "Leasing social 2026 : quels modèles Fiat seront concernés par l'opération ?"
+slug: "leasing-social-2026-quels-modeles-fiat-seront-concernes-par-loperation"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "fr"
+meta_description: "Leasing social 2026 : quels modèles Fiat seront concernés par l'opération ?"
+auto_generated: true
 ---
 
 # Leasing social 2026 : quels modèles Fiat seront concernés par l'opération ?

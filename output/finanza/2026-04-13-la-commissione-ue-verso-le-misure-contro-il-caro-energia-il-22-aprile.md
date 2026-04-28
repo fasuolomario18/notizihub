@@ -1,4 +1,12 @@
 ---
+title: "La Commissione Ue verso le misure contro il caro energia il 22 aprile"
+slug: "la-commissione-ue-verso-le-misure-contro-il-caro-energia-il-22-aprile"
+date: "2026-04-13"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "La Commissione Ue verso le misure contro il caro energia il 22 aprile"
+auto_generated: true
 ---
 
 # La Commissione Ue verso le misure contro il caro energia il 22 aprile

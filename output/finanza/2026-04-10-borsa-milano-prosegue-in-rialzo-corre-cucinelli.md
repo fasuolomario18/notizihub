@@ -1,4 +1,12 @@
 ---
+title: "Borsa: Milano prosegue in rialzo, corre Cucinelli"
+slug: "borsa-milano-prosegue-in-rialzo-corre-cucinelli"
+date: "2026-04-10"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Borsa: Milano prosegue in rialzo, corre Cucinelli"
+auto_generated: true
 ---
 
 # Borsa: Milano prosegue in rialzo, corre Cucinelli

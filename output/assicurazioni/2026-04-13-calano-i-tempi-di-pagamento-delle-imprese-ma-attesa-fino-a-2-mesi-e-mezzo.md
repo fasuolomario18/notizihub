@@ -1,4 +1,12 @@
 ---
+title: "Calano i tempi di pagamento delle imprese ma attesa fino a 2 mesi e mezzo"
+slug: "calano-i-tempi-di-pagamento-delle-imprese-ma-attesa-fino-a-2-mesi-e-mezzo"
+date: "2026-04-13"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Calano i tempi di pagamento delle imprese ma attesa fino a 2 mesi e mezzo"
+auto_generated: true
 ---
 
 # Calano i tempi di pagamento delle imprese ma attesa fino a 2 mesi e mezzo

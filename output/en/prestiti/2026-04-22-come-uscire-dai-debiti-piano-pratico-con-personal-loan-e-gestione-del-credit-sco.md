@@ -1,4 +1,12 @@
 ---
+title: "Come uscire dai debiti: piano pratico con personal loan e gestione del credit score"
+slug: "come-uscire-dai-debiti-piano-pratico-con-personal-loan-e-gestione-del-credit-sco"
+date: "2026-04-22"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "en"
+meta_description: "Come uscire dai debiti: piano pratico con personal loan e gestione del credit score"
+auto_generated: true
 ---
 
 # Come uscire dai debiti: piano pratico con personal loan e gestione del credit score

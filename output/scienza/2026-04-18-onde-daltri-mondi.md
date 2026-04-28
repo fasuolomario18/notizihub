@@ -1,4 +1,12 @@
 ---
+title: "PlanetWaves: Il Modello Rivoluzionario che Predice le Onde su Altri Mondi"
+slug: "planetwaves-il-modello-rivoluzionario-che-predice-le-onde-su-altri-mondi"
+date: "2026-04-18"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "PlanetWaves: Il Modello Rivoluzionario che Predice le Onde su Altri Mondi"
+auto_generated: true
 ---
 
 # PlanetWaves: Il Modello Rivoluzionario che Predice le Onde su Altri Mondi

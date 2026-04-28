@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica Komi 160: La Più Piccola SUV a Quattro Posti in Italia"
+slug: "auto-elettrica-komi-160-la-piu-piccola-suv-a-quattro-posti-in-italia"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica Komi 160: La Più Piccola SUV a Quattro Posti in Italia"
+auto_generated: true
 ---
 
 # Auto Elettrica Komi 160: La Più Piccola SUV a Quattro Posti in Italia

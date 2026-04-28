@@ -1,4 +1,12 @@
 ---
+title: "Xbox vs PlayStation: quale console scegliere nel 2026"
+slug: "xbox-vs-playstation-quale-console-scegliere-nel-2026"
+date: "2026-04-22"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Xbox vs PlayStation: quale console scegliere nel 2026"
+auto_generated: true
 ---
 
 # Xbox vs PlayStation: quale console scegliere nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Seguro de Viaje: Cuándo Realmente lo Necesitas"
+slug: "seguro-de-viaje-cuando-realmente-lo-necesitas"
+date: "2026-04-24"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "es"
+meta_description: "Seguro de Viaje: Cuándo Realmente lo Necesitas"
+auto_generated: true
 ---
 
 # Seguro de Viaje: Cuándo Realmente lo Necesitas

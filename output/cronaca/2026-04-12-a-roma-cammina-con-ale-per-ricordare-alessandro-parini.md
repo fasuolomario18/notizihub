@@ -1,4 +1,12 @@
 ---
+title: "'Cammina con Ale': Roma ricorda Alessandro Parini con un progetto solidale"
+slug: "cammina-con-ale-roma-ricorda-alessandro-parini-con-un-progetto-solidale"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "'Cammina con Ale': Roma ricorda Alessandro Parini con un progetto solidale"
+auto_generated: true
 ---
 
 # "Cammina con Ale": Roma ricorda Alessandro Parini con un progetto solidale

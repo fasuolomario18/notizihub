@@ -1,4 +1,12 @@
 ---
+title: "Meloni al Papa: l'Italia costruisce un nuovo modello di cooperazione in Africa"
+slug: "meloni-al-papa-litalia-costruisce-un-nuovo-modello-di-cooperazione-in-africa"
+date: "2026-04-13"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Meloni al Papa: l'Italia costruisce un nuovo modello di cooperazione in Africa"
+auto_generated: true
 ---
 
 # Meloni al Papa: l'Italia costruisce un nuovo modello di cooperazione in Africa

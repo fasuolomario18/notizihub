@@ -1,4 +1,12 @@
 ---
+title: "La 'Thailandia della Lombardia': come il lago d'Iseo diventa meta sostenibile di turismo green nel 2026"
+slug: "la-thailandia-della-lombardia-come-il-lago-diseo-diventa-meta-sostenibile-di-tur"
+date: "2026-04-19"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "La 'Thailandia della Lombardia': come il lago d'Iseo diventa meta sostenibile di turismo green nel 2026"
+auto_generated: true
 ---
 
 # La "Thailandia della Lombardia": come il lago d'Iseo diventa meta sostenibile di turismo green nel 2026

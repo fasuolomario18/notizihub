@@ -1,4 +1,12 @@
 ---
+title: "Decreto Bollette 2026: Approvazione della Camera e le Novità per Luce, Gas e Fotovoltaico"
+slug: "decreto-bollette-2026-approvazione-della-camera-e-le-novita-per-luce-gas-e-fotov"
+date: "2026-04-07"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Decreto Bollette 2026: Approvazione della Camera e le Novità per Luce, Gas e Fotovoltaico"
+auto_generated: true
 ---
 
 # Decreto Bollette 2026: Approvazione della Camera e le Novità per Luce, Gas e Fotovoltaico

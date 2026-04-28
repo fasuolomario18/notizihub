@@ -1,4 +1,12 @@
 ---
+title: "How to Make Fresh Pasta at Home: A Complete Cooking Guide"
+slug: "how-to-make-fresh-pasta-at-home-a-complete-cooking-guide"
+date: "2026-04-22"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "en"
+meta_description: "How to Make Fresh Pasta at Home: A Complete Cooking Guide"
+auto_generated: true
 ---
 
 # How to Make Fresh Pasta at Home: A Complete Cooking Guide

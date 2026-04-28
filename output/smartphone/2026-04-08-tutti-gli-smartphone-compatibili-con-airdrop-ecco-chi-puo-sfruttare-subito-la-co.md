@@ -1,4 +1,12 @@
 ---
+title: "AirDrop tra iPhone e Android: ecco quali smartphone sono compatibili nel 2026"
+slug: "airdrop-tra-iphone-e-android-ecco-quali-smartphone-sono-compatibili-nel-2026"
+date: "2026-04-08"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "AirDrop tra iPhone e Android: ecco quali smartphone sono compatibili nel 2026"
+auto_generated: true
 ---
 
 # AirDrop tra iPhone e Android: ecco quali smartphone sono compatibili nel 2026

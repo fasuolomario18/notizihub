@@ -1,4 +1,12 @@
 ---
+title: "Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi"
+slug: "modello-7302026-il-calendario-completo-degli-adempimenti-e-le-date-dei-rimborsi"
+date: "2026-04-09"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "it"
+meta_description: "Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi"
+auto_generated: true
 ---
 
 # Modello 730/2026: il calendario completo degli adempimenti e le date dei rimborsi

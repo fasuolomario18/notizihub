@@ -1,4 +1,12 @@
 ---
+title: "Die besten PS5-Spiele des 2026: Dein ultimativer Guide"
+slug: "die-besten-ps5-spiele-des-2026-dein-ultimativer-guide"
+date: "2026-04-23"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "de"
+meta_description: "Die besten PS5-Spiele des 2026: Dein ultimativer Guide"
+auto_generated: true
 ---
 
 # Die besten PS5-Spiele des 2026: Dein ultimativer Guide

@@ -1,4 +1,12 @@
 ---
+title: "Mete económiche para las vacaciones estivales 2026: Guía completa de ahorro"
+slug: "mete-economiche-para-las-vacaciones-estivales-2026-guia-completa-de-ahorro"
+date: "2026-04-22"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "es"
+meta_description: "Mete económiche para las vacaciones estivales 2026: Guía completa de ahorro"
+auto_generated: true
 ---
 
 # Mete económiche para las vacaciones estivales 2026: Guía completa de ahorro

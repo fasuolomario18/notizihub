@@ -1,4 +1,12 @@
 ---
+title: "Neue Elektroauto-Förderplattform: Umweltministerin kündigt revolutionäres Förderprogramm an"
+slug: "neue-elektroauto-forderplattform-umweltministerin-kundigt-revolutionares-forderp"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "de"
+meta_description: "Neue Elektroauto-Förderplattform: Umweltministerin kündigt revolutionäres Förderprogramm an"
+auto_generated: true
 ---
 
 # Neue Elektroauto-Förderplattform: Umweltministerin kündigt revolutionäres Förderprogramm an

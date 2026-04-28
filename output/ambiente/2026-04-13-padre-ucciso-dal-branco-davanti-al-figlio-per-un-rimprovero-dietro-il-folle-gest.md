@@ -1,4 +1,12 @@
 ---
+title: "Padre ucciso dal 'branco' davanti al figlio per un rimprovero: dietro il folle gesto c'è un vuoto che inghiotte i giovani"
+slug: "padre-ucciso-dal-branco-davanti-al-figlio-per-un-rimprovero-dietro-il-folle-gest"
+date: "2026-04-13"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Padre ucciso dal 'branco' davanti al figlio per un rimprovero: dietro il folle gesto c'è un vuoto che inghiotte i giovani"
+auto_generated: true
 ---
 
 # Padre ucciso dal "branco" davanti al figlio per un rimprovero: dietro il folle gesto c'è un vuoto che inghiotte i giovani

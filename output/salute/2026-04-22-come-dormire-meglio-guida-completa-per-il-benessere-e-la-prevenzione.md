@@ -1,4 +1,12 @@
 ---
+title: "Come Dormire Meglio: Guida Completa per il Benessere e la Prevenzione"
+slug: "come-dormire-meglio-guida-completa-per-il-benessere-e-la-prevenzione"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Come Dormire Meglio: Guida Completa per il Benessere e la Prevenzione"
+auto_generated: true
 ---
 
 # Come Dormire Meglio: Guida Completa per il Benessere e la Prevenzione

@@ -1,4 +1,12 @@
 ---
+title: "TOI-5205 b: L'Esopianeta Proibito Svelato dal James Webb nel 2026"
+slug: "toi-5205-b-lesopianeta-proibito-svelato-dal-james-webb-nel-2026"
+date: "2026-04-11"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "TOI-5205 b: L'Esopianeta Proibito Svelato dal James Webb nel 2026"
+auto_generated: true
 ---
 
 # TOI-5205 b: L'Esopianeta Proibito Svelato dal James Webb nel 2026

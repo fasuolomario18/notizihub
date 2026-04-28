@@ -1,4 +1,12 @@
 ---
+title: "Guerra Iran: USA richieste per lo Stretto Hormuz respinte da Regno Unito e Germania"
+slug: "guerra-iran-usa-richieste-per-lo-stretto-hormuz-respinte-da-regno-unito-e-german"
+date: "2026-04-11"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Guerra Iran: USA richieste per lo Stretto Hormuz respinte da Regno Unito e Germania"
+auto_generated: true
 ---
 
 # Guerra Iran: USA richieste per lo Stretto Hormuz respinte da Regno Unito e Germania

@@ -1,4 +1,12 @@
 ---
+title: "Agefield High Rock the School: il nuovo gameplay video che riporta in auge il clone di Bully su PS5, Xbox e PC"
+slug: "agefield-high-rock-the-school-il-nuovo-gameplay-video-che-riporta-in-auge-il-clo"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Agefield High Rock the School: il nuovo gameplay video che riporta in auge il clone di Bully su PS5, Xbox e PC"
+auto_generated: true
 ---
 
 # Agefield High Rock the School: il nuovo gameplay video che riporta in auge il clone di Bully su PS5, Xbox e PC

@@ -1,4 +1,12 @@
 ---
+title: "Artificial Intelligence and the Tech Layoff Tsunami: Separating Fact from Fiction"
+slug: "artificial-intelligence-and-the-tech-layoff-tsunami-separating-fact-from-fiction"
+date: "2026-04-24"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "en"
+meta_description: "Artificial Intelligence and the Tech Layoff Tsunami: Separating Fact from Fiction"
+auto_generated: true
 ---
 
 # Artificial Intelligence and the Tech Layoff Tsunami: Separating Fact from Fiction

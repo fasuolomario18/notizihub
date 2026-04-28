@@ -1,4 +1,12 @@
 ---
+title: "Künstliche Intelligenz und die Komplexität von Software: Warum Engineering-Fundamentals nicht verhandelbar sind"
+slug: "kunstliche-intelligenz-und-die-komplexitat-von-software-warum-engineering-fundam"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "de"
+meta_description: "Künstliche Intelligenz und die Komplexität von Software: Warum Engineering-Fundamentals nicht verhandelbar sind"
+auto_generated: true
 ---
 
 # Künstliche Intelligenz und die Komplexität von Software: Warum Engineering-Fundamentals nicht verhandelbar sind

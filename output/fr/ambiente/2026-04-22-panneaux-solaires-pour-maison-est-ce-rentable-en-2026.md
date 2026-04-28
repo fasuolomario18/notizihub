@@ -1,4 +1,12 @@
 ---
+title: "Panneaux solaires pour maison : est-ce rentable en 2026 ?"
+slug: "panneaux-solaires-pour-maison-est-ce-rentable-en-2026"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "fr"
+meta_description: "Panneaux solaires pour maison : est-ce rentable en 2026 ?"
+auto_generated: true
 ---
 
 # Panneaux solaires pour maison : est-ce rentable en 2026 ?

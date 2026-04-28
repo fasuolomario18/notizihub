@@ -1,4 +1,12 @@
 ---
+title: "Kiln su PS5, Xbox e PC: la roadmap completa dei contenuti in arrivo dopo il lancio"
+slug: "kiln-su-ps5-xbox-e-pc-la-roadmap-completa-dei-contenuti-in-arrivo-dopo-il-lancio"
+date: "2026-04-23"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Kiln su PS5, Xbox e PC: la roadmap completa dei contenuti in arrivo dopo il lancio"
+auto_generated: true
 ---
 
 # Kiln su PS5, Xbox e PC: la roadmap completa dei contenuti in arrivo dopo il lancio

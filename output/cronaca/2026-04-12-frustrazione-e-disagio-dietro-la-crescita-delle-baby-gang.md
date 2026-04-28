@@ -1,4 +1,12 @@
 ---
+title: "Baby gang in Italia: la crisi sociale dietro la violenza giovanile"
+slug: "baby-gang-in-italia-la-crisi-sociale-dietro-la-violenza-giovanile"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Baby gang in Italia: la crisi sociale dietro la violenza giovanile"
+auto_generated: true
 ---
 
 # Baby gang in Italia: la crisi sociale dietro la violenza giovanile

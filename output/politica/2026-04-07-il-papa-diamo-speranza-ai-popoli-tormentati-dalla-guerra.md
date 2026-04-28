@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento di fronte all'Appello del Papa: la Speranza come Priorità Politica nel 2026"
+slug: "governo-e-parlamento-di-fronte-allappello-del-papa-la-speranza-come-priorita-pol"
+date: "2026-04-07"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento di fronte all'Appello del Papa: la Speranza come Priorità Politica nel 2026"
+auto_generated: true
 ---
 
 # Governo e Parlamento di fronte all'Appello del Papa: la Speranza come Priorità Politica nel 2026

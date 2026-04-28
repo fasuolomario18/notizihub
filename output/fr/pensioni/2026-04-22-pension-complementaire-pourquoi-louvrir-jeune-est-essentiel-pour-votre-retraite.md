@@ -1,4 +1,12 @@
 ---
+title: "Pension complémentaire : Pourquoi l'ouvrir jeune est essentiel pour votre retraite"
+slug: "pension-complementaire-pourquoi-louvrir-jeune-est-essentiel-pour-votre-retraite"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "fr"
+meta_description: "Pension complémentaire : Pourquoi l'ouvrir jeune est essentiel pour votre retraite"
+auto_generated: true
 ---
 
 # Pension complémentaire : Pourquoi l'ouvrir jeune est essentiel pour votre retraite

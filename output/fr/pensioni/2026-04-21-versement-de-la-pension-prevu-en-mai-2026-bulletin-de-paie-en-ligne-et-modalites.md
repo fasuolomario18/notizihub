@@ -1,4 +1,12 @@
 ---
+title: "Versement de la pension en mai 2026 : tout ce que vous devez savoir sur votre bulletin de paie en ligne"
+slug: "versement-de-la-pension-en-mai-2026-tout-ce-que-vous-devez-savoir-sur-votre-bull"
+date: "2026-04-21"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "fr"
+meta_description: "Versement de la pension en mai 2026 : tout ce que vous devez savoir sur votre bulletin de paie en ligne"
+auto_generated: true
 ---
 
 # Versement de la pension en mai 2026 : tout ce que vous devez savoir sur votre bulletin de paie en ligne

@@ -1,4 +1,12 @@
 ---
+title: "Ghosting negli Animali Domestici: Quando il Cane o il Gatto Soffre dell'Abbandono Emotivo"
+slug: "ghosting-negli-animali-domestici-quando-il-cane-o-il-gatto-soffre-dellabbandono-"
+date: "2026-04-07"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Ghosting negli Animali Domestici: Quando il Cane o il Gatto Soffre dell'Abbandono Emotivo"
+auto_generated: true
 ---
 
 # Ghosting negli Animali Domestici: Quando il Cane o il Gatto Soffre dell'Abbandono Emotivo

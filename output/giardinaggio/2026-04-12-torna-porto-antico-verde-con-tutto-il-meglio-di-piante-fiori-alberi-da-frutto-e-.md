@@ -1,4 +1,12 @@
 ---
+title: "Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova"
+slug: "porto-antico-verde-2026-il-paradiso-delle-piante-e-dellorto-biologico-torna-a-ge"
+date: "2026-04-12"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova"
+auto_generated: true
 ---
 
 # Porto Antico Verde 2026: il paradiso delle piante e dell'orto biologico torna a Genova

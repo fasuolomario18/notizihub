@@ -1,4 +1,12 @@
 ---
+title: "Cani e Gatti: Gli Incontri con Veterinari per una Convivenza Consapevole nel 2026"
+slug: "cani-e-gatti-gli-incontri-con-veterinari-per-una-convivenza-consapevole-nel-2026"
+date: "2026-04-12"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Cani e Gatti: Gli Incontri con Veterinari per una Convivenza Consapevole nel 2026"
+auto_generated: true
 ---
 
 # Cani e Gatti: Gli Incontri con Veterinari per una Convivenza Consapevole nel 2026

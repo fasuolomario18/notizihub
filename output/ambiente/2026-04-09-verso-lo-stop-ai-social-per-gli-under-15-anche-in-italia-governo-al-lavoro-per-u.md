@@ -1,4 +1,12 @@
 ---
+title: "Social Media e Sostenibilità Digitale: Il Governo Italiano Propone Lo Stop per gli Under 15"
+slug: "social-media-e-sostenibilita-digitale-il-governo-italiano-propone-lo-stop-per-gl"
+date: "2026-04-09"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Social Media e Sostenibilità Digitale: Il Governo Italiano Propone Lo Stop per gli Under 15"
+auto_generated: true
 ---
 
 # Social Media e Sostenibilità Digitale: Il Governo Italiano Propone Lo Stop per gli Under 15

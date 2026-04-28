@@ -1,4 +1,12 @@
 ---
+title: "Mit welchem Alter gehe ich 2026 in Rente? Die wichtigsten Informationen zum Ruhestand"
+slug: "mit-welchem-alter-gehe-ich-2026-in-rente-die-wichtigsten-informationen-zum-ruhes"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "de"
+meta_description: "Mit welchem Alter gehe ich 2026 in Rente? Die wichtigsten Informationen zum Ruhestand"
+auto_generated: true
 ---
 
 # Mit welchem Alter gehe ich 2026 in Rente? Die wichtigsten Informationen zum Ruhestand

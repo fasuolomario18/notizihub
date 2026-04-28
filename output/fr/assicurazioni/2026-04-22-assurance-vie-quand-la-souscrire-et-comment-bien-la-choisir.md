@@ -1,4 +1,12 @@
 ---
+title: "Assurance Vie : Quand la Souscrire et Comment Bien la Choisir"
+slug: "assurance-vie-quand-la-souscrire-et-comment-bien-la-choisir"
+date: "2026-04-22"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "fr"
+meta_description: "Assurance Vie : Quand la Souscrire et Comment Bien la Choisir"
+auto_generated: true
 ---
 
 # Assurance Vie : Quand la Souscrire et Comment Bien la Choisir

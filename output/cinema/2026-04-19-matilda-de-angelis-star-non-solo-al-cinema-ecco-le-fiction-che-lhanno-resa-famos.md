@@ -1,4 +1,12 @@
 ---
+title: "Matilda De Angelis: da cinema a serie TV, la star che conquista Netflix e le piattaforme streaming"
+slug: "matilda-de-angelis-da-cinema-a-serie-tv-la-star-che-conquista-netflix-e-le-piatt"
+date: "2026-04-19"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Matilda De Angelis: da cinema a serie TV, la star che conquista Netflix e le piattaforme streaming"
+auto_generated: true
 ---
 
 # Matilda De Angelis: da cinema a serie TV, la star che conquista Netflix e le piattaforme streaming

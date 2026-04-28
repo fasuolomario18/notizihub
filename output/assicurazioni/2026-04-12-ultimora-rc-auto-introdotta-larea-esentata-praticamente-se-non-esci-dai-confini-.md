@@ -1,4 +1,12 @@
 ---
+title: "RC Auto: Arriva l'Area Esentata nel 2026 - Come Funziona la Nuova Assicurazione Auto"
+slug: "rc-auto-arriva-larea-esentata-nel-2026---come-funziona-la-nuova-assicurazione-au"
+date: "2026-04-12"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "RC Auto: Arriva l'Area Esentata nel 2026 - Come Funziona la Nuova Assicurazione Auto"
+auto_generated: true
 ---
 
 # RC Auto: Arriva l'Area Esentata nel 2026 - Come Funziona la Nuova Assicurazione Auto

@@ -1,4 +1,12 @@
 ---
+title: "Lebensversicherung: Wann sie notwendig ist und welche Sie wählen sollten"
+slug: "lebensversicherung-wann-sie-notwendig-ist-und-welche-sie-wahlen-sollten"
+date: "2026-04-22"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "de"
+meta_description: "Lebensversicherung: Wann sie notwendig ist und welche Sie wählen sollten"
+auto_generated: true
 ---
 
 # Lebensversicherung: Wann sie notwendig ist und welche Sie wählen sollten

@@ -1,4 +1,12 @@
 ---
+title: "Funcionários Públicos: Recebem Dobro do Salário pelo Trabalho ao Domingo"
+slug: "funcionarios-publicos-recebem-dobro-do-salario-pelo-trabalho-ao-domingo"
+date: "2026-04-25"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "pt"
+meta_description: "Funcionários Públicos: Recebem Dobro do Salário pelo Trabalho ao Domingo"
+auto_generated: true
 ---
 
 # Funcionários Públicos: Recebem Dobro do Salário pelo Trabalho ao Domingo

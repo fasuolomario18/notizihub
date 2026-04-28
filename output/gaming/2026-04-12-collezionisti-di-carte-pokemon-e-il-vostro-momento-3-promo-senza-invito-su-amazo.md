@@ -1,4 +1,12 @@
 ---
+title: "Collezionisti di carte Pokémon, è il vostro momento: 3 promo senza invito su Amazon"
+slug: "collezionisti-di-carte-pokemon-e-il-vostro-momento-3-promo-senza-invito-su-amazo"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Collezionisti di carte Pokémon, è il vostro momento: 3 promo senza invito su Amazon"
+auto_generated: true
 ---
 
 # Collezionisti di carte Pokémon, è il vostro momento: 3 promo senza invito su Amazon

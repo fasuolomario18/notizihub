@@ -1,4 +1,12 @@
 ---
+title: "La nueva batería para vehículos eléctricos promete una increíble recarga en seis minutos"
+slug: "la-nueva-bateria-para-vehiculos-electricos-promete-una-increible-recarga-en-seis"
+date: "2026-04-23"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "es"
+meta_description: "La nueva batería para vehículos eléctricos promete una increíble recarga en seis minutos"
+auto_generated: true
 ---
 
 # La nueva batería para vehículos eléctricos promete una increíble recarga en seis minutos

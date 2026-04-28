@@ -1,4 +1,12 @@
 ---
+title: "Come ottenere il mutuo nel 2026: guida completa per acquistare, affittare o ristrutturare"
+slug: "come-ottenere-il-mutuo-nel-2026-guida-completa-per-acquistare-affittare-o-ristru"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Come ottenere il mutuo nel 2026: guida completa per acquistare, affittare o ristrutturare"
+auto_generated: true
 ---
 
 # Come ottenere il mutuo nel 2026: guida completa per acquistare, affittare o ristrutturare

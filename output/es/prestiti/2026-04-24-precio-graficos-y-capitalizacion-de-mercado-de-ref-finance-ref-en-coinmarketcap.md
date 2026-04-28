@@ -1,4 +1,12 @@
 ---
+title: "Precio, Gráficos y Capitalización de Mercado de Ref Finance (REF) en CoinMarketCap"
+slug: "precio-graficos-y-capitalizacion-de-mercado-de-ref-finance-ref-en-coinmarketcap"
+date: "2026-04-24"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "es"
+meta_description: "Precio, Gráficos y Capitalización de Mercado de Ref Finance (REF) en CoinMarketCap"
+auto_generated: true
 ---
 
 # Precio, Gráficos y Capitalización de Mercado de Ref Finance (REF) en CoinMarketCap

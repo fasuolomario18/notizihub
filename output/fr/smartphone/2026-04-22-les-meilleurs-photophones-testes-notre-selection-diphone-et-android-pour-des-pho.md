@@ -1,4 +1,12 @@
 ---
+title: "Les meilleurs photophones testés : notre sélection d'iPhone et Android pour des photos exceptionnelles"
+slug: "les-meilleurs-photophones-testes-notre-selection-diphone-et-android-pour-des-pho"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "Les meilleurs photophones testés : notre sélection d'iPhone et Android pour des photos exceptionnelles"
+auto_generated: true
 ---
 
 # Les meilleurs photophones testés : notre sélection d'iPhone et Android pour des photos exceptionnelles

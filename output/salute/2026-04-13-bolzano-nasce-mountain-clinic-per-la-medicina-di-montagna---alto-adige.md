@@ -1,4 +1,12 @@
 ---
+title: "Dieta e Alimentazione in Montagna: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere degli Alpinisti"
+slug: "dieta-e-alimentazione-in-montagna-la-nuova-mountain-clinic-di-bolzano-rivoluzion"
+date: "2026-04-13"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Dieta e Alimentazione in Montagna: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere degli Alpinisti"
+auto_generated: true
 ---
 
 # Dieta e Alimentazione in Montagna: La Nuova Mountain Clinic di Bolzano Rivoluziona il Benessere degli Alpinisti

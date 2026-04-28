@@ -1,4 +1,12 @@
 ---
+title: "Como Reduzir a Conta de Luz em 2026: Guia Completo para Economia de Energia"
+slug: "como-reduzir-a-conta-de-luz-em-2026-guia-completo-para-economia-de-energia"
+date: "2026-04-23"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "pt"
+meta_description: "Como Reduzir a Conta de Luz em 2026: Guia Completo para Economia de Energia"
+auto_generated: true
 ---
 
 # Como Reduzir a Conta de Luz em 2026: Guia Completo para Economia de Energia

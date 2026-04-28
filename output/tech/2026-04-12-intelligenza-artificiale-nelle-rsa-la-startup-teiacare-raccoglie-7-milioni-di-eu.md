@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale nelle RSA: TeiaCare raccoglie 7 milioni di euro per rivoluzionare l'assistenza agli anziani"
+slug: "intelligenza-artificiale-nelle-rsa-teiacare-raccoglie-7-milioni-di-euro-per-rivo"
+date: "2026-04-12"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale nelle RSA: TeiaCare raccoglie 7 milioni di euro per rivoluzionare l'assistenza agli anziani"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale nelle RSA: TeiaCare raccoglie 7 milioni di euro per rivoluzionare l'assistenza agli anziani

@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026"
+slug: "auto-elettrica-come-funziona-come-fatta-e-come-si-usa-nel-2026"
+date: "2026-04-12"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026"
+auto_generated: true
 ---
 
 # Auto Elettrica: Come Funziona, Com'è Fatta e Come si Usa nel 2026

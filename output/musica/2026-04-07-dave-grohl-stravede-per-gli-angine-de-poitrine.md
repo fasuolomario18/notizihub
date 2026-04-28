@@ -1,4 +1,12 @@
 ---
+title: "Dave Grohl stravede per gli Angine de Poitrine: il tributo rock che conquista i Foo Fighters"
+slug: "dave-grohl-stravede-per-gli-angine-de-poitrine-il-tributo-rock-che-conquista-i-f"
+date: "2026-04-07"
+nicchia: "musica"
+nicchia_nome: "Musica"
+lang: "it"
+meta_description: "Dave Grohl stravede per gli Angine de Poitrine: il tributo rock che conquista i Foo Fighters"
+auto_generated: true
 ---
 
 # Dave Grohl stravede per gli Angine de Poitrine: il tributo rock che conquista i Foo Fighters

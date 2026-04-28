@@ -1,4 +1,12 @@
 ---
+title: "Come ridurre i rifiuti in casa: una guida pratica per la sostenibilità ambientale"
+slug: "come-ridurre-i-rifiuti-in-casa-una-guida-pratica-per-la-sostenibilita-ambientale"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Come ridurre i rifiuti in casa: una guida pratica per la sostenibilità ambientale"
+auto_generated: true
 ---
 
 # Come ridurre i rifiuti in casa: una guida pratica per la sostenibilità ambientale

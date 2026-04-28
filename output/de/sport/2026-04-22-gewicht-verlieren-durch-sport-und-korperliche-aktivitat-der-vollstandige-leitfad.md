@@ -1,4 +1,12 @@
 ---
+title: "Gewicht verlieren durch Sport und körperliche Aktivität: Der vollständige Leitfaden"
+slug: "gewicht-verlieren-durch-sport-und-korperliche-aktivitat-der-vollstandige-leitfad"
+date: "2026-04-22"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "de"
+meta_description: "Gewicht verlieren durch Sport und körperliche Aktivität: Der vollständige Leitfaden"
+auto_generated: true
 ---
 
 # Gewicht verlieren durch Sport und körperliche Aktivität: Der vollständige Leitfaden

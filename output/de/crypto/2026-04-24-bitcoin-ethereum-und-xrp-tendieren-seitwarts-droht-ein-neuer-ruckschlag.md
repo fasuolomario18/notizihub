@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum und XRP tendieren seitwärts – Droht ein neuer Rückschlag?"
+slug: "bitcoin-ethereum-und-xrp-tendieren-seitwarts-droht-ein-neuer-ruckschlag"
+date: "2026-04-24"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "de"
+meta_description: "Bitcoin, Ethereum und XRP tendieren seitwärts – Droht ein neuer Rückschlag?"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum und XRP tendieren seitwärts – Droht ein neuer Rückschlag?

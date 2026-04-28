@@ -1,4 +1,12 @@
 ---
+title: "Régime Méditerranéen : Bienfaits et Menu Hebdomadaire pour une Santé Optimale"
+slug: "regime-mediterraneen-bienfaits-et-menu-hebdomadaire-pour-une-sante-optimale"
+date: "2026-04-25"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "fr"
+meta_description: "Régime Méditerranéen : Bienfaits et Menu Hebdomadaire pour une Santé Optimale"
+auto_generated: true
 ---
 
 # Régime Méditerranéen : Bienfaits et Menu Hebdomadaire pour une Santé Optimale

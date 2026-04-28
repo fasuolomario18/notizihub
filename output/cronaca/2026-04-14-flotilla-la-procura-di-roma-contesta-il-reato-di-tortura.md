@@ -1,4 +1,12 @@
 ---
+title: "La Procura di Roma contesta il reato di tortura: notizie e sviluppi dell'inchiesta su Flotilla"
+slug: "la-procura-di-roma-contesta-il-reato-di-tortura-notizie-e-sviluppi-dellinchiesta"
+date: "2026-04-14"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "La Procura di Roma contesta il reato di tortura: notizie e sviluppi dell'inchiesta su Flotilla"
+auto_generated: true
 ---
 
 # La Procura di Roma contesta il reato di tortura: notizie e sviluppi dell'inchiesta su Flotilla

@@ -1,4 +1,12 @@
 ---
+title: "Netflix: Melhores Filmes e Séries Novas Este Fim de Semana"
+slug: "netflix-melhores-filmes-e-series-novas-este-fim-de-semana"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "pt"
+meta_description: "Netflix: Melhores Filmes e Séries Novas Este Fim de Semana"
+auto_generated: true
 ---
 
 # Netflix: Melhores Filmes e Séries Novas Este Fim de Semana

@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto: Questi Veicoli Non Devono Più Pagare l'RC Auto nel 2026"
+slug: "assicurazione-auto-questi-veicoli-non-devono-piu-pagare-lrc-auto-nel-2026"
+date: "2026-04-09"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto: Questi Veicoli Non Devono Più Pagare l'RC Auto nel 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto: Questi Veicoli Non Devono Più Pagare l'RC Auto nel 2026

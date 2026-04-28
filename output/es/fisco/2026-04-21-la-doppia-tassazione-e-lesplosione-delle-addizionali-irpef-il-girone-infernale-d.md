@@ -1,4 +1,12 @@
 ---
+title: "Declaración de Renta: Cómo Evitar la Doble Imposición de Adiciones IRPEF"
+slug: "declaracion-de-renta-como-evitar-la-doble-imposicion-de-adiciones-irpef"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "es"
+meta_description: "Declaración de Renta: Cómo Evitar la Doble Imposición de Adiciones IRPEF"
+auto_generated: true
 ---
 
 # Declaración de Renta: Cómo Evitar la Doble Imposición de Adiciones IRPEF

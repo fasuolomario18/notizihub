@@ -1,4 +1,12 @@
 ---
+title: "Governo italiano: Lo Russo condanna le dichiarazioni di Trump contro il Papa"
+slug: "governo-italiano-lo-russo-condanna-le-dichiarazioni-di-trump-contro-il-papa"
+date: "2026-04-13"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo italiano: Lo Russo condanna le dichiarazioni di Trump contro il Papa"
+auto_generated: true
 ---
 
 # Governo italiano: Lo Russo condanna le dichiarazioni di Trump contro il Papa

@@ -1,4 +1,12 @@
 ---
+title: "Principio d'incendio al Conservatorio di Milano: 30 persone evacuate, fiamme già domate"
+slug: "principio-dincendio-al-conservatorio-di-milano-30-persone-evacuate-fiamme-gia-do"
+date: "2026-04-10"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Principio d'incendio al Conservatorio di Milano: 30 persone evacuate, fiamme già domate"
+auto_generated: true
 ---
 
 # Principio d'incendio al Conservatorio di Milano: 30 persone evacuate, fiamme già domate

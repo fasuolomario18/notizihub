@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Vita: Quando Serve e Quale Scegliere con la Giusta Polizza"
+slug: "assicurazione-vita-quando-serve-e-quale-scegliere-con-la-giusta-polizza"
+date: "2026-04-22"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Vita: Quando Serve e Quale Scegliere con la Giusta Polizza"
+auto_generated: true
 ---
 
 # Assicurazione Vita: Quando Serve e Quale Scegliere con la Giusta Polizza

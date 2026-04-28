@@ -1,4 +1,12 @@
 ---
+title: "Global Entrepreneurship Week: A Maior Plataforma de Negócios para Startups Chinesas na Capmad.com"
+slug: "global-entrepreneurship-week-a-maior-plataforma-de-negocios-para-startups-chines"
+date: "2026-04-22"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "pt"
+meta_description: "Global Entrepreneurship Week: A Maior Plataforma de Negócios para Startups Chinesas na Capmad.com"
+auto_generated: true
 ---
 
 # Global Entrepreneurship Week: A Maior Plataforma de Negócios para Startups Chinesas na Capmad.com

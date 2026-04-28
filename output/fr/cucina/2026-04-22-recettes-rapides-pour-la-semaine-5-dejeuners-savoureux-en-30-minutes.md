@@ -1,4 +1,12 @@
 ---
+title: "Recettes rapides pour la semaine : 5 déjeuners savoureux en 30 minutes"
+slug: "recettes-rapides-pour-la-semaine-5-dejeuners-savoureux-en-30-minutes"
+date: "2026-04-22"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "fr"
+meta_description: "Recettes rapides pour la semaine : 5 déjeuners savoureux en 30 minutes"
+auto_generated: true
 ---
 
 # Recettes rapides pour la semaine : 5 déjeuners savoureux en 30 minutes

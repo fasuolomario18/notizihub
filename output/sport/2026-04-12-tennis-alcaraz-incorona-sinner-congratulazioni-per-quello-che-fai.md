@@ -1,4 +1,12 @@
 ---
+title: "Alcaraz Celebra Sinner nel 2026: Il Dominio del Tennis Contemporaneo tra Sunshine Double e Montecarlo"
+slug: "alcaraz-celebra-sinner-nel-2026-il-dominio-del-tennis-contemporaneo-tra-sunshine"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Alcaraz Celebra Sinner nel 2026: Il Dominio del Tennis Contemporaneo tra Sunshine Double e Montecarlo"
+auto_generated: true
 ---
 
 # Alcaraz Celebra Sinner nel 2026: Il Dominio del Tennis Contemporaneo tra Sunshine Double e Montecarlo

@@ -1,4 +1,12 @@
 ---
+title: "Wissenschaft und Kultur: Der neue Pavillon des Al NOI Techpark"
+slug: "wissenschaft-und-kultur-der-neue-pavillon-des-al-noi-techpark"
+date: "2026-04-21"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "de"
+meta_description: "Wissenschaft und Kultur: Der neue Pavillon des Al NOI Techpark"
+auto_generated: true
 ---
 
 # Wissenschaft und Kultur: Der neue Pavillon des Al NOI Techpark

@@ -1,4 +1,12 @@
 ---
+title: "Painéis Solares para Casa: Compensam no 2026?"
+slug: "paineis-solares-para-casa-compensam-no-2026"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "pt"
+meta_description: "Painéis Solares para Casa: Compensam no 2026?"
+auto_generated: true
 ---
 
 # Painéis Solares para Casa: Compensam no 2026?

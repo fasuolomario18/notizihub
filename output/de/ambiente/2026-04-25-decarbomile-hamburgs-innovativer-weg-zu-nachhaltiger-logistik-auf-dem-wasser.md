@@ -1,4 +1,12 @@
 ---
+title: "Decarbomile: Hamburgs innovativer Weg zu nachhaltiger Logistik auf dem Wasser"
+slug: "decarbomile-hamburgs-innovativer-weg-zu-nachhaltiger-logistik-auf-dem-wasser"
+date: "2026-04-25"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "de"
+meta_description: "Decarbomile: Hamburgs innovativer Weg zu nachhaltiger Logistik auf dem Wasser"
+auto_generated: true
 ---
 
 # Decarbomile: Hamburgs innovativer Weg zu nachhaltiger Logistik auf dem Wasser

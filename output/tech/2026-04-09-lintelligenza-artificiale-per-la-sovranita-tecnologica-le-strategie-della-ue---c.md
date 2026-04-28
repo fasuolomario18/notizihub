@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026"
+slug: "intelligenza-artificiale-e-sovranita-tecnologica-la-strategia-dellue-nel-2026"
+date: "2026-04-09"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale e Sovranità Tecnologica: La Strategia dell'UE nel 2026

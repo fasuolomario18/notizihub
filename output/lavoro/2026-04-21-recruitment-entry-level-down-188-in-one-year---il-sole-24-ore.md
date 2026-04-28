@@ -1,4 +1,12 @@
 ---
+title: "Smart Working, Stipendio e Curriculum: Come Affrontare il Calo del 18,8% nel Recruitment Entry Level"
+slug: "smart-working-stipendio-e-curriculum-come-affrontare-il-calo-del-188-nel-recruit"
+date: "2026-04-21"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working, Stipendio e Curriculum: Come Affrontare il Calo del 18,8% nel Recruitment Entry Level"
+auto_generated: true
 ---
 
 # Smart Working, Stipendio e Curriculum: Come Affrontare il Calo del 18,8% nel Recruitment Entry Level

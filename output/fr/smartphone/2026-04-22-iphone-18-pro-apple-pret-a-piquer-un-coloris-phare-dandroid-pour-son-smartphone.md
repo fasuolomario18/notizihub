@@ -1,4 +1,12 @@
 ---
+title: "iPhone 18 Pro : Apple prêt à piquer un coloris phare d'Android pour son smartphone ?"
+slug: "iphone-18-pro-apple-pret-a-piquer-un-coloris-phare-dandroid-pour-son-smartphone"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "iPhone 18 Pro : Apple prêt à piquer un coloris phare d'Android pour son smartphone ?"
+auto_generated: true
 ---
 
 # iPhone 18 Pro : Apple prêt à piquer un coloris phare d'Android pour son smartphone ?

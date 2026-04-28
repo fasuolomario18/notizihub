@@ -1,4 +1,12 @@
 ---
+title: "Affittare Casa: Diritti e Doveri dell'Inquilino - Guida Completa 2026"
+slug: "affittare-casa-diritti-e-doveri-dellinquilino---guida-completa-2026"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "en"
+meta_description: "Affittare Casa: Diritti e Doveri dell'Inquilino - Guida Completa 2026"
+auto_generated: true
 ---
 
 # Affittare Casa: Diritti e Doveri dell'Inquilino - Guida Completa 2026

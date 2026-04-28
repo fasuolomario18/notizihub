@@ -1,4 +1,12 @@
 ---
+title: "Das Wichtigste in Kürze"
+slug: "das-wichtigste-in-kurze"
+date: "2026-04-24"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "de"
+meta_description: "Das Wichtigste in Kürze"
+auto_generated: true
 ---
 
 # Das Wichtigste in Kürze

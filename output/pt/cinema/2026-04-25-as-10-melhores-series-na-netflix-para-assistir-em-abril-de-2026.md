@@ -1,4 +1,12 @@
 ---
+title: "As 10 Melhores Séries na Netflix Para Assistir em Abril de 2026"
+slug: "as-10-melhores-series-na-netflix-para-assistir-em-abril-de-2026"
+date: "2026-04-25"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "pt"
+meta_description: "As 10 Melhores Séries na Netflix Para Assistir em Abril de 2026"
+auto_generated: true
 ---
 
 # As 10 Melhores Séries na Netflix Para Assistir em Abril de 2026

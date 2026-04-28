@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin ed Ethereum in rialzo: l'effetto della corsa del petrolio a 110 dollari"
+slug: "bitcoin-ed-ethereum-in-rialzo-leffetto-della-corsa-del-petrolio-a-110-dollari"
+date: "2026-04-07"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin ed Ethereum in rialzo: l'effetto della corsa del petrolio a 110 dollari"
+auto_generated: true
 ---
 
 # Bitcoin ed Ethereum in rialzo: l'effetto della corsa del petrolio a 110 dollari

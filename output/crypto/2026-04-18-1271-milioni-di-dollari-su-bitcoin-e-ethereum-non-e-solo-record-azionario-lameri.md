@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin ed Ethereum Raggiungono i 1.271 Miliardi di Dollari: L'America Ridefinisce la Strategia Sulle Criptovalute"
+slug: "bitcoin-ed-ethereum-raggiungono-i-1271-miliardi-di-dollari-lamerica-ridefinisce-"
+date: "2026-04-18"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin ed Ethereum Raggiungono i 1.271 Miliardi di Dollari: L'America Ridefinisce la Strategia Sulle Criptovalute"
+auto_generated: true
 ---
 
 # Bitcoin ed Ethereum Raggiungono i 1.271 Miliardi di Dollari: L'America Ridefinisce la Strategia Sulle Criptovalute

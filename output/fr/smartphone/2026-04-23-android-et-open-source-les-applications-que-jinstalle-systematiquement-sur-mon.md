@@ -1,4 +1,12 @@
 ---
+title: "Android et open source : les applications que j'installe systématiquement sur mon smartphone"
+slug: "android-et-open-source-les-applications-que-jinstalle-systematiquement-sur-mon-s"
+date: "2026-04-23"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "Android et open source : les applications que j'installe systématiquement sur mon smartphone"
+auto_generated: true
 ---
 
 # Android et open source : les applications que j'installe systématiquement sur mon smartphone

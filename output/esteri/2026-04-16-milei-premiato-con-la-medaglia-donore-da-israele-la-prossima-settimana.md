@@ -1,4 +1,12 @@
 ---
+title: "Milei riceve la Medaglia d'onore da Israele: il riconoscimento geopolitico che ridisegna gli equilibri globali"
+slug: "milei-riceve-la-medaglia-donore-da-israele-il-riconoscimento-geopolitico-che-rid"
+date: "2026-04-16"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Milei riceve la Medaglia d'onore da Israele: il riconoscimento geopolitico che ridisegna gli equilibri globali"
+auto_generated: true
 ---
 
 # Milei riceve la Medaglia d'onore da Israele: il riconoscimento geopolitico che ridisegna gli equilibri globali

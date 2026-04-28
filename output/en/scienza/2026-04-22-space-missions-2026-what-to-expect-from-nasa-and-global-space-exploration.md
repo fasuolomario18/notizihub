@@ -1,4 +1,12 @@
 ---
+title: "Space Missions 2026: What to Expect from NASA and Global Space Exploration"
+slug: "space-missions-2026-what-to-expect-from-nasa-and-global-space-exploration"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "en"
+meta_description: "Space Missions 2026: What to Expect from NASA and Global Space Exploration"
+auto_generated: true
 ---
 
 # Space Missions 2026: What to Expect from NASA and Global Space Exploration

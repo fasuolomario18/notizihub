@@ -1,4 +1,12 @@
 ---
+title: "Mutui e Affitti nel 2026: Come le Decisioni del FMI Influenzano Casa e Immobiliare"
+slug: "mutui-e-affitti-nel-2026-come-le-decisioni-del-fmi-influenzano-casa-e-immobiliar"
+date: "2026-04-12"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutui e Affitti nel 2026: Come le Decisioni del FMI Influenzano Casa e Immobiliare"
+auto_generated: true
 ---
 
 # Mutui e Affitti nel 2026: Come le Decisioni del FMI Influenzano Casa e Immobiliare

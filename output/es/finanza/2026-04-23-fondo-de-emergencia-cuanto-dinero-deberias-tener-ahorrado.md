@@ -1,4 +1,12 @@
 ---
+title: "Fondo de emergencia: cuánto dinero deberías tener ahorrado"
+slug: "fondo-de-emergencia-cuanto-dinero-deberias-tener-ahorrado"
+date: "2026-04-23"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "es"
+meta_description: "Fondo de emergencia: cuánto dinero deberías tener ahorrado"
+auto_generated: true
 ---
 
 # Fondo de emergencia: cuánto dinero deberías tener ahorrado

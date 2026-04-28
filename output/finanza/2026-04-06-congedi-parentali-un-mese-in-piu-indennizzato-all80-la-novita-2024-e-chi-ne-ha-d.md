@@ -1,4 +1,12 @@
 ---
+title: "Congedi parentali, un mese in più indennizzato all'80%: la novità 2024 (e chi ne ha diritto)"
+slug: "congedi-parentali-un-mese-in-piu-indennizzato-all80-la-novita-2024-e-chi-ne-ha-d"
+date: "2026-04-06"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Congedi parentali, un mese in più indennizzato all'80%: la novità 2024 (e chi ne ha diritto)"
+auto_generated: true
 ---
 
 # Congedi parentali, un mese in più indennizzato all'80%: la novità 2024 (e chi ne ha diritto)

@@ -1,4 +1,12 @@
 ---
+title: "Il Declino dei Buchi Neri Supermassicci: Una Scoperta Rivoluzionaria del 2026"
+slug: "il-declino-dei-buchi-neri-supermassicci-una-scoperta-rivoluzionaria-del-2026"
+date: "2026-04-09"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Il Declino dei Buchi Neri Supermassicci: Una Scoperta Rivoluzionaria del 2026"
+auto_generated: true
 ---
 
 # Il Declino dei Buchi Neri Supermassicci: Una Scoperta Rivoluzionaria del 2026

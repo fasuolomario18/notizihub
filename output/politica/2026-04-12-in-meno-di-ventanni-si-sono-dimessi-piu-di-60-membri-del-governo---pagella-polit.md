@@ -1,4 +1,12 @@
 ---
+title: "Governo Italiano: Oltre 60 Dimissioni in Due Decenni, Una Crisi Strutturale di Fiducia"
+slug: "governo-italiano-oltre-60-dimissioni-in-due-decenni-una-crisi-strutturale-di-fid"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo Italiano: Oltre 60 Dimissioni in Due Decenni, Una Crisi Strutturale di Fiducia"
+auto_generated: true
 ---
 
 # Governo Italiano: Oltre 60 Dimissioni in Due Decenni, Una Crisi Strutturale di Fiducia

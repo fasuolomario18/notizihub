@@ -1,4 +1,12 @@
 ---
+title: "Affittare casa: i diritti e doveri dell'inquilino in Italia"
+slug: "affittare-casa-i-diritti-e-doveri-dellinquilino-in-italia"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Affittare casa: i diritti e doveri dell'inquilino in Italia"
+auto_generated: true
 ---
 
 # Affittare casa: i diritti e doveri dell'inquilino in Italia

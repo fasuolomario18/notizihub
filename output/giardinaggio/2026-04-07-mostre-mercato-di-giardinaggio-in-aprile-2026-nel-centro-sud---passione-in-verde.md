@@ -1,4 +1,12 @@
 ---
+title: "Mostre Mercato di Giardinaggio in Aprile 2026: Passione in Verde nel Centro-Sud"
+slug: "mostre-mercato-di-giardinaggio-in-aprile-2026-passione-in-verde-nel-centro-sud"
+date: "2026-04-07"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "Mostre Mercato di Giardinaggio in Aprile 2026: Passione in Verde nel Centro-Sud"
+auto_generated: true
 ---
 
 # Mostre Mercato di Giardinaggio in Aprile 2026: Passione in Verde nel Centro-Sud

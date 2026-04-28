@@ -1,4 +1,12 @@
 ---
+title: "Mindfulness-Techniken für Anfänger: Angst überwinden durch Achtsamkeit"
+slug: "mindfulness-techniken-fur-anfanger-angst-uberwinden-durch-achtsamkeit"
+date: "2026-04-23"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "de"
+meta_description: "Mindfulness-Techniken für Anfänger: Angst überwinden durch Achtsamkeit"
+auto_generated: true
 ---
 
 # Mindfulness-Techniken für Anfänger: Angst überwinden durch Achtsamkeit

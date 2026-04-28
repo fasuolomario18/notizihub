@@ -1,4 +1,12 @@
 ---
+title: "Come ridurre lo stress in 10 minuti al giorno: guida completa per il benessere e la prevenzione"
+slug: "come-ridurre-lo-stress-in-10-minuti-al-giorno-guida-completa-per-il-benessere-e-"
+date: "2026-04-23"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Come ridurre lo stress in 10 minuti al giorno: guida completa per il benessere e la prevenzione"
+auto_generated: true
 ---
 
 # Come ridurre lo stress in 10 minuti al giorno: guida completa per il benessere e la prevenzione

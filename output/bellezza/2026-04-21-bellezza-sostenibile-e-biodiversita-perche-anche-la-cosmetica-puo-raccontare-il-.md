@@ -1,4 +1,12 @@
 ---
+title: "Skincare, Trucco e Capelli Sostenibili: Come la Cosmetica Racconta il Rapporto tra Uomo e Natura"
+slug: "skincare-trucco-e-capelli-sostenibili-come-la-cosmetica-racconta-il-rapporto-tra"
+date: "2026-04-21"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "it"
+meta_description: "Skincare, Trucco e Capelli Sostenibili: Come la Cosmetica Racconta il Rapporto tra Uomo e Natura"
+auto_generated: true
 ---
 
 # Skincare, Trucco e Capelli Sostenibili: Come la Cosmetica Racconta il Rapporto tra Uomo e Natura

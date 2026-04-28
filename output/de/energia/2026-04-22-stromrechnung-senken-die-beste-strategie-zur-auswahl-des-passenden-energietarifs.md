@@ -1,4 +1,12 @@
 ---
+title: "Stromrechnung senken: Die beste Strategie zur Auswahl des passenden Energietarifs"
+slug: "stromrechnung-senken-die-beste-strategie-zur-auswahl-des-passenden-energietarifs"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "de"
+meta_description: "Stromrechnung senken: Die beste Strategie zur Auswahl des passenden Energietarifs"
+auto_generated: true
 ---
 
 # Stromrechnung senken: Die beste Strategie zur Auswahl des passenden Energietarifs

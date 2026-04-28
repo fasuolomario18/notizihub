@@ -1,4 +1,12 @@
 ---
+title: "Salario minimo e mercato immobiliare: come i redditi più alti cambiano le scelte abitative nel 2026"
+slug: "salario-minimo-e-mercato-immobiliare-come-i-redditi-piu-alti-cambiano-le-scelte-"
+date: "2026-04-19"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Salario minimo e mercato immobiliare: come i redditi più alti cambiano le scelte abitative nel 2026"
+auto_generated: true
 ---
 
 # Salario minimo e mercato immobiliare: come i redditi più alti cambiano le scelte abitative nel 2026

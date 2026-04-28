@@ -1,4 +1,12 @@
 ---
+title: "Notizie di cronaca: strage in mare, 765 vittime da gennaio 2026"
+slug: "notizie-di-cronaca-strage-in-mare-765-vittime-da-gennaio-2026"
+date: "2026-04-07"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Notizie di cronaca: strage in mare, 765 vittime da gennaio 2026"
+auto_generated: true
 ---
 
 # Notizie di cronaca: strage in mare, 765 vittime da gennaio 2026

@@ -1,4 +1,12 @@
 ---
+title: "Governo italiano nel caos post referendario: le conseguenze politiche del 12 aprile 2026"
+slug: "governo-italiano-nel-caos-post-referendario-le-conseguenze-politiche-del-12-apri"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo italiano nel caos post referendario: le conseguenze politiche del 12 aprile 2026"
+auto_generated: true
 ---
 
 # Governo italiano nel caos post referendario: le conseguenze politiche del 12 aprile 2026

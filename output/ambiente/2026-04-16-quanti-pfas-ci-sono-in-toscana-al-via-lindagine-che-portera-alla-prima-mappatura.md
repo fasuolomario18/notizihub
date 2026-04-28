@@ -1,4 +1,12 @@
 ---
+title: "PFAS in Toscana: Al via la Prima Mappatura degli Inquinanti Eterni per una Sostenibilità Vera"
+slug: "pfas-in-toscana-al-via-la-prima-mappatura-degli-inquinanti-eterni-per-una-sosten"
+date: "2026-04-16"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "PFAS in Toscana: Al via la Prima Mappatura degli Inquinanti Eterni per una Sostenibilità Vera"
+auto_generated: true
 ---
 
 # PFAS in Toscana: Al via la Prima Mappatura degli Inquinanti Eterni per una Sostenibilità Vera

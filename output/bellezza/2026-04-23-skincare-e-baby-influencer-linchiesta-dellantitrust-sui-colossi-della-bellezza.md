@@ -1,4 +1,12 @@
 ---
+title: "Skincare e Baby-Influencer: L'Inchiesta dell'Antitrust sui Colossi della Bellezza"
+slug: "skincare-e-baby-influencer-linchiesta-dellantitrust-sui-colossi-della-bellezza"
+date: "2026-04-23"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "it"
+meta_description: "Skincare e Baby-Influencer: L'Inchiesta dell'Antitrust sui Colossi della Bellezza"
+auto_generated: true
 ---
 
 # Skincare e Baby-Influencer: L'Inchiesta dell'Antitrust sui Colossi della Bellezza

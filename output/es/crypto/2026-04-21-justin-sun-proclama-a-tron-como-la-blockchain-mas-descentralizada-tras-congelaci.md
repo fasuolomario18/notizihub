@@ -1,4 +1,12 @@
 ---
+title: "Justin Sun proclama a Tron como la blockchain más descentralizada tras congelación en Arbitrum"
+slug: "justin-sun-proclama-a-tron-como-la-blockchain-mas-descentralizada-tras-congelaci"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "es"
+meta_description: "Justin Sun proclama a Tron como la blockchain más descentralizada tras congelación en Arbitrum"
+auto_generated: true
 ---
 
 # Justin Sun proclama a Tron como la blockchain más descentralizada tras congelación en Arbitrum

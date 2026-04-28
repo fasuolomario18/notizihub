@@ -1,4 +1,12 @@
 ---
+title: "Comment mieux dormir : guide complet pour un sommeil réparateur"
+slug: "comment-mieux-dormir-guide-complet-pour-un-sommeil-reparateur"
+date: "2026-04-23"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "fr"
+meta_description: "Comment mieux dormir : guide complet pour un sommeil réparateur"
+auto_generated: true
 ---
 
 # Comment mieux dormir : guide complet pour un sommeil réparateur

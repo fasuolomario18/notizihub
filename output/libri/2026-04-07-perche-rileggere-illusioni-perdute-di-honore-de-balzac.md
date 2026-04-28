@@ -1,4 +1,12 @@
 ---
+title: "Perché leggere 'Illusioni perdute' di Balzac nel 2026: il romanzo che continua a raccontarci il presente"
+slug: "perche-leggere-illusioni-perdute-di-balzac-nel-2026-il-romanzo-che-continua-a-ra"
+date: "2026-04-07"
+nicchia: "libri"
+nicchia_nome: "Libri"
+lang: "it"
+meta_description: "Perché leggere 'Illusioni perdute' di Balzac nel 2026: il romanzo che continua a raccontarci il presente"
+auto_generated: true
 ---
 
 # Perché leggere "Illusioni perdute" di Balzac nel 2026: il romanzo che continua a raccontarci il presente

@@ -1,4 +1,12 @@
 ---
+title: "I migliori film e serie TV da vedere su Netflix questa settimana"
+slug: "i-migliori-film-e-serie-tv-da-vedere-su-netflix-questa-settimana"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "I migliori film e serie TV da vedere su Netflix questa settimana"
+auto_generated: true
 ---
 
 # I migliori film e serie TV da vedere su Netflix questa settimana

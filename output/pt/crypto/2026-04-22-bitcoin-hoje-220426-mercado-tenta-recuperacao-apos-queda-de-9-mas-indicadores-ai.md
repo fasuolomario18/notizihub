@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin hoje 22/04/26: Mercado tenta recuperação após queda de 9%, mas indicadores ainda apontam cautela"
+slug: "bitcoin-hoje-220426-mercado-tenta-recuperacao-apos-queda-de-9-mas-indicadores-ai"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "pt"
+meta_description: "Bitcoin hoje 22/04/26: Mercado tenta recuperação após queda de 9%, mas indicadores ainda apontam cautela"
+auto_generated: true
 ---
 
 # Bitcoin hoje 22/04/26: Mercado tenta recuperação após queda de 9%, mas indicadores ainda apontam cautela

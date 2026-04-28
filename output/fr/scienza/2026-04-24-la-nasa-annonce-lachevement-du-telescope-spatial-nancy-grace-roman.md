@@ -1,4 +1,12 @@
 ---
+title: "La NASA annonce l'achèvement du télescope spatial Nancy Grace Roman"
+slug: "la-nasa-annonce-lachevement-du-telescope-spatial-nancy-grace-roman"
+date: "2026-04-24"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "fr"
+meta_description: "La NASA annonce l'achèvement du télescope spatial Nancy Grace Roman"
+auto_generated: true
 ---
 
 <!-- TLDR -->

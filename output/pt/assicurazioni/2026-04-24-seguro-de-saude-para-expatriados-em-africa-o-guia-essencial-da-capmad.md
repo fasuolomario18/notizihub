@@ -1,4 +1,12 @@
 ---
+title: "Seguro de Saúde para Expatriados em África: O Guia Essencial da Capmad"
+slug: "seguro-de-saude-para-expatriados-em-africa-o-guia-essencial-da-capmad"
+date: "2026-04-24"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "pt"
+meta_description: "Seguro de Saúde para Expatriados em África: O Guia Essencial da Capmad"
+auto_generated: true
 ---
 
 # Seguro de Saúde para Expatriados em África: O Guia Essencial da Capmad

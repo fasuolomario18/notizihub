@@ -1,4 +1,12 @@
 ---
+title: "Governo e Turismo: L'intervento della Presidente Meloni all'Assemblea Nazionale di Federalberghi"
+slug: "governo-e-turismo-lintervento-della-presidente-meloni-allassemblea-nazionale-di-"
+date: "2026-04-19"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Turismo: L'intervento della Presidente Meloni all'Assemblea Nazionale di Federalberghi"
+auto_generated: true
 ---
 
 # Governo e Turismo: L'intervento della Presidente Meloni all'Assemblea Nazionale di Federalberghi

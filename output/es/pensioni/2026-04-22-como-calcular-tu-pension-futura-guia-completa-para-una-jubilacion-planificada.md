@@ -1,4 +1,12 @@
 ---
+title: "Cómo Calcular tu Pensión Futura: Guía Completa para una Jubilación Planificada"
+slug: "como-calcular-tu-pension-futura-guia-completa-para-una-jubilacion-planificada"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "es"
+meta_description: "Cómo Calcular tu Pensión Futura: Guía Completa para una Jubilación Planificada"
+auto_generated: true
 ---
 
 # Cómo Calcular tu Pensión Futura: Guía Completa para una Jubilación Planificada

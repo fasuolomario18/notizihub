@@ -1,4 +1,12 @@
 ---
+title: "Expiration des Options d'Avril à Près de 10 Milliards de Dollars : Bitcoin et Ethereum sous les Projecteurs"
+slug: "expiration-des-options-davril-a-pres-de-10-milliards-de-dollars-bitcoin-et-ether"
+date: "2026-04-25"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "fr"
+meta_description: "Expiration des Options d'Avril à Près de 10 Milliards de Dollars : Bitcoin et Ethereum sous les Projecteurs"
+auto_generated: true
 ---
 
 # Expiration des Options d'Avril à Près de 10 Milliards de Dollars : Bitcoin et Ethereum sous les Projecteurs

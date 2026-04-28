@@ -1,4 +1,12 @@
 ---
+title: "Les meilleures voitures d'occasion sous 10 000 euros : SUV, électrique et subventions"
+slug: "les-meilleures-voitures-doccasion-sous-10-000-euros-suv-electrique-et-subvention"
+date: "2026-04-23"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "fr"
+meta_description: "Les meilleures voitures d'occasion sous 10 000 euros : SUV, électrique et subventions"
+auto_generated: true
 ---
 
 <!-- TLDR -->

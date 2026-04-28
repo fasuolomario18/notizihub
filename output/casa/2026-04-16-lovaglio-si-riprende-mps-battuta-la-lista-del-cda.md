@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto: Come le Novità su MPS Impattano il Mercato Immobiliare nel 2026"
+slug: "mutuo-e-affitto-come-le-novita-su-mps-impattano-il-mercato-immobiliare-nel-2026"
+date: "2026-04-16"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto: Come le Novità su MPS Impattano il Mercato Immobiliare nel 2026"
+auto_generated: true
 ---
 
 # Mutuo e Affitto: Come le Novità su MPS Impattano il Mercato Immobiliare nel 2026

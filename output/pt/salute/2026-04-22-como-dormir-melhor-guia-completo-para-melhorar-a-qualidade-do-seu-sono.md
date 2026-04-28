@@ -1,4 +1,12 @@
 ---
+title: "Como Dormir Melhor: Guia Completo para Melhorar a Qualidade do Seu Sono"
+slug: "como-dormir-melhor-guia-completo-para-melhorar-a-qualidade-do-seu-sono"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "pt"
+meta_description: "Como Dormir Melhor: Guia Completo para Melhorar a Qualidade do Seu Sono"
+auto_generated: true
 ---
 
 # Como Dormir Melhor: Guia Completo para Melhorar a Qualidade do Seu Sono

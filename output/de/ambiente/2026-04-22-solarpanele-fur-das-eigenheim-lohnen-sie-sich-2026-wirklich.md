@@ -1,4 +1,12 @@
 ---
+title: "Solarpanele für das Eigenheim: Lohnen sie sich 2026 wirklich?"
+slug: "solarpanele-fur-das-eigenheim-lohnen-sie-sich-2026-wirklich"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "de"
+meta_description: "Solarpanele für das Eigenheim: Lohnen sie sich 2026 wirklich?"
+auto_generated: true
 ---
 
 # Solarpanele für das Eigenheim: Lohnen sie sich 2026 wirklich?

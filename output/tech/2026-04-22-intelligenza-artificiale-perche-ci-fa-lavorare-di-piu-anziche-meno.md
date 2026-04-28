@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale: Perché Ci Fa Lavorare di Più Anziché Meno"
+slug: "intelligenza-artificiale-perche-ci-fa-lavorare-di-piu-anziche-meno"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale: Perché Ci Fa Lavorare di Più Anziché Meno"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale: Perché Ci Fa Lavorare di Più Anziché Meno

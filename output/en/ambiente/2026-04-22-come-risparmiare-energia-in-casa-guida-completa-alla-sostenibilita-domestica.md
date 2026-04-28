@@ -1,4 +1,12 @@
 ---
+title: "How to Save Energy at Home: A Complete Guide to Domestic Sustainability"
+slug: "how-to-save-energy-at-home-a-complete-guide-to-domestic-sustainability"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "en"
+meta_description: "How to Save Energy at Home: A Complete Guide to Domestic Sustainability"
+auto_generated: true
 ---
 
 # How to Save Energy at Home: A Complete Guide to Domestic Sustainability

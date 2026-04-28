@@ -1,4 +1,12 @@
 ---
+title: "PS5 e PlayStation Plus: Aprile 2026 Porta Giochi Incredibili in Abbonamento"
+slug: "ps5-e-playstation-plus-aprile-2026-porta-giochi-incredibili-in-abbonamento"
+date: "2026-04-07"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "PS5 e PlayStation Plus: Aprile 2026 Porta Giochi Incredibili in Abbonamento"
+auto_generated: true
 ---
 
 # PS5 e PlayStation Plus: Aprile 2026 Porta Giochi Incredibili in Abbonamento

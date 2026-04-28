@@ -1,4 +1,12 @@
 ---
+title: "The Best Car Loans for a Credit Score of 580 or Below"
+slug: "the-best-car-loans-for-a-credit-score-of-580-or-below"
+date: "2026-04-25"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "en"
+meta_description: "The Best Car Loans for a Credit Score of 580 or Below"
+auto_generated: true
 ---
 
 # The Best Car Loans for a Credit Score of 580 or Below

@@ -1,4 +1,12 @@
 ---
+title: "Bonus Ristrutturazione 2026: Come Funziona la Guida Completa"
+slug: "bonus-ristrutturazione-2026-come-funziona-la-guida-completa"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "en"
+meta_description: "Bonus Ristrutturazione 2026: Come Funziona la Guida Completa"
+auto_generated: true
 ---
 
 # Bonus Ristrutturazione 2026: Come Funziona la Guida Completa

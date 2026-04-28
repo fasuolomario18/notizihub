@@ -1,4 +1,12 @@
 ---
+title: "Range Extender per Auto Elettrica: Ritorno al Futuro o Passo Indietro?"
+slug: "range-extender-per-auto-elettrica-ritorno-al-futuro-o-passo-indietro"
+date: "2026-04-14"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Range Extender per Auto Elettrica: Ritorno al Futuro o Passo Indietro?"
+auto_generated: true
 ---
 
 # Range Extender per Auto Elettrica: Ritorno al Futuro o Passo Indietro?

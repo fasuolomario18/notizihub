@@ -1,4 +1,12 @@
 ---
+title: "Guía completa para proyectar tu smartphone en la TV: alternativas para iPhone y Android"
+slug: "guia-completa-para-proyectar-tu-smartphone-en-la-tv-alternativas-para-iphone-y-a"
+date: "2026-04-22"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "es"
+meta_description: "Guía completa para proyectar tu smartphone en la TV: alternativas para iPhone y Android"
+auto_generated: true
 ---
 
 # Guía completa para proyectar tu smartphone en la TV: alternativas para iPhone y Android

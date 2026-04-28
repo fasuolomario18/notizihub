@@ -1,4 +1,12 @@
 ---
+title: "Weekly ETF Recap: How Bitcoin, Ethereum, Solana & XRP Funds Stacked Up This Week"
+slug: "weekly-etf-recap-how-bitcoin-ethereum-solana-xrp-funds-stacked-up-this-week"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "en"
+meta_description: "Weekly ETF Recap: How Bitcoin, Ethereum, Solana & XRP Funds Stacked Up This Week"
+auto_generated: true
 ---
 
 # Weekly ETF Recap: How Bitcoin, Ethereum, Solana & XRP Funds Stacked Up This Week

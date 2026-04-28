@@ -1,4 +1,12 @@
 ---
+title: "iPhone vs. Android: Einmal iPhone, immer iPhone? Umfrage zeigt echte Nutzer-Loyalität"
+slug: "iphone-vs-android-einmal-iphone-immer-iphone-umfrage-zeigt-echte-nutzer-loyalita"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "de"
+meta_description: "iPhone vs. Android: Einmal iPhone, immer iPhone? Umfrage zeigt echte Nutzer-Loyalität"
+auto_generated: true
 ---
 
 # iPhone vs. Android: Einmal iPhone, immer iPhone? Umfrage zeigt echte Nutzer-Loyalität

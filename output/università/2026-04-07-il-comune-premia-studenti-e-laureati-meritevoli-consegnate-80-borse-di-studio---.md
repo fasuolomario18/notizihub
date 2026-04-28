@@ -1,4 +1,12 @@
 ---
+title: "Università e Borse di Studio: il Comune premia gli studenti meritevoli nel 2026"
+slug: "universita-e-borse-di-studio-il-comune-premia-gli-studenti-meritevoli-nel-2026"
+date: "2026-04-07"
+nicchia: "università"
+nicchia_nome: "Università"
+lang: "it"
+meta_description: "Università e Borse di Studio: il Comune premia gli studenti meritevoli nel 2026"
+auto_generated: true
 ---
 
 # Università e Borse di Studio: il Comune premia gli studenti meritevoli nel 2026

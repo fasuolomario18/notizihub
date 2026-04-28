@@ -1,4 +1,12 @@
 ---
+title: "Il Paradosso di Darwin: L'Avventura Folle che Conquista PS5, Xbox e PC Gaming nel 2026"
+slug: "il-paradosso-di-darwin-lavventura-folle-che-conquista-ps5-xbox-e-pc-gaming-nel-2"
+date: "2026-04-09"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Il Paradosso di Darwin: L'Avventura Folle che Conquista PS5, Xbox e PC Gaming nel 2026"
+auto_generated: true
 ---
 
 # Il Paradosso di Darwin: L'Avventura Folle che Conquista PS5, Xbox e PC Gaming nel 2026

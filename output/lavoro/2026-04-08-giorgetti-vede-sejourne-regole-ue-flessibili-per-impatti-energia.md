@@ -1,4 +1,12 @@
 ---
+title: "Smart Working e Stipendio: Come le Nuove Regole UE del 2026 Influenzano il Mercato del Lavoro Italiano"
+slug: "smart-working-e-stipendio-come-le-nuove-regole-ue-del-2026-influenzano-il-mercat"
+date: "2026-04-08"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working e Stipendio: Come le Nuove Regole UE del 2026 Influenzano il Mercato del Lavoro Italiano"
+auto_generated: true
 ---
 
 # Smart Working e Stipendio: Come le Nuove Regole UE del 2026 Influenzano il Mercato del Lavoro Italiano

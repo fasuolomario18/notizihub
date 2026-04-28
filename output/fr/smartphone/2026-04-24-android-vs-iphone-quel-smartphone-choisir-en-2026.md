@@ -1,4 +1,12 @@
 ---
+title: "Android vs iPhone : Quel smartphone choisir en 2026 ?"
+slug: "android-vs-iphone-quel-smartphone-choisir-en-2026"
+date: "2026-04-24"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "fr"
+meta_description: "Android vs iPhone : Quel smartphone choisir en 2026 ?"
+auto_generated: true
 ---
 
 # Android vs iPhone : Quel smartphone choisir en 2026 ?

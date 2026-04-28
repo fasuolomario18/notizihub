@@ -1,4 +1,12 @@
 ---
+title: "La Riforma del TUF Cambia gli Assetti del Risparmio Gestito: Come Investire nel 2026"
+slug: "la-riforma-del-tuf-cambia-gli-assetti-del-risparmio-gestito-come-investire-nel-2"
+date: "2026-04-12"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "La Riforma del TUF Cambia gli Assetti del Risparmio Gestito: Come Investire nel 2026"
+auto_generated: true
 ---
 
 # La Riforma del TUF Cambia gli Assetti del Risparmio Gestito: Come Investire nel 2026

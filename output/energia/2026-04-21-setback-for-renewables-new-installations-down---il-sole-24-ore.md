@@ -1,4 +1,12 @@
 ---
+title: "Fotovoltaico in calo: come il rallentamento delle rinnovabili impatta la tua bolletta luce"
+slug: "fotovoltaico-in-calo-come-il-rallentamento-delle-rinnovabili-impatta-la-tua-boll"
+date: "2026-04-21"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Fotovoltaico in calo: come il rallentamento delle rinnovabili impatta la tua bolletta luce"
+auto_generated: true
 ---
 
 # Fotovoltaico in calo: come il rallentamento delle rinnovabili impatta la tua bolletta luce

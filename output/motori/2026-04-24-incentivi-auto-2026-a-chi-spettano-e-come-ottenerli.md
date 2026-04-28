@@ -1,4 +1,12 @@
 ---
+title: "Incentivi Auto 2026: A Chi Spettano e Come Ottenerli"
+slug: "incentivi-auto-2026-a-chi-spettano-e-come-ottenerli"
+date: "2026-04-24"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Incentivi Auto 2026: A Chi Spettano e Come Ottenerli"
+auto_generated: true
 ---
 
 # Incentivi Auto 2026: A Chi Spettano e Come Ottenerli

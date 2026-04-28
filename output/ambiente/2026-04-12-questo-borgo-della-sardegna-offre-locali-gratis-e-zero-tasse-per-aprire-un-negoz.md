@@ -1,4 +1,12 @@
 ---
+title: "Sostenibilità Territoriale: Come un Borgo Sardo Combatte lo Spopolamento con Incentivi Economici e Rinnovabili"
+slug: "sostenibilita-territoriale-come-un-borgo-sardo-combatte-lo-spopolamento-con-ince"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Sostenibilità Territoriale: Come un Borgo Sardo Combatte lo Spopolamento con Incentivi Economici e Rinnovabili"
+auto_generated: true
 ---
 
 # Sostenibilità Territoriale: Come un Borgo Sardo Combatte lo Spopolamento con Incentivi Economici e Rinnovabili

@@ -1,4 +1,12 @@
 ---
+title: "Costo mensile di un gatto: cosa sapere prima di accogliere un felino domestico"
+slug: "costo-mensile-di-un-gatto-cosa-sapere-prima-di-accogliere-un-felino-domestico"
+date: "2026-04-23"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Costo mensile di un gatto: cosa sapere prima di accogliere un felino domestico"
+auto_generated: true
 ---
 
 # Costo mensile di un gatto: cosa sapere prima di accogliere un felino domestico

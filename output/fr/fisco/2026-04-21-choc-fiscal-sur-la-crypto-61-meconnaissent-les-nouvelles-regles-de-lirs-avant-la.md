@@ -1,4 +1,12 @@
 ---
+title: "Choc fiscal sur la crypto : 61% des contribuables ignorent les nouvelles règles de déclaration d'impôts de l'IRS"
+slug: "choc-fiscal-sur-la-crypto-61-des-contribuables-ignorent-les-nouvelles-regles-de-"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "fr"
+meta_description: "Choc fiscal sur la crypto : 61% des contribuables ignorent les nouvelles règles de déclaration d'impôts de l'IRS"
+auto_generated: true
 ---
 
 # Choc fiscal sur la crypto : 61% des contribuables ignorent les nouvelles règles de déclaration d'impôts de l'IRS

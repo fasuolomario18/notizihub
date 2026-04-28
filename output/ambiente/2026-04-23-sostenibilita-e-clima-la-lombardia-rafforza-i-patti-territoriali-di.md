@@ -1,4 +1,12 @@
 ---
+title: "Sostenibilità e Clima: La Lombardia Rafforza i Patti Territoriali di Sostenibilità"
+slug: "sostenibilita-e-clima-la-lombardia-rafforza-i-patti-territoriali-di-sostenibilit"
+date: "2026-04-23"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Sostenibilità e Clima: La Lombardia Rafforza i Patti Territoriali di Sostenibilità"
+auto_generated: true
 ---
 
 # Sostenibilità e Clima: La Lombardia Rafforza i Patti Territoriali di Sostenibilità

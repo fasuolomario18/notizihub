@@ -1,4 +1,12 @@
 ---
+title: "Napoli in piazza per la Flotilla verso Gaza: migliaia al corteo di Mergellina"
+slug: "napoli-in-piazza-per-la-flotilla-verso-gaza-migliaia-al-corteo-di-mergellina"
+date: "2026-04-11"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Napoli in piazza per la Flotilla verso Gaza: migliaia al corteo di Mergellina"
+auto_generated: true
 ---
 
 # Napoli in piazza per la Flotilla verso Gaza: migliaia al corteo di Mergellina

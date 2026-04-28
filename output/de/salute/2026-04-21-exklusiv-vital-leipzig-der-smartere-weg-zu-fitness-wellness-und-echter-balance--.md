@@ -1,4 +1,12 @@
 ---
+title: "Vital Leipzig: Der smartere Weg zu Fitness, Wellness und echtem Wohlbefinden durch intelligente Prävention"
+slug: "vital-leipzig-der-smartere-weg-zu-fitness-wellness-und-echtem-wohlbefinden-durch"
+date: "2026-04-21"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "de"
+meta_description: "Vital Leipzig: Der smartere Weg zu Fitness, Wellness und echtem Wohlbefinden durch intelligente Prävention"
+auto_generated: true
 ---
 
 # Vital Leipzig: Der smartere Weg zu Fitness, Wellness und echtem Wohlbefinden durch intelligente Prävention

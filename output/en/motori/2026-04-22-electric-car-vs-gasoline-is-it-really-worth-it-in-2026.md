@@ -1,4 +1,12 @@
 ---
+title: "Electric Car vs Gasoline: Is It Really Worth It in 2026?"
+slug: "electric-car-vs-gasoline-is-it-really-worth-it-in-2026"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "en"
+meta_description: "Electric Car vs Gasoline: Is It Really Worth It in 2026?"
+auto_generated: true
 ---
 
 # Electric Car vs Gasoline: Is It Really Worth It in 2026?

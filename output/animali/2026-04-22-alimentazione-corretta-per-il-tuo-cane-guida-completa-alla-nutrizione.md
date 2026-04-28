@@ -1,4 +1,12 @@
 ---
+title: "Alimentazione Corretta per il Tuo Cane: Guida Completa alla Nutrizione"
+slug: "alimentazione-corretta-per-il-tuo-cane-guida-completa-alla-nutrizione"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Alimentazione Corretta per il Tuo Cane: Guida Completa alla Nutrizione"
+auto_generated: true
 ---
 
 # Alimentazione Corretta per il Tuo Cane: Guida Completa alla Nutrizione

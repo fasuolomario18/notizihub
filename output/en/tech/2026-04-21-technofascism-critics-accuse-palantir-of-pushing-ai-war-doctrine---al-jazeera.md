@@ -1,4 +1,12 @@
 ---
+title: "Artificial Intelligence War Doctrine: Understanding the Technofascism Debate Surrounding Palantir's Software Platform"
+slug: "artificial-intelligence-war-doctrine-understanding-the-technofascism-debate-surr"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "en"
+meta_description: "Artificial Intelligence War Doctrine: Understanding the Technofascism Debate Surrounding Palantir's Software Platform"
+auto_generated: true
 ---
 
 # Artificial Intelligence War Doctrine: Understanding the Technofascism Debate Surrounding Palantir's Software Platform

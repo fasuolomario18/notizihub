@@ -1,4 +1,12 @@
 ---
+title: "Fotovoltaico Doméstico: Quanto se Poupa Realmente na Conta de Luz"
+slug: "fotovoltaico-domestico-quanto-se-poupa-realmente-na-conta-de-luz"
+date: "2026-04-25"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "pt"
+meta_description: "Fotovoltaico Doméstico: Quanto se Poupa Realmente na Conta de Luz"
+auto_generated: true
 ---
 
 # Fotovoltaico Doméstico: Quanto se Poupa Realmente na Conta de Luz

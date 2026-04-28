@@ -1,4 +1,12 @@
 ---
+title: "Diät und Wohlbefinden: Warum die FIBO die Fitnessindustrie in die falsche Richtung treibt"
+slug: "diat-und-wohlbefinden-warum-die-fibo-die-fitnessindustrie-in-die-falsche-richtun"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "de"
+meta_description: "Diät und Wohlbefinden: Warum die FIBO die Fitnessindustrie in die falsche Richtung treibt"
+auto_generated: true
 ---
 
 # Diät und Wohlbefinden: Warum die FIBO die Fitnessindustrie in die falsche Richtung treibt

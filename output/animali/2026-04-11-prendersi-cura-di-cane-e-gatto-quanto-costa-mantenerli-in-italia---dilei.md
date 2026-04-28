@@ -1,4 +1,12 @@
 ---
+title: "Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026"
+slug: "quanto-costa-mantenere-un-cane-o-un-gatto-in-italia-nel-2026"
+date: "2026-04-11"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026"
+auto_generated: true
 ---
 
 # Quanto Costa Mantenere un Cane o un Gatto in Italia nel 2026

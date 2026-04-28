@@ -1,4 +1,12 @@
 ---
+title: "Auto Elettrica in Europa: 5,7 Milioni di Veicoli in Circolazione nel 2026"
+slug: "auto-elettrica-in-europa-57-milioni-di-veicoli-in-circolazione-nel-2026"
+date: "2026-04-12"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Elettrica in Europa: 5,7 Milioni di Veicoli in Circolazione nel 2026"
+auto_generated: true
 ---
 
 # Auto Elettrica in Europa: 5,7 Milioni di Veicoli in Circolazione nel 2026

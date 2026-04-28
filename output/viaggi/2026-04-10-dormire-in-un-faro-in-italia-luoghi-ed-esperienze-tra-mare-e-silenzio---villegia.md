@@ -1,4 +1,12 @@
 ---
+title: "Dormire in un Faro in Italia: Vacanze Indimenticabili tra Mare e Silenzio nel 2026"
+slug: "dormire-in-un-faro-in-italia-vacanze-indimenticabili-tra-mare-e-silenzio-nel-202"
+date: "2026-04-10"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Dormire in un Faro in Italia: Vacanze Indimenticabili tra Mare e Silenzio nel 2026"
+auto_generated: true
 ---
 
 # Dormire in un Faro in Italia: Vacanze Indimenticabili tra Mare e Silenzio nel 2026

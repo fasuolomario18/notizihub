@@ -1,4 +1,12 @@
 ---
+title: "Netflix : Les 10 meilleurs films à voir en famille"
+slug: "netflix-les-10-meilleurs-films-a-voir-en-famille"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Netflix : Les 10 meilleurs films à voir en famille"
+auto_generated: true
 ---
 
 # Netflix : Les 10 meilleurs films à voir en famille

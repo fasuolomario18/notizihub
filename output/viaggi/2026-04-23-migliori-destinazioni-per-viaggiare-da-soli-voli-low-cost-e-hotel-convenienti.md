@@ -1,4 +1,12 @@
 ---
+title: "Migliori destinazioni per viaggiare da soli: voli low cost e hotel convenienti"
+slug: "migliori-destinazioni-per-viaggiare-da-soli-voli-low-cost-e-hotel-convenienti"
+date: "2026-04-23"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Migliori destinazioni per viaggiare da soli: voli low cost e hotel convenienti"
+auto_generated: true
 ---
 
 # Migliori destinazioni per viaggiare da soli: voli low cost e hotel convenienti

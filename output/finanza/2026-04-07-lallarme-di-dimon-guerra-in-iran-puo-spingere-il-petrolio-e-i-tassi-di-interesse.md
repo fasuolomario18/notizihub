@@ -1,4 +1,12 @@
 ---
+title: "L'allarme di Dimon, guerra in Iran può spingere il petrolio e i tassi di interesse"
+slug: "lallarme-di-dimon-guerra-in-iran-puo-spingere-il-petrolio-e-i-tassi-di-interesse"
+date: "2026-04-07"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "L'allarme di Dimon, guerra in Iran può spingere il petrolio e i tassi di interesse"
+auto_generated: true
 ---
 
 # L'allarme di Dimon, guerra in Iran può spingere il petrolio e i tassi di interesse

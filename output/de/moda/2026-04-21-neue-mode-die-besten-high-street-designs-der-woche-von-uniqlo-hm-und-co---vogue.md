@@ -1,4 +1,12 @@
 ---
+title: "Neue Mode: Die besten High-Street-Designs der Woche von Uniqlo, H&M und Co."
+slug: "neue-mode-die-besten-high-street-designs-der-woche-von-uniqlo-hm-und-co"
+date: "2026-04-21"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "de"
+meta_description: "Neue Mode: Die besten High-Street-Designs der Woche von Uniqlo, H&M und Co."
+auto_generated: true
 ---
 
 # Neue Mode: Die besten High-Street-Designs der Woche von Uniqlo, H&M und Co.

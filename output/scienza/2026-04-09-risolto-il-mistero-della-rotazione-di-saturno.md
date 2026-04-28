@@ -1,4 +1,12 @@
 ---
+title: "La NASA Risolve il Mistero della Rotazione di Saturno Grazie al Telescopio Webb"
+slug: "la-nasa-risolve-il-mistero-della-rotazione-di-saturno-grazie-al-telescopio-webb"
+date: "2026-04-09"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "La NASA Risolve il Mistero della Rotazione di Saturno Grazie al Telescopio Webb"
+auto_generated: true
 ---
 
 # La NASA Risolve il Mistero della Rotazione di Saturno Grazie al Telescopio Webb

@@ -1,4 +1,12 @@
 ---
+title: "Pensión Denegada: El Caso del Jubilado que Acumuló Millonaria Deuda Fiscal en España"
+slug: "pension-denegada-el-caso-del-jubilado-que-acumulo-millonaria-deuda-fiscal-en-esp"
+date: "2026-04-25"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "es"
+meta_description: "Pensión Denegada: El Caso del Jubilado que Acumuló Millonaria Deuda Fiscal en España"
+auto_generated: true
 ---
 
 # Pensión Denegada: El Caso del Jubilado que Acumuló Millonaria Deuda Fiscal en España

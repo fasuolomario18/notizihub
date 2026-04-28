@@ -1,4 +1,12 @@
 ---
+title: "Come funziona l'intelligenza artificiale spiegato semplice: applicazioni nella scienza e nello spazio"
+slug: "come-funziona-lintelligenza-artificiale-spiegato-semplice-applicazioni-nella-sci"
+date: "2026-04-25"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Come funziona l'intelligenza artificiale spiegato semplice: applicazioni nella scienza e nello spazio"
+auto_generated: true
 ---
 
 # Come funziona l'intelligenza artificiale spiegato semplice: applicazioni nella scienza e nello spazio

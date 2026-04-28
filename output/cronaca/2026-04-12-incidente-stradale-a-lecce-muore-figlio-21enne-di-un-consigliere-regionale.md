@@ -1,4 +1,12 @@
 ---
+title: "Tragedia a Lecce: muore 21enne figlio di consigliere regionale in incidente stradale"
+slug: "tragedia-a-lecce-muore-21enne-figlio-di-consigliere-regionale-in-incidente-strad"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Tragedia a Lecce: muore 21enne figlio di consigliere regionale in incidente stradale"
+auto_generated: true
 ---
 
 # Tragedia a Lecce: muore 21enne figlio di consigliere regionale in incidente stradale

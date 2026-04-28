@@ -1,4 +1,12 @@
 ---
+title: "Tarifas de Energia: Como Encontrar a Mais Conveniente para Sua Casa"
+slug: "tarifas-de-energia-como-encontrar-a-mais-conveniente-para-sua-casa"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "pt"
+meta_description: "Tarifas de Energia: Como Encontrar a Mais Conveniente para Sua Casa"
+auto_generated: true
 ---
 
 # Tarifas de Energia: Como Encontrar a Mais Conveniente para Sua Casa

@@ -1,4 +1,12 @@
 ---
+title: "Milei in Israele per il Giorno dell'Indipendenza tra tensioni e minacce iraniane"
+slug: "milei-in-israele-per-il-giorno-dellindipendenza-tra-tensioni-e-minacce-iraniane"
+date: "2026-04-10"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Milei in Israele per il Giorno dell'Indipendenza tra tensioni e minacce iraniane"
+auto_generated: true
 ---
 
 # Milei in Israele per il Giorno dell'Indipendenza tra tensioni e minacce iraniane

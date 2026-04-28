@@ -1,4 +1,12 @@
 ---
+title: "Xbox Update di Aprile 2026: Una Rivoluzione Completa tra Console, Game Pass e Cloud Gaming"
+slug: "xbox-update-di-aprile-2026-una-rivoluzione-completa-tra-console-game-pass-e-clou"
+date: "2026-04-14"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Xbox Update di Aprile 2026: Una Rivoluzione Completa tra Console, Game Pass e Cloud Gaming"
+auto_generated: true
 ---
 
 # Xbox Update di Aprile 2026: Una Rivoluzione Completa tra Console, Game Pass e Cloud Gaming

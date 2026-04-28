@@ -1,4 +1,12 @@
 ---
+title: "Il Papa in Angola: come la cura dei fragili rappresenta la qualità di un governo"
+slug: "il-papa-in-angola-come-la-cura-dei-fragili-rappresenta-la-qualita-di-un-governo"
+date: "2026-04-20"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Il Papa in Angola: come la cura dei fragili rappresenta la qualità di un governo"
+auto_generated: true
 ---
 
 # Il Papa in Angola: come la cura dei fragili rappresenta la qualità di un governo

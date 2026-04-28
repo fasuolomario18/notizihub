@@ -1,4 +1,12 @@
 ---
+title: "NASA Crew Begins New Space Research and Installs New Science Gear"
+slug: "nasa-crew-begins-new-space-research-and-installs-new-science-gear"
+date: "2026-04-21"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "en"
+meta_description: "NASA Crew Begins New Space Research and Installs New Science Gear"
+auto_generated: true
 ---
 
 # NASA Crew Begins New Space Research and Installs New Science Gear

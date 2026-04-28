@@ -1,4 +1,12 @@
 ---
+title: "Las 13 marcas mexicanas de belleza que no debes perder de vista: skincare, maquillaje y cabello de clase mundial"
+slug: "las-13-marcas-mexicanas-de-belleza-que-no-debes-perder-de-vista-skincare-maquill"
+date: "2026-04-21"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "es"
+meta_description: "Las 13 marcas mexicanas de belleza que no debes perder de vista: skincare, maquillaje y cabello de clase mundial"
+auto_generated: true
 ---
 
 # Las 13 marcas mexicanas de belleza que no debes perder de vista: skincare, maquillaje y cabello de clase mundial

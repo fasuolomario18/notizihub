@@ -1,4 +1,12 @@
 ---
+title: "La Terra si è formata solo dal Sistema solare interno: lo rivela uno studio scientifico del 2026"
+slug: "la-terra-si-e-formata-solo-dal-sistema-solare-interno-lo-rivela-uno-studio-scien"
+date: "2026-04-08"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "La Terra si è formata solo dal Sistema solare interno: lo rivela uno studio scientifico del 2026"
+auto_generated: true
 ---
 
 # La Terra si è formata solo dal Sistema solare interno: lo rivela uno studio scientifico del 2026

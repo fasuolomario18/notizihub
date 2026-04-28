@@ -1,4 +1,12 @@
 ---
+title: "Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia"
+slug: "conferenza-internazionale-sul-turismo-alimentare-2026-spagna-protagonista-di-vin"
+date: "2026-04-10"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia"
+auto_generated: true
 ---
 
 # Conferenza Internazionale sul Turismo Alimentare 2026: Spagna protagonista di vino, ristoranti e gastronomia

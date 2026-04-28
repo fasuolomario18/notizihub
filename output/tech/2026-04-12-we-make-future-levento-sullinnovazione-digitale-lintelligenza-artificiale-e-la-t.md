@@ -1,4 +1,12 @@
 ---
+title: "'We Make Future': l'evento bolognese che celebra intelligenza artificiale, smartphone e laptop nel 2026"
+slug: "we-make-future-levento-bolognese-che-celebra-intelligenza-artificiale-smartphone"
+date: "2026-04-12"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "'We Make Future': l'evento bolognese che celebra intelligenza artificiale, smartphone e laptop nel 2026"
+auto_generated: true
 ---
 
 # "We Make Future": l'evento bolognese che celebra intelligenza artificiale, smartphone e laptop nel 2026

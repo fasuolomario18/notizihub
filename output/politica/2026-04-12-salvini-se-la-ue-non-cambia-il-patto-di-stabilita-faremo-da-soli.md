@@ -1,4 +1,12 @@
 ---
+title: "Governo e Patto di Stabilità: Salvini chiede cambiamenti alle regole UE nel 2026"
+slug: "governo-e-patto-di-stabilita-salvini-chiede-cambiamenti-alle-regole-ue-nel-2026"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Patto di Stabilità: Salvini chiede cambiamenti alle regole UE nel 2026"
+auto_generated: true
 ---
 
 # Governo e Patto di Stabilità: Salvini chiede cambiamenti alle regole UE nel 2026

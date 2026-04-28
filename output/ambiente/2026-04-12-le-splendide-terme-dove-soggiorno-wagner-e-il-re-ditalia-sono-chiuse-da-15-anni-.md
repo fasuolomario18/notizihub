@@ -1,4 +1,12 @@
 ---
+title: "Le Terme di Acireale: Un Tesoro Abbandonato che Potrebbe Rinascere con l'Energia Sostenibile"
+slug: "le-terme-di-acireale-un-tesoro-abbandonato-che-potrebbe-rinascere-con-lenergia-s"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Le Terme di Acireale: Un Tesoro Abbandonato che Potrebbe Rinascere con l'Energia Sostenibile"
+auto_generated: true
 ---
 
 # Le Terme di Acireale: Un Tesoro Abbandonato che Potrebbe Rinascere con l'Energia Sostenibile

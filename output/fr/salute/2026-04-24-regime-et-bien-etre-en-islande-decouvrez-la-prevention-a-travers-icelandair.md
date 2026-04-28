@@ -1,4 +1,12 @@
 ---
+title: "Régime et bien-être en Islande : découvrez la prévention à travers Icelandair"
+slug: "regime-et-bien-etre-en-islande-decouvrez-la-prevention-a-travers-icelandair"
+date: "2026-04-24"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "fr"
+meta_description: "Régime et bien-être en Islande : découvrez la prévention à travers Icelandair"
+auto_generated: true
 ---
 
 # Régime et bien-être en Islande : découvrez la prévention à travers Icelandair

@@ -1,4 +1,12 @@
 ---
+title: "I Gatti Guardano Davvero la TV (e la Scienza Spiega Cosa Passa per la Loro Testa)"
+slug: "i-gatti-guardano-davvero-la-tv-e-la-scienza-spiega-cosa-passa-per-la-loro-testa"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "I Gatti Guardano Davvero la TV (e la Scienza Spiega Cosa Passa per la Loro Testa)"
+auto_generated: true
 ---
 
 # I Gatti Guardano Davvero la TV (e la Scienza Spiega Cosa Passa per la Loro Testa)

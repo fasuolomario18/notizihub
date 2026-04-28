@@ -1,4 +1,12 @@
 ---
+title: "Pensione, INPS riconosce errori: ti spettano due anni di arretrati"
+slug: "pensione-inps-riconosce-errori-ti-spettano-due-anni-di-arretrati"
+date: "2026-04-21"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensione, INPS riconosce errori: ti spettano due anni di arretrati"
+auto_generated: true
 ---
 
 # Pensione, INPS riconosce errori: ti spettano due anni di arretrati

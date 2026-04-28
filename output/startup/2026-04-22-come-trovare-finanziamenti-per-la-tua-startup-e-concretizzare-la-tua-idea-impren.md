@@ -1,4 +1,12 @@
 ---
+title: "Come trovare finanziamenti per la tua startup e concretizzare la tua idea imprenditoriale"
+slug: "come-trovare-finanziamenti-per-la-tua-startup-e-concretizzare-la-tua-idea-impren"
+date: "2026-04-22"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "it"
+meta_description: "Come trovare finanziamenti per la tua startup e concretizzare la tua idea imprenditoriale"
+auto_generated: true
 ---
 
 # Come trovare finanziamenti per la tua startup e concretizzare la tua idea imprenditoriale

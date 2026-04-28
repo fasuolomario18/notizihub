@@ -1,4 +1,12 @@
 ---
+title: "Kostenloser Strom bei Sonne: Warum die deutsche Stromrechnung modernisiert werden muss"
+slug: "kostenloser-strom-bei-sonne-warum-die-deutsche-stromrechnung-modernisiert-werden"
+date: "2026-04-21"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "de"
+meta_description: "Kostenloser Strom bei Sonne: Warum die deutsche Stromrechnung modernisiert werden muss"
+auto_generated: true
 ---
 
 # Kostenloser Strom bei Sonne: Warum die deutsche Stromrechnung modernisiert werden muss

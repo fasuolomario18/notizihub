@@ -1,4 +1,12 @@
 ---
+title: "Correct Dog Nutrition: A Complete Guide to Feeding Your Pet"
+slug: "correct-dog-nutrition-a-complete-guide-to-feeding-your-pet"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "en"
+meta_description: "Correct Dog Nutrition: A Complete Guide to Feeding Your Pet"
+auto_generated: true
 ---
 
 # Correct Dog Nutrition: A Complete Guide to Feeding Your Pet

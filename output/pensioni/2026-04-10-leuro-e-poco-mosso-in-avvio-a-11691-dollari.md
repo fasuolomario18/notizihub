@@ -1,4 +1,12 @@
 ---
+title: "Pensione INPS con Quota 103: Come il Cambio Euro-Dollaro Influenza gli Assegni nel 2026"
+slug: "pensione-inps-con-quota-103-come-il-cambio-euro-dollaro-influenza-gli-assegni-ne"
+date: "2026-04-10"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensione INPS con Quota 103: Come il Cambio Euro-Dollaro Influenza gli Assegni nel 2026"
+auto_generated: true
 ---
 
 # Pensione INPS con Quota 103: Come il Cambio Euro-Dollaro Influenza gli Assegni nel 2026

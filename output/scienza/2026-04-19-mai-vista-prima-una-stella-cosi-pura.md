@@ -1,4 +1,12 @@
 ---
+title: "La Stella Più Pura dell'Universo: Una Scoperta Straordinaria Vicino alla Grande Nube di Magellano"
+slug: "la-stella-piu-pura-delluniverso-una-scoperta-straordinaria-vicino-alla-grande-nu"
+date: "2026-04-19"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "La Stella Più Pura dell'Universo: Una Scoperta Straordinaria Vicino alla Grande Nube di Magellano"
+auto_generated: true
 ---
 
 # La Stella Più Pura dell'Universo: Una Scoperta Straordinaria Vicino alla Grande Nube di Magellano

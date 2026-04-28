@@ -1,4 +1,12 @@
 ---
+title: "It's Happening: 8 Summer 2026 Trends Fashion People Are Already Wearing"
+slug: "its-happening-8-summer-2026-trends-fashion-people-are-already-wearing"
+date: "2026-04-22"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "en"
+meta_description: "It's Happening: 8 Summer 2026 Trends Fashion People Are Already Wearing"
+auto_generated: true
 ---
 
 # It's Happening: 8 Summer 2026 Trends Fashion People Are Already Wearing

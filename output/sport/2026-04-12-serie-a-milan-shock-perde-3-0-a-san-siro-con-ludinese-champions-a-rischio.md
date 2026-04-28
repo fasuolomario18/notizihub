@@ -1,4 +1,12 @@
 ---
+title: "Serie A: Milan Shock, Sconfitta 3-0 con l'Udinese a San Siro. Champions League a Rischio"
+slug: "serie-a-milan-shock-sconfitta-3-0-con-ludinese-a-san-siro-champions-league-a-ris"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A: Milan Shock, Sconfitta 3-0 con l'Udinese a San Siro. Champions League a Rischio"
+auto_generated: true
 ---
 
 # Serie A: Milan Shock, Sconfitta 3-0 con l'Udinese a San Siro. Champions League a Rischio

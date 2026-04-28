@@ -1,4 +1,12 @@
 ---
+title: "Petco Health & Wellness (WOOF): ¿Depende ahora todo de su transformación digital para el bienestar animal?"
+slug: "petco-health-wellness-woof-depende-ahora-todo-de-su-transformacion-digital-para-"
+date: "2026-04-21"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "es"
+meta_description: "Petco Health & Wellness (WOOF): ¿Depende ahora todo de su transformación digital para el bienestar animal?"
+auto_generated: true
 ---
 
 # Petco Health & Wellness (WOOF): ¿Depende ahora todo de su transformación digital para el bienestar animal?

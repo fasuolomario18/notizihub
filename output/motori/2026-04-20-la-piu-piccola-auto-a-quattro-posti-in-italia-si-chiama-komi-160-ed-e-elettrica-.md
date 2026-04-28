@@ -1,4 +1,12 @@
 ---
+title: "Komi 160: la più piccola auto elettrica a quattro posti d'Italia nel 2026"
+slug: "komi-160-la-piu-piccola-auto-elettrica-a-quattro-posti-ditalia-nel-2026"
+date: "2026-04-20"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Komi 160: la più piccola auto elettrica a quattro posti d'Italia nel 2026"
+auto_generated: true
 ---
 
 # Komi 160: la più piccola auto elettrica a quattro posti d'Italia nel 2026

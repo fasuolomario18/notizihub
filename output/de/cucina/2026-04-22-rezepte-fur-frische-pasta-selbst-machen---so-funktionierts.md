@@ -1,4 +1,12 @@
 ---
+title: "Rezepte für frische Pasta selbst machen - So funktioniert's"
+slug: "rezepte-fur-frische-pasta-selbst-machen---so-funktionierts"
+date: "2026-04-22"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "de"
+meta_description: "Rezepte für frische Pasta selbst machen - So funktioniert's"
+auto_generated: true
 ---
 
 # Rezepte für frische Pasta selbst machen - So funktioniert's

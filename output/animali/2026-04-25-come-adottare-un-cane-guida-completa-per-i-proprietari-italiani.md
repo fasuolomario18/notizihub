@@ -1,4 +1,12 @@
 ---
+title: "Come adottare un cane: guida completa per i proprietari italiani"
+slug: "come-adottare-un-cane-guida-completa-per-i-proprietari-italiani"
+date: "2026-04-25"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Come adottare un cane: guida completa per i proprietari italiani"
+auto_generated: true
 ---
 
 # Come adottare un cane: guida completa per i proprietari italiani

@@ -1,4 +1,12 @@
 ---
+title: "Mangia Prega Abbaia: il Film Netflix che Conquista lo Streaming nel 2026"
+slug: "mangia-prega-abbaia-il-film-netflix-che-conquista-lo-streaming-nel-2026"
+date: "2026-04-08"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Mangia Prega Abbaia: il Film Netflix che Conquista lo Streaming nel 2026"
+auto_generated: true
 ---
 
 # Mangia Prega Abbaia: il Film Netflix che Conquista lo Streaming nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026"
+slug: "griezmann-lascia-latletico-madrid-le-possibili-destinazioni-nel-calciomercato-20"
+date: "2026-04-07"
+nicchia: "calcio-mercato"
+nicchia_nome: "Calciomercato"
+lang: "it"
+meta_description: "Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026"
+auto_generated: true
 ---
 
 # Griezmann lascia l'Atletico Madrid: le possibili destinazioni nel calciomercato 2026

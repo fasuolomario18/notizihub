@@ -1,4 +1,12 @@
 ---
+title: "Non manchiamo al raro tris celeste Marte – Saturno – Mercurio, sarà un'alba davvero speciale"
+slug: "non-manchiamo-al-raro-tris-celeste-marte-saturno-mercurio-sara-unalba-davvero-sp"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Non manchiamo al raro tris celeste Marte – Saturno – Mercurio, sarà un'alba davvero speciale"
+auto_generated: true
 ---
 
 # Non manchiamo al raro tris celeste Marte – Saturno – Mercurio, sarà un'alba davvero speciale

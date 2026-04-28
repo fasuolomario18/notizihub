@@ -1,4 +1,12 @@
 ---
+title: "How to Care for Dry Hair: Complete Guide to Hair Restoration and Maintenance"
+slug: "how-to-care-for-dry-hair-complete-guide-to-hair-restoration-and-maintenance"
+date: "2026-04-24"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "en"
+meta_description: "How to Care for Dry Hair: Complete Guide to Hair Restoration and Maintenance"
+auto_generated: true
 ---
 
 # How to Care for Dry Hair: Complete Guide to Hair Restoration and Maintenance

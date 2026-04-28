@@ -1,4 +1,12 @@
 ---
+title: "Lune Giganti: Ecco Perché Giove Batte Saturno nello Spazio"
+slug: "lune-giganti-ecco-perche-giove-batte-saturno-nello-spazio"
+date: "2026-04-13"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Lune Giganti: Ecco Perché Giove Batte Saturno nello Spazio"
+auto_generated: true
 ---
 
 # Lune Giganti: Ecco Perché Giove Batte Saturno nello Spazio

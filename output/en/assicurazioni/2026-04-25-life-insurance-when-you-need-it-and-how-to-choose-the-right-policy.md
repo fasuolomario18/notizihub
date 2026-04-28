@@ -1,4 +1,12 @@
 ---
+title: "Life Insurance: When You Need It and How to Choose the Right Policy"
+slug: "life-insurance-when-you-need-it-and-how-to-choose-the-right-policy"
+date: "2026-04-25"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "en"
+meta_description: "Life Insurance: When You Need It and How to Choose the Right Policy"
+auto_generated: true
 ---
 
 # Life Insurance: When You Need It and How to Choose the Right Policy

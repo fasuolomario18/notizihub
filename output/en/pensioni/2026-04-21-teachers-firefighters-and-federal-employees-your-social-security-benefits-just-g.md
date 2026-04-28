@@ -1,4 +1,12 @@
 ---
+title: "Teachers, Firefighters, and Federal Employees: Your Social Security Benefits Just Got Bigger"
+slug: "teachers-firefighters-and-federal-employees-your-social-security-benefits-just-g"
+date: "2026-04-21"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "en"
+meta_description: "Teachers, Firefighters, and Federal Employees: Your Social Security Benefits Just Got Bigger"
+auto_generated: true
 ---
 
 # Teachers, Firefighters, and Federal Employees: Your Social Security Benefits Just Got Bigger

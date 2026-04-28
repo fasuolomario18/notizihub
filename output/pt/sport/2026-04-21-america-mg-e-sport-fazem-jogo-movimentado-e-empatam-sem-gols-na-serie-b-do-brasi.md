@@ -1,4 +1,12 @@
 ---
+title: "América-MG e Sport empatam sem gols em jogo movimentado da Série B do Brasileirão"
+slug: "america-mg-e-sport-empatam-sem-gols-em-jogo-movimentado-da-serie-b-do-brasileira"
+date: "2026-04-21"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "pt"
+meta_description: "América-MG e Sport empatam sem gols em jogo movimentado da Série B do Brasileirão"
+auto_generated: true
 ---
 
 # América-MG e Sport empatam sem gols em jogo movimentado da Série B do Brasileirão

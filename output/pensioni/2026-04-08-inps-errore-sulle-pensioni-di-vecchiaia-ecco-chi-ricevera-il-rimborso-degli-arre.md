@@ -1,4 +1,12 @@
 ---
+title: "INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo"
+slug: "inps-errore-sulle-pensioni-di-vecchiaia-rimborso-degli-arretrati-in-arrivo"
+date: "2026-04-08"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo"
+auto_generated: true
 ---
 
 # INPS: Errore sulle Pensioni di Vecchiaia, Rimborso degli Arretrati in Arrivo

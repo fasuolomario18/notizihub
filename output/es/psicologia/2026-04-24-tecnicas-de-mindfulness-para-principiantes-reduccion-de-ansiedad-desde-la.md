@@ -1,4 +1,12 @@
 ---
+title: "Técnicas de Mindfulness para Principiantes: Reducción de Ansiedad desde la Psicología Moderna"
+slug: "tecnicas-de-mindfulness-para-principiantes-reduccion-de-ansiedad-desde-la-psicol"
+date: "2026-04-24"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "es"
+meta_description: "Técnicas de Mindfulness para Principiantes: Reducción de Ansiedad desde la Psicología Moderna"
+auto_generated: true
 ---
 
 # Técnicas de Mindfulness para Principiantes: Reducción de Ansiedad desde la Psicología Moderna

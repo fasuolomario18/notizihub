@@ -1,4 +1,12 @@
 ---
+title: "Due Buchi Neri Supermassicci al Centro di Markarian 501: La Scoperta che Rivoluziona la Nostra Comprensione dello Spazio"
+slug: "due-buchi-neri-supermassicci-al-centro-di-markarian-501-la-scoperta-che-rivoluzi"
+date: "2026-04-09"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Due Buchi Neri Supermassicci al Centro di Markarian 501: La Scoperta che Rivoluziona la Nostra Comprensione dello Spazio"
+auto_generated: true
 ---
 
 # Due Buchi Neri Supermassicci al Centro di Markarian 501: La Scoperta che Rivoluziona la Nostra Comprensione dello Spazio

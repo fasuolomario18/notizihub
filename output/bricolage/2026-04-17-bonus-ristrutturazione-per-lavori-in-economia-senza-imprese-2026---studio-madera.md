@@ -1,4 +1,12 @@
 ---
+title: "Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese"
+slug: "bonus-ristrutturazione-2026-fai-da-te-e-lavori-in-economia-senza-imprese"
+date: "2026-04-17"
+nicchia: "bricolage"
+nicchia_nome: "Bricolage"
+lang: "it"
+meta_description: "Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese"
+auto_generated: true
 ---
 
 # Bonus Ristrutturazione 2026: Fai da Te e Lavori in Economia Senza Imprese

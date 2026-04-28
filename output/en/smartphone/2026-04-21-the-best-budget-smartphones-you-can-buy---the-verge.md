@@ -1,4 +1,12 @@
 ---
+title: "The Best Budget Smartphones You Can Buy in 2026"
+slug: "the-best-budget-smartphones-you-can-buy-in-2026"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "en"
+meta_description: "The Best Budget Smartphones You Can Buy in 2026"
+auto_generated: true
 ---
 
 # The Best Budget Smartphones You Can Buy in 2026

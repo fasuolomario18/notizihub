@@ -1,4 +1,12 @@
 ---
+title: "Como Fazer Pasta Fresca em Casa: Guia Completo de Receitas e Técnicas"
+slug: "como-fazer-pasta-fresca-em-casa-guia-completo-de-receitas-e-tecnicas"
+date: "2026-04-25"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "pt"
+meta_description: "Como Fazer Pasta Fresca em Casa: Guia Completo de Receitas e Técnicas"
+auto_generated: true
 ---
 
 # Como Fazer Pasta Fresca em Casa: Guia Completo de Receitas e Técnicas

@@ -1,4 +1,12 @@
 ---
+title: "Comment améliorer l'estime de soi : conseils pratiques pour combattre l'anxiété"
+slug: "comment-ameliorer-lestime-de-soi-conseils-pratiques-pour-combattre-lanxiete"
+date: "2026-04-24"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "fr"
+meta_description: "Comment améliorer l'estime de soi : conseils pratiques pour combattre l'anxiété"
+auto_generated: true
 ---
 
 # Comment améliorer l'estime de soi : conseils pratiques pour combattre l'anxiété

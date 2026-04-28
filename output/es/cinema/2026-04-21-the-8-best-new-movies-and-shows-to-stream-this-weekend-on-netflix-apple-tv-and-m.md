@@ -1,4 +1,12 @@
 ---
+title: "Las 8 Mejores Películas y Series para Ver Este Fin de Semana en Netflix, Apple TV y Más"
+slug: "las-8-mejores-peliculas-y-series-para-ver-este-fin-de-semana-en-netflix-apple-tv"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "es"
+meta_description: "Las 8 Mejores Películas y Series para Ver Este Fin de Semana en Netflix, Apple TV y Más"
+auto_generated: true
 ---
 
 # Las 8 Mejores Películas y Series para Ver Este Fin de Semana en Netflix, Apple TV y Más

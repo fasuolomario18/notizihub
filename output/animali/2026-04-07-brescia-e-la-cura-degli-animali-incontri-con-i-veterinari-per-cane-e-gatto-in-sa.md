@@ -1,4 +1,12 @@
 ---
+title: "Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia"
+slug: "cane-e-gatto-in-salute-gli-incontri-con-i-veterinari-a-brescia"
+date: "2026-04-07"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia"
+auto_generated: true
 ---
 
 # Cane e Gatto in Salute: gli Incontri con i Veterinari a Brescia

@@ -1,4 +1,12 @@
 ---
+title: "INPS: Ennesimo Errore sulle Pensioni di Vecchiaia nel 2026, Scattano Arretrati e Interessi"
+slug: "inps-ennesimo-errore-sulle-pensioni-di-vecchiaia-nel-2026-scattano-arretrati-e-i"
+date: "2026-04-10"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "INPS: Ennesimo Errore sulle Pensioni di Vecchiaia nel 2026, Scattano Arretrati e Interessi"
+auto_generated: true
 ---
 
 # INPS: Ennesimo Errore sulle Pensioni di Vecchiaia nel 2026, Scattano Arretrati e Interessi

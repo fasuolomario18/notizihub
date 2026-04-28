@@ -1,4 +1,12 @@
 ---
+title: "Sfogliando le Galassie di Arp con il VST: Le Straordinarie Immagini dello Spazio"
+slug: "sfogliando-le-galassie-di-arp-con-il-vst-le-straordinarie-immagini-dello-spazio"
+date: "2026-04-10"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Sfogliando le Galassie di Arp con il VST: Le Straordinarie Immagini dello Spazio"
+auto_generated: true
 ---
 
 # Sfogliando le Galassie di Arp con il VST: Le Straordinarie Immagini dello Spazio

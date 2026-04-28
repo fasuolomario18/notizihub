@@ -1,4 +1,12 @@
 ---
+title: "Il Governo Italiano Continua l'Azione di Governo: Cosa Accade al Parlamento nel 2026"
+slug: "il-governo-italiano-continua-lazione-di-governo-cosa-accade-al-parlamento-nel-20"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Il Governo Italiano Continua l'Azione di Governo: Cosa Accade al Parlamento nel 2026"
+auto_generated: true
 ---
 
 # Il Governo Italiano Continua l'Azione di Governo: Cosa Accade al Parlamento nel 2026

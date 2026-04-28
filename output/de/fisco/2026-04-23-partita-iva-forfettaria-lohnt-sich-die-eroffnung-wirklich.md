@@ -1,4 +1,12 @@
 ---
+title: "Partita IVA forfettaria: Lohnt sich die Eröffnung wirklich?"
+slug: "partita-iva-forfettaria-lohnt-sich-die-eroffnung-wirklich"
+date: "2026-04-23"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "de"
+meta_description: "Partita IVA forfettaria: Lohnt sich die Eröffnung wirklich?"
+auto_generated: true
 ---
 
 # Partita IVA forfettaria: Lohnt sich die Eröffnung wirklich?

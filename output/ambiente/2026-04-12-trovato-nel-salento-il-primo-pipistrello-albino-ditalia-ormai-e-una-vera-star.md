@@ -1,4 +1,12 @@
 ---
+title: "Il Pipistrello Albino del Salento: Una Scoperta Straordinaria che Insegna la Sostenibilità Ambientale"
+slug: "il-pipistrello-albino-del-salento-una-scoperta-straordinaria-che-insegna-la-sost"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Il Pipistrello Albino del Salento: Una Scoperta Straordinaria che Insegna la Sostenibilità Ambientale"
+auto_generated: true
 ---
 
 # Il Pipistrello Albino del Salento: Una Scoperta Straordinaria che Insegna la Sostenibilità Ambientale

@@ -1,4 +1,12 @@
 ---
+title: "Motori a Flusso Assiale: La Rivoluzione che Cambierà Tutte le Auto Elettriche"
+slug: "motori-a-flusso-assiale-la-rivoluzione-che-cambiera-tutte-le-auto-elettriche"
+date: "2026-04-10"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Motori a Flusso Assiale: La Rivoluzione che Cambierà Tutte le Auto Elettriche"
+auto_generated: true
 ---
 
 # Motori a Flusso Assiale: La Rivoluzione che Cambierà Tutte le Auto Elettriche

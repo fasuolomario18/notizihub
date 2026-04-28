@@ -1,4 +1,12 @@
 ---
+title: "Inter Cala il Tris: Cagliari Battuto, Scudetto Serie A Sempre Più Vicino"
+slug: "inter-cala-il-tris-cagliari-battuto-scudetto-serie-a-sempre-piu-vicino"
+date: "2026-04-18"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Inter Cala il Tris: Cagliari Battuto, Scudetto Serie A Sempre Più Vicino"
+auto_generated: true
 ---
 
 # Inter Cala il Tris: Cagliari Battuto, Scudetto Serie A Sempre Più Vicino

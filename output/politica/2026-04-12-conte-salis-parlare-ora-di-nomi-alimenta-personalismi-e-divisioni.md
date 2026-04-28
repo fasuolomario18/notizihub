@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: il dibattito sui nomi passa in secondo piano rispetto al programma"
+slug: "governo-e-parlamento-il-dibattito-sui-nomi-passa-in-secondo-piano-rispetto-al-pr"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: il dibattito sui nomi passa in secondo piano rispetto al programma"
+auto_generated: true
 ---
 
 # Governo e Parlamento: il dibattito sui nomi passa in secondo piano rispetto al programma

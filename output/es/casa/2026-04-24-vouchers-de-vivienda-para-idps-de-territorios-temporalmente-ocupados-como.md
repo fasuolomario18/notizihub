@@ -1,4 +1,12 @@
 ---
+title: "Vouchers de Vivienda para IDPs de Territorios Temporalmente Ocupados: Cómo Recibir hasta 2 Millones de UAH en 2026"
+slug: "vouchers-de-vivienda-para-idps-de-territorios-temporalmente-ocupados-como-recibi"
+date: "2026-04-24"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "es"
+meta_description: "Vouchers de Vivienda para IDPs de Territorios Temporalmente Ocupados: Cómo Recibir hasta 2 Millones de UAH en 2026"
+auto_generated: true
 ---
 
 # Vouchers de Vivienda para IDPs de Territorios Temporalmente Ocupados: Cómo Recibir hasta 2 Millones de UAH en 2026

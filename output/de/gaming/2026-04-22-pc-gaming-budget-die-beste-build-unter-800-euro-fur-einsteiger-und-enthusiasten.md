@@ -1,4 +1,12 @@
 ---
+title: "PC Gaming Budget: Die beste Build unter 800 Euro für Einsteiger und Enthusiasten"
+slug: "pc-gaming-budget-die-beste-build-unter-800-euro-fur-einsteiger-und-enthusiasten"
+date: "2026-04-22"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "de"
+meta_description: "PC Gaming Budget: Die beste Build unter 800 Euro für Einsteiger und Enthusiasten"
+auto_generated: true
 ---
 
 # PC Gaming Budget: Die beste Build unter 800 Euro für Einsteiger und Enthusiasten

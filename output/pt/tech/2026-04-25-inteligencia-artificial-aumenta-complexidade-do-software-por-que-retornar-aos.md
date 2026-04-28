@@ -1,4 +1,12 @@
 ---
+title: "Inteligência Artificial Aumenta Complexidade do Software: Por Que Retornar aos Fundamentos de Engenharia é Essencial"
+slug: "inteligencia-artificial-aumenta-complexidade-do-software-por-que-retornar-aos-fu"
+date: "2026-04-25"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "pt"
+meta_description: "Inteligência Artificial Aumenta Complexidade do Software: Por Que Retornar aos Fundamentos de Engenharia é Essencial"
+auto_generated: true
 ---
 
 # Inteligência Artificial Aumenta Complexidade do Software: Por Que Retornar aos Fundamentos de Engenharia é Essencial

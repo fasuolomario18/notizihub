@@ -1,4 +1,12 @@
 ---
+title: "AI Essentials: Il Primo Corso Gratuito di Intelligenza Artificiale Nasce a Firenze nel 2026"
+slug: "ai-essentials-il-primo-corso-gratuito-di-intelligenza-artificiale-nasce-a-firenz"
+date: "2026-04-11"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "AI Essentials: Il Primo Corso Gratuito di Intelligenza Artificiale Nasce a Firenze nel 2026"
+auto_generated: true
 ---
 
 # AI Essentials: Il Primo Corso Gratuito di Intelligenza Artificiale Nasce a Firenze nel 2026

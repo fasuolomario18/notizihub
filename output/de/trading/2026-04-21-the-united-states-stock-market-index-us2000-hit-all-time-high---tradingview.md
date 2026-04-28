@@ -1,4 +1,12 @@
 ---
+title: "Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView"
+slug: "trading-aktien-an-der-borse-us2000-index-erreicht-allzeithoch-auf-tradingview"
+date: "2026-04-21"
+nicchia: "trading"
+nicchia_nome: "Trading"
+lang: "de"
+meta_description: "Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView"
+auto_generated: true
 ---
 
 # Trading Aktien an der Börse: US2000-Index erreicht Allzeithoch auf TradingView

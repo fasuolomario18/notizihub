@@ -1,4 +1,12 @@
 ---
+title: "Federal Investigation Into Deaths of US Scientists Tied to Sensitive NASA and Space Research"
+slug: "federal-investigation-into-deaths-of-us-scientists-tied-to-sensitive-nasa-and-sp"
+date: "2026-04-24"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "en"
+meta_description: "Federal Investigation Into Deaths of US Scientists Tied to Sensitive NASA and Space Research"
+auto_generated: true
 ---
 
 # Federal Investigation Into Deaths of US Scientists Tied to Sensitive NASA and Space Research

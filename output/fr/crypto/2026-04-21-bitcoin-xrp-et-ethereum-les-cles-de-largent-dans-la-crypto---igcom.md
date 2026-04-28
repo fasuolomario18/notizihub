@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum et XRP : les clés de l'argent dans la crypto"
+slug: "bitcoin-ethereum-et-xrp-les-cles-de-largent-dans-la-crypto"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "fr"
+meta_description: "Bitcoin, Ethereum et XRP : les clés de l'argent dans la crypto"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum et XRP : les clés de l'argent dans la crypto

@@ -1,4 +1,12 @@
 ---
+title: "Come Capire Quali App Consumano più Batteria su iPhone e Android nel 2026"
+slug: "come-capire-quali-app-consumano-piu-batteria-su-iphone-e-android-nel-2026"
+date: "2026-04-09"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "Come Capire Quali App Consumano più Batteria su iPhone e Android nel 2026"
+auto_generated: true
 ---
 
 # Come Capire Quali App Consumano più Batteria su iPhone e Android nel 2026

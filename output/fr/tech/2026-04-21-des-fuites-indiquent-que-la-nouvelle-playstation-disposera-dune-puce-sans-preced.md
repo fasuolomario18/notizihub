@@ -1,4 +1,12 @@
 ---
+title: "L'intelligence artificielle au cœur de la nouvelle PlayStation : une révolution AMD annoncée"
+slug: "lintelligence-artificielle-au-cur-de-la-nouvelle-playstation-une-revolution-amd-"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "fr"
+meta_description: "L'intelligence artificielle au cœur de la nouvelle PlayStation : une révolution AMD annoncée"
+auto_generated: true
 ---
 
 # L'intelligence artificielle au cœur de la nouvelle PlayStation : une révolution AMD annoncée

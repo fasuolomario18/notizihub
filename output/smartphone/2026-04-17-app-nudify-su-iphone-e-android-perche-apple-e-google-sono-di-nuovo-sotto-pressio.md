@@ -1,4 +1,12 @@
 ---
+title: "App 'Nudify' su iPhone e Android: Apple e Google sotto Pressione nel 2026"
+slug: "app-nudify-su-iphone-e-android-apple-e-google-sotto-pressione-nel-2026"
+date: "2026-04-17"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "App 'Nudify' su iPhone e Android: Apple e Google sotto Pressione nel 2026"
+auto_generated: true
 ---
 
 # App "Nudify" su iPhone e Android: Apple e Google sotto Pressione nel 2026

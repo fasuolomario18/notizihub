@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: Il Fact-Checking del Discorso di Meloni dopo il Referendum"
+slug: "governo-e-parlamento-il-fact-checking-del-discorso-di-meloni-dopo-il-referendum"
+date: "2026-04-10"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: Il Fact-Checking del Discorso di Meloni dopo il Referendum"
+auto_generated: true
 ---
 
 # Governo e Parlamento: Il Fact-Checking del Discorso di Meloni dopo il Referendum

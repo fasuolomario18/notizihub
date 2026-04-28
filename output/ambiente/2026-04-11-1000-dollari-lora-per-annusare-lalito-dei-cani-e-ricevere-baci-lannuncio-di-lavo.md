@@ -1,4 +1,12 @@
 ---
+title: "1000 dollari l'ora per 'annusare' l'alito dei cani e ricevere baci: l'annuncio di lavoro (non adatto a deboli di stomaco)"
+slug: "1000-dollari-lora-per-annusare-lalito-dei-cani-e-ricevere-baci-lannuncio-di-lavo"
+date: "2026-04-11"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "1000 dollari l'ora per 'annusare' l'alito dei cani e ricevere baci: l'annuncio di lavoro (non adatto a deboli di stomaco)"
+auto_generated: true
 ---
 
 # 1000 dollari l'ora per "annusare" l'alito dei cani e ricevere baci: l'annuncio di lavoro (non adatto a deboli di stomaco)

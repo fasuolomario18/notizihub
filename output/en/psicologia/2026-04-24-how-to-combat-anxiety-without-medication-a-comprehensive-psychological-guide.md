@@ -1,4 +1,12 @@
 ---
+title: "How to Combat Anxiety Without Medication: A Comprehensive Psychological Guide"
+slug: "how-to-combat-anxiety-without-medication-a-comprehensive-psychological-guide"
+date: "2026-04-24"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "en"
+meta_description: "How to Combat Anxiety Without Medication: A Comprehensive Psychological Guide"
+auto_generated: true
 ---
 
 # How to Combat Anxiety Without Medication: A Comprehensive Psychological Guide

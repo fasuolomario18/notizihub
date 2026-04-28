@@ -1,4 +1,12 @@
 ---
+title: "Premio giornalistico Sassoli, c'è il patrocinio del Parlamento europeo"
+slug: "premio-giornalistico-sassoli-ce-il-patrocinio-del-parlamento-europeo"
+date: "2026-04-10"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Premio giornalistico Sassoli, c'è il patrocinio del Parlamento europeo"
+auto_generated: true
 ---
 
 # Premio giornalistico Sassoli, c'è il patrocinio del Parlamento europeo

@@ -1,4 +1,12 @@
 ---
+title: "Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité"
+slug: "les-changements-du-budget-federal-impactent-les-projets-energetiques-du-kentucky"
+date: "2026-04-21"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "fr"
+meta_description: "Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité"
+auto_generated: true
 ---
 
 # Les changements du budget fédéral impactent les projets énergétiques du Kentucky et vos factures d'électricité

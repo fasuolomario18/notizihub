@@ -1,4 +1,12 @@
 ---
+title: "Il passaggio di MSC da Aponte ai figli: cosa cambia davvero per l'economia italiana"
+slug: "il-passaggio-di-msc-da-aponte-ai-figli-cosa-cambia-davvero-per-leconomia-italian"
+date: "2026-04-13"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Il passaggio di MSC da Aponte ai figli: cosa cambia davvero per l'economia italiana"
+auto_generated: true
 ---
 
 # Il passaggio di MSC da Aponte ai figli: cosa cambia davvero per l'economia italiana

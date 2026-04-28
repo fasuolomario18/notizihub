@@ -1,4 +1,12 @@
 ---
+title: "NBA Playoff 2026: Nuggets, Lakers e Knicks Accendono i Riflettori"
+slug: "nba-playoff-2026-nuggets-lakers-e-knicks-accendono-i-riflettori"
+date: "2026-04-19"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "NBA Playoff 2026: Nuggets, Lakers e Knicks Accendono i Riflettori"
+auto_generated: true
 ---
 
 # NBA Playoff 2026: Nuggets, Lakers e Knicks Accendono i Riflettori

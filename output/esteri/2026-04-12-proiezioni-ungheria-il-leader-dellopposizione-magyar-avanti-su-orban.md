@@ -1,4 +1,12 @@
 ---
+title: "Proiezioni Ungheria, il leader dell'opposizione Magyar avanti su Orban"
+slug: "proiezioni-ungheria-il-leader-dellopposizione-magyar-avanti-su-orban"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Proiezioni Ungheria, il leader dell'opposizione Magyar avanti su Orban"
+auto_generated: true
 ---
 
 # Proiezioni Ungheria, il leader dell'opposizione Magyar avanti su Orban

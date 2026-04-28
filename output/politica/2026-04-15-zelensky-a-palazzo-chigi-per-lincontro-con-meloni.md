@@ -1,4 +1,12 @@
 ---
+title: "Zelensky a Palazzo Chigi: l'incontro strategico con Meloni per il futuro dell'Ucraina e dell'Europa"
+slug: "zelensky-a-palazzo-chigi-lincontro-strategico-con-meloni-per-il-futuro-dellucrai"
+date: "2026-04-15"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Zelensky a Palazzo Chigi: l'incontro strategico con Meloni per il futuro dell'Ucraina e dell'Europa"
+auto_generated: true
 ---
 
 # Zelensky a Palazzo Chigi: l'incontro strategico con Meloni per il futuro dell'Ucraina e dell'Europa

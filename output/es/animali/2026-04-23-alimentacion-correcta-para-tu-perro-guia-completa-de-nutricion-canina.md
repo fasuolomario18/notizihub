@@ -1,4 +1,12 @@
 ---
+title: "Alimentación Correcta para tu Perro: Guía Completa de Nutrición Canina"
+slug: "alimentacion-correcta-para-tu-perro-guia-completa-de-nutricion-canina"
+date: "2026-04-23"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "es"
+meta_description: "Alimentación Correcta para tu Perro: Guía Completa de Nutrición Canina"
+auto_generated: true
 ---
 
 # Alimentación Correcta para tu Perro: Guía Completa de Nutrición Canina

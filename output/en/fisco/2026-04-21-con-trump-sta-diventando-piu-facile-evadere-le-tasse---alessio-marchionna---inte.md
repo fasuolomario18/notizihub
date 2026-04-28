@@ -1,4 +1,12 @@
 ---
+title: "How Trump Administration Policies Are Making Tax Evasion Easier in 2026"
+slug: "how-trump-administration-policies-are-making-tax-evasion-easier-in-2026"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "en"
+meta_description: "How Trump Administration Policies Are Making Tax Evasion Easier in 2026"
+auto_generated: true
 ---
 
 # How Trump Administration Policies Are Making Tax Evasion Easier in 2026

@@ -1,4 +1,12 @@
 ---
+title: "San Gimignano tra le torri medievali e la transizione verso l'energia rinnovabile"
+slug: "san-gimignano-tra-le-torri-medievali-e-la-transizione-verso-lenergia-rinnovabile"
+date: "2026-04-08"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "San Gimignano tra le torri medievali e la transizione verso l'energia rinnovabile"
+auto_generated: true
 ---
 
 # San Gimignano tra le torri medievali e la transizione verso l'energia rinnovabile

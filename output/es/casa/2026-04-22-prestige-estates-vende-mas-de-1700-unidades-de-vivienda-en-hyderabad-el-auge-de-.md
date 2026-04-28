@@ -1,4 +1,12 @@
 ---
+title: "Prestige Estates vende más de 1,700 unidades de vivienda en Hyderabad: El auge de la hipoteca y el alquiler en India"
+slug: "prestige-estates-vende-mas-de-1700-unidades-de-vivienda-en-hyderabad-el-auge-de-"
+date: "2026-04-22"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "es"
+meta_description: "Prestige Estates vende más de 1,700 unidades de vivienda en Hyderabad: El auge de la hipoteca y el alquiler en India"
+auto_generated: true
 ---
 
 # Prestige Estates vende más de 1,700 unidades de vivienda en Hyderabad: El auge de la hipoteca y el alquiler en India

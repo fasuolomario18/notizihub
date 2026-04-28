@@ -1,4 +1,12 @@
 ---
+title: "Escaneo Móvil sin Apps: Guía 2026 para Founders en el Ecosistema Startup"
+slug: "escaneo-movil-sin-apps-guia-2026-para-founders-en-el-ecosistema-startup"
+date: "2026-04-24"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "es"
+meta_description: "Escaneo Móvil sin Apps: Guía 2026 para Founders en el Ecosistema Startup"
+auto_generated: true
 ---
 
 # Escaneo Móvil sin Apps: Guía 2026 para Founders en el Ecosistema Startup

@@ -1,4 +1,12 @@
 ---
+title: "Carro Elétrico Reduz Custo de Uso em até 70% Comparado aos Modelos a Gasolina"
+slug: "carro-eletrico-reduz-custo-de-uso-em-ate-70-comparado-aos-modelos-a-gasolina"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "Carro Elétrico Reduz Custo de Uso em até 70% Comparado aos Modelos a Gasolina"
+auto_generated: true
 ---
 
 # Carro Elétrico Reduz Custo de Uso em até 70% Comparado aos Modelos a Gasolina

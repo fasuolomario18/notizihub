@@ -1,4 +1,12 @@
 ---
+title: "Set LEGO Pirati su Amazon: la scelta perfetta per nerd e collezionisti nel 2026"
+slug: "set-lego-pirati-su-amazon-la-scelta-perfetta-per-nerd-e-collezionisti-nel-2026"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Set LEGO Pirati su Amazon: la scelta perfetta per nerd e collezionisti nel 2026"
+auto_generated: true
 ---
 
 # Set LEGO Pirati su Amazon: la scelta perfetta per nerd e collezionisti nel 2026

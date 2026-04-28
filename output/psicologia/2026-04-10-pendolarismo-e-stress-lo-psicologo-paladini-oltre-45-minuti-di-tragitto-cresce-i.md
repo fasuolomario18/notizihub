@@ -1,4 +1,12 @@
 ---
+title: "Pendolarismo e Stress: Quando il Tragitto Diventa Un Problema di Salute Mentale"
+slug: "pendolarismo-e-stress-quando-il-tragitto-diventa-un-problema-di-salute-mentale"
+date: "2026-04-10"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "it"
+meta_description: "Pendolarismo e Stress: Quando il Tragitto Diventa Un Problema di Salute Mentale"
+auto_generated: true
 ---
 
 # Pendolarismo e Stress: Quando il Tragitto Diventa Un Problema di Salute Mentale

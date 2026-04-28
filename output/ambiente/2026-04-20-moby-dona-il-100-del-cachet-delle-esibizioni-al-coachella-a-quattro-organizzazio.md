@@ -1,4 +1,12 @@
 ---
+title: "Moby Dona il 100% dei Cachet al Coachella 2026 per la Sostenibilità e i Diritti Animali"
+slug: "moby-dona-il-100-dei-cachet-al-coachella-2026-per-la-sostenibilita-e-i-diritti-a"
+date: "2026-04-20"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Moby Dona il 100% dei Cachet al Coachella 2026 per la Sostenibilità e i Diritti Animali"
+auto_generated: true
 ---
 
 # Moby Dona il 100% dei Cachet al Coachella 2026 per la Sostenibilità e i Diritti Animali

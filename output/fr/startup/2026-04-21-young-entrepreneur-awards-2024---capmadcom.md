@@ -1,4 +1,12 @@
 ---
+title: "Young Entrepreneur Awards 2024 : Comment Capmad.com Célèbre les Startups Innovantes"
+slug: "young-entrepreneur-awards-2024-comment-capmadcom-celebre-les-startups-innovantes"
+date: "2026-04-21"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "fr"
+meta_description: "Young Entrepreneur Awards 2024 : Comment Capmad.com Célèbre les Startups Innovantes"
+auto_generated: true
 ---
 
 # Young Entrepreneur Awards 2024 : Comment Capmad.com Célèbre les Startups Innovantes

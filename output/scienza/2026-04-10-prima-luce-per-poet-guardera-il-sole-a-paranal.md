@@ -1,4 +1,12 @@
 ---
+title: "POET: Il Nuovo Telescopio Solare dell'ESO che Rivoluziona la Ricerca di Pianeti Extrasolari"
+slug: "poet-il-nuovo-telescopio-solare-delleso-che-rivoluziona-la-ricerca-di-pianeti-ex"
+date: "2026-04-10"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "POET: Il Nuovo Telescopio Solare dell'ESO che Rivoluziona la Ricerca di Pianeti Extrasolari"
+auto_generated: true
 ---
 
 # POET: Il Nuovo Telescopio Solare dell'ESO che Rivoluziona la Ricerca di Pianeti Extrasolari

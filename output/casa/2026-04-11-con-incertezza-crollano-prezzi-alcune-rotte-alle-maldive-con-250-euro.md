@@ -1,4 +1,12 @@
 ---
+title: "Con incertezza crollano prezzi alcune rotte, alle Maldive con 250 euro"
+slug: "con-incertezza-crollano-prezzi-alcune-rotte-alle-maldive-con-250-euro"
+date: "2026-04-11"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Con incertezza crollano prezzi alcune rotte, alle Maldive con 250 euro"
+auto_generated: true
 ---
 
 # Con incertezza crollano prezzi alcune rotte, alle Maldive con 250 euro

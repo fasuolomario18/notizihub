@@ -1,4 +1,12 @@
 ---
+title: "S&P 500 and Nasdaq Hit Record Highs: Stock Market Trading Surge on Intel Rally and Diplomatic Hopes"
+slug: "sp-500-and-nasdaq-hit-record-highs-stock-market-trading-surge-on-intel-rally-and"
+date: "2026-04-25"
+nicchia: "trading"
+nicchia_nome: "Trading"
+lang: "en"
+meta_description: "S&P 500 and Nasdaq Hit Record Highs: Stock Market Trading Surge on Intel Rally and Diplomatic Hopes"
+auto_generated: true
 ---
 
 # S&P 500 and Nasdaq Hit Record Highs: Stock Market Trading Surge on Intel Rally and Diplomatic Hopes

@@ -1,4 +1,12 @@
 ---
+title: "Partita IVA vs Dipendente: Cosa Conviene Davvero nel 2026"
+slug: "partita-iva-vs-dipendente-cosa-conviene-davvero-nel-2026"
+date: "2026-04-25"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Partita IVA vs Dipendente: Cosa Conviene Davvero nel 2026"
+auto_generated: true
 ---
 
 # Partita IVA vs Dipendente: Cosa Conviene Davvero nel 2026

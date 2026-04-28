@@ -1,4 +1,12 @@
 ---
+title: "Amazon: 7 set PLAYMOBIL dei pirati a ottimi prezzi, c'è la nave di Asterix!"
+slug: "amazon-7-set-playmobil-dei-pirati-a-ottimi-prezzi-ce-la-nave-di-asterix"
+date: "2026-04-07"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Amazon: 7 set PLAYMOBIL dei pirati a ottimi prezzi, c'è la nave di Asterix!"
+auto_generated: true
 ---
 
 # Amazon: 7 set PLAYMOBIL dei pirati a ottimi prezzi, c'è la nave di Asterix!

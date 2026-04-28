@@ -1,4 +1,12 @@
 ---
+title: "Smart Working, Stipendio e Curriculum: Come l'Italia Innova nel Mondo del Lavoro"
+slug: "smart-working-stipendio-e-curriculum-come-litalia-innova-nel-mondo-del-lavoro"
+date: "2026-04-10"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working, Stipendio e Curriculum: Come l'Italia Innova nel Mondo del Lavoro"
+auto_generated: true
 ---
 
 # Smart Working, Stipendio e Curriculum: Come l'Italia Innova nel Mondo del Lavoro

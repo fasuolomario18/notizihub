@@ -1,4 +1,12 @@
 ---
+title: "Neu auf Netflix April 2026: Diese Serien und Filme lohnen sich"
+slug: "neu-auf-netflix-april-2026-diese-serien-und-filme-lohnen-sich"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "de"
+meta_description: "Neu auf Netflix April 2026: Diese Serien und Filme lohnen sich"
+auto_generated: true
 ---
 
 # Neu auf Netflix April 2026: Diese Serien und Filme lohnen sich

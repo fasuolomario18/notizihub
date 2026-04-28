@@ -1,4 +1,12 @@
 ---
+title: "Azzurri Milano Cortina a P.Chigi: Goggia, Meloni ci ha esortato ad andare avanti"
+slug: "azzurri-milano-cortina-a-pchigi-goggia-meloni-ci-ha-esortato-ad-andare-avanti"
+date: "2026-04-09"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Azzurri Milano Cortina a P.Chigi: Goggia, Meloni ci ha esortato ad andare avanti"
+auto_generated: true
 ---
 
 # Azzurri Milano Cortina a P.Chigi: Goggia, Meloni ci ha esortato ad andare avanti

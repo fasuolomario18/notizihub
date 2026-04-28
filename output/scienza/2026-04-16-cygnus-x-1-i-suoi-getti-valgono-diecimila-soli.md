@@ -1,4 +1,12 @@
 ---
+title: "I Getti di Cygnus X-1 Equivalgono a Diecimila Soli: La Scoperta della NASA nel 2026"
+slug: "i-getti-di-cygnus-x-1-equivalgono-a-diecimila-soli-la-scoperta-della-nasa-nel-20"
+date: "2026-04-16"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "I Getti di Cygnus X-1 Equivalgono a Diecimila Soli: La Scoperta della NASA nel 2026"
+auto_generated: true
 ---
 
 # I Getti di Cygnus X-1 Equivalgono a Diecimila Soli: La Scoperta della NASA nel 2026

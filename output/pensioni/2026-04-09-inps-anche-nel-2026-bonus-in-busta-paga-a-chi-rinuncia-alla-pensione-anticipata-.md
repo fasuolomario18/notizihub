@@ -1,4 +1,12 @@
 ---
+title: "INPS: Bonus in Busta Paga nel 2026 per chi Rinuncia alla Pensione Anticipata"
+slug: "inps-bonus-in-busta-paga-nel-2026-per-chi-rinuncia-alla-pensione-anticipata"
+date: "2026-04-09"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "INPS: Bonus in Busta Paga nel 2026 per chi Rinuncia alla Pensione Anticipata"
+auto_generated: true
 ---
 
 # INPS: Bonus in Busta Paga nel 2026 per chi Rinuncia alla Pensione Anticipata

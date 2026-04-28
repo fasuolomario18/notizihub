@@ -1,4 +1,12 @@
 ---
+title: "Il Papa a Camerun: 'La pace richiede leader lucidi, non minacce e armi'"
+slug: "il-papa-a-camerun-la-pace-richiede-leader-lucidi-non-minacce-e-armi"
+date: "2026-04-16"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Il Papa a Camerun: 'La pace richiede leader lucidi, non minacce e armi'"
+auto_generated: true
 ---
 
 # Il Papa a Camerun: "La pace richiede leader lucidi, non minacce e armi"

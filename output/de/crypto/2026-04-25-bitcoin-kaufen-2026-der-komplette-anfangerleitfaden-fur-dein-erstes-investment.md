@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin kaufen 2026: Der komplette Anfängerleitfaden für dein erstes Investment"
+slug: "bitcoin-kaufen-2026-der-komplette-anfangerleitfaden-fur-dein-erstes-investment"
+date: "2026-04-25"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "de"
+meta_description: "Bitcoin kaufen 2026: Der komplette Anfängerleitfaden für dein erstes Investment"
+auto_generated: true
 ---
 
 # Bitcoin kaufen 2026: Der komplette Anfängerleitfaden für dein erstes Investment

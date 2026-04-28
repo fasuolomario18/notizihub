@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto in Incertezza: cosa cambia con i dati sul deficit di fine aprile 2026"
+slug: "mutuo-e-affitto-in-incertezza-cosa-cambia-con-i-dati-sul-deficit-di-fine-aprile-"
+date: "2026-04-09"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto in Incertezza: cosa cambia con i dati sul deficit di fine aprile 2026"
+auto_generated: true
 ---
 
 # Mutuo e Affitto in Incertezza: cosa cambia con i dati sul deficit di fine aprile 2026

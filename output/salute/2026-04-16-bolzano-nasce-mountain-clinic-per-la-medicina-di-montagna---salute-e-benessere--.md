@@ -1,4 +1,12 @@
 ---
+title: "Mountain Clinic a Bolzano: La Nuova Frontiera della Medicina di Montagna e Benessere Nutrizionale"
+slug: "mountain-clinic-a-bolzano-la-nuova-frontiera-della-medicina-di-montagna-e-beness"
+date: "2026-04-16"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "it"
+meta_description: "Mountain Clinic a Bolzano: La Nuova Frontiera della Medicina di Montagna e Benessere Nutrizionale"
+auto_generated: true
 ---
 
 # Mountain Clinic a Bolzano: La Nuova Frontiera della Medicina di Montagna e Benessere Nutrizionale

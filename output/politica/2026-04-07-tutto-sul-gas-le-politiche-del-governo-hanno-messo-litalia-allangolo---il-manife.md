@@ -1,4 +1,12 @@
 ---
+title: "Governo e Gas: Come le Politiche Energetiche Hanno Messo l'Italia in Difficoltà"
+slug: "governo-e-gas-come-le-politiche-energetiche-hanno-messo-litalia-in-difficolta"
+date: "2026-04-07"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Gas: Come le Politiche Energetiche Hanno Messo l'Italia in Difficoltà"
+auto_generated: true
 ---
 
 # Governo e Gas: Come le Politiche Energetiche Hanno Messo l'Italia in Difficoltà

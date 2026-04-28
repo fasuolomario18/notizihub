@@ -1,4 +1,12 @@
 ---
+title: "Les meilleures destinations pour voyager seul : Guide complet des vacances en solo"
+slug: "les-meilleures-destinations-pour-voyager-seul-guide-complet-des-vacances-en-solo"
+date: "2026-04-22"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "fr"
+meta_description: "Les meilleures destinations pour voyager seul : Guide complet des vacances en solo"
+auto_generated: true
 ---
 
 # Les meilleures destinations pour voyager seul : Guide complet des vacances en solo

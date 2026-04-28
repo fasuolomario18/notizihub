@@ -1,4 +1,12 @@
 ---
+title: "Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026"
+slug: "investire-in-etf-e-risparmio-la-strategia-di-franchetti-e-egm-nel-2026"
+date: "2026-04-16"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026"
+auto_generated: true
 ---
 
 # Investire in ETF e Risparmio: La Strategia di Franchetti e EGM nel 2026

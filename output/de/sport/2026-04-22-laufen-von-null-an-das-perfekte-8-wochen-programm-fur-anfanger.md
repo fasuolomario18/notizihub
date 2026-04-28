@@ -1,4 +1,12 @@
 ---
+title: "Laufen von Null an: Das perfekte 8-Wochen-Programm für Anfänger"
+slug: "laufen-von-null-an-das-perfekte-8-wochen-programm-fur-anfanger"
+date: "2026-04-22"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "de"
+meta_description: "Laufen von Null an: Das perfekte 8-Wochen-Programm für Anfänger"
+auto_generated: true
 ---
 
 # Laufen von Null an: Das perfekte 8-Wochen-Programm für Anfänger

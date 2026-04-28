@@ -1,4 +1,12 @@
 ---
+title: "Photovoltaïque domestique : combien économisez-vous vraiment sur votre facture d'électricité ?"
+slug: "photovoltaique-domestique-combien-economisez-vous-vraiment-sur-votre-facture-del"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "fr"
+meta_description: "Photovoltaïque domestique : combien économisez-vous vraiment sur votre facture d'électricité ?"
+auto_generated: true
 ---
 
 # Photovoltaïque domestique : combien économisez-vous vraiment sur votre facture d'électricité ?

@@ -1,4 +1,12 @@
 ---
+title: "Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età"
+slug: "orto-sospeso-il-laboratorio-di-giardinaggio-che-trasforma-la-vita-della-terza-et"
+date: "2026-04-07"
+nicchia: "giardinaggio"
+nicchia_nome: "Giardinaggio"
+lang: "it"
+meta_description: "Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età"
+auto_generated: true
 ---
 
 # Orto Sospeso: il Laboratorio di Giardinaggio che Trasforma la Vita della Terza Età

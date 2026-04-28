@@ -1,4 +1,12 @@
 ---
+title: "Finanzierungsmöglichkeiten für deine Startup-Idee: Ein praktischer Leitfaden"
+slug: "finanzierungsmoglichkeiten-fur-deine-startup-idee-ein-praktischer-leitfaden"
+date: "2026-04-22"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "de"
+meta_description: "Finanzierungsmöglichkeiten für deine Startup-Idee: Ein praktischer Leitfaden"
+auto_generated: true
 ---
 
 # Finanzierungsmöglichkeiten für deine Startup-Idee: Ein praktischer Leitfaden

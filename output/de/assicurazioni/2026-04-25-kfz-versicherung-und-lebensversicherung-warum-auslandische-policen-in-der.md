@@ -1,4 +1,12 @@
 ---
+title: "Kfz-Versicherung und Lebensversicherung: Warum ausländische Policen in der Ukraine nicht ausreichen"
+slug: "kfz-versicherung-und-lebensversicherung-warum-auslandische-policen-in-der-ukrain"
+date: "2026-04-25"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "de"
+meta_description: "Kfz-Versicherung und Lebensversicherung: Warum ausländische Policen in der Ukraine nicht ausreichen"
+auto_generated: true
 ---
 
 # Kfz-Versicherung und Lebensversicherung: Warum ausländische Policen in der Ukraine nicht ausreichen

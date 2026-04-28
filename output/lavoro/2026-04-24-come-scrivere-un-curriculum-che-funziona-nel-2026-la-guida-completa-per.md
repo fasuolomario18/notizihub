@@ -1,4 +1,12 @@
 ---
+title: "Come scrivere un curriculum che funziona nel 2026: la guida completa per candidati intelligenti"
+slug: "come-scrivere-un-curriculum-che-funziona-nel-2026-la-guida-completa-per-candidat"
+date: "2026-04-24"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Come scrivere un curriculum che funziona nel 2026: la guida completa per candidati intelligenti"
+auto_generated: true
 ---
 
 # Come scrivere un curriculum che funziona nel 2026: la guida completa per candidati intelligenti

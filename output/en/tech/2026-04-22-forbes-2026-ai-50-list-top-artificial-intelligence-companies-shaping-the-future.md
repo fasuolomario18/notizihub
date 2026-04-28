@@ -1,4 +1,12 @@
 ---
+title: "Forbes 2026 AI 50 List: Top Artificial Intelligence Companies Shaping the Future"
+slug: "forbes-2026-ai-50-list-top-artificial-intelligence-companies-shaping-the-future"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "en"
+meta_description: "Forbes 2026 AI 50 List: Top Artificial Intelligence Companies Shaping the Future"
+auto_generated: true
 ---
 
 # Forbes 2026 AI 50 List: Top Artificial Intelligence Companies Shaping the Future

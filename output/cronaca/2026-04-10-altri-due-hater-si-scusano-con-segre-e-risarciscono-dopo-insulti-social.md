@@ -1,4 +1,12 @@
 ---
+title: "Cronaca Italia: Due 'hater' si scusano e risarciscono Segre dopo insulti social"
+slug: "cronaca-italia-due-hater-si-scusano-e-risarciscono-segre-dopo-insulti-social"
+date: "2026-04-10"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Cronaca Italia: Due 'hater' si scusano e risarciscono Segre dopo insulti social"
+auto_generated: true
 ---
 
 # Cronaca Italia: Due 'hater' si scusano e risarciscono Segre dopo insulti social

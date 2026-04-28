@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: L'intervento della Presidente Meloni alla Camera dei Deputati"
+slug: "governo-e-parlamento-lintervento-della-presidente-meloni-alla-camera-dei-deputat"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: L'intervento della Presidente Meloni alla Camera dei Deputati"
+auto_generated: true
 ---
 
 # Governo e Parlamento: L'intervento della Presidente Meloni alla Camera dei Deputati

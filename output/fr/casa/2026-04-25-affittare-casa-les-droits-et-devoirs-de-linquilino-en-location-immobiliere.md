@@ -1,4 +1,12 @@
 ---
+title: "Affittare casa : les droits et devoirs de l'inquilino en location immobilière"
+slug: "affittare-casa-les-droits-et-devoirs-de-linquilino-en-location-immobiliere"
+date: "2026-04-25"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "fr"
+meta_description: "Affittare casa : les droits et devoirs de l'inquilino en location immobilière"
+auto_generated: true
 ---
 
 # Affittare casa : les droits et devoirs de l'inquilino en location immobilière

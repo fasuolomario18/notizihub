@@ -1,4 +1,12 @@
 ---
+title: "Então você perdeu o prazo do imposto. O que acontece agora?"
+slug: "entao-voce-perdeu-o-prazo-do-imposto-o-que-acontece-agora"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "pt"
+meta_description: "Então você perdeu o prazo do imposto. O que acontece agora?"
+auto_generated: true
 ---
 
 # Então você perdeu o prazo do imposto. O que acontece agora?

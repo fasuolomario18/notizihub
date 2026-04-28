@@ -1,4 +1,12 @@
 ---
+title: "I Campi Magnetici delle Giovani Galassie si Formano Molto Più Velocemente del Previsto: le Scoperte della NASA"
+slug: "i-campi-magnetici-delle-giovani-galassie-si-formano-molto-piu-velocemente-del-pr"
+date: "2026-04-07"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "I Campi Magnetici delle Giovani Galassie si Formano Molto Più Velocemente del Previsto: le Scoperte della NASA"
+auto_generated: true
 ---
 
 # I Campi Magnetici delle Giovani Galassie si Formano Molto Più Velocemente del Previsto: le Scoperte della NASA

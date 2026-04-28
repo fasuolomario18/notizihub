@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum e Solana in forte rialzo: le quotazioni crypto superano i massimi storici"
+slug: "bitcoin-ethereum-e-solana-in-forte-rialzo-le-quotazioni-crypto-superano-i-massim"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin, Ethereum e Solana in forte rialzo: le quotazioni crypto superano i massimi storici"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum e Solana in forte rialzo: le quotazioni crypto superano i massimi storici

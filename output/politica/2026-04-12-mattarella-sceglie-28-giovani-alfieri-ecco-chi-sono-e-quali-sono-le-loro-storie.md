@@ -1,4 +1,12 @@
 ---
+title: "Governo e Società Civile: I 28 Alfieri della Repubblica Scelti da Mattarella nel 2026"
+slug: "governo-e-societa-civile-i-28-alfieri-della-repubblica-scelti-da-mattarella-nel-"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Società Civile: I 28 Alfieri della Repubblica Scelti da Mattarella nel 2026"
+auto_generated: true
 ---
 
 # Governo e Società Civile: I 28 Alfieri della Repubblica Scelti da Mattarella nel 2026

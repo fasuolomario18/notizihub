@@ -1,4 +1,12 @@
 ---
+title: "Guerra in Medio Oriente: gli USA incontreranno l'Iran in Pakistan mentre Israele intensifica gli attacchi"
+slug: "guerra-in-medio-oriente-gli-usa-incontreranno-liran-in-pakistan-mentre-israele-i"
+date: "2026-04-09"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Guerra in Medio Oriente: gli USA incontreranno l'Iran in Pakistan mentre Israele intensifica gli attacchi"
+auto_generated: true
 ---
 
 # Guerra in Medio Oriente: gli USA incontreranno l'Iran in Pakistan mentre Israele intensifica gli attacchi

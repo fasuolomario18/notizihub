@@ -1,4 +1,12 @@
 ---
+title: "Espansione dell'Universo: la Misurazione che Divide gli Scienziati nel 2026"
+slug: "espansione-delluniverso-la-misurazione-che-divide-gli-scienziati-nel-2026"
+date: "2026-04-15"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Espansione dell'Universo: la Misurazione che Divide gli Scienziati nel 2026"
+auto_generated: true
 ---
 
 # Espansione dell'Universo: la Misurazione che Divide gli Scienziati nel 2026

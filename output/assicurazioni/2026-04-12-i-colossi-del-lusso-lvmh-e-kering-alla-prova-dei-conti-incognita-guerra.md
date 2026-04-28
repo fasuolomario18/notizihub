@@ -1,4 +1,12 @@
 ---
+title: "I colossi del lusso LVMH e Kering alla prova dei conti, incognita guerra"
+slug: "i-colossi-del-lusso-lvmh-e-kering-alla-prova-dei-conti-incognita-guerra"
+date: "2026-04-12"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "I colossi del lusso LVMH e Kering alla prova dei conti, incognita guerra"
+auto_generated: true
 ---
 
 # I colossi del lusso LVMH e Kering alla prova dei conti, incognita guerra

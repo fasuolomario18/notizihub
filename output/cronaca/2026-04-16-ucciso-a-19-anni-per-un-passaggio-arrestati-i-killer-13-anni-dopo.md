@@ -1,4 +1,12 @@
 ---
+title: "Ucciso a 19 anni per un errore: arrestati i killer 13 anni dopo nel 2026"
+slug: "ucciso-a-19-anni-per-un-errore-arrestati-i-killer-13-anni-dopo-nel-2026"
+date: "2026-04-16"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Ucciso a 19 anni per un errore: arrestati i killer 13 anni dopo nel 2026"
+auto_generated: true
 ---
 
 # Ucciso a 19 anni per un errore: arrestati i killer 13 anni dopo nel 2026

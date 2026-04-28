@@ -1,4 +1,12 @@
 ---
+title: "Mouse P.I. For Hire: il nuovo sparatutto irriverente arriva in preordine su Amazon per PS5, Xbox e PC"
+slug: "mouse-pi-for-hire-il-nuovo-sparatutto-irriverente-arriva-in-preordine-su-amazon-"
+date: "2026-04-09"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Mouse P.I. For Hire: il nuovo sparatutto irriverente arriva in preordine su Amazon per PS5, Xbox e PC"
+auto_generated: true
 ---
 
 # Mouse P.I. For Hire: il nuovo sparatutto irriverente arriva in preordine su Amazon per PS5, Xbox e PC

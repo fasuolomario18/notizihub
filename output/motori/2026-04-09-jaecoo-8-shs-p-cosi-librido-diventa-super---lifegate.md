@@ -1,4 +1,12 @@
 ---
+title: "Jaecoo 8 Shs-P: Come l'Ibrido Diventa 'Super' nel 2026"
+slug: "jaecoo-8-shs-p-come-librido-diventa-super-nel-2026"
+date: "2026-04-09"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Jaecoo 8 Shs-P: Come l'Ibrido Diventa 'Super' nel 2026"
+auto_generated: true
 ---
 
 # Jaecoo 8 Shs-P: Come l'Ibrido Diventa "Super" nel 2026

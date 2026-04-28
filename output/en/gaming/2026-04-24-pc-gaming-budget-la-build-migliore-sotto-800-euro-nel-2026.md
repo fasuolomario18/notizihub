@@ -1,4 +1,12 @@
 ---
+title: "PC Gaming Budget: La Build Migliore Sotto 800 Euro nel 2026"
+slug: "pc-gaming-budget-la-build-migliore-sotto-800-euro-nel-2026"
+date: "2026-04-24"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "en"
+meta_description: "PC Gaming Budget: La Build Migliore Sotto 800 Euro nel 2026"
+auto_generated: true
 ---
 
 # PC Gaming Budget: La Build Migliore Sotto 800 Euro nel 2026

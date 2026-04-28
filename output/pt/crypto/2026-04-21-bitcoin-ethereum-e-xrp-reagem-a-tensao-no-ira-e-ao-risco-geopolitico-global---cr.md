@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum e XRP reagem à tensão no Irã e ao risco geopolítico global"
+slug: "bitcoin-ethereum-e-xrp-reagem-a-tensao-no-ira-e-ao-risco-geopolitico-global"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "pt"
+meta_description: "Bitcoin, Ethereum e XRP reagem à tensão no Irã e ao risco geopolítico global"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum e XRP reagem à tensão no Irã e ao risco geopolítico global

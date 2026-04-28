@@ -1,4 +1,12 @@
 ---
+title: "Crimson Desert Day One Edition PS5: L'affare di Pasqua 2026 per collezionisti che capiscono il valore"
+slug: "crimson-desert-day-one-edition-ps5-laffare-di-pasqua-2026-per-collezionisti-che-"
+date: "2026-04-07"
+nicchia: "fumetti"
+nicchia_nome: "Fumetti"
+lang: "it"
+meta_description: "Crimson Desert Day One Edition PS5: L'affare di Pasqua 2026 per collezionisti che capiscono il valore"
+auto_generated: true
 ---
 
 # Crimson Desert Day One Edition PS5: L'affare di Pasqua 2026 per collezionisti che capiscono il valore

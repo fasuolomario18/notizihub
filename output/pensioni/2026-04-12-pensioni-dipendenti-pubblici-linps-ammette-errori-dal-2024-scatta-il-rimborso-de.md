@@ -1,4 +1,12 @@
 ---
+title: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati"
+slug: "pensioni-dipendenti-pubblici-inps-ammette-errori-e-avvia-il-rimborso-degli-arret"
+date: "2026-04-12"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati"
+auto_generated: true
 ---
 
 # Pensioni Dipendenti Pubblici: INPS Ammette Errori e Avvia il Rimborso degli Arretrati

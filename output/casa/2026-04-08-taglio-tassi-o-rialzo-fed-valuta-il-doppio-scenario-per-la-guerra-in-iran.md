@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto nel 2026: Come la Fed Influenza i Tassi di Interesse"
+slug: "mutuo-e-affitto-nel-2026-come-la-fed-influenza-i-tassi-di-interesse"
+date: "2026-04-08"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto nel 2026: Come la Fed Influenza i Tassi di Interesse"
+auto_generated: true
 ---
 
 # Mutuo e Affitto nel 2026: Come la Fed Influenza i Tassi di Interesse

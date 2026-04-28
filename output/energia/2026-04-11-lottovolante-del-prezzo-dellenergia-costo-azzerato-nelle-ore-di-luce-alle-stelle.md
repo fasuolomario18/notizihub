@@ -1,4 +1,12 @@
 ---
+title: "Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna"
+slug: "bolletta-luce-2026-lottovolante-dei-prezzi-dellenergia-tra-ore-di-luce-e-tariffa"
+date: "2026-04-11"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna"
+auto_generated: true
 ---
 
 # Bolletta Luce 2026: l'Ottovolante dei Prezzi dell'Energia tra Ore di Luce e Tariffa Notturna

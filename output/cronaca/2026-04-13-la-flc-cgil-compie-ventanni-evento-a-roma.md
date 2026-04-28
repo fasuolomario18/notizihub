@@ -1,4 +1,12 @@
 ---
+title: "La Flc Cgil compie vent'anni: due giorni di celebrazione sul valore della Conoscenza a Roma"
+slug: "la-flc-cgil-compie-ventanni-due-giorni-di-celebrazione-sul-valore-della-conoscen"
+date: "2026-04-13"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "La Flc Cgil compie vent'anni: due giorni di celebrazione sul valore della Conoscenza a Roma"
+auto_generated: true
 ---
 
 # La Flc Cgil compie vent'anni: due giorni di celebrazione sul valore della Conoscenza a Roma

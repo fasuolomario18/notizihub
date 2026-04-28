@@ -1,4 +1,12 @@
 ---
+title: "Il Declino dei Buchi Neri Supermassicci: La Rivelazione del 'Mezzogiorno Cosmico'"
+slug: "il-declino-dei-buchi-neri-supermassicci-la-rivelazione-del-mezzogiorno-cosmico"
+date: "2026-04-07"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Il Declino dei Buchi Neri Supermassicci: La Rivelazione del 'Mezzogiorno Cosmico'"
+auto_generated: true
 ---
 
 # Il Declino dei Buchi Neri Supermassicci: La Rivelazione del "Mezzogiorno Cosmico"

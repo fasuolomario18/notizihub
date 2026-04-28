@@ -1,4 +1,12 @@
 ---
+title: "Como Adotar um Cachorro: Guia Completo para Novos Tutores"
+slug: "como-adotar-um-cachorro-guia-completo-para-novos-tutores"
+date: "2026-04-24"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "pt"
+meta_description: "Como Adotar um Cachorro: Guia Completo para Novos Tutores"
+auto_generated: true
 ---
 
 # Como Adotar um Cachorro: Guia Completo para Novos Tutores

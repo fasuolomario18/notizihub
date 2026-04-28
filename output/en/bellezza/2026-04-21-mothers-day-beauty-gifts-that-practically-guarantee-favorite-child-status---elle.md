@@ -1,4 +1,12 @@
 ---
+title: "Mother's Day Beauty Gifts That Practically Guarantee Favorite Child Status"
+slug: "mothers-day-beauty-gifts-that-practically-guarantee-favorite-child-status"
+date: "2026-04-21"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "en"
+meta_description: "Mother's Day Beauty Gifts That Practically Guarantee Favorite Child Status"
+auto_generated: true
 ---
 
 # Mother's Day Beauty Gifts That Practically Guarantee Favorite Child Status

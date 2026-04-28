@@ -1,4 +1,12 @@
 ---
+title: "PS5: la nuova interfaccia del PlayStation Store in stile Netflix rivoluziona lo shopping gaming"
+slug: "ps5-la-nuova-interfaccia-del-playstation-store-in-stile-netflix-rivoluziona-lo-s"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "PS5: la nuova interfaccia del PlayStation Store in stile Netflix rivoluziona lo shopping gaming"
+auto_generated: true
 ---
 
 # PS5: la nuova interfaccia del PlayStation Store in stile Netflix rivoluziona lo shopping gaming

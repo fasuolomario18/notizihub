@@ -1,4 +1,12 @@
 ---
+title: "Steuern auf Kryptowährungen in Italien: So funktioniert es"
+slug: "steuern-auf-kryptowahrungen-in-italien-so-funktioniert-es"
+date: "2026-04-23"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "de"
+meta_description: "Steuern auf Kryptowährungen in Italien: So funktioniert es"
+auto_generated: true
 ---
 
 # Steuern auf Kryptowährungen in Italien: So funktioniert es

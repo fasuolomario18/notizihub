@@ -1,4 +1,12 @@
 ---
+title: "Ponte crollato sul Trigno: i sub in azione per le ricerche del disperso"
+slug: "ponte-crollato-sul-trigno-i-sub-in-azione-per-le-ricerche-del-disperso"
+date: "2026-04-11"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Ponte crollato sul Trigno: i sub in azione per le ricerche del disperso"
+auto_generated: true
 ---
 
 # Ponte crollato sul Trigno: i sub in azione per le ricerche del disperso

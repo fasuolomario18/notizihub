@@ -1,4 +1,12 @@
 ---
+title: "Smart Working: Direitos e Como Requerer Trabalho Remoto"
+slug: "smart-working-direitos-e-como-requerer-trabalho-remoto"
+date: "2026-04-24"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "pt"
+meta_description: "Smart Working: Direitos e Como Requerer Trabalho Remoto"
+auto_generated: true
 ---
 
 # Smart Working: Direitos e Como Requerer Trabalho Remoto

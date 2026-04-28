@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin no logra superar los $80,000: análisis del retroceso de precios en abril de 2026"
+slug: "bitcoin-no-logra-superar-los-80000-analisis-del-retroceso-de-precios-en-abril-de"
+date: "2026-04-25"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "es"
+meta_description: "Bitcoin no logra superar los $80,000: análisis del retroceso de precios en abril de 2026"
+auto_generated: true
 ---
 
 # Bitcoin no logra superar los $80,000: análisis del retroceso de precios en abril de 2026

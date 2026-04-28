@@ -1,4 +1,12 @@
 ---
+title: "Dossier Gravina: il calcio italiano di fronte ai suoi problemi e le soluzioni per il futuro"
+slug: "dossier-gravina-il-calcio-italiano-di-fronte-ai-suoi-problemi-e-le-soluzioni-per"
+date: "2026-04-10"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Dossier Gravina: il calcio italiano di fronte ai suoi problemi e le soluzioni per il futuro"
+auto_generated: true
 ---
 
 # Dossier Gravina: il calcio italiano di fronte ai suoi problemi e le soluzioni per il futuro

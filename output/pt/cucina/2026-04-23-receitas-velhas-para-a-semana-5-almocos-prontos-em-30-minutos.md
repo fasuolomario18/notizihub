@@ -1,4 +1,12 @@
 ---
+title: "Receitas Velhas para a Semana: 5 Almoços Prontos em 30 Minutos"
+slug: "receitas-velhas-para-a-semana-5-almocos-prontos-em-30-minutos"
+date: "2026-04-23"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "pt"
+meta_description: "Receitas Velhas para a Semana: 5 Almoços Prontos em 30 Minutos"
+auto_generated: true
 ---
 
 # Receitas Velhas para a Semana: 5 Almoços Prontos em 30 Minutos

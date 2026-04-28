@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e Monopattini Elettrici: Le Nuove Regole dal 2026"
+slug: "assicurazione-auto-e-monopattini-elettrici-le-nuove-regole-dal-2026"
+date: "2026-04-23"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e Monopattini Elettrici: Le Nuove Regole dal 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto e Monopattini Elettrici: Le Nuove Regole dal 2026

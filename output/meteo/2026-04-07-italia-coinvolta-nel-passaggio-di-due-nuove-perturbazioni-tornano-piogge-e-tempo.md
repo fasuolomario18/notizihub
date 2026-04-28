@@ -1,4 +1,12 @@
 ---
+title: "Meteo Italia: Due Perturbazioni in Arrivo, Ritornano Piogge e Temporali ad Aprile 2026"
+slug: "meteo-italia-due-perturbazioni-in-arrivo-ritornano-piogge-e-temporali-ad-aprile-"
+date: "2026-04-07"
+nicchia: "meteo"
+nicchia_nome: "Meteo"
+lang: "it"
+meta_description: "Meteo Italia: Due Perturbazioni in Arrivo, Ritornano Piogge e Temporali ad Aprile 2026"
+auto_generated: true
 ---
 
 # Meteo Italia: Due Perturbazioni in Arrivo, Ritornano Piogge e Temporali ad Aprile 2026

@@ -1,4 +1,12 @@
 ---
+title: "Can EVs Kill Off Petrol Cars in China? The Electric Revolution Reshaping the World's Largest Auto Market"
+slug: "can-evs-kill-off-petrol-cars-in-china-the-electric-revolution-reshaping-the-worl"
+date: "2026-04-22"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "en"
+meta_description: "Can EVs Kill Off Petrol Cars in China? The Electric Revolution Reshaping the World's Largest Auto Market"
+auto_generated: true
 ---
 
 # Can EVs Kill Off Petrol Cars in China? The Electric Revolution Reshaping the World's Largest Auto Market

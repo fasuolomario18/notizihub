@@ -1,4 +1,12 @@
 ---
+title: "Serie A 2026: Juventus Conquista il Quarto Posto Grazie a Boga, Atalanta Cede in Casa"
+slug: "serie-a-2026-juventus-conquista-il-quarto-posto-grazie-a-boga-atalanta-cede-in-c"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A 2026: Juventus Conquista il Quarto Posto Grazie a Boga, Atalanta Cede in Casa"
+auto_generated: true
 ---
 
 # Serie A 2026: Juventus Conquista il Quarto Posto Grazie a Boga, Atalanta Cede in Casa

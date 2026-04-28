@@ -1,4 +1,12 @@
 ---
+title: "Laureus World Sports Awards 2026: Wenn Exzellenz über Trophäen hinausgeht"
+slug: "laureus-world-sports-awards-2026-wenn-exzellenz-uber-trophaen-hinausgeht"
+date: "2026-04-21"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "de"
+meta_description: "Laureus World Sports Awards 2026: Wenn Exzellenz über Trophäen hinausgeht"
+auto_generated: true
 ---
 
 # Laureus World Sports Awards 2026: Wenn Exzellenz über Trophäen hinausgeht

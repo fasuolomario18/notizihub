@@ -1,4 +1,12 @@
 ---
+title: "Trading online für Anfänger: Von wo aus starten?"
+slug: "trading-online-fur-anfanger-von-wo-aus-starten"
+date: "2026-04-24"
+nicchia: "trading"
+nicchia_nome: "Trading"
+lang: "de"
+meta_description: "Trading online für Anfänger: Von wo aus starten?"
+auto_generated: true
 ---
 
 # Trading online für Anfänger: Von wo aus starten?

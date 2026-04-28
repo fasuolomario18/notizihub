@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento sostengono la mostra per i 125 anni di Frassati a Torino"
+slug: "governo-e-parlamento-sostengono-la-mostra-per-i-125-anni-di-frassati-a-torino"
+date: "2026-04-11"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento sostengono la mostra per i 125 anni di Frassati a Torino"
+auto_generated: true
 ---
 
 # Governo e Parlamento sostengono la mostra per i 125 anni di Frassati a Torino

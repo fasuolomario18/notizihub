@@ -1,4 +1,12 @@
 ---
+title: "How Artificial Intelligence Works: A Simple Explanation for Science Enthusiasts"
+slug: "how-artificial-intelligence-works-a-simple-explanation-for-science-enthusiasts"
+date: "2026-04-23"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "en"
+meta_description: "How Artificial Intelligence Works: A Simple Explanation for Science Enthusiasts"
+auto_generated: true
 ---
 
 # How Artificial Intelligence Works: A Simple Explanation for Science Enthusiasts

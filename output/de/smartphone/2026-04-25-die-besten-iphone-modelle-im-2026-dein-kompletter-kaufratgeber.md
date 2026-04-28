@@ -1,4 +1,12 @@
 ---
+title: "Die besten iPhone Modelle im 2026: Dein kompletter Kaufratgeber"
+slug: "die-besten-iphone-modelle-im-2026-dein-kompletter-kaufratgeber"
+date: "2026-04-25"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "de"
+meta_description: "Die besten iPhone Modelle im 2026: Dein kompletter Kaufratgeber"
+auto_generated: true
 ---
 
 # Die besten iPhone Modelle im 2026: Dein kompletter Kaufratgeber

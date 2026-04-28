@@ -1,4 +1,12 @@
 ---
+title: "Smart Working : Vos Droits et Comment Demander le Télétravail"
+slug: "smart-working-vos-droits-et-comment-demander-le-teletravail"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "fr"
+meta_description: "Smart Working : Vos Droits et Comment Demander le Télétravail"
+auto_generated: true
 ---
 
 # Smart Working : Vos Droits et Comment Demander le Télétravail

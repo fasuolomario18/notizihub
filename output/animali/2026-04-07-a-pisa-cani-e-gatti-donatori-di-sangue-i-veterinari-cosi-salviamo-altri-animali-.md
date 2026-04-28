@@ -1,4 +1,12 @@
 ---
+title: "Donatori di Sangue Cani e Gatti: La Rivoluzione Veterinaria che Salva le Vite"
+slug: "donatori-di-sangue-cani-e-gatti-la-rivoluzione-veterinaria-che-salva-le-vite"
+date: "2026-04-07"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "it"
+meta_description: "Donatori di Sangue Cani e Gatti: La Rivoluzione Veterinaria che Salva le Vite"
+auto_generated: true
 ---
 
 # Donatori di Sangue Cani e Gatti: La Rivoluzione Veterinaria che Salva le Vite

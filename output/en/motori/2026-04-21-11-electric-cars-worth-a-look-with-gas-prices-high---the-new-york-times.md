@@ -1,4 +1,12 @@
 ---
+title: "11 Electric Cars Worth a Look With Gas Prices High"
+slug: "11-electric-cars-worth-a-look-with-gas-prices-high"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "en"
+meta_description: "11 Electric Cars Worth a Look With Gas Prices High"
+auto_generated: true
 ---
 
 # 11 Electric Cars Worth a Look With Gas Prices High

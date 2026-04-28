@@ -1,4 +1,12 @@
 ---
+title: "Cómo Hacer Pasta Fresca en Casa: Recetas y Técnicas de Cocina Tradicional"
+slug: "como-hacer-pasta-fresca-en-casa-recetas-y-tecnicas-de-cocina-tradicional"
+date: "2026-04-23"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "es"
+meta_description: "Cómo Hacer Pasta Fresca en Casa: Recetas y Técnicas de Cocina Tradicional"
+auto_generated: true
 ---
 
 # Cómo Hacer Pasta Fresca en Casa: Recetas y Técnicas de Cocina Tradicional

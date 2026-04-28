@@ -1,4 +1,12 @@
 ---
+title: "Comment écrire un CV qui fonctionne en 2026"
+slug: "comment-ecrire-un-cv-qui-fonctionne-en-2026"
+date: "2026-04-24"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "fr"
+meta_description: "Comment écrire un CV qui fonctionne en 2026"
+auto_generated: true
 ---
 
 # Comment écrire un CV qui fonctionne en 2026

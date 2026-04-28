@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin regge, Ethereum accelera: crypto tra svolta regolamentare e ritorno dei flussi"
+slug: "bitcoin-regge-ethereum-accelera-crypto-tra-svolta-regolamentare-e-ritorno-dei-fl"
+date: "2026-04-11"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin regge, Ethereum accelera: crypto tra svolta regolamentare e ritorno dei flussi"
+auto_generated: true
 ---
 
 # Bitcoin regge, Ethereum accelera: crypto tra svolta regolamentare e ritorno dei flussi

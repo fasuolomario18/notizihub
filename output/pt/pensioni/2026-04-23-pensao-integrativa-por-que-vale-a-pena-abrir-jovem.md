@@ -1,4 +1,12 @@
 ---
+title: "Pensão Integrativa: Por Que Vale a Pena Abrir Jovem"
+slug: "pensao-integrativa-por-que-vale-a-pena-abrir-jovem"
+date: "2026-04-23"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "pt"
+meta_description: "Pensão Integrativa: Por Que Vale a Pena Abrir Jovem"
+auto_generated: true
 ---
 
 # Pensão Integrativa: Por Que Vale a Pena Abrir Jovem

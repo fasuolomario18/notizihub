@@ -1,4 +1,12 @@
 ---
+title: "Smart Working e Nuove Opportunità di Carriera nel Settore Vinicolo Made in Italy"
+slug: "smart-working-e-nuove-opportunita-di-carriera-nel-settore-vinicolo-made-in-italy"
+date: "2026-04-12"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working e Nuove Opportunità di Carriera nel Settore Vinicolo Made in Italy"
+auto_generated: true
 ---
 
 # Smart Working e Nuove Opportunità di Carriera nel Settore Vinicolo Made in Italy

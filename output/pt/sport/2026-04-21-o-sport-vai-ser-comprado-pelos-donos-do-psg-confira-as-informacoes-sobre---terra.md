@@ -1,4 +1,12 @@
 ---
+title: "Sport será comprado pelos donos do PSG? Confira as últimas informações sobre a possível aquisição"
+slug: "sport-sera-comprado-pelos-donos-do-psg-confira-as-ultimas-informacoes-sobre-a-po"
+date: "2026-04-21"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "pt"
+meta_description: "Sport será comprado pelos donos do PSG? Confira as últimas informações sobre a possível aquisição"
+auto_generated: true
 ---
 
 # Sport será comprado pelos donos do PSG? Confira as últimas informações sobre a possível aquisição

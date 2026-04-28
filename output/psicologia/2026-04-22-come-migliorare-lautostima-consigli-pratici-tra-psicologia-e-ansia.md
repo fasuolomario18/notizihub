@@ -1,4 +1,12 @@
 ---
+title: "Come migliorare l'autostima: consigli pratici tra psicologia e ansia"
+slug: "come-migliorare-lautostima-consigli-pratici-tra-psicologia-e-ansia"
+date: "2026-04-22"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "it"
+meta_description: "Come migliorare l'autostima: consigli pratici tra psicologia e ansia"
+auto_generated: true
 ---
 
 # Come migliorare l'autostima: consigli pratici tra psicologia e ansia

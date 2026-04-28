@@ -1,4 +1,12 @@
 ---
+title: "Projeto de Lei Reduz Subsídios na Conta de Luz: O Que Muda para Energia Solar"
+slug: "projeto-de-lei-reduz-subsidios-na-conta-de-luz-o-que-muda-para-energia-solar"
+date: "2026-04-21"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "pt"
+meta_description: "Projeto de Lei Reduz Subsídios na Conta de Luz: O Que Muda para Energia Solar"
+auto_generated: true
 ---
 
 # Projeto de Lei Reduz Subsídios na Conta de Luz: O Que Muda para Energia Solar

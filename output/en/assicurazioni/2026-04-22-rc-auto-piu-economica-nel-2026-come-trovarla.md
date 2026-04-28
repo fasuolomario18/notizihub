@@ -1,4 +1,12 @@
 ---
+title: "RC auto più economica nel 2026: come trovarla"
+slug: "rc-auto-piu-economica-nel-2026-come-trovarla"
+date: "2026-04-22"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "en"
+meta_description: "RC auto più economica nel 2026: come trovarla"
+auto_generated: true
 ---
 
 # RC auto più economica nel 2026: come trovarla

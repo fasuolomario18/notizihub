@@ -1,4 +1,12 @@
 ---
+title: "Comment réserver un hôtel au meilleur prix : Guide complet pour vos vacances"
+slug: "comment-reserver-un-hotel-au-meilleur-prix-guide-complet-pour-vos-vacances"
+date: "2026-04-25"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "fr"
+meta_description: "Comment réserver un hôtel au meilleur prix : Guide complet pour vos vacances"
+auto_generated: true
 ---
 
 # Comment réserver un hôtel au meilleur prix : Guide complet pour vos vacances

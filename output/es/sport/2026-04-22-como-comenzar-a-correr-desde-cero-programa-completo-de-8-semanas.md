@@ -1,4 +1,12 @@
 ---
+title: "Cómo Comenzar a Correr desde Cero: Programa Completo de 8 Semanas"
+slug: "como-comenzar-a-correr-desde-cero-programa-completo-de-8-semanas"
+date: "2026-04-22"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "es"
+meta_description: "Cómo Comenzar a Correr desde Cero: Programa Completo de 8 Semanas"
+auto_generated: true
 ---
 
 # Cómo Comenzar a Correr desde Cero: Programa Completo de 8 Semanas

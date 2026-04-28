@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e Vita: il Boom di Banca Generali Segnala Fiducia nel Mercato Assicurativo 2026"
+slug: "assicurazione-auto-e-vita-il-boom-di-banca-generali-segnala-fiducia-nel-mercato-"
+date: "2026-04-09"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e Vita: il Boom di Banca Generali Segnala Fiducia nel Mercato Assicurativo 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto e Vita: il Boom di Banca Generali Segnala Fiducia nel Mercato Assicurativo 2026

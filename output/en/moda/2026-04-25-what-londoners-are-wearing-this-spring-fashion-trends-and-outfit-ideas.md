@@ -1,4 +1,12 @@
 ---
+title: "What Londoners Are Wearing This Spring: Fashion Trends and Outfit Ideas"
+slug: "what-londoners-are-wearing-this-spring-fashion-trends-and-outfit-ideas"
+date: "2026-04-25"
+nicchia: "moda"
+nicchia_nome: "Moda"
+lang: "en"
+meta_description: "What Londoners Are Wearing This Spring: Fashion Trends and Outfit Ideas"
+auto_generated: true
 ---
 
 # What Londoners Are Wearing This Spring: Fashion Trends and Outfit Ideas

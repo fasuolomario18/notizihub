@@ -1,4 +1,12 @@
 ---
+title: "Smart Working: Diritti e Come Richiederlo nel 2026"
+slug: "smart-working-diritti-e-come-richiederlo-nel-2026"
+date: "2026-04-23"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Smart Working: Diritti e Come Richiederlo nel 2026"
+auto_generated: true
 ---
 
 # Smart Working: Diritti e Come Richiederlo nel 2026

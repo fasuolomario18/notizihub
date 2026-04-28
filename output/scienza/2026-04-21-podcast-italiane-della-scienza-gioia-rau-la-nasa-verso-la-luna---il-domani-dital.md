@@ -1,4 +1,12 @@
 ---
+title: "Scienza e Spazio: Gioia Rau, la ricercatrice italiana che guida la NASA verso la Luna"
+slug: "scienza-e-spazio-gioia-rau-la-ricercatrice-italiana-che-guida-la-nasa-verso-la-l"
+date: "2026-04-21"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Scienza e Spazio: Gioia Rau, la ricercatrice italiana che guida la NASA verso la Luna"
+auto_generated: true
 ---
 
 # Scienza e Spazio: Gioia Rau, la ricercatrice italiana che guida la NASA verso la Luna

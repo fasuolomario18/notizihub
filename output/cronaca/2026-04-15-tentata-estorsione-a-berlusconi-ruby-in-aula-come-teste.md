@@ -1,4 +1,12 @@
 ---
+title: "Tentata Estorsione a Berlusconi: Ruby in aula come teste, Rigato nega tutto"
+slug: "tentata-estorsione-a-berlusconi-ruby-in-aula-come-teste-rigato-nega-tutto"
+date: "2026-04-15"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Tentata Estorsione a Berlusconi: Ruby in aula come teste, Rigato nega tutto"
+auto_generated: true
 ---
 
 # Tentata Estorsione a Berlusconi: Ruby in aula come teste, Rigato nega tutto

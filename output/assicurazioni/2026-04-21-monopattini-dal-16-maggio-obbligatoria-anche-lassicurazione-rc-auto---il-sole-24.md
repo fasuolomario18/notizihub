@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio"
+slug: "assicurazione-auto-e-polizza-rc-lobbligo-che-arriva-ai-monopattini-dal-16-maggio"
+date: "2026-04-21"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio"
+auto_generated: true
 ---
 
 # Assicurazione Auto e Polizza Rc: L'Obbligo che Arriva ai Monopattini dal 16 Maggio

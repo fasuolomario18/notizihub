@@ -1,4 +1,12 @@
 ---
+title: "The Vogue Business Beauty Trend Tracker: Your Guide to 2026's Hottest Skincare, Makeup, and Hair Trends"
+slug: "the-vogue-business-beauty-trend-tracker-your-guide-to-2026s-hottest-skincare-mak"
+date: "2026-04-22"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "en"
+meta_description: "The Vogue Business Beauty Trend Tracker: Your Guide to 2026's Hottest Skincare, Makeup, and Hair Trends"
+auto_generated: true
 ---
 
 # The Vogue Business Beauty Trend Tracker: Your Guide to 2026's Hottest Skincare, Makeup, and Hair Trends

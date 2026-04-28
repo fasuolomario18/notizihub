@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto e Monopattini Elettrici: Le Nuove Scadenze per Contrassegno e Polizza nel 2026"
+slug: "assicurazione-auto-e-monopattini-elettrici-le-nuove-scadenze-per-contrassegno-e-"
+date: "2026-04-24"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto e Monopattini Elettrici: Le Nuove Scadenze per Contrassegno e Polizza nel 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto e Monopattini Elettrici: Le Nuove Scadenze per Contrassegno e Polizza nel 2026

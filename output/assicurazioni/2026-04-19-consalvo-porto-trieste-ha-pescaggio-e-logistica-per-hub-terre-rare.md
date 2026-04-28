@@ -1,4 +1,12 @@
 ---
+title: "Consalvo, Porto Trieste ha pescaggio e logistica per hub terre rare"
+slug: "consalvo-porto-trieste-ha-pescaggio-e-logistica-per-hub-terre-rare"
+date: "2026-04-19"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Consalvo, Porto Trieste ha pescaggio e logistica per hub terre rare"
+auto_generated: true
 ---
 
 # Consalvo, Porto Trieste ha pescaggio e logistica per hub terre rare

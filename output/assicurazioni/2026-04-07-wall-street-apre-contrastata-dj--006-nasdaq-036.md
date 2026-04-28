@@ -1,4 +1,12 @@
 ---
+title: "Wall Street apre contrastata, DJ -0,06%, Nasdaq +0,36%"
+slug: "wall-street-apre-contrastata-dj--006-nasdaq-036"
+date: "2026-04-07"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Wall Street apre contrastata, DJ -0,06%, Nasdaq +0,36%"
+auto_generated: true
 ---
 
 # Wall Street apre contrastata, DJ -0,06%, Nasdaq +0,36%

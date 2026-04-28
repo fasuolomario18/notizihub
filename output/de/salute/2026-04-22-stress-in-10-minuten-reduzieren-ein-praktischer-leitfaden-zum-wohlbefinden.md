@@ -1,4 +1,12 @@
 ---
+title: "Stress in 10 Minuten reduzieren: Ein praktischer Leitfaden zum Wohlbefinden"
+slug: "stress-in-10-minuten-reduzieren-ein-praktischer-leitfaden-zum-wohlbefinden"
+date: "2026-04-22"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "de"
+meta_description: "Stress in 10 Minuten reduzieren: Ein praktischer Leitfaden zum Wohlbefinden"
+auto_generated: true
 ---
 
 # Stress in 10 Minuten reduzieren: Ein praktischer Leitfaden zum Wohlbefinden

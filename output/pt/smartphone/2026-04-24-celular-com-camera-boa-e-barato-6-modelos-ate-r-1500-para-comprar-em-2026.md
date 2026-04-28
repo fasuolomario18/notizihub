@@ -1,4 +1,12 @@
 ---
+title: "Celular com câmera boa e barato: 6 modelos até R$ 1.500 para comprar em 2026"
+slug: "celular-com-camera-boa-e-barato-6-modelos-ate-r-1500-para-comprar-em-2026"
+date: "2026-04-24"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "pt"
+meta_description: "Celular com câmera boa e barato: 6 modelos até R$ 1.500 para comprar em 2026"
+auto_generated: true
 ---
 
 # Celular com câmera boa e barato: 6 modelos até R$ 1.500 para comprar em 2026

@@ -1,4 +1,12 @@
 ---
+title: "Tax Deductions 2026: Everything You Can Deduct on Your Tax Return"
+slug: "tax-deductions-2026-everything-you-can-deduct-on-your-tax-return"
+date: "2026-04-24"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "en"
+meta_description: "Tax Deductions 2026: Everything You Can Deduct on Your Tax Return"
+auto_generated: true
 ---
 
 # Tax Deductions 2026: Everything You Can Deduct on Your Tax Return

@@ -1,4 +1,12 @@
 ---
+title: "Governo Meloni: L'Allarme Sulle Scorte Energetiche a Maggio Minaccia la Stabilità Politica"
+slug: "governo-meloni-lallarme-sulle-scorte-energetiche-a-maggio-minaccia-la-stabilita-"
+date: "2026-04-07"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo Meloni: L'Allarme Sulle Scorte Energetiche a Maggio Minaccia la Stabilità Politica"
+auto_generated: true
 ---
 
 # Governo Meloni: L'Allarme Sulle Scorte Energetiche a Maggio Minaccia la Stabilità Politica

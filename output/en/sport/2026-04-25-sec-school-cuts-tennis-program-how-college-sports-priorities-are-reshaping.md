@@ -1,4 +1,12 @@
 ---
+title: "SEC School Cuts Tennis Program: How College Sports Priorities Are Reshaping Heartland Athletics"
+slug: "sec-school-cuts-tennis-program-how-college-sports-priorities-are-reshaping-heart"
+date: "2026-04-25"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "en"
+meta_description: "SEC School Cuts Tennis Program: How College Sports Priorities Are Reshaping Heartland Athletics"
+auto_generated: true
 ---
 
 # SEC School Cuts Tennis Program: How College Sports Priorities Are Reshaping Heartland Athletics

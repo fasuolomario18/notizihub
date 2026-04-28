@@ -1,4 +1,12 @@
 ---
+title: "Wie man eine Startup in Italien im Jahr 2026 gründet: Vollständiger Leitfaden für angehende Unternehmer"
+slug: "wie-man-eine-startup-in-italien-im-jahr-2026-grundet-vollstandiger-leitfaden-fur"
+date: "2026-04-23"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "de"
+meta_description: "Wie man eine Startup in Italien im Jahr 2026 gründet: Vollständiger Leitfaden für angehende Unternehmer"
+auto_generated: true
 ---
 
 # Wie man eine Startup in Italien im Jahr 2026 gründet: Vollständiger Leitfaden für angehende Unternehmer

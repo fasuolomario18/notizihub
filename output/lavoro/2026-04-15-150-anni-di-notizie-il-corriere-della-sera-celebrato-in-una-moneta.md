@@ -1,4 +1,12 @@
 ---
+title: "150 anni di notizie, il Corriere della Sera celebrato in una moneta"
+slug: "150-anni-di-notizie-il-corriere-della-sera-celebrato-in-una-moneta"
+date: "2026-04-15"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "150 anni di notizie, il Corriere della Sera celebrato in una moneta"
+auto_generated: true
 ---
 
 # 150 anni di notizie, il Corriere della Sera celebrato in una moneta

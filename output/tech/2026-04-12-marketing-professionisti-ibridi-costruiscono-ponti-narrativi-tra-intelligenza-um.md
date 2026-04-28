@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale e Marketing: Come i Professionisti Ibridi Trasformano la Comunicazione nel 2026"
+slug: "intelligenza-artificiale-e-marketing-come-i-professionisti-ibridi-trasformano-la"
+date: "2026-04-12"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale e Marketing: Come i Professionisti Ibridi Trasformano la Comunicazione nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale e Marketing: Come i Professionisti Ibridi Trasformano la Comunicazione nel 2026

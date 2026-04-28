@@ -1,4 +1,12 @@
 ---
+title: "Opinion: The Key to Lower Electricity Bills? More Solar, Now"
+slug: "opinion-the-key-to-lower-electricity-bills-more-solar-now"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "en"
+meta_description: "Opinion: The Key to Lower Electricity Bills? More Solar, Now"
+auto_generated: true
 ---
 
 # Opinion: The Key to Lower Electricity Bills? More Solar, Now

@@ -1,4 +1,12 @@
 ---
+title: "Multitarea en el móvil: cómo usar dos apps a la vez en Android y iPhone"
+slug: "multitarea-en-el-movil-como-usar-dos-apps-a-la-vez-en-android-y-iphone"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "es"
+meta_description: "Multitarea en el móvil: cómo usar dos apps a la vez en Android y iPhone"
+auto_generated: true
 ---
 
 # Multitarea en el móvil: cómo usar dos apps a la vez en Android y iPhone

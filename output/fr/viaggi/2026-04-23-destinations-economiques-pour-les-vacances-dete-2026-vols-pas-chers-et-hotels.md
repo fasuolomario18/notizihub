@@ -1,4 +1,12 @@
 ---
+title: "Destinations économiques pour les vacances d'été 2026 : vols pas chers et hôtels abordables"
+slug: "destinations-economiques-pour-les-vacances-dete-2026-vols-pas-chers-et-hotels-ab"
+date: "2026-04-23"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "fr"
+meta_description: "Destinations économiques pour les vacances d'été 2026 : vols pas chers et hôtels abordables"
+auto_generated: true
 ---
 
 # Destinations économiques pour les vacances d'été 2026 : vols pas chers et hôtels abordables

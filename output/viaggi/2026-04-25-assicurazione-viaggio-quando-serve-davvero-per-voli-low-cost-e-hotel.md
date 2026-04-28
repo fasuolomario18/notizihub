@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Viaggio: Quando Serve Davvero per Voli Low Cost e Hotel"
+slug: "assicurazione-viaggio-quando-serve-davvero-per-voli-low-cost-e-hotel"
+date: "2026-04-25"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Assicurazione Viaggio: Quando Serve Davvero per Voli Low Cost e Hotel"
+auto_generated: true
 ---
 
 # Assicurazione Viaggio: Quando Serve Davvero per Voli Low Cost e Hotel

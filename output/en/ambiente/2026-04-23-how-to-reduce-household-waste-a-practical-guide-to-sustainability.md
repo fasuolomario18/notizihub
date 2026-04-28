@@ -1,4 +1,12 @@
 ---
+title: "How to Reduce Household Waste: A Practical Guide to Sustainability"
+slug: "how-to-reduce-household-waste-a-practical-guide-to-sustainability"
+date: "2026-04-23"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "en"
+meta_description: "How to Reduce Household Waste: A Practical Guide to Sustainability"
+auto_generated: true
 ---
 
 # How to Reduce Household Waste: A Practical Guide to Sustainability

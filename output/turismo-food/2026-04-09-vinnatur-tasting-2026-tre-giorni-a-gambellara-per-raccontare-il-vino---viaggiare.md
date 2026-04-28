@@ -1,4 +1,12 @@
 ---
+title: "VinNatur Tasting 2026: Tre Giorni a Gambellara tra Vino, Gastronomia e Ristoranti d'Eccellenza"
+slug: "vinnatur-tasting-2026-tre-giorni-a-gambellara-tra-vino-gastronomia-e-ristoranti-"
+date: "2026-04-09"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "VinNatur Tasting 2026: Tre Giorni a Gambellara tra Vino, Gastronomia e Ristoranti d'Eccellenza"
+auto_generated: true
 ---
 
 # VinNatur Tasting 2026: Tre Giorni a Gambellara tra Vino, Gastronomia e Ristoranti d'Eccellenza

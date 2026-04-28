@@ -1,4 +1,12 @@
 ---
+title: "Brasile non è più il Terzo Mondo: La Sfida di Lula alle Grandi Potenze in Piena Guerra Commerciale Globale"
+slug: "brasile-non-e-piu-il-terzo-mondo-la-sfida-di-lula-alle-grandi-potenze-in-piena-g"
+date: "2026-04-20"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Brasile non è più il Terzo Mondo: La Sfida di Lula alle Grandi Potenze in Piena Guerra Commerciale Globale"
+auto_generated: true
 ---
 
 # Brasile non è più il Terzo Mondo: La Sfida di Lula alle Grandi Potenze in Piena Guerra Commerciale Globale

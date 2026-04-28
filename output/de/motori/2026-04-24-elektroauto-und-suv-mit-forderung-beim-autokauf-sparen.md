@@ -1,4 +1,12 @@
 ---
+title: "Elektroauto und SUV: Mit Förderung beim Autokauf sparen"
+slug: "elektroauto-und-suv-mit-forderung-beim-autokauf-sparen"
+date: "2026-04-24"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "de"
+meta_description: "Elektroauto und SUV: Mit Förderung beim Autokauf sparen"
+auto_generated: true
 ---
 
 # Elektroauto und SUV: Mit Förderung beim Autokauf sparen

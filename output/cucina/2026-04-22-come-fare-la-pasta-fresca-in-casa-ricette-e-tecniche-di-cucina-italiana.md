@@ -1,4 +1,12 @@
 ---
+title: "Come Fare la Pasta Fresca in Casa: Ricette e Tecniche di Cucina Italiana"
+slug: "come-fare-la-pasta-fresca-in-casa-ricette-e-tecniche-di-cucina-italiana"
+date: "2026-04-22"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "it"
+meta_description: "Come Fare la Pasta Fresca in Casa: Ricette e Tecniche di Cucina Italiana"
+auto_generated: true
 ---
 
 # Come Fare la Pasta Fresca in Casa: Ricette e Tecniche di Cucina Italiana

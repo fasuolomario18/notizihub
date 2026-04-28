@@ -1,4 +1,12 @@
 ---
+title: "Voiture Électrique et Subventions : Les Annonces Choc de la Ministre face à la Crise Énergétique"
+slug: "voiture-electrique-et-subventions-les-annonces-choc-de-la-ministre-face-a-la-cri"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "fr"
+meta_description: "Voiture Électrique et Subventions : Les Annonces Choc de la Ministre face à la Crise Énergétique"
+auto_generated: true
 ---
 
 # Voiture Électrique et Subventions : Les Annonces Choc de la Ministre face à la Crise Énergétique

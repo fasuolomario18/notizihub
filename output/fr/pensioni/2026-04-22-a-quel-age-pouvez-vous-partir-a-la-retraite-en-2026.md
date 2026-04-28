@@ -1,4 +1,12 @@
 ---
+title: "À quel âge pouvez-vous partir à la retraite en 2026 ?"
+slug: "a-quel-age-pouvez-vous-partir-a-la-retraite-en-2026"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "fr"
+meta_description: "À quel âge pouvez-vous partir à la retraite en 2026 ?"
+auto_generated: true
 ---
 
 # À quel âge pouvez-vous partir à la retraite en 2026 ?

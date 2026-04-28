@@ -1,4 +1,12 @@
 ---
+title: "Pensione: 120 euro in più l'anno per i familiari a carico con Quota 103"
+slug: "pensione-120-euro-in-piu-lanno-per-i-familiari-a-carico-con-quota-103"
+date: "2026-04-12"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensione: 120 euro in più l'anno per i familiari a carico con Quota 103"
+auto_generated: true
 ---
 
 # Pensione: 120 euro in più l'anno per i familiari a carico con Quota 103

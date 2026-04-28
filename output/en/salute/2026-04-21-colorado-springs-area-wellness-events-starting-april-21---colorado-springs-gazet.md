@@ -1,4 +1,12 @@
 ---
+title: "Colorado Springs Area Wellness Events Starting April 21: Your Guide to Diet, Prevention, and Healthy Living"
+slug: "colorado-springs-area-wellness-events-starting-april-21-your-guide-to-diet-preve"
+date: "2026-04-21"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "en"
+meta_description: "Colorado Springs Area Wellness Events Starting April 21: Your Guide to Diet, Prevention, and Healthy Living"
+auto_generated: true
 ---
 
 # Colorado Springs Area Wellness Events Starting April 21: Your Guide to Diet, Prevention, and Healthy Living

@@ -1,4 +1,12 @@
 ---
+title: "Nem todo híbrido é igual: o segredo que muda tudo na nova geração de carros"
+slug: "nem-todo-hibrido-e-igual-o-segredo-que-muda-tudo-na-nova-geracao-de-carros"
+date: "2026-04-21"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "Nem todo híbrido é igual: o segredo que muda tudo na nova geração de carros"
+auto_generated: true
 ---
 
 # Nem todo híbrido é igual: o segredo que muda tudo na nova geração de carros

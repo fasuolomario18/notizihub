@@ -1,4 +1,12 @@
 ---
+title: "Serien und Filme, die du diese Saison nicht verpassen darfst: Netflix und mehr"
+slug: "serien-und-filme-die-du-diese-saison-nicht-verpassen-darfst-netflix-und-mehr"
+date: "2026-04-23"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "de"
+meta_description: "Serien und Filme, die du diese Saison nicht verpassen darfst: Netflix und mehr"
+auto_generated: true
 ---
 
 # Serien und Filme, die du diese Saison nicht verpassen darfst: Netflix und mehr

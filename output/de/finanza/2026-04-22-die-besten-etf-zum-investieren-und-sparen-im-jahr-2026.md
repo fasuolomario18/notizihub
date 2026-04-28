@@ -1,4 +1,12 @@
 ---
+title: "Die besten ETF zum Investieren und Sparen im Jahr 2026"
+slug: "die-besten-etf-zum-investieren-und-sparen-im-jahr-2026"
+date: "2026-04-22"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "de"
+meta_description: "Die besten ETF zum Investieren und Sparen im Jahr 2026"
+auto_generated: true
 ---
 
 # Die besten ETF zum Investieren und Sparen im Jahr 2026

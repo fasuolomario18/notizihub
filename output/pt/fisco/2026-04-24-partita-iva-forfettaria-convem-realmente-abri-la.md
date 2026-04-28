@@ -1,4 +1,12 @@
 ---
+title: "Partita IVA Forfettaria: Convém Realmente Abri-la?"
+slug: "partita-iva-forfettaria-convem-realmente-abri-la"
+date: "2026-04-24"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "pt"
+meta_description: "Partita IVA Forfettaria: Convém Realmente Abri-la?"
+auto_generated: true
 ---
 
 # Partita IVA Forfettaria: Convém Realmente Abri-la?

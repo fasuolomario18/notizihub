@@ -1,4 +1,12 @@
 ---
+title: "High on Life 2 per PS5 in Preorder su Amazon: Tutti i Dettagli dell'Offerta"
+slug: "high-on-life-2-per-ps5-in-preorder-su-amazon-tutti-i-dettagli-dellofferta"
+date: "2026-04-06"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "High on Life 2 per PS5 in Preorder su Amazon: Tutti i Dettagli dell'Offerta"
+auto_generated: true
 ---
 
 # High on Life 2 per PS5 in Preorder su Amazon: Tutti i Dettagli dell'Offerta

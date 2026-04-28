@@ -1,4 +1,12 @@
 ---
+title: "Tennis: Sinner vince a Montecarlo e torna numero 1 al mondo. Alcaraz ko in due set, 'congratulazioni a Jannik'"
+slug: "tennis-sinner-vince-a-montecarlo-e-torna-numero-1-al-mondo-alcaraz-ko-in-due-set"
+date: "2026-04-12"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Tennis: Sinner vince a Montecarlo e torna numero 1 al mondo. Alcaraz ko in due set, 'congratulazioni a Jannik'"
+auto_generated: true
 ---
 
 # Tennis: Sinner vince a Montecarlo e torna numero 1 al mondo. Alcaraz ko in due set, 'congratulazioni a Jannik'

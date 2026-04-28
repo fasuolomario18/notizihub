@@ -1,4 +1,12 @@
 ---
+title: "Travel Insurance: When You Really Need It for Your Vacation"
+slug: "travel-insurance-when-you-really-need-it-for-your-vacation"
+date: "2026-04-22"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "en"
+meta_description: "Travel Insurance: When You Really Need It for Your Vacation"
+auto_generated: true
 ---
 
 # Travel Insurance: When You Really Need It for Your Vacation

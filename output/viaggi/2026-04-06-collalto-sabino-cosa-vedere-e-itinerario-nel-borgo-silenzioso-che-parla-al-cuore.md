@@ -1,4 +1,12 @@
 ---
+title: "Collalto Sabino: Un'Oasi di Serenità a Pochi Passi da Roma per Vacanze Indimenticabili"
+slug: "collalto-sabino-unoasi-di-serenita-a-pochi-passi-da-roma-per-vacanze-indimentica"
+date: "2026-04-06"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "it"
+meta_description: "Collalto Sabino: Un'Oasi di Serenità a Pochi Passi da Roma per Vacanze Indimenticabili"
+auto_generated: true
 ---
 
 # Collalto Sabino: Un'Oasi di Serenità a Pochi Passi da Roma per Vacanze Indimenticabili

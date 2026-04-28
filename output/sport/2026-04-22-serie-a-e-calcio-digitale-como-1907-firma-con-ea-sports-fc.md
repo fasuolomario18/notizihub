@@ -1,4 +1,12 @@
 ---
+title: "Serie A e calcio digitale: Como 1907 firma con EA Sports FC"
+slug: "serie-a-e-calcio-digitale-como-1907-firma-con-ea-sports-fc"
+date: "2026-04-22"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A e calcio digitale: Como 1907 firma con EA Sports FC"
+auto_generated: true
 ---
 
 # Serie A e calcio digitale: Como 1907 firma con EA Sports FC

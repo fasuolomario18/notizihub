@@ -1,4 +1,12 @@
 ---
+title: "Un quadro di Picasso in palio a soli 100 euro! Torna la lotteria che finanzia la ricerca sull'Alzheimer"
+slug: "un-quadro-di-picasso-in-palio-a-soli-100-euro-torna-la-lotteria-che-finanzia-la-"
+date: "2026-04-14"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Un quadro di Picasso in palio a soli 100 euro! Torna la lotteria che finanzia la ricerca sull'Alzheimer"
+auto_generated: true
 ---
 
 # Un quadro di Picasso in palio a soli 100 euro! Torna la lotteria che finanzia la ricerca sull'Alzheimer

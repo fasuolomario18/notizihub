@@ -1,4 +1,12 @@
 ---
+title: "Netflix : comment accéder à 36 000 catégories cachées avec des codes secrets ?"
+slug: "netflix-comment-acceder-a-36-000-categories-cachees-avec-des-codes-secrets"
+date: "2026-04-24"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Netflix : comment accéder à 36 000 catégories cachées avec des codes secrets ?"
+auto_generated: true
 ---
 
 # Netflix : comment accéder à 36 000 catégories cachées avec des codes secrets ?

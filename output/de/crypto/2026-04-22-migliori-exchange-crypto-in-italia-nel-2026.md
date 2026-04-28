@@ -1,4 +1,12 @@
 ---
+title: "Migliori Exchange Crypto in Italia nel 2026"
+slug: "migliori-exchange-crypto-in-italia-nel-2026"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "de"
+meta_description: "Migliori Exchange Crypto in Italia nel 2026"
+auto_generated: true
 ---
 
 # Migliori Exchange Crypto in Italia nel 2026

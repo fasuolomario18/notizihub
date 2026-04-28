@@ -1,4 +1,12 @@
 ---
+title: "Netflix Top 10: Das sind die aktuell beliebtesten Serien und Filme des Streamingdienstes"
+slug: "netflix-top-10-das-sind-die-aktuell-beliebtesten-serien-und-filme-des-streamingd"
+date: "2026-04-25"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "de"
+meta_description: "Netflix Top 10: Das sind die aktuell beliebtesten Serien und Filme des Streamingdienstes"
+auto_generated: true
 ---
 
 # Netflix Top 10: Das sind die aktuell beliebtesten Serien und Filme des Streamingdienstes

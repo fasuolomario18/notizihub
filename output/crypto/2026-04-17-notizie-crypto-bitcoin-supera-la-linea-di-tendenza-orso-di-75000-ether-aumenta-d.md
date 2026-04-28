@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin supera i $75.000 e rompe la linea di tendenza orso: la rally Goldilocks di Ethereum mentre gli altcoin restano indietro"
+slug: "bitcoin-supera-i-75000-e-rompe-la-linea-di-tendenza-orso-la-rally-goldilocks-di-"
+date: "2026-04-17"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "it"
+meta_description: "Bitcoin supera i $75.000 e rompe la linea di tendenza orso: la rally Goldilocks di Ethereum mentre gli altcoin restano indietro"
+auto_generated: true
 ---
 
 # Bitcoin supera i $75.000 e rompe la linea di tendenza orso: la rally Goldilocks di Ethereum mentre gli altcoin restano indietro

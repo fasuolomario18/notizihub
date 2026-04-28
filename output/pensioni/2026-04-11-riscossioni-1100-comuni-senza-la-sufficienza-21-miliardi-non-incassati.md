@@ -1,4 +1,12 @@
 ---
+title: "Pensioni e riscossioni: il caos nelle casse comunali mette a rischio l'INPS nel 2026"
+slug: "pensioni-e-riscossioni-il-caos-nelle-casse-comunali-mette-a-rischio-linps-nel-20"
+date: "2026-04-11"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensioni e riscossioni: il caos nelle casse comunali mette a rischio l'INPS nel 2026"
+auto_generated: true
 ---
 
 # Pensioni e riscossioni: il caos nelle casse comunali mette a rischio l'INPS nel 2026

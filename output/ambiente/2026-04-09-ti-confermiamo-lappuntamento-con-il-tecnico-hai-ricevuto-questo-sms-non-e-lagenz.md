@@ -1,4 +1,12 @@
 ---
+title: "Truffe SMS e Sostenibilità: Come le Frodi Digitali Frenano la Transizione Energetica"
+slug: "truffe-sms-e-sostenibilita-come-le-frodi-digitali-frenano-la-transizione-energet"
+date: "2026-04-09"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Truffe SMS e Sostenibilità: Come le Frodi Digitali Frenano la Transizione Energetica"
+auto_generated: true
 ---
 
 # Truffe SMS e Sostenibilità: Come le Frodi Digitali Frenano la Transizione Energetica

@@ -1,4 +1,12 @@
 ---
+title: "Comment adopter un chien : guide complète pour les futurs propriétaires"
+slug: "comment-adopter-un-chien-guide-complete-pour-les-futurs-proprietaires"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "fr"
+meta_description: "Comment adopter un chien : guide complète pour les futurs propriétaires"
+auto_generated: true
 ---
 
 # Comment adopter un chien : guide complète pour les futurs propriétaires

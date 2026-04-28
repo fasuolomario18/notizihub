@@ -1,4 +1,12 @@
 ---
+title: "Detrazioni fiscali 2026: tutto quello che puoi scaricare nella dichiarazione dei redditi"
+slug: "detrazioni-fiscali-2026-tutto-quello-che-puoi-scaricare-nella-dichiarazione-dei-"
+date: "2026-04-25"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "it"
+meta_description: "Detrazioni fiscali 2026: tutto quello che puoi scaricare nella dichiarazione dei redditi"
+auto_generated: true
 ---
 
 # Detrazioni fiscali 2026: tutto quello che puoi scaricare nella dichiarazione dei redditi

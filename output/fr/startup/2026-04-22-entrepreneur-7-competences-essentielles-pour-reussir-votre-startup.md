@@ -1,4 +1,12 @@
 ---
+title: "Entrepreneur : 7 Compétences Essentielles pour Réussir votre Startup"
+slug: "entrepreneur-7-competences-essentielles-pour-reussir-votre-startup"
+date: "2026-04-22"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "fr"
+meta_description: "Entrepreneur : 7 Compétences Essentielles pour Réussir votre Startup"
+auto_generated: true
 ---
 
 # Entrepreneur : 7 Compétences Essentielles pour Réussir votre Startup

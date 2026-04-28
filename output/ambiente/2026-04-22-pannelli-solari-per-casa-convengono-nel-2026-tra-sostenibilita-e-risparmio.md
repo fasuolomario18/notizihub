@@ -1,4 +1,12 @@
 ---
+title: "Pannelli solari per casa: convengono nel 2026 tra sostenibilità e risparmio"
+slug: "pannelli-solari-per-casa-convengono-nel-2026-tra-sostenibilita-e-risparmio"
+date: "2026-04-22"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Pannelli solari per casa: convengono nel 2026 tra sostenibilità e risparmio"
+auto_generated: true
 ---
 
 # Pannelli solari per casa: convengono nel 2026 tra sostenibilità e risparmio

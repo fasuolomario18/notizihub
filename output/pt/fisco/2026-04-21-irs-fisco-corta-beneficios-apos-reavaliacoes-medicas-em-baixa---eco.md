@@ -1,4 +1,12 @@
 ---
+title: "IRS e Declaração de Imposto: Fisco Corta Benefícios Após Reavaliações Médicas em Baixa"
+slug: "irs-e-declaracao-de-imposto-fisco-corta-beneficios-apos-reavaliacoes-medicas-em-"
+date: "2026-04-21"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "pt"
+meta_description: "IRS e Declaração de Imposto: Fisco Corta Benefícios Após Reavaliações Médicas em Baixa"
+auto_generated: true
 ---
 
 # IRS e Declaração de Imposto: Fisco Corta Benefícios Após Reavaliações Médicas em Baixa

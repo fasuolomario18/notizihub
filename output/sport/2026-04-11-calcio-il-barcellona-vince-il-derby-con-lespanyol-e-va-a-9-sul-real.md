@@ -1,4 +1,12 @@
 ---
+title: "Barcellona Domina il Derby Spagnolo: La Liga si Decide Ancora in Catalonia"
+slug: "barcellona-domina-il-derby-spagnolo-la-liga-si-decide-ancora-in-catalonia"
+date: "2026-04-11"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Barcellona Domina il Derby Spagnolo: La Liga si Decide Ancora in Catalonia"
+auto_generated: true
 ---
 
 # Barcellona Domina il Derby Spagnolo: La Liga si Decide Ancora in Catalonia

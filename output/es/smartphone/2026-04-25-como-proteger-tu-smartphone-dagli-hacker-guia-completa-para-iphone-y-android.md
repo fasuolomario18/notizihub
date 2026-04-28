@@ -1,4 +1,12 @@
 ---
+title: "Cómo proteger tu smartphone dagli hacker: Guía completa para iPhone y Android"
+slug: "como-proteger-tu-smartphone-dagli-hacker-guia-completa-para-iphone-y-android"
+date: "2026-04-25"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "es"
+meta_description: "Cómo proteger tu smartphone dagli hacker: Guía completa para iPhone y Android"
+auto_generated: true
 ---
 
 # Cómo proteger tu smartphone dagli hacker: Guía completa para iPhone y Android

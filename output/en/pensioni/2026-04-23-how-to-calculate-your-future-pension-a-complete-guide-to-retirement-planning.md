@@ -1,4 +1,12 @@
 ---
+title: "How to Calculate Your Future Pension: A Complete Guide to Retirement Planning"
+slug: "how-to-calculate-your-future-pension-a-complete-guide-to-retirement-planning"
+date: "2026-04-23"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "en"
+meta_description: "How to Calculate Your Future Pension: A Complete Guide to Retirement Planning"
+auto_generated: true
 ---
 
 # How to Calculate Your Future Pension: A Complete Guide to Retirement Planning

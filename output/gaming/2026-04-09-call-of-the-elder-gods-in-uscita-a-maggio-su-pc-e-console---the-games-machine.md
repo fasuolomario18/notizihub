@@ -1,4 +1,12 @@
 ---
+title: "Call of the Elder Gods in uscita a maggio su PC e console: la guida completa"
+slug: "call-of-the-elder-gods-in-uscita-a-maggio-su-pc-e-console-la-guida-completa"
+date: "2026-04-09"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Call of the Elder Gods in uscita a maggio su PC e console: la guida completa"
+auto_generated: true
 ---
 
 # Call of the Elder Gods in uscita a maggio su PC e console: la guida completa

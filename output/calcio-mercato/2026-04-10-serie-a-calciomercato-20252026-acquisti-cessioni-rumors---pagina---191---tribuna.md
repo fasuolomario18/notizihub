@@ -1,4 +1,12 @@
 ---
+title: "Calciomercato Serie A: Trasferimenti e Rumors della Stagione 2025/2026"
+slug: "calciomercato-serie-a-trasferimenti-e-rumors-della-stagione-20252026"
+date: "2026-04-10"
+nicchia: "calcio-mercato"
+nicchia_nome: "Calciomercato"
+lang: "it"
+meta_description: "Calciomercato Serie A: Trasferimenti e Rumors della Stagione 2025/2026"
+auto_generated: true
 ---
 
 # Calciomercato Serie A: Trasferimenti e Rumors della Stagione 2025/2026

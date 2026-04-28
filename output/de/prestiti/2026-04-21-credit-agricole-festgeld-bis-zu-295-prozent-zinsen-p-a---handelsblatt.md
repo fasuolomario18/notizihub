@@ -1,4 +1,12 @@
 ---
+title: "Crédit Agricole Festgeld – Attraktive Zinsen bis zu 2,95 Prozent p.a. für sichere Geldanlage"
+slug: "credit-agricole-festgeld-attraktive-zinsen-bis-zu-295-prozent-pa-fur-sichere-gel"
+date: "2026-04-21"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "de"
+meta_description: "Crédit Agricole Festgeld – Attraktive Zinsen bis zu 2,95 Prozent p.a. für sichere Geldanlage"
+auto_generated: true
 ---
 
 # Crédit Agricole Festgeld – Attraktive Zinsen bis zu 2,95 Prozent p.a. für sichere Geldanlage

@@ -1,4 +1,12 @@
 ---
+title: "Smart Working: Dein Recht auf Homeoffice und flexible Arbeitsformen"
+slug: "smart-working-dein-recht-auf-homeoffice-und-flexible-arbeitsformen"
+date: "2026-04-22"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "de"
+meta_description: "Smart Working: Dein Recht auf Homeoffice und flexible Arbeitsformen"
+auto_generated: true
 ---
 
 # Smart Working: Dein Recht auf Homeoffice und flexible Arbeitsformen

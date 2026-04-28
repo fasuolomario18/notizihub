@@ -1,4 +1,12 @@
 ---
+title: "Renzi: 'Salis ripensi alle primarie'. Dai dem il 'no' ai federatori"
+slug: "renzi-salis-ripensi-alle-primarie-dai-dem-il-no-ai-federatori"
+date: "2026-04-12"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Renzi: 'Salis ripensi alle primarie'. Dai dem il 'no' ai federatori"
+auto_generated: true
 ---
 
 # Renzi: 'Salis ripensi alle primarie'. Dai dem il 'no' ai federatori

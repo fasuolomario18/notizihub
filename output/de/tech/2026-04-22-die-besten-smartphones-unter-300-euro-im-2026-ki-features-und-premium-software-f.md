@@ -1,4 +1,12 @@
 ---
+title: "Die besten Smartphones unter 300 Euro im 2026: KI-Features und Premium-Software für jeden"
+slug: "die-besten-smartphones-unter-300-euro-im-2026-ki-features-und-premium-software-f"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "de"
+meta_description: "Die besten Smartphones unter 300 Euro im 2026: KI-Features und Premium-Software für jeden"
+auto_generated: true
 ---
 
 # Die besten Smartphones unter 300 Euro im 2026: KI-Features und Premium-Software für jeden

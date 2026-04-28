@@ -1,4 +1,12 @@
 ---
+title: "Cómo Combatir la Ansiedad sin Fármacos: Estrategias Psicológicas Efectivas"
+slug: "como-combatir-la-ansiedad-sin-farmacos-estrategias-psicologicas-efectivas"
+date: "2026-04-23"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "es"
+meta_description: "Cómo Combatir la Ansiedad sin Fármacos: Estrategias Psicológicas Efectivas"
+auto_generated: true
 ---
 
 # Cómo Combatir la Ansiedad sin Fármacos: Estrategias Psicológicas Efectivas

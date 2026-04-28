@@ -1,4 +1,12 @@
 ---
+title: "Abi, aumentano ancora i prestiti, a marzo +2,4%"
+slug: "abi-aumentano-ancora-i-prestiti-a-marzo-24"
+date: "2026-04-19"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Abi, aumentano ancora i prestiti, a marzo +2,4%"
+auto_generated: true
 ---
 
 # Abi, aumentano ancora i prestiti, a marzo +2,4%

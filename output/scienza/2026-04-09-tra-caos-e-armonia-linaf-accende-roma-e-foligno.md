@@ -1,4 +1,12 @@
 ---
+title: "La Scienza e lo Spazio Protagonisti in Italia: INAF Accende Roma e Foligno ad Aprile 2026"
+slug: "la-scienza-e-lo-spazio-protagonisti-in-italia-inaf-accende-roma-e-foligno-ad-apr"
+date: "2026-04-09"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "La Scienza e lo Spazio Protagonisti in Italia: INAF Accende Roma e Foligno ad Aprile 2026"
+auto_generated: true
 ---
 
 # La Scienza e lo Spazio Protagonisti in Italia: INAF Accende Roma e Foligno ad Aprile 2026

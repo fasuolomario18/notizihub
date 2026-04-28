@@ -1,4 +1,12 @@
 ---
+title: "How to Adopt a Dog: A Complete Guide"
+slug: "how-to-adopt-a-dog-a-complete-guide"
+date: "2026-04-23"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "en"
+meta_description: "How to Adopt a Dog: A Complete Guide"
+auto_generated: true
 ---
 
 # How to Adopt a Dog: A Complete Guide

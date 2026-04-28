@@ -1,4 +1,12 @@
 ---
+title: "Governo e Parlamento: Meloni nella tempesta politica per foto falsificata su Facebook"
+slug: "governo-e-parlamento-meloni-nella-tempesta-politica-per-foto-falsificata-su-face"
+date: "2026-04-18"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo e Parlamento: Meloni nella tempesta politica per foto falsificata su Facebook"
+auto_generated: true
 ---
 
 # Governo e Parlamento: Meloni nella tempesta politica per foto falsificata su Facebook

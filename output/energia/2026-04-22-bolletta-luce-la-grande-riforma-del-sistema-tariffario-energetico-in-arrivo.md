@@ -1,4 +1,12 @@
 ---
+title: "Bolletta Luce: La Grande Riforma del Sistema Tariffario Energetico in Arrivo"
+slug: "bolletta-luce-la-grande-riforma-del-sistema-tariffario-energetico-in-arrivo"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "it"
+meta_description: "Bolletta Luce: La Grande Riforma del Sistema Tariffario Energetico in Arrivo"
+auto_generated: true
 ---
 
 # Bolletta Luce: La Grande Riforma del Sistema Tariffario Energetico in Arrivo

@@ -1,4 +1,12 @@
 ---
+title: "Replaced: il capolavoro retrò di Sad Cat Studios conquista Xbox, PS5 e PC nel 2026"
+slug: "replaced-il-capolavoro-retro-di-sad-cat-studios-conquista-xbox-ps5-e-pc-nel-2026"
+date: "2026-04-10"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Replaced: il capolavoro retrò di Sad Cat Studios conquista Xbox, PS5 e PC nel 2026"
+auto_generated: true
 ---
 
 # Replaced: il capolavoro retrò di Sad Cat Studios conquista Xbox, PS5 e PC nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Ciclo Imobiliário Inverte: Era dos Grandes Apartamentos Termina, Mercado Volta ao Foco na Classe Média"
+slug: "ciclo-imobiliario-inverte-era-dos-grandes-apartamentos-termina-mercado-volta-ao-"
+date: "2026-04-25"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "pt"
+meta_description: "Ciclo Imobiliário Inverte: Era dos Grandes Apartamentos Termina, Mercado Volta ao Foco na Classe Média"
+auto_generated: true
 ---
 
 <!-- TLDR -->

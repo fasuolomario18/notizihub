@@ -1,4 +1,12 @@
 ---
+title: "Tariffe energia: come trovare quella più conveniente per ridurre la bolletta elettrica"
+slug: "tariffe-energia-come-trovare-quella-piu-conveniente-per-ridurre-la-bolletta-elet"
+date: "2026-04-22"
+nicchia: "energia"
+nicchia_nome: "Energia"
+lang: "en"
+meta_description: "Tariffe energia: come trovare quella più conveniente per ridurre la bolletta elettrica"
+auto_generated: true
 ---
 
 # Tariffe energia: come trovare quella più conveniente per ridurre la bolletta elettrica

@@ -1,4 +1,12 @@
 ---
+title: "Borse di Studio Università: Come Ottenere l'Integrazione nel 2026"
+slug: "borse-di-studio-universita-come-ottenere-lintegrazione-nel-2026"
+date: "2026-04-08"
+nicchia: "università"
+nicchia_nome: "Università"
+lang: "it"
+meta_description: "Borse di Studio Università: Come Ottenere l'Integrazione nel 2026"
+auto_generated: true
 ---
 
 # Borse di Studio Università: Come Ottenere l'Integrazione nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Cómo dejar de desperdiciar dinero cada mes: guía completa para optimizar tus finanzas"
+slug: "como-dejar-de-desperdiciar-dinero-cada-mes-guia-completa-para-optimizar-tus-fina"
+date: "2026-04-22"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "es"
+meta_description: "Cómo dejar de desperdiciar dinero cada mes: guía completa para optimizar tus finanzas"
+auto_generated: true
 ---
 
 # Cómo dejar de desperdiciar dinero cada mes: guía completa para optimizar tus finanzas

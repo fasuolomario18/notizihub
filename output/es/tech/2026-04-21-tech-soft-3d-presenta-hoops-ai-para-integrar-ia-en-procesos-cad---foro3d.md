@@ -1,4 +1,12 @@
 ---
+title: "Inteligencia Artificial en CAD: Tech Soft 3D lanza HOOPS AI para transformar el software de diseño"
+slug: "inteligencia-artificial-en-cad-tech-soft-3d-lanza-hoops-ai-para-transformar-el-s"
+date: "2026-04-21"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "es"
+meta_description: "Inteligencia Artificial en CAD: Tech Soft 3D lanza HOOPS AI para transformar el software de diseño"
+auto_generated: true
 ---
 
 # Inteligencia Artificial en CAD: Tech Soft 3D lanza HOOPS AI para transformar el software de diseño

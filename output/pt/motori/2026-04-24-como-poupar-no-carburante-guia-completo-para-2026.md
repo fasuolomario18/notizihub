@@ -1,4 +1,12 @@
 ---
+title: "Como Poupar no Carburante: Guia Completo para 2026"
+slug: "como-poupar-no-carburante-guia-completo-para-2026"
+date: "2026-04-24"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "Como Poupar no Carburante: Guia Completo para 2026"
+auto_generated: true
 ---
 
 # Como Poupar no Carburante: Guia Completo para 2026

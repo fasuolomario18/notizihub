@@ -1,4 +1,12 @@
 ---
+title: "RC Auto: Como Poupar no Renovação do Seguro Automóvel"
+slug: "rc-auto-como-poupar-no-renovacao-do-seguro-automovel"
+date: "2026-04-25"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "pt"
+meta_description: "RC Auto: Como Poupar no Renovação do Seguro Automóvel"
+auto_generated: true
 ---
 
 # RC Auto: Como Poupar no Renovação do Seguro Automóvel

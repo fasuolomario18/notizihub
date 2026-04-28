@@ -1,4 +1,12 @@
 ---
+title: "Università e Borse di Studio: Bari Consegna 80 Premi ai Studenti Meritevoli"
+slug: "universita-e-borse-di-studio-bari-consegna-80-premi-ai-studenti-meritevoli"
+date: "2026-04-13"
+nicchia: "università"
+nicchia_nome: "Università"
+lang: "it"
+meta_description: "Università e Borse di Studio: Bari Consegna 80 Premi ai Studenti Meritevoli"
+auto_generated: true
 ---
 
 # Università e Borse di Studio: Bari Consegna 80 Premi ai Studenti Meritevoli

@@ -1,4 +1,12 @@
 ---
+title: "Routine Skincare Minimalista: O Segredo para uma Pele Perfeita com Menos Produtos"
+slug: "routine-skincare-minimalista-o-segredo-para-uma-pele-perfeita-com-menos-produtos"
+date: "2026-04-22"
+nicchia: "bellezza"
+nicchia_nome: "Bellezza"
+lang: "pt"
+meta_description: "Routine Skincare Minimalista: O Segredo para uma Pele Perfeita com Menos Produtos"
+auto_generated: true
 ---
 
 # Routine Skincare Minimalista: O Segredo para uma Pele Perfeita com Menos Produtos

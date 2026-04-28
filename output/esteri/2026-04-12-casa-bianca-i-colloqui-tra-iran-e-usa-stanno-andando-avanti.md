@@ -1,4 +1,12 @@
 ---
+title: "USA e Iran verso una tregua? Le tensioni commerciali ed energetiche che dividono il mondo nel 2026"
+slug: "usa-e-iran-verso-una-tregua-le-tensioni-commerciali-ed-energetiche-che-dividono-"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "USA e Iran verso una tregua? Le tensioni commerciali ed energetiche che dividono il mondo nel 2026"
+auto_generated: true
 ---
 
 # USA e Iran verso una tregua? Le tensioni commerciali ed energetiche che dividono il mondo nel 2026

@@ -1,4 +1,12 @@
 ---
+title: "Inteligência Artificial na Saúde: Como a Maps Group Reduz Listas de Espera com Software Inovador"
+slug: "inteligencia-artificial-na-saude-como-a-maps-group-reduz-listas-de-espera-com-so"
+date: "2026-04-24"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "pt"
+meta_description: "Inteligência Artificial na Saúde: Como a Maps Group Reduz Listas de Espera com Software Inovador"
+auto_generated: true
 ---
 
 # Inteligência Artificial na Saúde: Como a Maps Group Reduz Listas de Espera com Software Inovador

@@ -1,4 +1,12 @@
 ---
+title: "València Cuina Aberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti"
+slug: "valencia-cuina-aberta-2026-la-gastronomia-valenciana-apre-le-porte-ai-migliori-r"
+date: "2026-04-13"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "València Cuina Aberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti"
+auto_generated: true
 ---
 
 # València Cuina Aberta 2026: La Gastronomia Valenciana Apre le Porte ai Migliori Ristoranti

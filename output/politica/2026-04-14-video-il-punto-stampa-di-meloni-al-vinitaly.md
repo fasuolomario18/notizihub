@@ -1,4 +1,12 @@
 ---
+title: "Governo, Parlamento e Elezioni: Il Punto Stampa di Meloni al Vinitaly 2026"
+slug: "governo-parlamento-e-elezioni-il-punto-stampa-di-meloni-al-vinitaly-2026"
+date: "2026-04-14"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo, Parlamento e Elezioni: Il Punto Stampa di Meloni al Vinitaly 2026"
+auto_generated: true
 ---
 
 # Governo, Parlamento e Elezioni: Il Punto Stampa di Meloni al Vinitaly 2026

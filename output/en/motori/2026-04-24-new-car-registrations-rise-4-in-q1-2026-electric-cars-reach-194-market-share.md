@@ -1,4 +1,12 @@
 ---
+title: "New Car Registrations Rise 4% in Q1 2026: Electric Cars Reach 19.4% Market Share"
+slug: "new-car-registrations-rise-4-in-q1-2026-electric-cars-reach-194-market-share"
+date: "2026-04-24"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "en"
+meta_description: "New Car Registrations Rise 4% in Q1 2026: Electric Cars Reach 19.4% Market Share"
+auto_generated: true
 ---
 
 # New Car Registrations Rise 4% in Q1 2026: Electric Cars Reach 19.4% Market Share

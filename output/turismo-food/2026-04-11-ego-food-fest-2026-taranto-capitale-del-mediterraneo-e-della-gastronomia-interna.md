@@ -1,4 +1,12 @@
 ---
+title: "EGO Food Fest 2026: Taranto Diventa Capitale della Gastronomia Mediterranea e Internazionale"
+slug: "ego-food-fest-2026-taranto-diventa-capitale-della-gastronomia-mediterranea-e-int"
+date: "2026-04-11"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "EGO Food Fest 2026: Taranto Diventa Capitale della Gastronomia Mediterranea e Internazionale"
+auto_generated: true
 ---
 
 # EGO Food Fest 2026: Taranto Diventa Capitale della Gastronomia Mediterranea e Internazionale

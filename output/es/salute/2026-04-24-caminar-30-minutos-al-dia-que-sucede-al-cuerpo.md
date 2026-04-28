@@ -1,4 +1,12 @@
 ---
+title: "Caminar 30 Minutos al Día: Qué Sucede al Cuerpo"
+slug: "caminar-30-minutos-al-dia-que-sucede-al-cuerpo"
+date: "2026-04-24"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "es"
+meta_description: "Caminar 30 Minutos al Día: Qué Sucede al Cuerpo"
+auto_generated: true
 ---
 
 # Caminar 30 Minutos al Día: Qué Sucede al Cuerpo

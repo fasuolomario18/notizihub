@@ -1,4 +1,12 @@
 ---
+title: "Calo auto BMW e mutui in Italia: come il mercato globale stravolge i piani immobiliari"
+slug: "calo-auto-bmw-e-mutui-in-italia-come-il-mercato-globale-stravolge-i-piani-immobi"
+date: "2026-04-14"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Calo auto BMW e mutui in Italia: come il mercato globale stravolge i piani immobiliari"
+auto_generated: true
 ---
 
 # Calo auto BMW e mutui in Italia: come il mercato globale stravolge i piani immobiliari

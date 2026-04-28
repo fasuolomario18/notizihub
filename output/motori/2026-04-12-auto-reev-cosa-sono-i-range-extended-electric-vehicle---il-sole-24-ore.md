@@ -1,4 +1,12 @@
 ---
+title: "Auto Reev: cosa sono i Range Extended Electric Vehicle e come sfruttare gli incentivi auto nel 2026"
+slug: "auto-reev-cosa-sono-i-range-extended-electric-vehicle-e-come-sfruttare-gli-incen"
+date: "2026-04-12"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Auto Reev: cosa sono i Range Extended Electric Vehicle e come sfruttare gli incentivi auto nel 2026"
+auto_generated: true
 ---
 
 # Auto Reev: cosa sono i Range Extended Electric Vehicle e come sfruttare gli incentivi auto nel 2026

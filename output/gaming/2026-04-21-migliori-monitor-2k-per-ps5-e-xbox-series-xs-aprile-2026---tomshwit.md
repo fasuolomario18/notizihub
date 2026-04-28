@@ -1,4 +1,12 @@
 ---
+title: "Migliori monitor 2K per PS5 e Xbox Series X|S ad aprile 2026"
+slug: "migliori-monitor-2k-per-ps5-e-xbox-series-xs-ad-aprile-2026"
+date: "2026-04-21"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Migliori monitor 2K per PS5 e Xbox Series X|S ad aprile 2026"
+auto_generated: true
 ---
 
 # Migliori monitor 2K per PS5 e Xbox Series X|S ad aprile 2026

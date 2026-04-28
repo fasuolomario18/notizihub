@@ -1,4 +1,12 @@
 ---
+title: "Sindacati, 'ad Amazon Passo Corese siglato accordo storico, più diritti'"
+slug: "sindacati-ad-amazon-passo-corese-siglato-accordo-storico-piu-diritti"
+date: "2026-04-12"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Sindacati, 'ad Amazon Passo Corese siglato accordo storico, più diritti'"
+auto_generated: true
 ---
 
 # Sindacati, 'ad Amazon Passo Corese siglato accordo storico, più diritti'

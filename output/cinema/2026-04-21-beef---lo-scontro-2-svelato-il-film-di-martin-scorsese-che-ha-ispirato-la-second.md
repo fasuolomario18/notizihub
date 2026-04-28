@@ -1,4 +1,12 @@
 ---
+title: "Beef Lo Scontro 2: Il Film di Scorsese che Ha Ispirato la Serie TV Netflix"
+slug: "beef-lo-scontro-2-il-film-di-scorsese-che-ha-ispirato-la-serie-tv-netflix"
+date: "2026-04-21"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "it"
+meta_description: "Beef Lo Scontro 2: Il Film di Scorsese che Ha Ispirato la Serie TV Netflix"
+auto_generated: true
 ---
 
 # Beef Lo Scontro 2: Il Film di Scorsese che Ha Ispirato la Serie TV Netflix

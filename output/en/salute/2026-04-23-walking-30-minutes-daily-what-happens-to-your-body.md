@@ -1,4 +1,12 @@
 ---
+title: "Walking 30 Minutes Daily: What Happens to Your Body"
+slug: "walking-30-minutes-daily-what-happens-to-your-body"
+date: "2026-04-23"
+nicchia: "salute"
+nicchia_nome: "Salute"
+lang: "en"
+meta_description: "Walking 30 Minutes Daily: What Happens to Your Body"
+auto_generated: true
 ---
 
 # Walking 30 Minutes Daily: What Happens to Your Body

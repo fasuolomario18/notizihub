@@ -1,4 +1,12 @@
 ---
+title: "Come Scrivere un Curriculum che Funziona nel 2026"
+slug: "come-scrivere-un-curriculum-che-funziona-nel-2026"
+date: "2026-04-23"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "en"
+meta_description: "Come Scrivere un Curriculum che Funziona nel 2026"
+auto_generated: true
 ---
 
 # Come Scrivere un Curriculum che Funziona nel 2026

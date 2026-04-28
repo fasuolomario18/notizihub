@@ -1,4 +1,12 @@
 ---
+title: "Governo, Parlamento e il Dibattito sulla Politica Estera verso Israele: Lo Scontro di Europa Verde"
+slug: "governo-parlamento-e-il-dibattito-sulla-politica-estera-verso-israele-lo-scontro"
+date: "2026-04-17"
+nicchia: "politica"
+nicchia_nome: "Politica"
+lang: "it"
+meta_description: "Governo, Parlamento e il Dibattito sulla Politica Estera verso Israele: Lo Scontro di Europa Verde"
+auto_generated: true
 ---
 
 # Governo, Parlamento e il Dibattito sulla Politica Estera verso Israele: Lo Scontro di Europa Verde

@@ -1,4 +1,12 @@
 ---
+title: "Meteo Italia: Burrasca al Sud, temporali al Nord e Centro - Allerta Protezione Civile"
+slug: "meteo-italia-burrasca-al-sud-temporali-al-nord-e-centro---allerta-protezione-civ"
+date: "2026-04-12"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Meteo Italia: Burrasca al Sud, temporali al Nord e Centro - Allerta Protezione Civile"
+auto_generated: true
 ---
 
 # Meteo Italia: Burrasca al Sud, temporali al Nord e Centro - Allerta Protezione Civile

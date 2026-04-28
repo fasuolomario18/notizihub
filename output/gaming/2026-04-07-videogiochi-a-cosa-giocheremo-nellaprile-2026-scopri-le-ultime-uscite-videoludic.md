@@ -1,4 +1,12 @@
 ---
+title: "PS5, Xbox e PC Gaming: Scopri le Uscite Videoludiche di Aprile 2026"
+slug: "ps5-xbox-e-pc-gaming-scopri-le-uscite-videoludiche-di-aprile-2026"
+date: "2026-04-07"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "PS5, Xbox e PC Gaming: Scopri le Uscite Videoludiche di Aprile 2026"
+auto_generated: true
 ---
 
 # PS5, Xbox e PC Gaming: Scopri le Uscite Videoludiche di Aprile 2026

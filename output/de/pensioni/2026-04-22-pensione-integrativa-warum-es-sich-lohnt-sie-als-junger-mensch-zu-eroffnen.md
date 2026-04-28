@@ -1,4 +1,12 @@
 ---
+title: "Pensione integrativa: Warum es sich lohnt, sie als junger Mensch zu eröffnen"
+slug: "pensione-integrativa-warum-es-sich-lohnt-sie-als-junger-mensch-zu-eroffnen"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "de"
+meta_description: "Pensione integrativa: Warum es sich lohnt, sie als junger Mensch zu eröffnen"
+auto_generated: true
 ---
 
 # Pensione integrativa: Warum es sich lohnt, sie als junger Mensch zu eröffnen

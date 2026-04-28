@@ -1,4 +1,12 @@
 ---
+title: "Cinghialetta Salvata a Roma: Come la Crisi Climatica Spinge gli Animali Selvatici verso le Città"
+slug: "cinghialetta-salvata-a-roma-come-la-crisi-climatica-spinge-gli-animali-selvatici"
+date: "2026-04-10"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Cinghialetta Salvata a Roma: Come la Crisi Climatica Spinge gli Animali Selvatici verso le Città"
+auto_generated: true
 ---
 
 # Cinghialetta Salvata a Roma: Come la Crisi Climatica Spinge gli Animali Selvatici verso le Città

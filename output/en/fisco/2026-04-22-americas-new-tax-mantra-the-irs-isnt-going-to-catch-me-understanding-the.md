@@ -1,4 +1,12 @@
 ---
+title: "America's New Tax Mantra: 'The IRS Isn't Going to Catch Me' – Understanding the Growing Compliance Crisis"
+slug: "americas-new-tax-mantra-the-irs-isnt-going-to-catch-me-understanding-the-growing"
+date: "2026-04-22"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "en"
+meta_description: "America's New Tax Mantra: 'The IRS Isn't Going to Catch Me' – Understanding the Growing Compliance Crisis"
+auto_generated: true
 ---
 
 # America's New Tax Mantra: "The IRS Isn't Going to Catch Me" – Understanding the Growing Compliance Crisis

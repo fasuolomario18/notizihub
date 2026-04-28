@@ -1,4 +1,12 @@
 ---
+title: "PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese"
+slug: "ps5-xbox-e-pc-gaming-aprile-2026-esplode-di-novita-e-sorprese"
+date: "2026-04-12"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese"
+auto_generated: true
 ---
 
 # PS5, Xbox e PC Gaming: Aprile 2026 Esplode di Novità e Sorprese

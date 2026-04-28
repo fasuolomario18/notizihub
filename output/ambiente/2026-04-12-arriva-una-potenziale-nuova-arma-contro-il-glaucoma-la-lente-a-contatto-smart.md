@@ -1,4 +1,12 @@
 ---
+title: "Lenti a Contatto Smart per il Glaucoma: la Rivoluzione Silenziosa nella Medicina Oculare"
+slug: "lenti-a-contatto-smart-per-il-glaucoma-la-rivoluzione-silenziosa-nella-medicina-"
+date: "2026-04-12"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Lenti a Contatto Smart per il Glaucoma: la Rivoluzione Silenziosa nella Medicina Oculare"
+auto_generated: true
 ---
 
 # Lenti a Contatto Smart per il Glaucoma: la Rivoluzione Silenziosa nella Medicina Oculare

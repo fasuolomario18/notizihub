@@ -1,4 +1,12 @@
 ---
+title: "La gaffe del Segretario alla Difesa USA: confonde Pulp Fiction con la Bibbia in diretta"
+slug: "la-gaffe-del-segretario-alla-difesa-usa-confonde-pulp-fiction-con-la-bibbia-in-d"
+date: "2026-04-17"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "La gaffe del Segretario alla Difesa USA: confonde Pulp Fiction con la Bibbia in diretta"
+auto_generated: true
 ---
 
 # La gaffe del Segretario alla Difesa USA: confonde Pulp Fiction con la Bibbia in diretta

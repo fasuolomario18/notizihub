@@ -1,4 +1,12 @@
 ---
+title: "In campo nel volontariato 75mila imprese, cresce il prestito di dipendenti a onlus"
+slug: "in-campo-nel-volontariato-75mila-imprese-cresce-il-prestito-di-dipendenti-a-onlu"
+date: "2026-04-13"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "In campo nel volontariato 75mila imprese, cresce il prestito di dipendenti a onlus"
+auto_generated: true
 ---
 
 # In campo nel volontariato 75mila imprese, cresce il prestito di dipendenti a onlus

@@ -1,4 +1,12 @@
 ---
+title: "Toei lança marca própria para jogos: PS5, Xbox e PC gaming recebem títulos exclusivos"
+slug: "toei-lanca-marca-propria-para-jogos-ps5-xbox-e-pc-gaming-recebem-titulos-exclusi"
+date: "2026-04-24"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "pt"
+meta_description: "Toei lança marca própria para jogos: PS5, Xbox e PC gaming recebem títulos exclusivos"
+auto_generated: true
 ---
 
 # Toei lança marca própria para jogos: PS5, Xbox e PC gaming recebem títulos exclusivos

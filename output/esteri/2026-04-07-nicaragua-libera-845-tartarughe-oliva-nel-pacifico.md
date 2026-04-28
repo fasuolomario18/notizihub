@@ -1,4 +1,12 @@
 ---
+title: "Nicaragua Libera 845 Tartarughe Oliva: Conservazione Ambientale nel Contesto Geopolitico Mondiale del 2026"
+slug: "nicaragua-libera-845-tartarughe-oliva-conservazione-ambientale-nel-contesto-geop"
+date: "2026-04-07"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Nicaragua Libera 845 Tartarughe Oliva: Conservazione Ambientale nel Contesto Geopolitico Mondiale del 2026"
+auto_generated: true
 ---
 
 # Nicaragua Libera 845 Tartarughe Oliva: Conservazione Ambientale nel Contesto Geopolitico Mondiale del 2026

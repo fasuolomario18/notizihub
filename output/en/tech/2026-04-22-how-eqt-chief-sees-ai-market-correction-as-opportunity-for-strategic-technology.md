@@ -1,4 +1,12 @@
 ---
+title: "How EQT Chief Sees AI Market Correction as Opportunity for Strategic Technology Investments"
+slug: "how-eqt-chief-sees-ai-market-correction-as-opportunity-for-strategic-technology-"
+date: "2026-04-22"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "en"
+meta_description: "How EQT Chief Sees AI Market Correction as Opportunity for Strategic Technology Investments"
+auto_generated: true
 ---
 
 # How EQT Chief Sees AI Market Correction as Opportunity for Strategic Technology Investments

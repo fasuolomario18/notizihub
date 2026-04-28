@@ -1,4 +1,12 @@
 ---
+title: "Cessão do Quinto: O que é e Quando Convém Contratar um Empréstimo Pessoal com essa Modalidade"
+slug: "cessao-do-quinto-o-que-e-e-quando-convem-contratar-um-emprestimo-pessoal-com-ess"
+date: "2026-04-22"
+nicchia: "prestiti"
+nicchia_nome: "Prestiti"
+lang: "pt"
+meta_description: "Cessão do Quinto: O que é e Quando Convém Contratar um Empréstimo Pessoal com essa Modalidade"
+auto_generated: true
 ---
 
 # Cessão do Quinto: O que é e Quando Convém Contratar um Empréstimo Pessoal com essa Modalidade

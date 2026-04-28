@@ -1,4 +1,12 @@
 ---
+title: "Assurance Voyage: Quand Vraiment la Souscrire pour Vos Vacances"
+slug: "assurance-voyage-quand-vraiment-la-souscrire-pour-vos-vacances"
+date: "2026-04-22"
+nicchia: "viaggi"
+nicchia_nome: "Viaggi"
+lang: "fr"
+meta_description: "Assurance Voyage: Quand Vraiment la Souscrire pour Vos Vacances"
+auto_generated: true
 ---
 
 # Assurance Voyage: Quand Vraiment la Souscrire pour Vos Vacances

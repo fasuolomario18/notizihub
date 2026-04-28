@@ -1,4 +1,12 @@
 ---
+title: "Scoperta Straordinaria: Emerge un Antico Vascello Vichingo dopo 600 Anni di Sepoltura Sabbiosa"
+slug: "scoperta-straordinaria-emerge-un-antico-vascello-vichingo-dopo-600-anni-di-sepol"
+date: "2026-04-13"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Scoperta Straordinaria: Emerge un Antico Vascello Vichingo dopo 600 Anni di Sepoltura Sabbiosa"
+auto_generated: true
 ---
 
 # Scoperta Straordinaria: Emerge un Antico Vascello Vichingo dopo 600 Anni di Sepoltura Sabbiosa

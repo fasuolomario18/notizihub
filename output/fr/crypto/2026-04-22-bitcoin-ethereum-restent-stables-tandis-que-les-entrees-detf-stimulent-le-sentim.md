@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum restent stables tandis que les entrées d'ETF stimulent le sentiment du marché pour XRP et Dogecoin"
+slug: "bitcoin-ethereum-restent-stables-tandis-que-les-entrees-detf-stimulent-le-sentim"
+date: "2026-04-22"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "fr"
+meta_description: "Bitcoin, Ethereum restent stables tandis que les entrées d'ETF stimulent le sentiment du marché pour XRP et Dogecoin"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum restent stables tandis que les entrées d'ETF stimulent le sentiment du marché pour XRP et Dogecoin

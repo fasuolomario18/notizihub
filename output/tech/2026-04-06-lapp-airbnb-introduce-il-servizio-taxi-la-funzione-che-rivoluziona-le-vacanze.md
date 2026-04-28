@@ -1,4 +1,12 @@
 ---
+title: "L'intelligenza artificiale trasforma Airbnb: arriva il servizio taxi integrato nello smartphone"
+slug: "lintelligenza-artificiale-trasforma-airbnb-arriva-il-servizio-taxi-integrato-nel"
+date: "2026-04-06"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "L'intelligenza artificiale trasforma Airbnb: arriva il servizio taxi integrato nello smartphone"
+auto_generated: true
 ---
 
 # L'intelligenza artificiale trasforma Airbnb: arriva il servizio taxi integrato nello smartphone

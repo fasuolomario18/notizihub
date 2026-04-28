@@ -1,4 +1,12 @@
 ---
+title: "Calciomercato Serie A 2025/2026: Gli Ultimi Acquisti, Cessioni e Rumors che Infiammano il Campionato"
+slug: "calciomercato-serie-a-20252026-gli-ultimi-acquisti-cessioni-e-rumors-che-infiamm"
+date: "2026-04-15"
+nicchia: "calcio-mercato"
+nicchia_nome: "Calciomercato"
+lang: "it"
+meta_description: "Calciomercato Serie A 2025/2026: Gli Ultimi Acquisti, Cessioni e Rumors che Infiammano il Campionato"
+auto_generated: true
 ---
 
 # Calciomercato Serie A 2025/2026: Gli Ultimi Acquisti, Cessioni e Rumors che Infiammano il Campionato

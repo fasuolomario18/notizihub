@@ -1,4 +1,12 @@
 ---
+title: "Ruta N fortalece el ecosistema de startup y emprendimiento en Medellín con nueva estrategia"
+slug: "ruta-n-fortalece-el-ecosistema-de-startup-y-emprendimiento-en-medellin-con-nueva"
+date: "2026-04-21"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "es"
+meta_description: "Ruta N fortalece el ecosistema de startup y emprendimiento en Medellín con nueva estrategia"
+auto_generated: true
 ---
 
 # Ruta N fortalece el ecosistema de startup y emprendimiento en Medellín con nueva estrategia

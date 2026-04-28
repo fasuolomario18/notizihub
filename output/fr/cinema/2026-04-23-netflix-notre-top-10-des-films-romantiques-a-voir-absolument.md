@@ -1,4 +1,12 @@
 ---
+title: "Netflix : notre top 10 des films romantiques à voir absolument"
+slug: "netflix-notre-top-10-des-films-romantiques-a-voir-absolument"
+date: "2026-04-23"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "fr"
+meta_description: "Netflix : notre top 10 des films romantiques à voir absolument"
+auto_generated: true
 ---
 
 # Netflix : notre top 10 des films romantiques à voir absolument

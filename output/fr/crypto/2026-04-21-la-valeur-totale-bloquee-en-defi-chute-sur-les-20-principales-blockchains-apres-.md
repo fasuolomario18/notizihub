@@ -1,4 +1,12 @@
 ---
+title: "La valeur totale bloquée en DeFi chute su le 20 principali blockchain dopo l'hack di KelpDAO"
+slug: "la-valeur-totale-bloquee-en-defi-chute-su-le-20-principali-blockchain-dopo-lhack"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "fr"
+meta_description: "La valeur totale bloquée en DeFi chute su le 20 principali blockchain dopo l'hack di KelpDAO"
+auto_generated: true
 ---
 
 # La valeur totale bloquée en DeFi chute su le 20 principali blockchain dopo l'hack di KelpDAO

@@ -1,4 +1,12 @@
 ---
+title: "Serie A 2026: Politano stende il Milan, il Napoli aggancia il secondo posto a -7 dall'Inter"
+slug: "serie-a-2026-politano-stende-il-milan-il-napoli-aggancia-il-secondo-posto-a--7-d"
+date: "2026-04-07"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A 2026: Politano stende il Milan, il Napoli aggancia il secondo posto a -7 dall'Inter"
+auto_generated: true
 ---
 
 # Serie A 2026: Politano stende il Milan, il Napoli aggancia il secondo posto a -7 dall'Inter

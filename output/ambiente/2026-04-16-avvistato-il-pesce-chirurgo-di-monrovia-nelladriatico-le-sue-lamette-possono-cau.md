@@ -1,4 +1,12 @@
 ---
+title: "Il Pesce Chirurgo di Monrovia nell'Adriatico: Come il Cambiamento Climatico Sta Trasformando gli Ecosistemi Marini"
+slug: "il-pesce-chirurgo-di-monrovia-nelladriatico-come-il-cambiamento-climatico-sta-tr"
+date: "2026-04-16"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Il Pesce Chirurgo di Monrovia nell'Adriatico: Come il Cambiamento Climatico Sta Trasformando gli Ecosistemi Marini"
+auto_generated: true
 ---
 
 # Il Pesce Chirurgo di Monrovia nell'Adriatico: Come il Cambiamento Climatico Sta Trasformando gli Ecosistemi Marini

@@ -1,4 +1,12 @@
 ---
+title: "Bringing Indian Food Recipes into Your Weekly Cooking Rotation: A New Show Changes Everything"
+slug: "bringing-indian-food-recipes-into-your-weekly-cooking-rotation-a-new-show-change"
+date: "2026-04-24"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "en"
+meta_description: "Bringing Indian Food Recipes into Your Weekly Cooking Rotation: A New Show Changes Everything"
+auto_generated: true
 ---
 
 # Bringing Indian Food Recipes into Your Weekly Cooking Rotation: A New Show Changes Everything

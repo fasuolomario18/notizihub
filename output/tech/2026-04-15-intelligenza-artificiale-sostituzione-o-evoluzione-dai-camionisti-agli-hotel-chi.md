@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale: Sostituzione o Evoluzione? Chi Rischia il Posto in Romagna nel 2026"
+slug: "intelligenza-artificiale-sostituzione-o-evoluzione-chi-rischia-il-posto-in-romag"
+date: "2026-04-15"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale: Sostituzione o Evoluzione? Chi Rischia il Posto in Romagna nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale: Sostituzione o Evoluzione? Chi Rischia il Posto in Romagna nel 2026

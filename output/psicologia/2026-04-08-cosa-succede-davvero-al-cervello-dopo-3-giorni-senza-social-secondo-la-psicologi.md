@@ -1,4 +1,12 @@
 ---
+title: "Cosa succede al cervello dopo 3 giorni senza social: la ricerca psicologica del 2026"
+slug: "cosa-succede-al-cervello-dopo-3-giorni-senza-social-la-ricerca-psicologica-del-2"
+date: "2026-04-08"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "it"
+meta_description: "Cosa succede al cervello dopo 3 giorni senza social: la ricerca psicologica del 2026"
+auto_generated: true
 ---
 
 # Cosa succede al cervello dopo 3 giorni senza social: la ricerca psicologica del 2026

@@ -1,4 +1,12 @@
 ---
+title: "Il Signore degli Anelli – La Caccia a Gollum: come Hollywood abbraccia la sostenibilità nel 2026"
+slug: "il-signore-degli-anelli-la-caccia-a-gollum-come-hollywood-abbraccia-la-sostenibi"
+date: "2026-04-15"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Il Signore degli Anelli – La Caccia a Gollum: come Hollywood abbraccia la sostenibilità nel 2026"
+auto_generated: true
 ---
 
 # Il Signore degli Anelli – La Caccia a Gollum: come Hollywood abbraccia la sostenibilità nel 2026

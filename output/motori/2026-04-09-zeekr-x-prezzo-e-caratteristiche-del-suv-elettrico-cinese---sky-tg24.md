@@ -1,4 +1,12 @@
 ---
+title: "Zeekr X: il SUV elettrico cinese che rivoluziona il mercato auto nel 2026"
+slug: "zeekr-x-il-suv-elettrico-cinese-che-rivoluziona-il-mercato-auto-nel-2026"
+date: "2026-04-09"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Zeekr X: il SUV elettrico cinese che rivoluziona il mercato auto nel 2026"
+auto_generated: true
 ---
 
 # Zeekr X: il SUV elettrico cinese che rivoluziona il mercato auto nel 2026

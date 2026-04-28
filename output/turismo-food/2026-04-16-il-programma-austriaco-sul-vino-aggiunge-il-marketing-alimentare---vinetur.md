@@ -1,4 +1,12 @@
 ---
+title: "Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026"
+slug: "vino-e-gastronomia-laustria-potenzia-il-marketing-alimentare-nel-2026"
+date: "2026-04-16"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026"
+auto_generated: true
 ---
 
 # Vino e Gastronomia: L'Austria Potenzia il Marketing Alimentare nel 2026

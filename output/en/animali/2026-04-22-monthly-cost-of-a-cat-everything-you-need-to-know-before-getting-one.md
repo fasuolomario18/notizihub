@@ -1,4 +1,12 @@
 ---
+title: "Monthly Cost of a Cat: Everything You Need to Know Before Getting One"
+slug: "monthly-cost-of-a-cat-everything-you-need-to-know-before-getting-one"
+date: "2026-04-22"
+nicchia: "animali"
+nicchia_nome: "Animali"
+lang: "en"
+meta_description: "Monthly Cost of a Cat: Everything You Need to Know Before Getting One"
+auto_generated: true
 ---
 
 # Monthly Cost of a Cat: Everything You Need to Know Before Getting One

@@ -1,4 +1,12 @@
 ---
+title: "Come liberare la memoria del telefono: i migliori consigli per Android e iPhone"
+slug: "come-liberare-la-memoria-del-telefono-i-migliori-consigli-per-android-e-iphone"
+date: "2026-04-21"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "Come liberare la memoria del telefono: i migliori consigli per Android e iPhone"
+auto_generated: true
 ---
 
 # Come liberare la memoria del telefono: i migliori consigli per Android e iPhone

@@ -1,4 +1,12 @@
 ---
+title: "25 Séries Imperdíveis Para Assistir em 2026: Onde Encontrar na Netflix e Outras Plataformas"
+slug: "25-series-imperdiveis-para-assistir-em-2026-onde-encontrar-na-netflix-e-outras-p"
+date: "2026-04-23"
+nicchia: "cinema"
+nicchia_nome: "Cinema & TV"
+lang: "pt"
+meta_description: "25 Séries Imperdíveis Para Assistir em 2026: Onde Encontrar na Netflix e Outras Plataformas"
+auto_generated: true
 ---
 
 # 25 Séries Imperdíveis Para Assistir em 2026: Onde Encontrar na Netflix e Outras Plataformas

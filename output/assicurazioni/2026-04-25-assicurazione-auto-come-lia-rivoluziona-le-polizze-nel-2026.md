@@ -1,4 +1,12 @@
 ---
+title: "Assicurazione Auto: Come l'IA Rivoluziona le Polizze nel 2026"
+slug: "assicurazione-auto-come-lia-rivoluziona-le-polizze-nel-2026"
+date: "2026-04-25"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Assicurazione Auto: Come l'IA Rivoluziona le Polizze nel 2026"
+auto_generated: true
 ---
 
 # Assicurazione Auto: Come l'IA Rivoluziona le Polizze nel 2026

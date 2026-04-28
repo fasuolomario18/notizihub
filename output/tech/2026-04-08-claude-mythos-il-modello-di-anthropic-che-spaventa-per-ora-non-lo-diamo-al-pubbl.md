@@ -1,4 +1,12 @@
 ---
+title: "Claude Mythos: il nuovo modello di Anthropic che rivoluziona l'intelligenza artificiale su smartphone e laptop"
+slug: "claude-mythos-il-nuovo-modello-di-anthropic-che-rivoluziona-lintelligenza-artifi"
+date: "2026-04-08"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Claude Mythos: il nuovo modello di Anthropic che rivoluziona l'intelligenza artificiale su smartphone e laptop"
+auto_generated: true
 ---
 
 # Claude Mythos: il nuovo modello di Anthropic che rivoluziona l'intelligenza artificiale su smartphone e laptop

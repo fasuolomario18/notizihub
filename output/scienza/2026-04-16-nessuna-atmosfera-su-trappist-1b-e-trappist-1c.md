@@ -1,4 +1,12 @@
 ---
+title: "Il Telescopio Webb Rivela l'Assenza di Atmosfera su Trappist-1b e Trappist-1c"
+slug: "il-telescopio-webb-rivela-lassenza-di-atmosfera-su-trappist-1b-e-trappist-1c"
+date: "2026-04-16"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "it"
+meta_description: "Il Telescopio Webb Rivela l'Assenza di Atmosfera su Trappist-1b e Trappist-1c"
+auto_generated: true
 ---
 
 # Il Telescopio Webb Rivela l'Assenza di Atmosfera su Trappist-1b e Trappist-1c

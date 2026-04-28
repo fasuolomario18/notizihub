@@ -1,4 +1,12 @@
 ---
+title: "Cronaca Italia: Omicidio a Crema, il 17enne resta in carcere e chiede perdono"
+slug: "cronaca-italia-omicidio-a-crema-il-17enne-resta-in-carcere-e-chiede-perdono"
+date: "2026-04-09"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Cronaca Italia: Omicidio a Crema, il 17enne resta in carcere e chiede perdono"
+auto_generated: true
 ---
 
 # Cronaca Italia: Omicidio a Crema, il 17enne resta in carcere e chiede perdono

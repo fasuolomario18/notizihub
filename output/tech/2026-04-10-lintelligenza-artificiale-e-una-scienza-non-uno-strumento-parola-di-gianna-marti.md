@@ -1,4 +1,12 @@
 ---
+title: "L'Intelligenza Artificiale è una Scienza, non uno Strumento: la Visione di Gianna Martinengo"
+slug: "lintelligenza-artificiale-e-una-scienza-non-uno-strumento-la-visione-di-gianna-m"
+date: "2026-04-10"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "L'Intelligenza Artificiale è una Scienza, non uno Strumento: la Visione di Gianna Martinengo"
+auto_generated: true
 ---
 
 # L'Intelligenza Artificiale è una Scienza, non uno Strumento: la Visione di Gianna Martinengo

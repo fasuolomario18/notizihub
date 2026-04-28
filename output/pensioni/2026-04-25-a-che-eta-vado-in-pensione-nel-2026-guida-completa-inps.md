@@ -1,4 +1,12 @@
 ---
+title: "A che età vado in pensione nel 2026: Guida completa INPS"
+slug: "a-che-eta-vado-in-pensione-nel-2026-guida-completa-inps"
+date: "2026-04-25"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "A che età vado in pensione nel 2026: Guida completa INPS"
+auto_generated: true
 ---
 
 # A che età vado in pensione nel 2026: Guida completa INPS

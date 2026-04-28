@@ -1,4 +1,12 @@
 ---
+title: "Rediscovering Forgotten British Recipes: A Home Cook's Guide to Traditional Cooking"
+slug: "rediscovering-forgotten-british-recipes-a-home-cooks-guide-to-traditional-cookin"
+date: "2026-04-21"
+nicchia: "cucina"
+nicchia_nome: "Cucina"
+lang: "en"
+meta_description: "Rediscovering Forgotten British Recipes: A Home Cook's Guide to Traditional Cooking"
+auto_generated: true
 ---
 
 # Rediscovering Forgotten British Recipes: A Home Cook's Guide to Traditional Cooking

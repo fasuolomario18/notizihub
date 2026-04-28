@@ -1,4 +1,12 @@
 ---
+title: "730 Precompilato: Como Se Compila a Declaração de Imposto de Renda"
+slug: "730-precompilato-como-se-compila-a-declaracao-de-imposto-de-renda"
+date: "2026-04-22"
+nicchia: "fisco"
+nicchia_nome: "Fisco & Tasse"
+lang: "pt"
+meta_description: "730 Precompilato: Como Se Compila a Declaração de Imposto de Renda"
+auto_generated: true
 ---
 
 # 730 Precompilato: Como Se Compila a Declaração de Imposto de Renda

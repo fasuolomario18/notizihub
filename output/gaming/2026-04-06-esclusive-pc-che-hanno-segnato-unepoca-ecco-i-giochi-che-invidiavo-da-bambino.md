@@ -1,4 +1,12 @@
 ---
+title: "Le Esclusive PC che hanno Segnato un'Epoca: dai Sogni d'Infanzia al Mondo del Gaming Moderno"
+slug: "le-esclusive-pc-che-hanno-segnato-unepoca-dai-sogni-dinfanzia-al-mondo-del-gamin"
+date: "2026-04-06"
+nicchia: "gaming"
+nicchia_nome: "Gaming"
+lang: "it"
+meta_description: "Le Esclusive PC che hanno Segnato un'Epoca: dai Sogni d'Infanzia al Mondo del Gaming Moderno"
+auto_generated: true
 ---
 
 # Le Esclusive PC che hanno Segnato un'Epoca: dai Sogni d'Infanzia al Mondo del Gaming Moderno

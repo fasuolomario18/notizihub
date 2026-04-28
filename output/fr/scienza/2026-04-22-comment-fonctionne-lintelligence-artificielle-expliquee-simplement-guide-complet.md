@@ -1,4 +1,12 @@
 ---
+title: "Comment fonctionne l'intelligence artificielle expliquée simplement : Guide complet pour comprendre la science et ses applications spatiales"
+slug: "comment-fonctionne-lintelligence-artificielle-expliquee-simplement-guide-complet"
+date: "2026-04-22"
+nicchia: "scienza"
+nicchia_nome: "Scienza"
+lang: "fr"
+meta_description: "Comment fonctionne l'intelligence artificielle expliquée simplement : Guide complet pour comprendre la science et ses applications spatiales"
+auto_generated: true
 ---
 
 # Comment fonctionne l'intelligence artificielle expliquée simplement : Guide complet pour comprendre la science et ses applications spatiales

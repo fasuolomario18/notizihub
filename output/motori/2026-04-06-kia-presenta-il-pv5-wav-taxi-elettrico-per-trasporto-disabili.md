@@ -1,4 +1,12 @@
 ---
+title: "Kia PV5 WAV: il nuovo SUV elettrico rivoluzionario per il trasporto dei disabili"
+slug: "kia-pv5-wav-il-nuovo-suv-elettrico-rivoluzionario-per-il-trasporto-dei-disabili"
+date: "2026-04-06"
+nicchia: "motori"
+nicchia_nome: "Motori"
+lang: "it"
+meta_description: "Kia PV5 WAV: il nuovo SUV elettrico rivoluzionario per il trasporto dei disabili"
+auto_generated: true
 ---
 
 # Kia PV5 WAV: il nuovo SUV elettrico rivoluzionario per il trasporto dei disabili

@@ -1,4 +1,12 @@
 ---
+title: "Cassa centrale banca, piano al 2028 con raccolta 148 miliardi (+14%)"
+slug: "cassa-centrale-banca-piano-al-2028-con-raccolta-148-miliardi-14"
+date: "2026-04-08"
+nicchia: "assicurazioni"
+nicchia_nome: "Assicurazioni"
+lang: "it"
+meta_description: "Cassa centrale banca, piano al 2028 con raccolta 148 miliardi (+14%)"
+auto_generated: true
 ---
 
 # Cassa centrale banca, piano al 2028 con raccolta 148 miliardi (+14%)

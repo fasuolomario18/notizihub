@@ -1,4 +1,12 @@
 ---
+title: "Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen: Was Anleger jetzt wissen müssen"
+slug: "bitcoin-ethereum-und-xrp-fallen-nach-hormuz-spannungen-was-anleger-jetzt-wissen-"
+date: "2026-04-21"
+nicchia: "crypto"
+nicchia_nome: "Crypto"
+lang: "de"
+meta_description: "Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen: Was Anleger jetzt wissen müssen"
+auto_generated: true
 ---
 
 # Bitcoin, Ethereum und XRP fallen nach Hormuz-Spannungen: Was Anleger jetzt wissen müssen

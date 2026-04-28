@@ -1,4 +1,12 @@
 ---
+title: "Comment Combattre l'Anxiété sans Farmaci : Guide Complet de la Psychologie"
+slug: "comment-combattre-lanxiete-sans-farmaci-guide-complet-de-la-psychologie"
+date: "2026-04-22"
+nicchia: "psicologia"
+nicchia_nome: "Psicologia"
+lang: "fr"
+meta_description: "Comment Combattre l'Anxiété sans Farmaci : Guide Complet de la Psychologie"
+auto_generated: true
 ---
 
 # Comment Combattre l'Anxiété sans Farmaci : Guide Complet de la Psychologie

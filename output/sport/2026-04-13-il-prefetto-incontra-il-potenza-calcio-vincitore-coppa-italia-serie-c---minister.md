@@ -1,4 +1,12 @@
 ---
+title: "Serie A e il Calcio Italiano in Festa: Il Prefetto Celebra il Potenza Campione della Coppa Italia Serie C"
+slug: "serie-a-e-il-calcio-italiano-in-festa-il-prefetto-celebra-il-potenza-campione-de"
+date: "2026-04-13"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A e il Calcio Italiano in Festa: Il Prefetto Celebra il Potenza Campione della Coppa Italia Serie C"
+auto_generated: true
 ---
 
 # Serie A e il Calcio Italiano in Festa: Il Prefetto Celebra il Potenza Campione della Coppa Italia Serie C

@@ -1,4 +1,12 @@
 ---
+title: "Potatura ad Aprile: La Guida Pratica per Non Rovinare le Tue Piante"
+slug: "potatura-ad-aprile-la-guida-pratica-per-non-rovinare-le-tue-piante"
+date: "2026-04-09"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Potatura ad Aprile: La Guida Pratica per Non Rovinare le Tue Piante"
+auto_generated: true
 ---
 
 # Potatura ad Aprile: La Guida Pratica per Non Rovinare le Tue Piante

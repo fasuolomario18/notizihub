@@ -1,4 +1,12 @@
 ---
+title: "Messico-Usa, secondo incontro per la revisione del trattato nordamericano"
+slug: "messico-usa-secondo-incontro-per-la-revisione-del-trattato-nordamericano"
+date: "2026-04-18"
+nicchia: "finanza"
+nicchia_nome: "Finanza"
+lang: "it"
+meta_description: "Messico-Usa, secondo incontro per la revisione del trattato nordamericano"
+auto_generated: true
 ---
 
 # Messico-Usa, secondo incontro per la revisione del trattato nordamericano

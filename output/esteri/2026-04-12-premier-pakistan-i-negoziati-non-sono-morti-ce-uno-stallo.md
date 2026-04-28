@@ -1,4 +1,12 @@
 ---
+title: "Guerra e Diplomazia: il Premier del Pakistan Rompe il Silenzio sui Negoziati"
+slug: "guerra-e-diplomazia-il-premier-del-pakistan-rompe-il-silenzio-sui-negoziati"
+date: "2026-04-12"
+nicchia: "esteri"
+nicchia_nome: "Esteri"
+lang: "it"
+meta_description: "Guerra e Diplomazia: il Premier del Pakistan Rompe il Silenzio sui Negoziati"
+auto_generated: true
 ---
 
 # Guerra e Diplomazia: il Premier del Pakistan Rompe il Silenzio sui Negoziati

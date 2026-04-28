@@ -1,4 +1,12 @@
 ---
+title: "Serie A e Calcio Italiano: Il Torino Rinfresca l'Accordo sulle Memorie del Grande Torino"
+slug: "serie-a-e-calcio-italiano-il-torino-rinfresca-laccordo-sulle-memorie-del-grande-"
+date: "2026-04-17"
+nicchia: "sport"
+nicchia_nome: "Sport"
+lang: "it"
+meta_description: "Serie A e Calcio Italiano: Il Torino Rinfresca l'Accordo sulle Memorie del Grande Torino"
+auto_generated: true
 ---
 
 # Serie A e Calcio Italiano: Il Torino Rinfresca l'Accordo sulle Memorie del Grande Torino

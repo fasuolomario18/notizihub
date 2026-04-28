@@ -1,4 +1,12 @@
 ---
+title: "Cgia, 5,3 milioni di italiani in povertà energetica"
+slug: "cgia-53-milioni-di-italiani-in-poverta-energetica"
+date: "2026-04-12"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Cgia, 5,3 milioni di italiani in povertà energetica"
+auto_generated: true
 ---
 
 # Cgia, 5,3 milioni di italiani in povertà energetica

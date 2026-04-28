@@ -1,4 +1,12 @@
 ---
+title: "Aeroporti italiani senza carburante: emergenza sui voli estivi, allarme del Codacons"
+slug: "aeroporti-italiani-senza-carburante-emergenza-sui-voli-estivi-allarme-del-codaco"
+date: "2026-04-07"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Aeroporti italiani senza carburante: emergenza sui voli estivi, allarme del Codacons"
+auto_generated: true
 ---
 
 # Aeroporti italiani senza carburante: emergenza sui voli estivi, allarme del Codacons

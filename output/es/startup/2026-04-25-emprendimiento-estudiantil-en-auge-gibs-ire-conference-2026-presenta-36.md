@@ -1,4 +1,12 @@
 ---
+title: "Emprendimiento Estudiantil en Auge: GIBS IRE Conference 2026 Presenta 36 Startups Innovadoras en Bangalore"
+slug: "emprendimiento-estudiantil-en-auge-gibs-ire-conference-2026-presenta-36-startups"
+date: "2026-04-25"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "es"
+meta_description: "Emprendimiento Estudiantil en Auge: GIBS IRE Conference 2026 Presenta 36 Startups Innovadoras en Bangalore"
+auto_generated: true
 ---
 
 # Emprendimiento Estudiantil en Auge: GIBS IRE Conference 2026 Presenta 36 Startups Innovadoras en Bangalore

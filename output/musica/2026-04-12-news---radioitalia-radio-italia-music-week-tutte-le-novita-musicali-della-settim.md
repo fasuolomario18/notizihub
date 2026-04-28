@@ -1,4 +1,12 @@
 ---
+title: "Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026"
+slug: "radio-italia-music-week-le-novita-musicali-che-dominano-laprile-2026"
+date: "2026-04-12"
+nicchia: "musica"
+nicchia_nome: "Musica"
+lang: "it"
+meta_description: "Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026"
+auto_generated: true
 ---
 
 # Radio Italia Music Week: Le Novità Musicali che Dominano l'Aprile 2026

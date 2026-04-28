@@ -1,4 +1,12 @@
 ---
+title: "Mutuo e Affitto nel 2026: Come il Rating Stabile dell'Italia Influisce sul Mercato Immobiliare"
+slug: "mutuo-e-affitto-nel-2026-come-il-rating-stabile-dellitalia-influisce-sul-mercato"
+date: "2026-04-18"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo e Affitto nel 2026: Come il Rating Stabile dell'Italia Influisce sul Mercato Immobiliare"
+auto_generated: true
 ---
 
 # Mutuo e Affitto nel 2026: Come il Rating Stabile dell'Italia Influisce sul Mercato Immobiliare

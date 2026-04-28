@@ -1,4 +1,12 @@
 ---
+title: "Intelligenza Artificiale: i Giovani Pretendono Voce in Capitolo nel 2026"
+slug: "intelligenza-artificiale-i-giovani-pretendono-voce-in-capitolo-nel-2026"
+date: "2026-04-20"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "it"
+meta_description: "Intelligenza Artificiale: i Giovani Pretendono Voce in Capitolo nel 2026"
+auto_generated: true
 ---
 
 # Intelligenza Artificiale: i Giovani Pretendono Voce in Capitolo nel 2026

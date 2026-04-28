@@ -1,4 +1,12 @@
 ---
+title: "Pensione: Ti Spettano Due Anni di Arretrati dall'INPS con la Nuova Circolare"
+slug: "pensione-ti-spettano-due-anni-di-arretrati-dallinps-con-la-nuova-circolare"
+date: "2026-04-17"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensione: Ti Spettano Due Anni di Arretrati dall'INPS con la Nuova Circolare"
+auto_generated: true
 ---
 
 # Pensione: Ti Spettano Due Anni di Arretrati dall'INPS con la Nuova Circolare

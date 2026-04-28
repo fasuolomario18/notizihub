@@ -1,4 +1,12 @@
 ---
+title: "Mutuo, Affitto e Ristrutturazione: Le Opportunità dell'Housing in Italia tra Crescita e Incertezze Geopolitiche"
+slug: "mutuo-affitto-e-ristrutturazione-le-opportunita-dellhousing-in-italia-tra-cresci"
+date: "2026-04-21"
+nicchia: "casa"
+nicchia_nome: "Casa"
+lang: "it"
+meta_description: "Mutuo, Affitto e Ristrutturazione: Le Opportunità dell'Housing in Italia tra Crescita e Incertezze Geopolitiche"
+auto_generated: true
 ---
 
 # Mutuo, Affitto e Ristrutturazione: Le Opportunità dell'Housing in Italia tra Crescita e Incertezze Geopolitiche

@@ -1,4 +1,12 @@
 ---
+title: "Come Capire Quali App Consumano Più Batteria dello Smartphone: Guida Completa per Android e iPhone"
+slug: "come-capire-quali-app-consumano-piu-batteria-dello-smartphone-guida-completa-per"
+date: "2026-04-07"
+nicchia: "smartphone"
+nicchia_nome: "Smartphone"
+lang: "it"
+meta_description: "Come Capire Quali App Consumano Più Batteria dello Smartphone: Guida Completa per Android e iPhone"
+auto_generated: true
 ---
 
 # Come Capire Quali App Consumano Più Batteria dello Smartphone: Guida Completa per Android e iPhone

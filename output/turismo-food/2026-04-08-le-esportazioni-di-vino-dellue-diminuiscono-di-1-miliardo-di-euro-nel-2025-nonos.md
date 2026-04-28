@@ -1,4 +1,12 @@
 ---
+title: "Vino e Gastronomia in Crisi: Come i Ristoranti Italiani Affrontano il Calo delle Esportazioni UE nel 2026"
+slug: "vino-e-gastronomia-in-crisi-come-i-ristoranti-italiani-affrontano-il-calo-delle-"
+date: "2026-04-08"
+nicchia: "turismo-food"
+nicchia_nome: "Turismo Food"
+lang: "it"
+meta_description: "Vino e Gastronomia in Crisi: Come i Ristoranti Italiani Affrontano il Calo delle Esportazioni UE nel 2026"
+auto_generated: true
 ---
 
 # Vino e Gastronomia in Crisi: Come i Ristoranti Italiani Affrontano il Calo delle Esportazioni UE nel 2026

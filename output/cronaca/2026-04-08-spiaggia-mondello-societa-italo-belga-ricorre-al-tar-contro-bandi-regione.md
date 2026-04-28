@@ -1,4 +1,12 @@
 ---
+title: "Spiaggia Mondello, ricorso al Tar contro i bandi della Regione Siciliana: la battaglia legale si intensifica"
+slug: "spiaggia-mondello-ricorso-al-tar-contro-i-bandi-della-regione-siciliana-la-batta"
+date: "2026-04-08"
+nicchia: "cronaca"
+nicchia_nome: "Cronaca"
+lang: "it"
+meta_description: "Spiaggia Mondello, ricorso al Tar contro i bandi della Regione Siciliana: la battaglia legale si intensifica"
+auto_generated: true
 ---
 
 # Spiaggia Mondello, ricorso al Tar contro i bandi della Regione Siciliana: la battaglia legale si intensifica

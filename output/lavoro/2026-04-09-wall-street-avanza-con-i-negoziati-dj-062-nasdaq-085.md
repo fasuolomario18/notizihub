@@ -1,4 +1,12 @@
 ---
+title: "Wall Street avance con i negoziati, Dj +0,62%, Nasdaq +0,85%"
+slug: "wall-street-avance-con-i-negoziati-dj-062-nasdaq-085"
+date: "2026-04-09"
+nicchia: "lavoro"
+nicchia_nome: "Lavoro"
+lang: "it"
+meta_description: "Wall Street avance con i negoziati, Dj +0,62%, Nasdaq +0,85%"
+auto_generated: true
 ---
 
 # Wall Street avance con i negoziati, Dj +0,62%, Nasdaq +0,85%

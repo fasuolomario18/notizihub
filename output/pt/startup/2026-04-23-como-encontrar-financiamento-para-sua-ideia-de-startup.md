@@ -1,4 +1,12 @@
 ---
+title: "Como Encontrar Financiamento para Sua Ideia de Startup"
+slug: "como-encontrar-financiamento-para-sua-ideia-de-startup"
+date: "2026-04-23"
+nicchia: "startup"
+nicchia_nome: "Startup"
+lang: "pt"
+meta_description: "Como Encontrar Financiamento para Sua Ideia de Startup"
+auto_generated: true
 ---
 
 # Como Encontrar Financiamento para Sua Ideia de Startup

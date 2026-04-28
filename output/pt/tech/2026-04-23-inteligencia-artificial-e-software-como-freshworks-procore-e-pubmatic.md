@@ -1,4 +1,12 @@
 ---
+title: "Inteligência Artificial e Software: Como Freshworks, Procore e PubMatic Conquistaram o Mercado"
+slug: "inteligencia-artificial-e-software-como-freshworks-procore-e-pubmatic-conquistar"
+date: "2026-04-23"
+nicchia: "tech"
+nicchia_nome: "Tech & AI"
+lang: "pt"
+meta_description: "Inteligência Artificial e Software: Como Freshworks, Procore e PubMatic Conquistaram o Mercado"
+auto_generated: true
 ---
 
 # Inteligência Artificial e Software: Como Freshworks, Procore e PubMatic Conquistaram o Mercado

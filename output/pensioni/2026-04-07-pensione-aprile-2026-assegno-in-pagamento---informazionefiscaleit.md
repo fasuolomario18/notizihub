@@ -1,4 +1,12 @@
 ---
+title: "Pensione aprile 2026: assegno INPS in pagamento oggi"
+slug: "pensione-aprile-2026-assegno-inps-in-pagamento-oggi"
+date: "2026-04-07"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Pensione aprile 2026: assegno INPS in pagamento oggi"
+auto_generated: true
 ---
 
 # Pensione aprile 2026: assegno INPS in pagamento oggi

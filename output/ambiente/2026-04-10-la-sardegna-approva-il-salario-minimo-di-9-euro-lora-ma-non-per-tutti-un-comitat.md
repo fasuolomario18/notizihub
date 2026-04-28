@@ -1,4 +1,12 @@
 ---
+title: "Sardegna e Salario Minimo: Come la Sostenibilità Ambientale Incontra la Giustizia Economica nel 2026"
+slug: "sardegna-e-salario-minimo-come-la-sostenibilita-ambientale-incontra-la-giustizia"
+date: "2026-04-10"
+nicchia: "ambiente"
+nicchia_nome: "Ambiente"
+lang: "it"
+meta_description: "Sardegna e Salario Minimo: Come la Sostenibilità Ambientale Incontra la Giustizia Economica nel 2026"
+auto_generated: true
 ---
 
 # Sardegna e Salario Minimo: Come la Sostenibilità Ambientale Incontra la Giustizia Economica nel 2026

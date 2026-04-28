@@ -1,4 +1,12 @@
 ---
+title: "Quando viene pagata la pensione di maggio 2026: calendario INPS"
+slug: "quando-viene-pagata-la-pensione-di-maggio-2026-calendario-inps"
+date: "2026-04-22"
+nicchia: "pensioni"
+nicchia_nome: "Pensioni"
+lang: "it"
+meta_description: "Quando viene pagata la pensione di maggio 2026: calendario INPS"
+auto_generated: true
 ---
 
 # Quando viene pagata la pensione di maggio 2026: calendario INPS

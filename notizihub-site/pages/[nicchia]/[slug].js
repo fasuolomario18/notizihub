@@ -10,25 +10,7 @@ const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'out
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.notizihub.com';
 
 export async function getStaticPaths() {
-  const paths = [];
-  if (!fs.existsSync(OUTPUT_DIR)) return { paths: [], fallback: 'blocking' };
-
-  const nicchie = fs.readdirSync(OUTPUT_DIR).filter(f =>
-    fs.statSync(path.join(OUTPUT_DIR, f)).isDirectory() && !f.startsWith('.')
-  );
-
-  for (const nicchia of nicchie) {
-    const dir = path.join(OUTPUT_DIR, nicchia);
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      const raw = fs.readFileSync(path.join(dir, file), 'utf-8');
-      const { data } = matter(raw);
-      if (data.slug) {
-        paths.push({ params: { nicchia, slug: data.slug } });
-      }
-    }
-  }
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 }
 
 function parseFaq(content) {
@@ -66,7 +48,6 @@ export async function getStaticProps({ params }) {
     if (data.slug === params.slug) {
       const tldr = parseTldr(content);
       const faqs = parseFaq(content);
-      // Strip TLDR markers and the first H1 (rendered separately in the template)
       const cleanContent = stripTldrMarkers(content).replace(/^#\s+.+\n?/m, '');
       const processed = await remark().use(html).process(cleanContent);
       articolo = { ...data, contenuto: processed.toString(), tldr, faqs };
@@ -76,7 +57,6 @@ export async function getStaticProps({ params }) {
 
   if (!articolo) return { notFound: true };
 
-  // articoli correlati (stessa nicchia, escludi corrente)
   const correlati = [];
   for (const file of files) {
     const raw = fs.readFileSync(path.join(dir, file), 'utf-8');

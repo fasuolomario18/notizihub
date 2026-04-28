@@ -35,10 +35,11 @@ function parseFaq(content) {
   const faqMatch = content.match(/## Domande Frequenti([\s\S]*?)(?=\n## |\n<!-- META|$)/);
   if (!faqMatch) return [];
   const faqs = [];
-  const re = /\*\*D:\s*(.*?)\*\*\s*\nR:\s*(.*?)(?=\n\*\*D:|\n<!-- META|$)/gs;
+  const re = /\*\*D:\s*(.*?)\*\*\s*\n+R:\s*(.*?)(?=\n+\*\*D:|\n<!-- META|$)/gs;
   let m;
   while ((m = re.exec(faqMatch[1])) !== null) {
-    faqs.push({ q: m[1].trim().replace(/\?$/, ''), a: m[2].trim() });
+    const a = m[2].trim();
+    if (a) faqs.push({ q: m[1].trim().replace(/\?$/, ''), a });
   }
   return faqs;
 }
@@ -109,7 +110,7 @@ export default function Articolo({ articolo }) {
   const faqSchema = articolo.faqs && articolo.faqs.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: articolo.faqs.map(f => ({
+    mainEntity: articolo.faqs.filter(f => f.a && f.a.trim()).map(f => ({
       '@type': 'Question',
       name: f.q + '?',
       acceptedAnswer: { '@type': 'Answer', text: f.a },
@@ -183,7 +184,6 @@ export default function Articolo({ articolo }) {
           <span style={{ fontWeight: 600, color: '#555' }}>Redazione NotiziHub</span> · Pubblicato il {articolo.date} · Lettura: 5 min
         </div>
 
-        {/* TL;DR box */}
         {articolo.tldr && (
           <div style={{ background: '#EBF5FF', border: '1px solid #BFDBFE', borderLeft: '4px solid #1a56db', borderRadius: 8, padding: '16px 20px', marginBottom: 28 }}>
             <div style={{ fontWeight: 700, fontSize: 13, color: '#1a56db', marginBottom: 6, textTransform: 'uppercase', letterSpacing: '0.05em' }}>In sintesi</div>
@@ -191,7 +191,6 @@ export default function Articolo({ articolo }) {
           </div>
         )}
 
-        {/* AdSense — banner top */}
         <div style={{ margin: '0 0 28px', textAlign: 'center' }}>
           <ins className="adsbygoogle"
             style={{ display: 'block' }}
@@ -204,7 +203,6 @@ export default function Articolo({ articolo }) {
 
         <div className="article-body" dangerouslySetInnerHTML={{ __html: articolo.contenuto }} />
 
-        {/* FAQ stilizzate */}
         {articolo.faqs && articolo.faqs.length > 0 && (
           <div style={{ margin: '36px 0' }}>
             <h2 style={{ fontSize: 22, fontWeight: 700, marginBottom: 16, borderBottom: '2px solid #e5e5e5', paddingBottom: 8 }}>Domande Frequenti</h2>
@@ -217,7 +215,6 @@ export default function Articolo({ articolo }) {
           </div>
         )}
 
-        {/* AdSense — banner mid */}
         <div style={{ margin: '32px 0', textAlign: 'center' }}>
           <ins className="adsbygoogle"
             style={{ display: 'block' }}
@@ -228,7 +225,6 @@ export default function Articolo({ articolo }) {
           <script dangerouslySetInnerHTML={{ __html: '(adsbygoogle = window.adsbygoogle || []).push({});' }} />
         </div>
 
-        {/* Articoli correlati */}
         {articolo.correlati && articolo.correlati.length > 0 && (
           <div style={{ margin: '36px 0' }}>
             <h2 style={{ fontSize: 20, fontWeight: 700, marginBottom: 16, borderBottom: '2px solid #e5e5e5', paddingBottom: 8 }}>Articoli correlati</h2>

@@ -3,7 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
-import { LINGUE } from './langConfig';
+import { LINGUE, NICCHIE_DESC } from './langConfig';
 
 const OUTPUT_DIR = process.env.OUTPUT_DIR || path.join(process.cwd(), '..', 'output');
 
@@ -32,7 +32,8 @@ export async function getLangNicchiaProps(lang, params) {
   articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
   const nicchiaNome = articoli[0]?.nicchia_nome || nicchia;
   const lingua = LINGUE.find(l => l.id === lang) || LINGUE[1];
-  return { props: { articoli, nicchia, nicchiaNome, lang, lingua }, revalidate: 3600 };
+  const desc = (NICCHIE_DESC[nicchia] && NICCHIE_DESC[nicchia][lang]) || '';
+  return { props: { articoli, nicchia, nicchiaNome, lang, lingua, desc }, revalidate: 3600 };
 }
 
 export function getLangDir(lang) {

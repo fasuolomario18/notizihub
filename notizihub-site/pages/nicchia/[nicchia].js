@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import Link from 'next/link';
 import Head from 'next/head';
+import { NICCHIE_DESC } from '../../lib/langConfig';
 
 const OUTPUT_DIR = path.join(process.cwd(), '..', 'output');
 const NICCHIE_INFO = {
@@ -76,15 +77,16 @@ export async function getStaticProps({ params }) {
 
   articoli.sort((a, b) => new Date(b.data) - new Date(a.data));
   const info = NICCHIE_INFO[params.nicchia] || { nome: params.nicchia, colore: '#333', bg: '#eee' };
-  return { props: { articoli, nicchia: params.nicchia, info }, revalidate: 3600 };
+  const desc = (NICCHIE_DESC[params.nicchia] && NICCHIE_DESC[params.nicchia].it) || '';
+  return { props: { articoli, nicchia: params.nicchia, info, desc }, revalidate: 3600 };
 }
 
-export default function PaginaNicchia({ articoli, nicchia, info }) {
+export default function PaginaNicchia({ articoli, nicchia, info, desc }) {
   return (
     <>
       <Head>
         <title>{info.nome} — NotiziHub</title>
-        <meta name="description" content={`Tutte le notizie su ${info.nome}: aggiornamenti quotidiani, guide e approfondimenti.`} />
+        <meta name="description" content={desc || `Tutte le notizie su ${info.nome}: aggiornamenti quotidiani, guide e approfondimenti.`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style>{`
           * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -116,7 +118,6 @@ export default function PaginaNicchia({ articoli, nicchia, info }) {
         </div>
       </header>
 
-      {/* Banner immagine nicchia */}
       <div style={{ position: 'relative', width: '100%', overflow: 'hidden' }}>
         <img
           src={`/nicchie/${nicchia}.png`}
@@ -133,6 +134,14 @@ export default function PaginaNicchia({ articoli, nicchia, info }) {
           <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: 14, marginTop: 4 }}>{articoli.length} articoli pubblicati</p>
         </div>
       </div>
+
+      {desc && (
+        <div style={{ background: '#fff', borderBottom: '1px solid #eee' }}>
+          <div style={{ maxWidth: 1100, margin: '0 auto', padding: '16px 16px', fontSize: 15, lineHeight: 1.7, color: '#555' }}>
+            {desc}
+          </div>
+        </div>
+      )}
 
       <div style={{ maxWidth: 1100, margin: '0 auto', padding: '24px 16px' }}>
         <div className="cards-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: 20, marginBottom: 40 }}>

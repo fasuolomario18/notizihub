@@ -4,7 +4,7 @@ import { LINGUE, SITE_URL, getNicchiaMeta } from '../lib/langConfig';
 
 const correlatiLabels = { en: 'All categories', es: 'Todas las categorías', de: 'Alle Kategorien', fr: 'Toutes les catégories', pt: 'Todas as categorias' };
 
-export default function LangNicchia({ articoli, nicchia, nicchiaNome, lang, lingua }) {
+export default function LangNicchia({ articoli, nicchia, nicchiaNome, lang, lingua, desc }) {
   const meta = getNicchiaMeta(nicchia);
   const canonicalUrl = `${SITE_URL}/${lang}/nicchia/${nicchia}`;
 
@@ -12,7 +12,7 @@ export default function LangNicchia({ articoli, nicchia, nicchiaNome, lang, ling
     <>
       <Head>
         <title>{nicchiaNome} — NotiziHub</title>
-        <meta name="description" content={`${nicchiaNome} news updated daily. Guides, insights and latest updates.`} />
+        <meta name="description" content={desc || `${nicchiaNome} news updated daily. Guides, insights and latest updates.`} />
         <link rel="canonical" href={canonicalUrl} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <style>{`
@@ -48,6 +48,14 @@ export default function LangNicchia({ articoli, nicchia, nicchiaNome, lang, ling
           <p style={{ color: 'rgba(255,255,255,0.75)', fontSize: 14, marginTop: 4 }}>{articoli.length} articles</p>
         </div>
       </div>
+
+      {desc && (
+        <div style={{ background: '#fff', borderBottom: '1px solid #eee' }}>
+          <div style={{ maxWidth: 1100, margin: '0 auto', padding: '16px 16px', fontSize: 15, lineHeight: 1.7, color: '#555' }}>
+            {desc}
+          </div>
+        </div>
+      )}
 
       <div style={{ maxWidth: 1100, margin: '0 auto', padding: '24px 16px' }}>
         <div style={{ marginBottom: 16 }}>
